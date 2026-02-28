@@ -1,0 +1,377 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getAllLegislators, getPartyMap } from '../lib/data';
+import { existsSync, readdirSync } from 'node:fs';
+import path from 'node:path';
+
+const legislators = getAllLegislators();
+const partyMap = getPartyMap();
+const legislatorByName = new Map(legislators.map(l => [l.name, l]));
+
+type DownloadMember = {
+  name: string;
+  party: string | null;
+  date: string | null;
+  hasData: boolean;
+  defaultOrdinaryPdf: string | null;
+  defaultOrdinaryJson: string | null;
+  consolidatedJson: string | null;
+  filings: {
+    label: string;
+    pdf: string | null;
+    json: string | null;
+  }[];
+};
+
+const DATA_ROOT = path.resolve(process.cwd(), 'data');
+
+function safeReaddir(dir: string) {
+  return existsSync(dir) ? readdirSync(dir) : [];
+}
+
+const consolidatedFiles = safeReaddir(path.join(DATA_ROOT, 'consolidated'))
+  .filter(f => /^\d+-.+\.json$/.test(f));
+const consolidatedByName = new Map<string, string>();
+for (const f of consolidatedFiles) {
+  const name = f.replace(/^\d+-/, '').replace(/\.json$/, '');
+  consolidatedByName.set(name, `/data/consolidated/${f}`);
+}
+
+const memberDirs = (existsSync(DATA_ROOT) ? readdirSync(DATA_ROOT, { withFileTypes: true }) : [])
+  .filter(d => d.isDirectory() && /^\d+-/.test(d.name))
+  .map(d => d.name);
+const dirByName = new Map<string, string>();
+for (const dirName of memberDirs) {
+  const name = dirName.replace(/^\d+-/, '');
+  dirByName.set(name, dirName);
+}
+
+const sectionLabel: Record<string, string> = {
+  ordinary: '一般',
+  change: '變動',
+  trust: '信託',
+  correction: '更補正',
+};
+
+function parseFilingLabel(base: string, section: string): string {
+  const m = base.match(/^\d+-\d+(.+)$/);
+  const suffix = (m?.[1] || '').trim();
+  if (suffix) return suffix;
+  return sectionLabel[section] || section;
+}
+
+function buildFilings(name: string) {
+  const dir = dirByName.get(name);
+  if (!dir) return { filings: [], defaultOrdinaryPdf: null as string | null, defaultOrdinaryJson: null as string | null };
+
+  const personRoot = path.join(DATA_ROOT, dir);
+  const sections = (existsSync(personRoot) ? readdirSync(personRoot, { withFileTypes: true }) : []).filter(d => d.isDirectory());
+  const filings: { section: string; label: string; base: string; pdf: string | null; json: string | null }[] = [];
+
+  for (const s of sections) {
+    const section = s.name;
+    const files = safeReaddir(path.join(personRoot, section));
+    const baseMap = new Map<string, { pdf: string | null; extractedJson: string | null; rawJson: string | null }>();
+    for (const file of files) {
+      const isPdf = file.endsWith('.pdf');
+      const isExtractedJson = file.endsWith('.extracted.json');
+      const isRawJson = file.endsWith('.json') && !isExtractedJson;
+      if (!isPdf && !isExtractedJson && !isRawJson) continue;
+
+      const base = isExtractedJson ? file.slice(0, -'.extracted.json'.length) : file.replace(/\.(pdf|json)$/, '');
+      if (!baseMap.has(base)) baseMap.set(base, { pdf: null, extractedJson: null, rawJson: null });
+      const entry = baseMap.get(base)!;
+      const rel = `/data/${dir}/${section}/${file}`;
+      if (isPdf) entry.pdf = rel;
+      if (isExtractedJson) entry.extractedJson = rel;
+      if (isRawJson) entry.rawJson = rel;
+    }
+    for (const [base, entry] of baseMap.entries()) {
+      filings.push({
+        section,
+        base,
+        label: parseFilingLabel(base, section),
+        pdf: entry.pdf,
+        json: entry.extractedJson || entry.rawJson,
+      });
+    }
+  }
+
+  filings.sort((a, b) => b.base.localeCompare(a.base, 'zh-TW'));
+
+  const ordinary = filings.filter(f => f.section === 'ordinary');
+  const defaultOrdinary = ordinary[0] || null;
+
+  return {
+    filings: filings.map(f => ({ label: f.label, pdf: f.pdf, json: f.json })),
+    defaultOrdinaryPdf: defaultOrdinary?.pdf || null,
+    defaultOrdinaryJson: defaultOrdinary?.json || null,
+  };
+}
+
+const members: DownloadMember[] = Object.entries(partyMap).map(([name, party]) => {
+  const l = legislatorByName.get(name);
+  const filingInfo = buildFilings(name);
+  return {
+    name,
+    party: l?.party || party || null,
+    date: l?.date || null,
+    hasData: !!l,
+    defaultOrdinaryPdf: filingInfo.defaultOrdinaryPdf,
+    defaultOrdinaryJson: filingInfo.defaultOrdinaryJson,
+    consolidatedJson: consolidatedByName.get(name) || null,
+    filings: filingInfo.filings,
+  };
+});
+
+// Group by party
+const partyOrder = ['民主進步黨', '中國國民黨', '台灣民眾黨'];
+const partyGroups = new Map<string, DownloadMember[]>();
+
+for (const party of partyOrder) {
+  partyGroups.set(party, []);
+}
+
+for (const l of members) {
+  const party = l.party || '無黨籍';
+  if (!partyGroups.has(party)) partyGroups.set(party, []);
+  partyGroups.get(party)!.push(l);
+}
+
+// Sort each group alphabetically
+for (const [, group] of partyGroups) {
+  group.sort((a, b) => a.name.localeCompare(b.name, 'zh-TW'));
+}
+
+const partyColors: Record<string, string> = {
+  '民主進步黨': 'var(--color-dpp)',
+  '中國國民黨': 'var(--color-kmt)',
+  '台灣民眾黨': 'var(--color-tpp)',
+  '無黨籍': 'var(--color-independent)',
+};
+
+function getFlag(name: string): string {
+  return name === '李貞秀' ? '🇨🇳' : '🇹🇼';
+}
+---
+
+<Layout title="資料下載">
+  <section class="header">
+    <h1>資料下載</h1>
+    <p class="subtitle">下載各立委的財產申報 PDF 原檔及結構化 JSON</p>
+  </section>
+
+  <div class="search-box">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="text" id="search-input" placeholder="搜尋立委姓名..." />
+  </div>
+
+  <div id="party-list">
+    {[...partyGroups.entries()].map(([party, members]) => (
+      <div class="party-section" data-party={party}>
+        <div class="party-header" data-collapsible>
+          <div class="party-indicator" style={`background: ${partyColors[party] || 'var(--color-independent)'};`}></div>
+          <span class="party-name" style={`color: ${partyColors[party] || 'var(--color-independent)'};`}>{party}</span>
+          <span class="party-count">{members.length} 人</span>
+          <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+        <div class="party-members">
+          {members.map(l => (
+            <div class="member-row" data-name={l.name}>
+              <div class="member-info">
+                <span class="member-flag">{getFlag(l.name)}</span>
+                <div class="member-details">
+                  <span class="member-name">{l.name}</span>
+                  <span class="member-date">{l.date ? `申報日 ${l.date.replace(/-/g, '/')}` : '無資料'}</span>
+                </div>
+              </div>
+              <div class="member-actions">
+                {l.defaultOrdinaryPdf ? (
+                  <a class="dl-btn icon-btn" href={l.defaultOrdinaryPdf} target="_blank" rel="noopener noreferrer" aria-label="下載一般 PDF">📄</a>
+                ) : (
+                  <span class="dl-btn icon-btn disabled" aria-disabled="true">📄</span>
+                )}
+                {l.defaultOrdinaryJson ? (
+                  <a class="dl-btn icon-btn" href={l.defaultOrdinaryJson} target="_blank" rel="noopener noreferrer" aria-label="下載一般 JSON">{'{ }'}</a>
+                ) : (
+                  <span class="dl-btn icon-btn disabled" aria-disabled="true">{'{ }'}</span>
+                )}
+                <button class="dl-btn more-btn" data-expand-more>更多</button>
+              </div>
+            </div>
+            <div class="member-more">
+              {l.filings.map(f => (
+                <div class="filing-row">
+                  <span class="filing-label">{f.label}</span>
+                  <div class="filing-actions">
+                    {f.pdf ? (
+                      <a class="dl-btn icon-btn small" href={f.pdf} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} PDF`}>📄</a>
+                    ) : (
+                      <span class="dl-btn icon-btn small disabled" aria-disabled="true">📄</span>
+                    )}
+                    {f.json ? (
+                      <a class="dl-btn icon-btn small" href={f.json} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} JSON`}>{'{ }'}</a>
+                    ) : (
+                      <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
+                    )}
+                  </div>
+                </div>
+              ))}
+              <div class="filing-row consolidated-row">
+                <span class="filing-label">整合資料</span>
+                <div class="filing-actions">
+                  {l.consolidatedJson ? (
+                    <a class="dl-btn icon-btn small" href={l.consolidatedJson} target="_blank" rel="noopener noreferrer" aria-label="下載整合 JSON">{'{ }'}</a>
+                  ) : (
+                    <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<style>
+  .header { margin-bottom: var(--section-gap); }
+  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
+  .subtitle { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
+
+  .search-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 16px;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background: var(--color-surface);
+  }
+  .search-box input {
+    flex: 1;
+    font-size: 14px;
+    color: var(--color-text);
+  }
+  .search-box input::placeholder { color: var(--color-text-muted); }
+
+  #party-list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .party-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 0;
+    cursor: pointer;
+  }
+  .party-indicator { width: 4px; height: 16px; border-radius: 2px; flex-shrink: 0; }
+  .party-name { font-size: 15px; font-weight: 700; flex: 1; }
+  .party-count { font-size: 13px; color: var(--color-text-muted); }
+  .chevron { color: var(--color-text-muted); transition: transform 0.2s; }
+  .party-section.collapsed .chevron { transform: rotate(-90deg); }
+  .party-section.collapsed .party-members { display: none; }
+
+  .member-row {
+    display: flex;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+  .member-row:last-child { border-bottom: none; }
+
+  .member-info { display: flex; align-items: center; gap: 8px; flex: 1; }
+  .member-flag { font-size: 16px; }
+  .member-details { display: flex; flex-direction: column; gap: 2px; }
+  .member-name { font-size: 15px; font-weight: 600; }
+  .member-date { font-size: 11px; color: var(--color-text-muted); }
+
+  .member-actions { display: flex; gap: 8px; }
+  .dl-btn {
+    padding: 5px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--color-text);
+    background: var(--color-surface);
+    transition: background 0.15s;
+  }
+  .dl-btn:hover { background: var(--color-bg); }
+
+  .member-row.hidden { display: none; }
+
+  .icon-btn {
+    width: 34px;
+    height: 28px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-family: var(--font-mono);
+    padding: 0;
+  }
+  .icon-btn.small { width: 30px; height: 24px; font-size: 11px; }
+  .dl-btn.disabled { opacity: 0.35; pointer-events: none; }
+  .more-btn { padding: 5px 10px; }
+
+  .member-more {
+    display: none;
+    margin: 0 0 10px 24px;
+    padding: 8px 10px;
+    border: 1px solid var(--color-border-light);
+    border-radius: 8px;
+    background: #fafafa;
+  }
+  .member-row.expanded + .member-more { display: block; }
+  .filing-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+  .filing-row:last-child { border-bottom: none; }
+  .filing-label { font-size: 12px; color: var(--color-text-secondary); }
+  .filing-actions { display: flex; gap: 6px; }
+  .consolidated-row .filing-label { font-weight: 700; color: var(--color-text); }
+</style>
+
+<script>
+  // Search
+  const searchInput = document.getElementById('search-input') as HTMLInputElement;
+  const rows = document.querySelectorAll('.member-row');
+
+  searchInput.addEventListener('input', () => {
+    const query = searchInput.value.trim();
+    rows.forEach(row => {
+      const name = row.getAttribute('data-name') || '';
+      const hidden = query !== '' && !name.includes(query);
+      row.classList.toggle('hidden', hidden);
+      if (hidden) row.classList.remove('expanded');
+    });
+  });
+
+  // Collapse
+  document.querySelectorAll('[data-collapsible]').forEach(header => {
+    header.addEventListener('click', () => {
+      header.closest('.party-section')?.classList.toggle('collapsed');
+    });
+  });
+
+  // Expand per-member all filing types
+  document.querySelectorAll('[data-expand-more]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const row = (e.currentTarget as HTMLElement).closest('.member-row');
+      if (!row) return;
+      row.classList.toggle('expanded');
+    });
+  });
+</script>

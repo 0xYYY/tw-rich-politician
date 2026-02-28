@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Noto+Sans+TC:wght@100..900&display=swap');
+
+:root {
+  /* Colors */
+  --color-bg: #FAF8F5;
+  --color-surface: #fff;
+  --color-text: #1a1a1a;
+  --color-text-muted: #888;
+  --color-text-secondary: #555;
+  --color-border: #E0DCDA;
+  --color-border-light: #F0F0F0;
+
+  /* Party colors */
+  --color-dpp: #1B9431;
+  --color-kmt: #2D6CC0;
+  --color-tpp: #28C8C8;
+  --color-independent: #888;
+
+  /* Real estate tier colors */
+  --color-tier-1: #8B6914; /* <30 坪 */
+  --color-tier-2: #5CB8E4; /* 30-60 坪 */
+  --color-tier-3: #D93B3B; /* 60-100 坪 */
+  --color-tier-4: #1E3A5F; /* >100 坪 */
+
+  /* Stock colors */
+  --color-gain: #1B9431;
+  --color-loss: #D93B3B;
+
+  /* Typography */
+  --font-sans: 'Noto Sans TC', system-ui, sans-serif;
+  --font-mono: 'Inter', system-ui, sans-serif;
+
+  /* Spacing */
+  --page-padding: 20px;
+  --section-gap: 24px;
+  --group-gap: 16px;
+  --element-gap: 8px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  width: 100%;
+  max-width: 430px;
+  margin: 0 auto;
+  min-height: 100dvh;
+}
+
+a { color: inherit; text-decoration: none; }
+button { font: inherit; cursor: pointer; border: none; background: none; }
+input,
+select,
+textarea {
+  font: inherit;
+  font-size: 16px; /* Prevent iOS Safari focus-zoom on controls <16px */
+  border: none;
+  outline: none;
+  background: none;
+}

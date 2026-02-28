@@ -1,0 +1,459 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getDepositRankings, formatAmount, getPartyColor } from '../lib/data';
+
+const rankings = getDepositRankings();
+const maxDeposit = rankings.find(r => r.hasData)?.depositsTotal || 1;
+const TOP_N = 5;
+---
+
+<Layout title="立委的存款有多少？">
+  <section class="header">
+    <h1>立委的存款有多少？</h1>
+    <p class="subtitle">輸入你的存款金額，看看你在立委中排第幾</p>
+  </section>
+
+  <section class="input-section">
+    <div class="input-box">
+      <span class="input-prefix">新台幣</span>
+      <input type="number" id="user-amount" placeholder="0" min="0" />
+      <span class="input-suffix">萬</span>
+      <button class="confirm-btn" id="confirm-btn">查看排名</button>
+    </div>
+  </section>
+
+  <section class="ranking-section">
+    <h2 class="section-title">存款排名</h2>
+    <p class="section-sub">點擊可查看明細，所有金額皆以新台幣計算（含存款、債券、基金受益憑證）；保險顯示為保單筆數</p>
+    <div id="ranking-list">
+      {rankings.map((l, i) => {
+        const pct = maxDeposit > 0 ? (l.depositsTotal / maxDeposit) * 100 : 0;
+        return (
+          <div
+            class={`rank-row ${i >= TOP_N ? 'collapsed-row' : ''}`}
+            data-amount={l.depositsTotal}
+            data-deposits={JSON.stringify(l.deposits)}
+            data-insurance-count={l.insuranceCount}
+            data-name={l.name}
+            data-has-data={l.hasData ? '1' : '0'}
+            data-party-color={getPartyColor(l.party)}
+          >
+            <span class="rank-num">{i + 1}</span>
+            <span class="rank-name" style={`color: ${getPartyColor(l.party)}`}>{l.name}</span>
+            <span class="rank-amount-text">{l.hasData ? formatAmount(l.depositsTotal) : '無資料'}</span>
+            {l.hasData && l.depositsTotal > 0 ? (
+              <div class="rank-bar-wrap">
+                <div
+                  class="rank-bar"
+                  style={`width: ${pct}%; background: ${getPartyColor(l.party)};`}
+                />
+              </div>
+            ) : (
+              <div class="rank-bar-wrap" />
+            )}
+          </div>
+        );
+      })}
+    </div>
+    <button class="collapse-toggle" id="collapse-toggle">
+      <span id="collapse-text">顯示其餘 {rankings.length - TOP_N} 位立委</span>
+      <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+    </button>
+  </section>
+</Layout>
+
+<style>
+  .header { margin-bottom: var(--section-gap); }
+  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
+  .subtitle { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
+
+  .input-section { margin-bottom: var(--section-gap); }
+  .input-box {
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    gap: 8px;
+    background: var(--color-surface);
+  }
+  .input-prefix { font-size: 15px; color: var(--color-text); white-space: nowrap; }
+  .input-suffix { font-size: 15px; color: var(--color-text-muted); white-space: nowrap; }
+  .input-box input {
+    flex: 1;
+    font-family: var(--font-mono);
+    font-size: 16px;
+    color: var(--color-text);
+    min-width: 0;
+  }
+  .input-box input::placeholder { color: var(--color-text-muted); }
+  .confirm-btn {
+    padding: 8px 14px;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--color-bg);
+    background: var(--color-text);
+    border-radius: 8px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: opacity 0.15s;
+  }
+  .confirm-btn:active { opacity: 0.7; }
+
+  .ranking-section { margin-bottom: var(--section-gap); overflow: hidden; }
+  .section-title { font-size: 16px; font-weight: 700; margin-bottom: 4px; }
+  .section-sub { font-size: 12px; color: var(--color-text-muted); margin-bottom: 12px; }
+
+  /* Row layout: rank | name | amount | bar */
+  .rank-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 0;
+    cursor: pointer;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+  .rank-row:last-child { border-bottom: none; }
+  .rank-row.collapsed-row { display: none; }
+  .rank-row.collapsed-row.visible { display: flex; }
+
+  .rank-num {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    font-weight: 700;
+    width: 24px;
+    text-align: right;
+    flex-shrink: 0;
+    color: var(--color-text-muted);
+  }
+  .rank-name {
+    font-size: 14px;
+    font-weight: 700;
+    width: 56px;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .rank-amount-text {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+    width: 56px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .rank-bar-wrap { flex: 1; min-width: 0; }
+  .rank-bar {
+    height: 24px;
+    border-radius: 4px;
+    min-width: 2px;
+  }
+
+  /* Deposit breakdown - use :global() since these are created dynamically via JS */
+  :global(.deposit-breakdown) {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    padding: 4px 0 8px;
+  }
+  :global(.deposit-breakdown.open) { display: flex; }
+  :global(.deposit-item) {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    /* rank-num(24) + gap(8) = 32px, so emoji aligns with name left edge */
+    padding-left: 32px;
+  }
+  :global(.dep-label) {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    width: 56px;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+  :global(.dep-flag) {
+    font-size: 13px;
+    flex-shrink: 0;
+  }
+  :global(.dep-currency) {
+    font-size: 11px;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  :global(.dep-amount) {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+    width: 56px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+  :global(.dep-bar-wrap) {
+    flex: 1;
+    min-width: 30px;
+    height: 6px;
+    background: var(--color-border-light);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  :global(.dep-bar) { height: 100%; border-radius: 3px; }
+  :global(.dep-pct) {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--color-text-muted);
+    width: 32px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  /* User row — orange highlight, centered text */
+  :global(.user-row) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FF8C00;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin: 6px 0;
+    border-bottom: none;
+    cursor: default;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.02em;
+    gap: 6px;
+  }
+
+  /* Pop-in animation for user row */
+  :global(.user-row.pop-in) {
+    animation: popIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  @keyframes popIn {
+    0% { opacity: 0; transform: scale(0.92); }
+    100% { opacity: 1; transform: scale(1); }
+  }
+
+  /* Collapse toggle */
+  .collapse-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    padding: 12px 0;
+    font-size: 13px;
+    color: var(--color-text-muted);
+    cursor: pointer;
+  }
+  .collapse-toggle .chevron { transition: transform 0.2s; }
+  .collapse-toggle.expanded .chevron { transform: rotate(180deg); }
+</style>
+
+<script>
+  const CURRENCY_FLAGS: Record<string, string> = {
+    '新臺幣': '\u{1F1F9}\u{1F1FC}',
+    '美元': '\u{1F1FA}\u{1F1F8}',
+    '人民幣': '\u{1F1E8}\u{1F1F3}',
+    '離岸人民幣': '\u{1F1E8}\u{1F1F3}',
+    '日圓': '\u{1F1EF}\u{1F1F5}',
+    '歐元': '\u{1F1EA}\u{1F1FA}',
+    '港幣': '\u{1F1ED}\u{1F1F0}',
+    '英鎊': '\u{1F1EC}\u{1F1E7}',
+    '澳幣': '\u{1F1E6}\u{1F1FA}',
+    '加拿大幣': '\u{1F1E8}\u{1F1E6}',
+    '新加坡幣': '\u{1F1F8}\u{1F1EC}',
+    '紐西蘭幣': '\u{1F1F3}\u{1F1FF}',
+    '南非幣': '\u{1F1FF}\u{1F1E6}',
+    '墨西哥披索': '\u{1F1F2}\u{1F1FD}',
+    '保險': '\u{1F6E1}\u{FE0F}',
+  };
+
+  function fmtAmt(amount: number): string {
+    if (amount >= 1_0000_0000) return `${(amount / 1_0000_0000).toFixed(1)} 億`;
+    if (amount >= 1_0000) return `${Math.round(amount / 1_0000).toLocaleString()} 萬`;
+    return amount.toLocaleString();
+  }
+
+  const input = document.getElementById('user-amount') as HTMLInputElement;
+  const confirmBtn = document.getElementById('confirm-btn')!;
+  const list = document.getElementById('ranking-list')!;
+  const collapseBtn = document.getElementById('collapse-toggle')!;
+  const collapseText = document.getElementById('collapse-text')!;
+
+  const allRows = Array.from(list.querySelectorAll('.rank-row:not(.user-row)')) as HTMLElement[];
+  const amounts = allRows.map(r => Number(r.getAttribute('data-amount')));
+  const maxAmount = amounts[0] || 1;
+  const TOP_N = 5;
+  let isExpanded = false;
+  let animationId = 0; // incremented to cancel running animations
+
+  // --- Collapse toggle ---
+  collapseBtn.addEventListener('click', () => {
+    isExpanded = !isExpanded;
+    collapseBtn.classList.toggle('expanded', isExpanded);
+    collapseText.textContent = isExpanded
+      ? '收起排名'
+      : `顯示其餘 ${allRows.length - TOP_N} 位立委`;
+    list.querySelectorAll('.collapsed-row').forEach(r => {
+      r.classList.toggle('visible', isExpanded);
+    });
+  });
+
+  // --- Deposit breakdown click ---
+  list.addEventListener('click', (e) => {
+    const row = (e.target as HTMLElement).closest('.rank-row');
+    if (!row || row.classList.contains('user-row')) return;
+
+    // Toggle existing breakdown
+    const existing = row.nextElementSibling;
+    if (existing?.classList.contains('deposit-breakdown')) {
+      existing.classList.toggle('open');
+      return;
+    }
+
+    if (row.getAttribute('data-has-data') !== '1') return;
+
+    const depositsStr = row.getAttribute('data-deposits');
+    if (!depositsStr) return;
+    const deposits = JSON.parse(depositsStr) as { currency: string; amount: number }[];
+    const insuranceCount = Number(row.getAttribute('data-insurance-count') || '0');
+    if (deposits.length === 0 && insuranceCount === 0) return;
+
+    deposits.sort((a, b) => b.amount - a.amount);
+
+    const total = deposits.reduce((s, d) => s + d.amount, 0);
+    const partyColor = row.getAttribute('data-party-color') || 'var(--color-text-muted)';
+
+    const breakdown = document.createElement('div');
+    breakdown.className = 'deposit-breakdown open';
+    const depositRows = deposits.map(d => {
+      const flag = CURRENCY_FLAGS[d.currency] || '\u{1F4B0}';
+      const pctVal = total > 0 ? (d.amount / total) * 100 : 0;
+      return `<div class="deposit-item">
+        <span class="dep-label"><span class="dep-flag">${flag}</span><span class="dep-currency">${d.currency}</span></span>
+        <span class="dep-amount">${fmtAmt(d.amount)}</span>
+        <div class="dep-bar-wrap"><div class="dep-bar" style="width:${pctVal}%;background:${partyColor};"></div></div>
+        <span class="dep-pct">${pctVal.toFixed(0)}%</span>
+      </div>`;
+    }).join('');
+
+    const insuranceRow = insuranceCount > 0
+      ? `<div class="deposit-item">
+        <span class="dep-label"><span class="dep-flag">${CURRENCY_FLAGS['保險']}</span><span class="dep-currency">保險</span></span>
+        <span class="dep-amount">${insuranceCount} 筆</span>
+        <div class="dep-bar-wrap"></div>
+        <span class="dep-pct">-</span>
+      </div>`
+      : '';
+
+    breakdown.innerHTML = `${depositRows}${insuranceRow}`;
+    row.after(breakdown);
+  });
+
+  // Default-expand the first visible row with deposit data.
+  const firstDataRow = allRows.find(r => r.getAttribute('data-has-data') === '1');
+  if (firstDataRow) {
+    firstDataRow.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+  }
+
+  // --- Helpers ---
+  const delay = (ms: number) => new Promise(r => setTimeout(r, ms));
+
+  function resetState() {
+    list.querySelector('.user-row')?.remove();
+  }
+
+  // Wait for smooth scroll to finish (polls until scroll stops)
+  function waitForScrollEnd(): Promise<void> {
+    return new Promise(resolve => {
+      let lastY = window.scrollY;
+      let stable = 0;
+      const check = () => {
+        if (window.scrollY === lastY) {
+          stable++;
+          if (stable > 3) { resolve(); return; }
+        } else {
+          stable = 0;
+          lastY = window.scrollY;
+        }
+        requestAnimationFrame(check);
+      };
+      requestAnimationFrame(check);
+    });
+  }
+
+  // --- Animated ranking ---
+  async function animateToRank() {
+    const wan = Number(input.value) || 0;
+    if (wan <= 0) return;
+
+    const userAmount = wan * 10000;
+    const thisAnimId = ++animationId;
+
+    // Find target position
+    let targetPos = amounts.findIndex(a => userAmount >= a);
+    if (targetPos === -1) targetPos = amounts.length;
+
+    // Clean up previous state
+    resetState();
+
+    // Close any open breakdowns
+    list.querySelectorAll('.deposit-breakdown.open').forEach(el => {
+      el.classList.remove('open');
+    });
+
+    // Step 1: Expand all rows so the target position is in the DOM
+    allRows.forEach(r => {
+      if (r.classList.contains('collapsed-row')) {
+        r.classList.add('visible');
+      }
+    });
+    isExpanded = true;
+    collapseBtn.style.display = 'none';
+
+    // Step 2: Scroll to where the user row will land (center of viewport)
+    const anchorRow = allRows[targetPos] || allRows[allRows.length - 1];
+    if (anchorRow) {
+      anchorRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      await waitForScrollEnd();
+      if (animationId !== thisAnimId) return;
+    }
+
+    // Small pause after scroll settles
+    await delay(200);
+    if (animationId !== thisAnimId) return;
+
+    // Step 3: Insert user row at the correct position with pop-in animation
+    const label = fmtAmt(userAmount);
+
+    const userRow = document.createElement('div');
+    userRow.className = 'user-row pop-in';
+    userRow.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg><span>你的 ${label} 存款排名在這</span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>`;
+
+    if (targetPos < allRows.length) {
+      allRows[targetPos].before(userRow);
+    } else {
+      list.appendChild(userRow);
+    }
+
+    // No rank number shift — other rows keep their original numbers
+
+    // Remove pop-in class after animation completes
+    userRow.addEventListener('animationend', () => {
+      userRow.classList.remove('pop-in');
+    }, { once: true });
+  }
+
+  // --- Button click ---
+  confirmBtn.addEventListener('click', animateToRank);
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') animateToRank();
+  });
+</script>

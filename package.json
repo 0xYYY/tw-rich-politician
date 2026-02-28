@@ -1,0 +1,23 @@
+{
+  "name": "tw-rich-politician",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "astro build && wrangler pages deploy dist --project-name=tw-rich-politician",
+    "fetch-pdfs": "node scripts/fetch-pdfs.mjs",
+    "extract-pdfs": "node scripts/extract-pdfs.mjs",
+    "consolidate": "node scripts/consolidate.mjs",
+    "consolidate:skip-prices": "node scripts/consolidate.mjs --skip-prices",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.6.12",
+    "@opendataloader/pdf": "^1.11.2",
+    "astro": "^5.17.1",
+    "d3-hierarchy": "^3.1.2",
+    "pdfjs-dist": "^5.4.624"
+  }
+}

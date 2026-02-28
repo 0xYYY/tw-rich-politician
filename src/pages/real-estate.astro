@@ -1,0 +1,232 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getRealEstateRankings, getPartyColor, formatPing, parseCity, getTierColor } from '../lib/data';
+import type { RealEstateRanking } from '../lib/data';
+
+const rankings = getRealEstateRankings('ping');
+---
+
+<Layout title="立委不動產排行榜">
+  <section class="header">
+    <h1>立委不動產排行榜</h1>
+    <p class="subtitle">含立委本人及配偶、未成年子女申報之建物</p>
+  </section>
+
+  <div class="sort-toggle" id="sort-toggle">
+    <button class="toggle-btn active" data-sort="ping">依總坪數</button>
+    <button class="toggle-btn" data-sort="count">依筆數</button>
+  </div>
+
+  <div id="ranking-list">
+    {rankings.map((r, i) => (
+      <div
+        class={`rank-card ${i < 5 ? 'expanded' : ''}`}
+        data-ping={r.totalPing.toFixed(2)}
+        data-count={r.propertyCount}
+        data-name={r.name}
+        data-party={r.party}
+        data-buildings={JSON.stringify(r.buildings)}
+      >
+        <div class="rank-header" data-expandable>
+          <span class={`rank-num ${i < 5 ? 'top' : ''}`}>{i + 1}</span>
+          <div class="rank-info">
+            <span class="rank-name">{r.name}</span>
+            <span class="rank-party">{r.party || '無黨籍'}</span>
+          </div>
+          <div class="rank-stats">
+            <span class="stat-primary">
+              {r.totalPing > 0 ? formatPing(r.totalPing) : '0'}
+              <span class="stat-unit">坪</span>
+            </span>
+            <span class="stat-secondary">{r.propertyCount} 筆</span>
+          </div>
+        </div>
+        {r.buildings.length > 0 && (
+          <div class="cards-container">
+            {r.buildings
+              .sort((a, b) => b.effectiveAreaPing - a.effectiveAreaPing)
+              .map(b => {
+                const { city, detail } = parseCity(b.location);
+                const tierColor = getTierColor(b.effectiveAreaPing);
+                return (
+                  <div class="property-card" style={`border-color: ${tierColor};`}>
+                    <div class="card-header" style={`background: ${tierColor};`}>
+                      <span class="card-city">{city}</span>
+                    </div>
+                    <div class="card-body">
+                      <span class="card-detail">{detail}</span>
+                      <span class="card-ping" style={`color: ${tierColor};`}>{formatPing(b.effectiveAreaPing)}</span>
+                      <span class="card-unit">坪</span>
+                    </div>
+                  </div>
+                );
+              })}
+          </div>
+        )}
+      </div>
+    ))}
+  </div>
+
+  <div class="legend">
+    <span class="legend-title">坪數分級</span>
+    <div class="legend-items">
+      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-1);"></div><span>&lt; 30 坪</span></div>
+      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-2);"></div><span>30 – 60 坪</span></div>
+      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-3);"></div><span>60 – 100 坪</span></div>
+      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-4);"></div><span>&gt; 100 坪</span></div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .header { margin-bottom: var(--section-gap); }
+  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
+  .subtitle { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
+
+  .sort-toggle {
+    display: flex;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+  .toggle-btn {
+    flex: 1;
+    padding: 10px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    transition: all 0.15s;
+  }
+  .toggle-btn.active {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+
+  #ranking-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+
+  .rank-card {
+    background: var(--color-surface);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+
+  .rank-header {
+    display: flex;
+    align-items: center;
+    padding: 14px 16px;
+    gap: 12px;
+    cursor: pointer;
+  }
+
+  .rank-num {
+    font-family: var(--font-mono);
+    font-size: 18px;
+    font-weight: 800;
+    width: 28px;
+    flex-shrink: 0;
+    color: #aaa;
+  }
+  .rank-num.top { color: var(--color-tier-4); }
+
+  .rank-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .rank-name { font-size: 15px; font-weight: 700; }
+  .rank-party { font-size: 12px; color: var(--color-text-muted); }
+
+  .rank-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+  .stat-primary { font-family: var(--font-mono); font-size: 16px; font-weight: 700; }
+  .stat-unit { font-size: 12px; font-weight: 500; color: var(--color-text-muted); }
+  .stat-secondary { font-family: var(--font-mono); font-size: 12px; color: var(--color-text-muted); }
+
+  .cards-container {
+    display: none;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 0 16px 14px;
+  }
+  .rank-card.expanded .cards-container { display: flex; }
+
+  .property-card {
+    width: 100px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 2px solid;
+  }
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 6px 5px;
+  }
+  .card-city { font-size: 9px; font-weight: 700; color: #fff; letter-spacing: 0.05em; }
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 6px;
+    gap: 2px;
+    background: #fff;
+  }
+  .card-detail { font-size: 8px; color: var(--color-text-muted); }
+  .card-ping { font-family: var(--font-mono); font-size: 18px; font-weight: 800; }
+  .card-unit { font-size: 9px; color: var(--color-text-muted); }
+
+  .legend {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 16px;
+  }
+  .legend-title { font-size: 12px; font-weight: 600; color: var(--color-text-muted); }
+  .legend-items { display: flex; gap: 12px; flex-wrap: wrap; }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-dot { width: 12px; height: 12px; border-radius: 3px; flex-shrink: 0; }
+  .legend-item span { font-family: var(--font-mono); font-size: 11px; color: #666; }
+</style>
+
+<script>
+  // Expand/collapse
+  document.querySelectorAll('[data-expandable]').forEach(header => {
+    header.addEventListener('click', () => {
+      header.closest('.rank-card')?.classList.toggle('expanded');
+    });
+  });
+
+  // Sort toggle
+  const toggle = document.getElementById('sort-toggle')!;
+  const list = document.getElementById('ranking-list')!;
+
+  toggle.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('.toggle-btn');
+    if (!btn) return;
+
+    toggle.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    const sortBy = btn.getAttribute('data-sort');
+    const cards = Array.from(list.querySelectorAll('.rank-card'));
+
+    cards.sort((a, b) => {
+      if (sortBy === 'count') {
+        const countDiff = Number(b.getAttribute('data-count')) - Number(a.getAttribute('data-count'));
+        if (countDiff !== 0) return countDiff;
+        return Number(b.getAttribute('data-ping')) - Number(a.getAttribute('data-ping'));
+      }
+      return Number(b.getAttribute('data-ping')) - Number(a.getAttribute('data-ping'));
+    });
+
+    // Re-render
+    cards.forEach((card, i) => {
+      const num = card.querySelector('.rank-num')!;
+      num.textContent = String(i + 1);
+      num.classList.toggle('top', i < 5);
+      list.appendChild(card);
+    });
+  });
+</script>

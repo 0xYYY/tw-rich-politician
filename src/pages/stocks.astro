@@ -1,0 +1,923 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getAllLegislators, getPartyColor, getPartyMap } from '../lib/data';
+
+interface LegislatorStockItem {
+  name: string;
+  ticker: string | null;
+  exchangeTicker: string;
+  shares: number;
+  owner: string;
+  priceAtDisclosure: number | null;
+  latestPrice: number | null;
+}
+
+interface LegislatorStockHolding {
+  name: string;
+  party: string | null;
+  date: string;
+  hasData: boolean;
+  stockCount: number;
+  totalShares: number;
+  totalCurrentValue: number;
+  totalReturnValue: number;
+  hasCurrentValueData: boolean;
+  hasReturnData: boolean;
+  stocks: LegislatorStockItem[];
+}
+
+interface StockHolderEntry {
+  legislator: string;
+  party: string | null;
+  owner: string;
+  shares: number;
+  value: number | null;
+}
+
+interface StockAggregate {
+  key: string;
+  name: string;
+  displayName: string;
+  ticker: string | null;
+  exchangeTicker: string;
+  holderCount: number;
+  totalShares: number;
+  totalValue: number;
+  holders: StockHolderEntry[];
+}
+
+const FOREIGN_ENGLISH_NAME_BY_TICKER: Record<string, string> = {
+  AAPL: 'Apple',
+  BABA: 'Alibaba Group',
+  BA: 'Boeing',
+  AMWL: 'American Well',
+  TSM: 'TSMC ADR',
+  AMD: 'AMD',
+  BIDU: 'Baidu ADR',
+  NIO: 'NIO',
+  CCL: 'Carnival Corp',
+  COIN: 'Coinbase',
+  RIVN: 'Rivian',
+  RBLX: 'Roblox',
+  TSLA: 'Tesla',
+  MSFT: 'Microsoft',
+  PYPL: 'PayPal',
+  NVAX: 'Novavax',
+  LCID: 'Lucid Group',
+  NOK: 'Nokia',
+  SHOP: 'Shopify',
+  PLTR: 'Palantir',
+  INTC: 'Intel',
+  NVDA: 'NVIDIA',
+  SE: 'Sea Ltd',
+  SY: 'So-Young',
+};
+
+const FOREIGN_EXCHANGE_BY_TICKER: Record<string, string> = {
+  AAPL: 'NASDAQ',
+  BABA: 'NYSE',
+  BA: 'NYSE',
+  AMWL: 'NYSE',
+  TSM: 'NYSE',
+  AMD: 'NASDAQ',
+  BIDU: 'NASDAQ',
+  NIO: 'NYSE',
+  CCL: 'NYSE',
+  COIN: 'NASDAQ',
+  RIVN: 'NASDAQ',
+  RBLX: 'NYSE',
+  TSLA: 'NASDAQ',
+  MSFT: 'NASDAQ',
+  PYPL: 'NASDAQ',
+  NVAX: 'NASDAQ',
+  LCID: 'NASDAQ',
+  NOK: 'NYSE',
+  SHOP: 'NYSE',
+  PLTR: 'NASDAQ',
+  INTC: 'NASDAQ',
+  NVDA: 'NASDAQ',
+  SE: 'NYSE',
+  SY: 'NASDAQ',
+};
+
+function formatExchangeTicker(ticker: string | null): string {
+  if (!ticker) return 'N/A';
+  const normalized = ticker.toUpperCase();
+  if (/^\d+$/.test(normalized)) return `TWSE:${normalized}`;
+  return `${FOREIGN_EXCHANGE_BY_TICKER[normalized] || 'US'}:${normalized}`;
+}
+
+function getDisplayStockName(name: string, ticker: string | null): string {
+  if (!ticker) return name;
+  const normalized = ticker.toUpperCase();
+  return FOREIGN_ENGLISH_NAME_BY_TICKER[normalized] || name;
+}
+
+function formatCompactTwd(amount: number): string {
+  if (!Number.isFinite(amount) || amount <= 0) return 'NT$ —';
+  if (amount >= 1_0000_0000) return `NT$ ${(amount / 1_0000_0000).toFixed(1)} 億`;
+  if (amount >= 1_0000) return `NT$ ${(amount / 1_0000).toFixed(1)} 萬`;
+  return `NT$ ${Math.round(amount).toLocaleString()}`;
+}
+
+function formatSignedCompactTwd(amount: number): string {
+  if (!Number.isFinite(amount) || amount === 0) return 'NT$ 0';
+  const sign = amount > 0 ? '+' : '-';
+  return `${sign}${formatCompactTwd(Math.abs(amount))}`;
+}
+
+const legislators = getAllLegislators();
+const partyMap = getPartyMap();
+const legislatorMap = new Map(legislators.map(l => [l.name, l]));
+
+const legislatorHoldings: LegislatorStockHolding[] = [];
+const stockMap = new Map<string, { name: string; ticker: string | null; holders: StockHolderEntry[] }>();
+
+for (const [name, mappedParty] of Object.entries(partyMap)) {
+  const l = legislatorMap.get(name);
+  const sourceStocks = l?.stocks || [];
+  const stocks = sourceStocks
+    .map(s => ({
+      name: s.cleanName,
+      ticker: s.ticker,
+      exchangeTicker: formatExchangeTicker(s.ticker),
+      shares: s.shares,
+      owner: s.owner,
+      priceAtDisclosure: s.priceAtDisclosure,
+      latestPrice: s.latestPrice,
+    }))
+    .sort((a, b) => b.shares - a.shares);
+
+  const totalShares = stocks.reduce((sum, s) => sum + s.shares, 0);
+  const totalCurrentValue = stocks.reduce((sum, s) => sum + ((s.latestPrice ?? 0) * s.shares), 0);
+  const totalReturnValue = stocks.reduce((sum, s) => {
+    if (s.latestPrice == null || s.priceAtDisclosure == null) return sum;
+    return sum + (s.latestPrice - s.priceAtDisclosure) * s.shares;
+  }, 0);
+  const hasCurrentValueData = stocks.some(s => s.latestPrice != null);
+  const hasReturnData = stocks.some(s => s.latestPrice != null && s.priceAtDisclosure != null);
+
+  legislatorHoldings.push({
+    name,
+    party: l?.party || mappedParty || null,
+    date: l?.date || '',
+    hasData: !!l,
+    stockCount: stocks.length,
+    totalShares,
+    totalCurrentValue,
+    totalReturnValue,
+    hasCurrentValueData,
+    hasReturnData,
+    stocks,
+  });
+
+  for (const s of stocks) {
+    const key = s.ticker || s.name;
+    const existing = stockMap.get(key);
+    const value = s.latestPrice != null ? s.latestPrice * s.shares : null;
+    if (!existing) {
+      stockMap.set(key, {
+        name: s.name,
+        ticker: s.ticker,
+        holders: [{
+          legislator: l.name,
+          party: l.party,
+          owner: s.owner,
+          shares: s.shares,
+          value,
+        }],
+      });
+      continue;
+    }
+
+    const holder = existing.holders.find(h => h.legislator === l.name);
+    if (holder) {
+      holder.shares += s.shares;
+      holder.value = holder.value != null && value != null ? holder.value + value : null;
+    } else {
+      existing.holders.push({
+        legislator: l.name,
+        party: l.party,
+        owner: s.owner,
+        shares: s.shares,
+        value,
+      });
+    }
+  }
+}
+
+// Default sort for legislator view: by total current value
+legislatorHoldings.sort((a, b) => b.totalCurrentValue - a.totalCurrentValue || b.totalReturnValue - a.totalReturnValue);
+
+const stockHoldings: StockAggregate[] = Array.from(stockMap.entries()).map(([key, item]) => {
+  const holders = item.holders.sort((a, b) => b.shares - a.shares);
+  const holderCount = new Set(holders.map(h => h.legislator)).size;
+  const totalShares = holders.reduce((sum, h) => sum + h.shares, 0);
+  const totalValue = holders.reduce((sum, h) => sum + (h.value ?? 0), 0);
+
+  return {
+    key,
+    name: item.name,
+    displayName: getDisplayStockName(item.name, item.ticker),
+    ticker: item.ticker,
+    exchangeTicker: formatExchangeTicker(item.ticker),
+    holderCount,
+    totalShares,
+    totalValue,
+    holders,
+  };
+});
+
+// Default view sort: by total value, then by number of legislators holding
+stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.holderCount);
+---
+
+<Layout title="立委股票持股">
+  <section class="header">
+    <h1>立委股票持股</h1>
+    <p class="subtitle warning-note">注意：本頁資料假設自申報日起持有至今，且所有金額均以新臺幣（TWD）計算</p>
+  </section>
+
+  <div class="controls-row controls-compact">
+    <div class="toggle-group" id="view-toggle">
+      <button type="button" class="toggle-btn active" data-view="stock">依股票看</button>
+      <button type="button" class="toggle-btn" data-view="legislator">依立委看</button>
+    </div>
+    <div class="toggle-group" id="stock-sort-toggle">
+      <button type="button" class="toggle-btn active" data-sort="value">依總市值</button>
+      <button type="button" class="toggle-btn" data-sort="person">依持有人數</button>
+    </div>
+    <div class="toggle-group" id="legislator-sort-toggle">
+      <button type="button" class="toggle-btn active" data-sort="value">依目前總值</button>
+      <button type="button" class="toggle-btn" data-sort="return">依總報酬</button>
+    </div>
+  </div>
+
+  <div class="controls-row" id="stock-search-controls">
+    <div class="search-box">
+      <span class="search-icon" aria-hidden="true">🔍</span>
+      <input type="text" id="stock-search-input" placeholder="搜尋股票名稱或代號..." />
+      <button type="button" class="search-clear hidden" id="stock-search-clear" aria-label="清除搜尋">×</button>
+    </div>
+  </div>
+
+  <div class="controls-row hidden" id="legislator-search-controls">
+    <div class="search-box">
+      <span class="search-icon" aria-hidden="true">🔍</span>
+      <input type="text" id="legislator-search-input" placeholder="搜尋立委姓名..." />
+      <button type="button" class="search-clear hidden" id="legislator-search-clear" aria-label="清除搜尋">×</button>
+    </div>
+  </div>
+
+  <section id="stock-panel" class="panel active">
+    <div id="stock-list">
+      {stockHoldings.map((s, i) => (
+        <div
+          class="stock-card"
+          data-card-type="stock"
+          data-person={s.holderCount}
+          data-shares={s.totalShares}
+          data-value={s.totalValue}
+          data-name={s.name}
+          data-display-name={s.displayName}
+          data-ticker={s.ticker || ''}
+          data-holders={JSON.stringify(s.holders)}
+        >
+          <div class="stock-header" data-expandable>
+            <span class="rank-num">{i + 1}</span>
+            <div class="stock-info stock-info-inline">
+              <span class="stock-name">{s.displayName}</span>
+              <span class="stock-exchange">{s.exchangeTicker}</span>
+              <span class="stock-inline-value">{formatCompactTwd(s.totalValue)}（{s.holderCount}人）</span>
+            </div>
+            <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section id="legislator-panel" class="panel">
+    <div id="ranking-list">
+      {legislatorHoldings.map((h, i) => (
+        <div
+          class="stock-card"
+          data-card-type="legislator"
+          data-value={h.totalCurrentValue}
+          data-return={h.totalReturnValue}
+          data-name={h.name}
+          data-stocks={JSON.stringify(h.stocks)}
+        >
+          <div class="stock-header" data-expandable>
+            <span class="rank-num">{i + 1}</span>
+            <div class="stock-info">
+              <span class="stock-name" style={`color: ${getPartyColor(h.party)}`}>{h.name}</span>
+              <span class="stock-date">{h.date ? `申報日 ${h.date.replace(/-/g, '/')}` : '無資料'}</span>
+            </div>
+            <div class="stock-stats">
+              <span class="stat-primary">{h.hasCurrentValueData ? formatCompactTwd(h.totalCurrentValue) : 'NT$ —'}</span>
+              <span class={`stat-secondary ${h.hasReturnData ? (h.totalReturnValue >= 0 ? 'stat-gain' : 'stat-loss') : ''}`}>
+                報酬 {h.hasReturnData ? formatSignedCompactTwd(h.totalReturnValue) : 'NT$ —'}
+              </span>
+            </div>
+            <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .header { margin-bottom: var(--section-gap); }
+  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
+  .subtitle { font-size: 13px; color: var(--color-text-muted); margin-top: 6px; line-height: 1.5; }
+  .warning-note {
+    display: inline-block;
+    padding: 8px 10px;
+    border-radius: 8px;
+    background: #fff3cd;
+    color: #7a5a00;
+    border: 1px solid #f2df9d;
+  }
+
+  .controls-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 8px;
+  }
+  .controls-compact {
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .controls-compact #stock-sort-toggle,
+  .controls-compact #legislator-sort-toggle {
+    margin-left: auto;
+  }
+  .toggle-group {
+    display: flex;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .toggle-btn {
+    padding: 6px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .toggle-btn.active {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+  .search-box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    background: var(--color-surface);
+    padding: 8px 10px;
+  }
+  .search-icon {
+    font-size: 13px;
+    line-height: 1;
+    opacity: 0.7;
+    flex-shrink: 0;
+  }
+  .search-box input {
+    flex: 1;
+    min-width: 0;
+    font-size: 16px;
+    color: var(--color-text);
+  }
+  .search-box input::placeholder { color: var(--color-text-muted); }
+  .search-clear {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    line-height: 1;
+    color: var(--color-text-muted);
+    background: var(--color-border-light);
+    flex-shrink: 0;
+  }
+
+  .hidden { display: none; }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  #stock-list,
+  #ranking-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .stock-card {
+    background: var(--color-surface);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .stock-card.filtered-out { display: none !important; }
+
+  @media (max-width: 430px) {
+    #stock-sort-toggle .toggle-btn[data-sort="value"] { padding-left: 8px; padding-right: 8px; }
+    #stock-sort-toggle .toggle-btn[data-sort="person"] { padding-left: 8px; padding-right: 8px; }
+    #legislator-sort-toggle .toggle-btn[data-sort="count"] { padding-left: 8px; padding-right: 8px; }
+    #legislator-sort-toggle .toggle-btn[data-sort="shares"] { padding-left: 8px; padding-right: 8px; }
+  }
+
+  .stock-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 14px;
+    gap: 10px;
+    cursor: pointer;
+  }
+
+  .rank-num {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    font-weight: 700;
+    width: 24px;
+    text-align: right;
+    flex-shrink: 0;
+    color: var(--color-text-muted);
+  }
+
+  .stock-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .stock-info-inline {
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+  }
+  .stock-name { font-size: 14px; font-weight: 700; }
+  .stock-date { font-size: 11px; color: var(--color-text-muted); }
+  .stock-exchange {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+  .stock-inline-value {
+    margin-left: auto;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--color-text);
+    white-space: nowrap;
+  }
+
+  .stock-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; flex-shrink: 0; }
+  .stat-primary { font-family: var(--font-mono); font-size: 15px; font-weight: 700; color: var(--color-text); }
+  .stat-secondary { font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); }
+  .stat-gain { color: var(--color-gain); }
+  .stat-loss { color: var(--color-loss); }
+
+  .chevron {
+    color: var(--color-text-muted);
+    transition: transform 0.2s;
+    flex-shrink: 0;
+  }
+  .stock-card.open .chevron { transform: rotate(180deg); }
+
+  :global(.stock-breakdown) {
+    display: none;
+    flex-direction: column;
+    gap: 0;
+    /* Match row paddings; alignment is handled by an internal spacer column. */
+    padding: 0 14px 10px 48px;
+    background: #fafafa;
+  }
+  :global(.stock-breakdown.open) { display: flex; }
+  :global(.stock-detail-row) {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--color-border-light);
+    font-size: 12px;
+  }
+  :global(.stock-detail-row:last-child) { border-bottom: none; }
+  :global(.stock-detail-name) {
+    flex: 1;
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+    font-weight: 700;
+  }
+  :global(.stock-detail-shares) {
+    width: 96px;
+    text-align: right;
+    white-space: nowrap;
+    color: var(--color-text-secondary);
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+  :global(.stock-detail-value) {
+    width: 120px;
+    text-align: right;
+    white-space: nowrap;
+    color: var(--color-text);
+    font-weight: 700;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+  :global(.stock-detail-ticker) {
+    width: 98px;
+    color: var(--color-text-muted);
+    font-family: var(--font-mono);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  :global(.stock-detail-current) {
+    width: 110px;
+    text-align: right;
+    white-space: nowrap;
+    color: var(--color-text);
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+  :global(.stock-detail-return) {
+    width: 130px;
+    text-align: right;
+    white-space: nowrap;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+  :global(.stock-detail-return.gain) { color: var(--color-gain); }
+  :global(.stock-detail-return.loss) { color: var(--color-loss); }
+  :global(.stock-detail-owner) {
+    width: 56px;
+    text-align: right;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  :global(.stock-detail-spacer) {
+    width: 24px; /* 10px gap + 14px chevron width in header row */
+    flex-shrink: 0;
+    visibility: hidden;
+  }
+  :global(.leg-stock-item) {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+  :global(.leg-stock-item:last-child) { border-bottom: none; }
+  :global(.leg-stock-row) {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 12px;
+    min-width: 0;
+  }
+  :global(.leg-stock-head) {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+    flex: 1;
+  }
+  :global(.leg-stock-name) {
+    flex: 0 1 auto;
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+    font-weight: 700;
+  }
+  :global(.leg-stock-exchange) {
+    font-family: var(--font-mono);
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+  :global(.leg-stock-current) {
+    margin-left: auto;
+    width: 120px;
+    text-align: right;
+    white-space: nowrap;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    color: var(--color-text);
+    font-weight: 700;
+  }
+  :global(.leg-stock-shares) {
+    color: var(--color-text-secondary);
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  :global(.leg-stock-return) {
+    margin-left: auto;
+    width: 160px;
+    text-align: right;
+    white-space: nowrap;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+  :global(.leg-stock-return.gain) { color: var(--color-gain); }
+  :global(.leg-stock-return.loss) { color: var(--color-loss); }
+</style>
+
+<script>
+  const viewToggle = document.getElementById('view-toggle')!;
+  const stockSearchControls = document.getElementById('stock-search-controls')!;
+  const legislatorSearchControls = document.getElementById('legislator-search-controls')!;
+  const stockPanel = document.getElementById('stock-panel')!;
+  const legislatorPanel = document.getElementById('legislator-panel')!;
+  const stockList = document.getElementById('stock-list')!;
+  const legislatorList = document.getElementById('ranking-list')!;
+  const stockSearchInput = document.getElementById('stock-search-input') as HTMLInputElement;
+  const legislatorSearchInput = document.getElementById('legislator-search-input') as HTMLInputElement;
+  const stockSearchClear = document.getElementById('stock-search-clear') as HTMLButtonElement;
+  const legislatorSearchClear = document.getElementById('legislator-search-clear') as HTMLButtonElement;
+  const stockSortToggle = document.getElementById('stock-sort-toggle')!;
+  const legislatorSortToggle = document.getElementById('legislator-sort-toggle')!;
+  const viewButtons = Array.from(viewToggle.querySelectorAll('.toggle-btn')) as HTMLElement[];
+  const stockSortButtons = Array.from(stockSortToggle.querySelectorAll('.toggle-btn')) as HTMLElement[];
+  const legislatorSortButtons = Array.from(legislatorSortToggle.querySelectorAll('.toggle-btn')) as HTMLElement[];
+
+  let currentView: 'stock' | 'legislator' = 'stock';
+  let currentStockSort: 'person' | 'value' = 'value';
+  let currentLegislatorSort: 'value' | 'return' = 'value';
+
+  function formatValue(value: number | null): string {
+    if (value == null) return '—';
+    return `NT$${Math.round(value).toLocaleString()}`;
+  }
+
+  function formatCompactTwd(amount: number): string {
+    if (!Number.isFinite(amount) || amount <= 0) return 'NT$ —';
+    if (amount >= 1_0000_0000) return `NT$ ${(amount / 1_0000_0000).toFixed(1)} 億`;
+    if (amount >= 1_0000) return `NT$ ${(amount / 1_0000).toFixed(1)} 萬`;
+    return `NT$ ${Math.round(amount).toLocaleString()}`;
+  }
+
+  function formatSignedCompactTwd(amount: number): string {
+    if (!Number.isFinite(amount) || amount === 0) return 'NT$ 0';
+    const sign = amount > 0 ? '+' : '-';
+    return `${sign}${formatCompactTwd(Math.abs(amount))}`;
+  }
+
+  function formatReturnPct(latestPrice: number | null, disclosurePrice: number | null): string {
+    if (latestPrice == null || disclosurePrice == null || disclosurePrice === 0) return '—';
+    const pct = ((latestPrice - disclosurePrice) / disclosurePrice) * 100;
+    const sign = pct > 0 ? '+' : '';
+    return `${sign}${pct.toFixed(1)}%`;
+  }
+
+  function getReturnValue(latestPrice: number | null, disclosurePrice: number | null, shares: number): number | null {
+    if (latestPrice == null || disclosurePrice == null) return null;
+    return (latestPrice - disclosurePrice) * shares;
+  }
+
+  function formatReturnLine(latestPrice: number | null, disclosurePrice: number | null, shares: number): string {
+    const ret = getReturnValue(latestPrice, disclosurePrice, shares);
+    if (ret == null) return 'NT$ — / —';
+    return `${formatSignedCompactTwd(ret)} / ${formatReturnPct(latestPrice, disclosurePrice)}`;
+  }
+
+  function getReturnClass(latestPrice: number | null, disclosurePrice: number | null, shares: number): string {
+    const ret = getReturnValue(latestPrice, disclosurePrice, shares);
+    if (ret == null || ret === 0) return '';
+    return ret > 0 ? 'gain' : 'loss';
+  }
+
+  function getPartyColor(party: string | null): string {
+    if (party === '民主進步黨') return 'var(--color-dpp)';
+    if (party === '中國國民黨') return 'var(--color-kmt)';
+    if (party === '台灣民眾黨') return 'var(--color-tpp)';
+    return 'var(--color-independent)';
+  }
+
+  function applyView() {
+    viewButtons.forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-view') === currentView);
+    });
+
+    stockPanel.classList.toggle('active', currentView === 'stock');
+    legislatorPanel.classList.toggle('active', currentView === 'legislator');
+    stockSortToggle.classList.toggle('hidden', currentView !== 'stock');
+    stockSearchControls.classList.toggle('hidden', currentView !== 'stock');
+    legislatorSortToggle.classList.toggle('hidden', currentView !== 'legislator');
+    legislatorSearchControls.classList.toggle('hidden', currentView !== 'legislator');
+
+    stockList.querySelectorAll('.stock-card.open').forEach(card => card.classList.remove('open'));
+    legislatorList.querySelectorAll('.stock-card.open').forEach(card => card.classList.remove('open'));
+    stockList.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
+    legislatorList.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
+  }
+
+  function buildStockBreakdown(card: HTMLElement): HTMLElement | null {
+    const holdersStr = card.getAttribute('data-holders');
+    if (!holdersStr) return null;
+
+    const holders = JSON.parse(holdersStr) as {
+      legislator: string;
+      party: string | null;
+      owner: string;
+      shares: number;
+      value: number | null;
+    }[];
+
+    if (!holders.length) return null;
+    const breakdown = document.createElement('div');
+    breakdown.className = 'stock-breakdown open';
+    breakdown.innerHTML = holders.map(h => `
+      <div class="stock-detail-row">
+        <span class="stock-detail-name" style="color:${getPartyColor(h.party)}">${h.legislator}</span>
+        <span class="stock-detail-shares">${h.shares.toLocaleString()} 股</span>
+        <span class="stock-detail-value">${formatCompactTwd(h.value ?? 0)}</span>
+        <span class="stock-detail-spacer" aria-hidden="true"></span>
+      </div>
+    `).join('');
+    return breakdown;
+  }
+
+  function buildLegislatorBreakdown(card: HTMLElement): HTMLElement | null {
+    const stocksStr = card.getAttribute('data-stocks');
+    if (!stocksStr) return null;
+
+    const stocks = JSON.parse(stocksStr) as {
+      name: string;
+      ticker: string | null;
+      exchangeTicker: string;
+      shares: number;
+      priceAtDisclosure: number | null;
+      latestPrice: number | null;
+    }[];
+    if (!stocks.length) return null;
+    const sorted = [...stocks].sort((a, b) => ((b.latestPrice ?? 0) * b.shares) - ((a.latestPrice ?? 0) * a.shares));
+    const breakdown = document.createElement('div');
+    breakdown.className = 'stock-breakdown open';
+    breakdown.innerHTML = sorted.map(s => `
+      <div class="leg-stock-item">
+        <div class="leg-stock-row">
+          <div class="leg-stock-head">
+            <span class="leg-stock-name">${s.name}</span>
+            <span class="leg-stock-exchange">${s.exchangeTicker || 'N/A'}</span>
+          </div>
+          <span class="leg-stock-current">${formatCompactTwd((s.latestPrice ?? 0) * s.shares)}</span>
+        </div>
+        <div class="leg-stock-row">
+          <span class="leg-stock-shares">${s.shares.toLocaleString()} 股</span>
+          <span class="leg-stock-return ${getReturnClass(s.latestPrice, s.priceAtDisclosure, s.shares)}">
+          ${formatReturnLine(s.latestPrice, s.priceAtDisclosure, s.shares)}
+          </span>
+        </div>
+      </div>
+    `).join('');
+    return breakdown;
+  }
+
+  function sortCards(list: Element, key: string) {
+    const cards = Array.from(list.querySelectorAll('.stock-card')) as HTMLElement[];
+    cards.forEach(card => card.classList.remove('open'));
+    list.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
+    cards.sort((a, b) => {
+      const aVal = Number(a.getAttribute(`data-${key}`));
+      const bVal = Number(b.getAttribute(`data-${key}`));
+      return bVal - aVal;
+    });
+
+    cards.forEach((card, i) => {
+      const num = card.querySelector('.rank-num');
+      if (num) num.textContent = String(i + 1);
+      list.appendChild(card);
+    });
+    updateVisibleRanks(list);
+  }
+
+  function updateVisibleRanks(list: Element) {
+    let rank = 1;
+    const cards = Array.from(list.querySelectorAll('.stock-card')) as HTMLElement[];
+    for (const card of cards) {
+      const num = card.querySelector('.rank-num');
+      if (!num) continue;
+      if (card.classList.contains('filtered-out')) continue;
+      num.textContent = String(rank++);
+    }
+  }
+
+  function applySearchFilter() {
+    const stockQuery = stockSearchInput.value.trim().toLowerCase();
+    const stockCards = Array.from(stockList.querySelectorAll('.stock-card')) as HTMLElement[];
+    stockCards.forEach(card => {
+      const name = (card.getAttribute('data-display-name') || '').toLowerCase();
+      const fallback = (card.getAttribute('data-name') || '').toLowerCase();
+      const ticker = (card.getAttribute('data-ticker') || '').toLowerCase();
+      const matched = !stockQuery || name.includes(stockQuery) || fallback.includes(stockQuery) || ticker.includes(stockQuery);
+      card.classList.toggle('filtered-out', !matched);
+      if (!matched) card.classList.remove('open');
+    });
+    stockList.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
+
+    const legislatorQuery = legislatorSearchInput.value.trim().toLowerCase();
+    const legislatorCards = Array.from(legislatorList.querySelectorAll('.stock-card')) as HTMLElement[];
+    legislatorCards.forEach(card => {
+      const name = (card.getAttribute('data-name') || '').toLowerCase();
+      const matched = !legislatorQuery || name.includes(legislatorQuery);
+      card.classList.toggle('filtered-out', !matched);
+      if (!matched) card.classList.remove('open');
+    });
+    legislatorList.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
+
+    updateVisibleRanks(stockList);
+    updateVisibleRanks(legislatorList);
+    stockSearchClear.classList.toggle('hidden', stockQuery.length === 0);
+    legislatorSearchClear.classList.toggle('hidden', legislatorQuery.length === 0);
+  }
+
+  viewButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const view = btn.getAttribute('data-view');
+      if (view !== 'stock' && view !== 'legislator') return;
+      currentView = view;
+      applyView();
+    });
+  });
+
+  stockSortButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const sort = btn.getAttribute('data-sort');
+      if (sort !== 'person' && sort !== 'value') return;
+      currentStockSort = sort;
+      stockSortButtons.forEach(el => el.classList.toggle('active', el === btn));
+      sortCards(stockList, sort);
+      applySearchFilter();
+    });
+  });
+
+  legislatorSortButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const sort = btn.getAttribute('data-sort');
+      if (sort !== 'value' && sort !== 'return') return;
+      currentLegislatorSort = sort;
+      legislatorSortButtons.forEach(el => el.classList.toggle('active', el === btn));
+      sortCards(legislatorList, sort);
+      applySearchFilter();
+    });
+  });
+
+  stockSearchInput.addEventListener('input', applySearchFilter);
+  legislatorSearchInput.addEventListener('input', applySearchFilter);
+  stockSearchClear.addEventListener('click', () => {
+    stockSearchInput.value = '';
+    applySearchFilter();
+    stockSearchInput.focus();
+  });
+  legislatorSearchClear.addEventListener('click', () => {
+    legislatorSearchInput.value = '';
+    applySearchFilter();
+    legislatorSearchInput.focus();
+  });
+
+  function handleCardToggle(e: Event, list: Element) {
+    const header = (e.target as HTMLElement).closest('[data-expandable]');
+    if (!header) return;
+
+    const card = header.closest('.stock-card') as HTMLElement | null;
+    if (!card) return;
+
+    list.querySelectorAll('.stock-card.open').forEach(other => {
+      if (other !== card) other.classList.remove('open');
+    });
+
+    const existing = card.nextElementSibling as HTMLElement | null;
+    if (existing?.classList.contains('stock-breakdown')) {
+      const willOpen = !existing.classList.contains('open');
+      list.querySelectorAll('.stock-breakdown.open').forEach(el => el.classList.remove('open'));
+      existing.classList.toggle('open', willOpen);
+      card.classList.toggle('open', willOpen);
+      return;
+    }
+
+    const cardType = card.getAttribute('data-card-type');
+    const breakdown = cardType === 'stock' ? buildStockBreakdown(card) : buildLegislatorBreakdown(card);
+    if (!breakdown) return;
+    list.querySelectorAll('.stock-breakdown.open').forEach(el => el.classList.remove('open'));
+    card.after(breakdown);
+    card.classList.add('open');
+  }
+
+  stockList.addEventListener('click', (e) => handleCardToggle(e, stockList));
+  legislatorList.addEventListener('click', (e) => handleCardToggle(e, legislatorList));
+
+  // Default to stock view per product requirement.
+  applyView();
+  applySearchFilter();
+</script>

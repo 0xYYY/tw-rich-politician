@@ -1,0 +1,89 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <title>{title}</title>
+</head>
+<body>
+  <main>
+    <slot />
+  </main>
+  <nav class="bottom-nav">
+    <a href="/" class="nav-item" data-page="/">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+      <span>存款排名</span>
+    </a>
+    <a href="/stocks" class="nav-item" data-page="/stocks">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+      <span>股票持股</span>
+    </a>
+    <a href="/real-estate" class="nav-item" data-page="/real-estate">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      <span>不動產</span>
+    </a>
+    <a href="/download" class="nav-item" data-page="/download">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      <span>資料下載</span>
+    </a>
+  </nav>
+</body>
+</html>
+
+<style>
+  main {
+    padding: var(--page-padding);
+    padding-bottom: 80px;
+  }
+
+  .bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 430px;
+    display: flex;
+    background: var(--color-surface);
+    border-top: 1px solid var(--color-border-light);
+    padding: 8px 0;
+    padding-bottom: max(8px, env(safe-area-inset-bottom));
+    z-index: 100;
+  }
+
+  .nav-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 0;
+    color: var(--color-text-muted);
+    font-size: 10px;
+    font-weight: 500;
+    transition: color 0.15s;
+  }
+
+  .nav-item.active {
+    color: var(--color-text);
+  }
+</style>
+
+<script define:vars={{ currentPath: Astro.url.pathname }}>
+  document.querySelectorAll('.nav-item').forEach(el => {
+    const page = el.getAttribute('data-page');
+    if (page === currentPath || (page === '/' && currentPath === '/')) {
+      el.classList.add('active');
+    }
+  });
+</script>
