@@ -697,13 +697,79 @@ async function main() {
   const tickerMap = await fetchTickerMap();
   const priceCache = await loadPriceCache();
 
-  const partyMap = JSON.parse(await readFile(path.join(DATA_DIR, "party-mapping.json"), "utf8"));
+  const peopleMapping = JSON.parse(await readFile(path.join(DATA_DIR, "people-mapping.json"), "utf8"));
+  // Build a simple name→party map for backwards compatibility
+  const partyMap = {};
+  for (const [name, info] of Object.entries(peopleMapping)) {
+    partyMap[name] = info.party;
+  }
 
-  const dirs = (await readdir(DATA_DIR)).filter((d) => d.match(/^\d/)).sort();
+  // Include both numbered dirs (e.g. "001-丁學忠") and plain name dirs (e.g. "謝國樑")
+  // Exclude special dirs like consolidated, stock-*, etc.
+  const SKIP_DIRS = new Set(["consolidated", ".tmp-extract"]);
+  const allDirEntries = await readdir(DATA_DIR, { withFileTypes: true });
+  const dirs = allDirEntries
+    .filter((d) => d.isDirectory() && !SKIP_DIRS.has(d.name) && !d.name.startsWith(".") && !d.name.startsWith("_"))
+    .map((d) => d.name)
+    .sort();
 
   let processed = 0;
   let skipped = 0;
-  const unmatchedStocks = {}; // cleanName → { count, legislators[], originalNames[] }
+  const unmatchedStocks = {}; // cleanName → { count, people[], originalNames[] }
+
+  // Helper to load trust data and merge non-overlapping items
+  async function loadTrustData(dir) {
+    const trustDir = path.join(DATA_DIR, dir, "trust");
+    let trustFiles;
+    try {
+      trustFiles = (await readdir(trustDir)).filter((f) => f.endsWith(".extracted.json"));
+    } catch {
+      return null;
+    }
+    if (trustFiles.length === 0) return null;
+    return JSON.parse(await readFile(path.join(trustDir, trustFiles[0]), "utf8"));
+  }
+
+  function mergeStocksFromTrust(ordinaryStocks, trustStocks) {
+    if (!trustStocks?.items?.length) return ordinaryStocks;
+    const existingNames = new Set(
+      (ordinaryStocks?.items || []).map((s) => cleanStockName(s.name))
+    );
+    const newItems = trustStocks.items.filter(
+      (s) => !existingNames.has(cleanStockName(s.name))
+    );
+    return {
+      ...ordinaryStocks,
+      items: [...(ordinaryStocks?.items || []), ...newItems],
+    };
+  }
+
+  function mergeDepositsFromTrust(ordinaryDeposits, trustDeposits) {
+    if (!trustDeposits?.items?.length) return ordinaryDeposits;
+    // Trust deposits are supplementary — only add institutions not already present
+    const existingKeys = new Set(
+      (ordinaryDeposits?.items || []).map((d) => `${d.institution}|${d.currency}|${d.owner}`)
+    );
+    const newItems = trustDeposits.items.filter(
+      (d) => !existingKeys.has(`${d.institution}|${d.currency}|${d.owner}`)
+    );
+    if (newItems.length === 0) return ordinaryDeposits;
+    return {
+      total: (ordinaryDeposits?.total || 0) + newItems.reduce((s, d) => s + d.amount, 0),
+      items: [...(ordinaryDeposits?.items || []), ...newItems],
+    };
+  }
+
+  function mergeBuildingsFromTrust(ordinaryBuildings, trustBuildings) {
+    if (!trustBuildings?.length) return ordinaryBuildings;
+    const existingKeys = new Set(
+      (ordinaryBuildings || []).map((b) => `${b.location}|${b.area}|${b.owner}`)
+    );
+    const newItems = trustBuildings.filter(
+      (b) => !existingKeys.has(`${b.location}|${b.area}|${b.owner}`)
+    );
+    return [...(ordinaryBuildings || []), ...newItems];
+  }
 
   for (const dir of dirs) {
     // Try ordinary first, fall back to correction
@@ -730,27 +796,49 @@ async function main() {
     const dateISO = rocToISO(raw.date);
 
     // Use directory name (e.g. "070-陳秀寳" → "陳秀寳") as canonical name,
-    // since PDF extraction may drop rare characters
+    // Plain name dirs (e.g. "謝國樑") are used directly
     const canonicalName = dir.replace(/^\d+-/, "");
 
-    console.log(`Processing: ${canonicalName} (${dateISO})`);
+    // Load trust data and merge if available
+    const trustRaw = await loadTrustData(dir);
+    let mergedStocks = raw.stocks;
+    let mergedDeposits = raw.deposits;
+    let mergedBuildings = raw.buildings;
+    let mergedFunds = raw.funds;
+
+    if (trustRaw) {
+      console.log(`Processing: ${canonicalName} (${dateISO}) [+trust]`);
+      mergedStocks = mergeStocksFromTrust(raw.stocks, trustRaw.stocks);
+      mergedDeposits = mergeDepositsFromTrust(raw.deposits, trustRaw.deposits);
+      mergedBuildings = mergeBuildingsFromTrust(raw.buildings, trustRaw.buildings);
+      // Merge funds from trust as well
+      if (trustRaw.funds?.items?.length) {
+        const existingFundNames = new Set((raw.funds?.items || []).map((f) => f.name));
+        const newFundItems = trustRaw.funds.items.filter((f) => !existingFundNames.has(f.name));
+        mergedFunds = {
+          items: [...(raw.funds?.items || []), ...newFundItems],
+        };
+      }
+    } else {
+      console.log(`Processing: ${canonicalName} (${dateISO})`);
+    }
 
     const consolidated = {
       name: canonicalName,
       date: dateISO,
       party: partyMap[canonicalName] || null,
-      deposits: processDeposits(raw.deposits),
-      depositsTotal: raw.deposits?.total || 0,
+      deposits: processDeposits(mergedDeposits),
+      depositsTotal: mergedDeposits?.total || 0,
       insurance: processInsurance(raw.insurance, canonicalName),
       stocks: [],
       bonds: [],
       fundCertificates: [],
-      buildings: processBuildings(raw.buildings),
+      buildings: processBuildings(mergedBuildings),
     };
 
     const { regularStocks, bonds, fundCertificates } = splitStockLikeAssets(
-      raw.stocks,
-      raw.funds,
+      mergedStocks,
+      mergedFunds,
       canonicalName
     );
 
@@ -773,12 +861,12 @@ async function main() {
       if (s.ticker === null) {
         const key = s.cleanName;
         if (!unmatchedStocks[key]) {
-          unmatchedStocks[key] = { count: 0, legislators: [], originalNames: new Set() };
+          unmatchedStocks[key] = { count: 0, people: [], originalNames: new Set() };
         }
         unmatchedStocks[key].count++;
         unmatchedStocks[key].originalNames.add(s.name);
-        if (!unmatchedStocks[key].legislators.includes(raw.name)) {
-          unmatchedStocks[key].legislators.push(raw.name);
+        if (!unmatchedStocks[key].people.includes(canonicalName)) {
+          unmatchedStocks[key].people.push(canonicalName);
         }
       }
     }
@@ -798,7 +886,7 @@ async function main() {
       name,
       originalNames: [...info.originalNames],
       count: info.count,
-      legislators: info.legislators,
+      people: info.people,
     }));
   await writeFile(
     path.join(OUT_DIR, "_unmatched-stocks.json"),

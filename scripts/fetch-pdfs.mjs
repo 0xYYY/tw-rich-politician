@@ -71,12 +71,12 @@ const progress = {
   },
 };
 
-async function queryPage(pageNo) {
+async function queryPage(pageNo, searchValue) {
   const res = await fetch(QUERY_URL, {
     method: "POST",
     headers: HEADERS,
     body: JSON.stringify({
-      Data: { Type: "title", Value: "立法委員" },
+      Data: { Type: "title", Value: searchValue },
       Page: { PageNo: pageNo, PageSize: PAGE_SIZE, OrderByNum: 0, OrderBySort: "" },
     }),
   });
@@ -89,6 +89,7 @@ async function queryPage(pageNo) {
 function getSubdir(publishType) {
   if (publishType.includes("更補正")) return "correction";
   if (publishType.includes("變動")) return "change";
+  if (publishType.includes("信託")) return "trust";
   return "ordinary";
 }
 
@@ -144,9 +145,9 @@ function filterAndCheck(records) {
   return { matching, seenOlder };
 }
 
-// If a person has records of the same type in both 114 and 113, keep only 114
+// For each person + filing category (ordinary/correction/change/trust),
+// keep only the latest year's records (prefer 114 over 113)
 function dedup(records) {
-  // Group by person + filing type (ordinary/correction/change)
   const byKey = new Map();
   for (const r of records) {
     const type = getSubdir(r.PublishType);
@@ -156,7 +157,7 @@ function dedup(records) {
   }
 
   const result = [];
-  for (const [key, recs] of byKey) {
+  for (const [, recs] of byKey) {
     const has114 = recs.some(r => r.PublishDate.startsWith("民國114年"));
     if (has114) {
       result.push(...recs.filter(r => r.PublishDate.startsWith("民國114年")));
@@ -167,17 +168,24 @@ function dedup(records) {
   return result;
 }
 
-async function collectAllRecords() {
+async function collectAllRecords(searchValue, titleFilter) {
   const allRecords = [];
   for (let page = 1; ; page++) {
     if (page > 1) await sleep(DELAY_MS);
-    process.stdout.write(`\rFetching page ${page}...`);
-    const result = await queryPage(page);
-    const { matching, seenOlder } = filterAndCheck(result.Data);
+    process.stdout.write(`\rFetching ${searchValue} page ${page}...`);
+    const result = await queryPage(page, searchValue);
+    let pageRecords = result.Data;
+
+    // Filter by title if specified (e.g. only "市長", not "副市長")
+    if (titleFilter) {
+      pageRecords = pageRecords.filter(r => titleFilter(r));
+    }
+
+    const { matching, seenOlder } = filterAndCheck(pageRecords);
     allRecords.push(...matching);
     if (seenOlder || result.Data.length < PAGE_SIZE) break;
   }
-  process.stdout.write("\r" + " ".repeat(40) + "\r");
+  process.stdout.write("\r" + " ".repeat(60) + "\r");
   return allRecords;
 }
 
@@ -202,13 +210,23 @@ async function downloadAll(records) {
 
 async function main() {
   await mkdir(OUTPUT_DIR, { recursive: true });
-  console.log(`Fetching 立法委員 records for ${YEAR_PREFIXES.join(" + ")}...`);
 
-  const allRecords = await collectAllRecords();
-  const records = dedup(allRecords);
-  const dropped = allRecords.length - records.length;
+  // Fetch legislators
+  console.log(`Fetching 立法委員 records for ${YEAR_PREFIXES.join(" + ")}...`);
+  const legislatorRecords = await collectAllRecords("立法委員", null);
+  console.log(`  Found ${legislatorRecords.length} raw legislator records`);
+
+  // Fetch mayors (市長 only, not 副市長)
+  console.log(`Fetching 市長 records for ${YEAR_PREFIXES.join(" + ")}...`);
+  const mayorRecords = await collectAllRecords("市長", (r) => r.Title === "市長");
+  console.log(`  Found ${mayorRecords.length} raw mayor records (filtered out 副市長)`);
+
+  // Combine and dedup
+  const allRaw = [...legislatorRecords, ...mayorRecords];
+  const records = dedup(allRaw);
+  const dropped = allRaw.length - records.length;
   progress.totalExpected = records.length;
-  console.log(`Found ${allRecords.length} records, keeping ${records.length} after dedup (dropped ${dropped} 民國113年 duplicates)\n`);
+  console.log(`\nTotal: ${allRaw.length} raw → ${records.length} after dedup (dropped ${dropped} older duplicates)\n`);
 
   if (records.length > 0) await downloadAll(records);
 

@@ -43,7 +43,7 @@ export interface InsuranceAsset {
   contractType: string;
 }
 
-export interface Legislator {
+export interface PersonData {
   name: string;
   date: string;
   party: string | null;
@@ -56,19 +56,52 @@ export interface Legislator {
   buildings: Building[];
 }
 
-// Load all consolidated JSON files at build time
-const modules = import.meta.glob<Legislator>('../../data/consolidated/[0-9]*.json', { eager: true, import: 'default' });
+// Keep Legislator as alias for backwards compatibility
+export type Legislator = PersonData;
 
-// Load party mapping to filter to only mapped legislators
-const partyMapping = import.meta.glob<Record<string, string>>('../../data/party-mapping.json', { eager: true, import: 'default' });
-const partyMap = Object.values(partyMapping)[0] || {};
+export interface PersonInfo {
+  type: 'legislator' | 'mayor';
+  party: string;
+  area: string;
+}
 
-let _cache: Legislator[] | null = null;
+// Load all consolidated JSON files at build time (both numbered and plain dirs)
+const numberedModules = import.meta.glob<PersonData>('../../data/consolidated/[0-9]*.json', { eager: true, import: 'default' });
+const plainModules = import.meta.glob<PersonData>('../../data/consolidated/[!0-9_]*.json', { eager: true, import: 'default' });
+const modules = { ...numberedModules, ...plainModules };
 
-export function getAllLegislators(): Legislator[] {
+// Load people mapping
+const peopleMappingModules = import.meta.glob<Record<string, PersonInfo>>('../../data/people-mapping.json', { eager: true, import: 'default' });
+const peopleMap: Record<string, PersonInfo> = Object.values(peopleMappingModules)[0] || {};
+
+let _cache: PersonData[] | null = null;
+
+export function getAllPeople(): PersonData[] {
   if (_cache) return _cache;
-  _cache = Object.values(modules).filter(l => l && l.name in partyMap);
+  _cache = Object.values(modules).filter(l => l && l.name in peopleMap);
   return _cache;
+}
+
+// Keep getAllLegislators as alias
+export function getAllLegislators(): PersonData[] {
+  return getAllPeople();
+}
+
+export function getPeopleMap(): Record<string, PersonInfo> {
+  return peopleMap;
+}
+
+// Keep getPartyMap for backwards compatibility
+export function getPartyMap(): Record<string, string> {
+  const map: Record<string, string> = {};
+  for (const [name, info] of Object.entries(peopleMap)) {
+    map[name] = info.party;
+  }
+  return map;
+}
+
+export function getPersonInfo(name: string): PersonInfo | null {
+  return peopleMap[name] || null;
 }
 
 export function getPartyColor(party: string | null): string {
@@ -77,6 +110,25 @@ export function getPartyColor(party: string | null): string {
     case '中國國民黨': return 'var(--color-kmt)';
     case '台灣民眾黨': return 'var(--color-tpp)';
     default: return 'var(--color-independent)';
+  }
+}
+
+export function getPartyShortName(party: string | null): string {
+  switch (party) {
+    case '民主進步黨': return '民';
+    case '中國國民黨': return '國';
+    case '台灣民眾黨': return '眾';
+    case '無黨籍': return '無';
+    default: return '無';
+  }
+}
+
+export function getPartyBgColor(party: string | null): string {
+  switch (party) {
+    case '民主進步黨': return '#1B9431';
+    case '中國國民黨': return '#2D6CC0';
+    case '台灣民眾黨': return '#28C8C8';
+    default: return '#888';
   }
 }
 
@@ -102,7 +154,6 @@ export function formatPing(ping: number): string {
 
 /** Extract city + district from location string like "臺北市信義區永春段一小段" */
 export function parseCity(location: string): { city: string; detail: string } {
-  // Match patterns like "臺北市信義區..." or "新北市板橋區..."
   const m = location.match(/^(.+?[市縣])(.+?[區鄉鎮市])(.+)/);
   if (m) return { city: m[1] + m[2], detail: m[3] };
   return { city: location.slice(0, 6), detail: location.slice(6) };
@@ -117,8 +168,8 @@ export interface RealEstateRanking {
 }
 
 export function getRealEstateRankings(sortBy: 'ping' | 'count' = 'ping'): RealEstateRanking[] {
-  const legislators = getAllLegislators();
-  const rankings: RealEstateRanking[] = legislators.map(l => ({
+  const people = getAllPeople();
+  const rankings: RealEstateRanking[] = people.map(l => ({
     name: l.name,
     party: l.party,
     totalPing: l.buildings.reduce((sum, b) => sum + b.effectiveAreaPing, 0),
@@ -135,10 +186,6 @@ export function getRealEstateRankings(sortBy: 'ping' | 'count' = 'ping'): RealEs
   return rankings;
 }
 
-export function getPartyMap(): Record<string, string> {
-  return partyMap;
-}
-
 export interface DepositRankingEntry {
   name: string;
   party: string | null;
@@ -149,8 +196,8 @@ export interface DepositRankingEntry {
 }
 
 export function getDepositRankings(): DepositRankingEntry[] {
-  const legislators = getAllLegislators();
-  const legislatorMap = new Map(legislators.map(l => [l.name, l]));
+  const people = getAllPeople();
+  const personMap = new Map(people.map(l => [l.name, l]));
 
   const normalizeCurrency = (currency?: string): string => {
     const c = (currency || '').trim();
@@ -160,8 +207,8 @@ export function getDepositRankings(): DepositRankingEntry[] {
   };
 
   const entries: DepositRankingEntry[] = [];
-  for (const [name, party] of Object.entries(partyMap)) {
-    const l = legislatorMap.get(name);
+  for (const [name, info] of Object.entries(peopleMap)) {
+    const l = personMap.get(name);
     const byCurrency = new Map<string, number>();
 
     for (const d of (l?.deposits || [])) {
@@ -184,7 +231,7 @@ export function getDepositRankings(): DepositRankingEntry[] {
 
     entries.push({
       name,
-      party: l?.party || party,
+      party: l?.party || info.party,
       depositsTotal: mergedTotal,
       deposits: mergedDeposits,
       insuranceCount: l?.insurance?.length || 0,
