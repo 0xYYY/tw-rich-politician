@@ -1,15 +1,15 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getRealEstateRankings, getPartyColor, formatPing, parseCity, getTierColor } from '../lib/data';
+import { getRealEstateRankings, getPartyColor, formatPing, parseCity, getTierColor, getPersonInfo, getPartyShortName, getPartyBgColor } from '../lib/data';
 import type { RealEstateRanking } from '../lib/data';
 
 const rankings = getRealEstateRankings('ping');
 ---
 
-<Layout title="立委不動產排行榜">
+<Layout title="🏠 不動產排行榜">
   <section class="header">
-    <h1>立委不動產排行榜</h1>
-    <p class="subtitle">含立委本人及配偶、未成年子女申報之建物</p>
+    <h1>🏠 不動產排行榜</h1>
+    <p class="subtitle">含本人及配偶、未成年子女申報之建物</p>
   </section>
 
   <div class="sort-toggle" id="sort-toggle">
@@ -30,7 +30,18 @@ const rankings = getRealEstateRankings('ping');
         <div class="rank-header" data-expandable>
           <span class={`rank-num ${i < 5 ? 'top' : ''}`}>{i + 1}</span>
           <div class="rank-info">
-            <span class="rank-name">{r.name}</span>
+            <div class="rank-name-row">
+              <span class="rank-name">{r.name}</span>
+              {(() => {
+                const info = getPersonInfo(r.name);
+                if (!info) return null;
+                return (
+                  <span class="person-badge" style={`background: ${getPartyBgColor(r.party)}`} title={`${info.type === 'mayor' ? '縣市首長' : '立法委員'} · ${info.area}`}>
+                    {info.type === 'mayor' ? '長' : getPartyShortName(r.party)}
+                  </span>
+                );
+              })()}
+            </div>
             <span class="rank-party">{r.party || '無黨籍'}</span>
           </div>
           <div class="rank-stats">
@@ -136,7 +147,18 @@ const rankings = getRealEstateRankings('ping');
   .rank-num.top { color: var(--color-tier-4); }
 
   .rank-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .rank-name-row { display: flex; align-items: center; gap: 5px; }
   .rank-name { font-size: 15px; font-weight: 700; }
+  .person-badge {
+    font-size: 9px;
+    font-weight: 700;
+    color: #fff;
+    padding: 1px 3px;
+    border-radius: 3px;
+    line-height: 1.2;
+    flex-shrink: 0;
+    cursor: help;
+  }
   .rank-party { font-size: 12px; color: var(--color-text-muted); }
 
   .rank-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }

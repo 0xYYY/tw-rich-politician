@@ -1,12 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getAllLegislators, getPartyMap } from '../lib/data';
+import { getAllPeople, getPeopleMap, getPartyBgColor, getPartyShortName } from '../lib/data';
+import type { PersonInfo } from '../lib/data';
 import { existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 
-const legislators = getAllLegislators();
-const partyMap = getPartyMap();
-const legislatorByName = new Map(legislators.map(l => [l.name, l]));
+const allPeople = getAllPeople();
+const peopleMap = getPeopleMap();
+const personByName = new Map(allPeople.map(l => [l.name, l]));
 
 type DownloadMember = {
   name: string;
@@ -30,15 +31,16 @@ function safeReaddir(dir: string) {
 }
 
 const consolidatedFiles = safeReaddir(path.join(DATA_ROOT, 'consolidated'))
-  .filter(f => /^\d+-.+\.json$/.test(f));
+  .filter(f => f.endsWith('.json'));
 const consolidatedByName = new Map<string, string>();
 for (const f of consolidatedFiles) {
   const name = f.replace(/^\d+-/, '').replace(/\.json$/, '');
   consolidatedByName.set(name, `/data/consolidated/${f}`);
 }
 
+const SKIP_DIRS = new Set(['consolidated', '.tmp-extract']);
 const memberDirs = (existsSync(DATA_ROOT) ? readdirSync(DATA_ROOT, { withFileTypes: true }) : [])
-  .filter(d => d.isDirectory() && /^\d+-/.test(d.name))
+  .filter(d => d.isDirectory() && !d.name.startsWith('.') && !d.name.startsWith('_') && !SKIP_DIRS.has(d.name))
   .map(d => d.name);
 const dirByName = new Map<string, string>();
 for (const dirName of memberDirs) {
@@ -109,12 +111,15 @@ function buildFilings(name: string) {
   };
 }
 
-const members: DownloadMember[] = Object.entries(partyMap).map(([name, party]) => {
-  const l = legislatorByName.get(name);
+type DownloadMemberWithType = DownloadMember & { type: 'legislator' | 'mayor' };
+
+const members: DownloadMemberWithType[] = Object.entries(peopleMap).map(([name, info]) => {
+  const l = personByName.get(name);
   const filingInfo = buildFilings(name);
   return {
     name,
-    party: l?.party || party || null,
+    type: info.type,
+    party: l?.party || info.party || null,
     date: l?.date || null,
     hasData: !!l,
     defaultOrdinaryPdf: filingInfo.defaultOrdinaryPdf,
@@ -124,24 +129,39 @@ const members: DownloadMember[] = Object.entries(partyMap).map(([name, party]) =
   };
 });
 
-// Group by party
+// Group by type then by party
 const partyOrder = ['民主進步黨', '中國國民黨', '台灣民眾黨'];
-const partyGroups = new Map<string, DownloadMember[]>();
 
-for (const party of partyOrder) {
-  partyGroups.set(party, []);
+interface TypeSection {
+  label: string;
+  partyGroups: Map<string, DownloadMemberWithType[]>;
 }
 
-for (const l of members) {
-  const party = l.party || '無黨籍';
-  if (!partyGroups.has(party)) partyGroups.set(party, []);
-  partyGroups.get(party)!.push(l);
+function buildTypeSection(label: string, typeMembers: DownloadMemberWithType[]): TypeSection {
+  const partyGroups = new Map<string, DownloadMemberWithType[]>();
+  for (const party of partyOrder) partyGroups.set(party, []);
+  for (const m of typeMembers) {
+    const party = m.party || '無黨籍';
+    if (!partyGroups.has(party)) partyGroups.set(party, []);
+    partyGroups.get(party)!.push(m);
+  }
+  // Remove empty groups
+  for (const [k, v] of partyGroups) {
+    if (v.length === 0) partyGroups.delete(k);
+  }
+  // Sort each group alphabetically
+  for (const [, group] of partyGroups) {
+    group.sort((a, b) => a.name.localeCompare(b.name, 'zh-TW'));
+  }
+  return { label, partyGroups };
 }
 
-// Sort each group alphabetically
-for (const [, group] of partyGroups) {
-  group.sort((a, b) => a.name.localeCompare(b.name, 'zh-TW'));
-}
+const legislatorMembers = members.filter(m => m.type === 'legislator');
+const mayorMembers = members.filter(m => m.type === 'mayor');
+
+const typeSections: TypeSection[] = [];
+if (legislatorMembers.length > 0) typeSections.push(buildTypeSection('立法委員', legislatorMembers));
+if (mayorMembers.length > 0) typeSections.push(buildTypeSection('縣市首長', mayorMembers));
 
 const partyColors: Record<string, string> = {
   '民主進步黨': 'var(--color-dpp)',
@@ -149,87 +169,94 @@ const partyColors: Record<string, string> = {
   '台灣民眾黨': 'var(--color-tpp)',
   '無黨籍': 'var(--color-independent)',
 };
-
-function getFlag(name: string): string {
-  return name === '李貞秀' ? '🇨🇳' : '🇹🇼';
-}
 ---
 
-<Layout title="資料下載">
+<Layout title="📥 資料下載">
   <section class="header">
-    <h1>資料下載</h1>
-    <p class="subtitle">下載各立委的財產申報 PDF 原檔及結構化 JSON</p>
+    <h1>📥 資料下載</h1>
+    <p class="subtitle">下載財產申報 PDF 原檔及結構化 JSON</p>
   </section>
 
   <div class="search-box">
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-    <input type="text" id="search-input" placeholder="搜尋立委姓名..." />
+    <input type="text" id="search-input" placeholder="搜尋姓名..." />
+  </div>
+
+  <div class="bulk-download">
+    <a class="dl-btn bulk-btn" href="/data/people-mapping.json" target="_blank" rel="noopener noreferrer">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      人物對照表 JSON
+    </a>
   </div>
 
   <div id="party-list">
-    {[...partyGroups.entries()].map(([party, members]) => (
-      <div class="party-section" data-party={party}>
-        <div class="party-header" data-collapsible>
-          <div class="party-indicator" style={`background: ${partyColors[party] || 'var(--color-independent)'};`}></div>
-          <span class="party-name" style={`color: ${partyColors[party] || 'var(--color-independent)'};`}>{party}</span>
-          <span class="party-count">{members.length} 人</span>
-          <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-        </div>
-        <div class="party-members">
-          {members.map(l => (
-            <div class="member-row" data-name={l.name}>
-              <div class="member-info">
-                <span class="member-flag">{getFlag(l.name)}</span>
-                <div class="member-details">
-                  <span class="member-name">{l.name}</span>
-                  <span class="member-date">{l.date ? `申報日 ${l.date.replace(/-/g, '/')}` : '無資料'}</span>
-                </div>
-              </div>
-              <div class="member-actions">
-                {l.defaultOrdinaryPdf ? (
-                  <a class="dl-btn icon-btn" href={l.defaultOrdinaryPdf} target="_blank" rel="noopener noreferrer" aria-label="下載一般 PDF">📄</a>
-                ) : (
-                  <span class="dl-btn icon-btn disabled" aria-disabled="true">📄</span>
-                )}
-                {l.defaultOrdinaryJson ? (
-                  <a class="dl-btn icon-btn" href={l.defaultOrdinaryJson} target="_blank" rel="noopener noreferrer" aria-label="下載一般 JSON">{'{ }'}</a>
-                ) : (
-                  <span class="dl-btn icon-btn disabled" aria-disabled="true">{'{ }'}</span>
-                )}
-                <button class="dl-btn more-btn" data-expand-more>更多</button>
-              </div>
+    {typeSections.map(section => (
+      <div class="type-section">
+        <h2 class="type-header">{section.label}</h2>
+        {[...section.partyGroups.entries()].map(([party, partyMembers]) => (
+          <div class="party-section" data-party={party}>
+            <div class="party-header" data-collapsible>
+              <div class="party-indicator" style={`background: ${partyColors[party] || 'var(--color-independent)'};`}></div>
+              <span class="party-name" style={`color: ${partyColors[party] || 'var(--color-independent)'};`}>{party}</span>
+              <span class="party-count">{partyMembers.length} 人</span>
+              <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
             </div>
-            <div class="member-more">
-              {l.filings.map(f => (
-                <div class="filing-row">
-                  <span class="filing-label">{f.label}</span>
-                  <div class="filing-actions">
-                    {f.pdf ? (
-                      <a class="dl-btn icon-btn small" href={f.pdf} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} PDF`}>📄</a>
+            <div class="party-members">
+              {partyMembers.map(l => (
+                <div class="member-row" data-name={l.name}>
+                  <div class="member-info">
+                    <div class="member-details">
+                      <span class="member-name">{l.name}</span>
+                      <span class="member-date">{l.date ? `申報日 ${l.date.replace(/-/g, '/')}` : '無資料'}</span>
+                    </div>
+                  </div>
+                  <div class="member-actions">
+                    {l.defaultOrdinaryPdf ? (
+                      <a class="dl-btn icon-btn" href={l.defaultOrdinaryPdf} target="_blank" rel="noopener noreferrer" aria-label="下載一般 PDF">PDF</a>
                     ) : (
-                      <span class="dl-btn icon-btn small disabled" aria-disabled="true">📄</span>
+                      <span class="dl-btn icon-btn disabled" aria-disabled="true">PDF</span>
                     )}
-                    {f.json ? (
-                      <a class="dl-btn icon-btn small" href={f.json} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} JSON`}>{'{ }'}</a>
+                    {l.defaultOrdinaryJson ? (
+                      <a class="dl-btn icon-btn" href={l.defaultOrdinaryJson} target="_blank" rel="noopener noreferrer" aria-label="下載一般 JSON">{'{ }'}</a>
                     ) : (
-                      <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
+                      <span class="dl-btn icon-btn disabled" aria-disabled="true">{'{ }'}</span>
                     )}
+                    <button class="dl-btn more-btn" data-expand-more>更多</button>
+                  </div>
+                </div>
+                <div class="member-more">
+                  {l.filings.map(f => (
+                    <div class="filing-row">
+                      <span class="filing-label">{f.label}</span>
+                      <div class="filing-actions">
+                        {f.pdf ? (
+                          <a class="dl-btn icon-btn small" href={f.pdf} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} PDF`}>PDF</a>
+                        ) : (
+                          <span class="dl-btn icon-btn small disabled" aria-disabled="true">PDF</span>
+                        )}
+                        {f.json ? (
+                          <a class="dl-btn icon-btn small" href={f.json} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} JSON`}>{'{ }'}</a>
+                        ) : (
+                          <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                  <div class="filing-row consolidated-row">
+                    <span class="filing-label">整合資料</span>
+                    <div class="filing-actions">
+                      {l.consolidatedJson ? (
+                        <a class="dl-btn icon-btn small" href={l.consolidatedJson} target="_blank" rel="noopener noreferrer" aria-label="下載整合 JSON">{'{ }'}</a>
+                      ) : (
+                        <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
+                      )}
+                    </div>
                   </div>
                 </div>
               ))}
-              <div class="filing-row consolidated-row">
-                <span class="filing-label">整合資料</span>
-                <div class="filing-actions">
-                  {l.consolidatedJson ? (
-                    <a class="dl-btn icon-btn small" href={l.consolidatedJson} target="_blank" rel="noopener noreferrer" aria-label="下載整合 JSON">{'{ }'}</a>
-                  ) : (
-                    <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
-                  )}
-                </div>
-              </div>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
       </div>
     ))}
   </div>
@@ -256,6 +283,30 @@ function getFlag(name: string): string {
     color: var(--color-text);
   }
   .search-box input::placeholder { color: var(--color-text-muted); }
+
+  .bulk-download {
+    margin-bottom: 20px;
+  }
+  .bulk-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 14px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .type-section {
+    margin-bottom: 8px;
+  }
+  .type-header {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    padding: 12px 0 4px;
+    border-bottom: 2px solid var(--color-text);
+    margin-bottom: 8px;
+  }
 
   #party-list {
     display: flex;
@@ -286,7 +337,6 @@ function getFlag(name: string): string {
   .member-row:last-child { border-bottom: none; }
 
   .member-info { display: flex; align-items: center; gap: 8px; flex: 1; }
-  .member-flag { font-size: 16px; }
   .member-details { display: flex; flex-direction: column; gap: 2px; }
   .member-name { font-size: 15px; font-weight: 600; }
   .member-date { font-size: 11px; color: var(--color-text-muted); }

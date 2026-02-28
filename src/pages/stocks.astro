@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getAllLegislators, getPartyColor, getPartyMap } from '../lib/data';
+import { getAllPeople, getPartyColor, getPeopleMap, getPersonInfo, getPartyShortName, getPartyBgColor } from '../lib/data';
 
 interface LegislatorStockItem {
   name: string;
@@ -126,15 +126,15 @@ function formatSignedCompactTwd(amount: number): string {
   return `${sign}${formatCompactTwd(Math.abs(amount))}`;
 }
 
-const legislators = getAllLegislators();
-const partyMap = getPartyMap();
-const legislatorMap = new Map(legislators.map(l => [l.name, l]));
+const allPeople = getAllPeople();
+const peopleMap = getPeopleMap();
+const personMap = new Map(allPeople.map(l => [l.name, l]));
 
 const legislatorHoldings: LegislatorStockHolding[] = [];
 const stockMap = new Map<string, { name: string; ticker: string | null; holders: StockHolderEntry[] }>();
 
-for (const [name, mappedParty] of Object.entries(partyMap)) {
-  const l = legislatorMap.get(name);
+for (const [name, info] of Object.entries(peopleMap)) {
+  const l = personMap.get(name);
   const sourceStocks = l?.stocks || [];
   const stocks = sourceStocks
     .map(s => ({
@@ -159,7 +159,7 @@ for (const [name, mappedParty] of Object.entries(partyMap)) {
 
   legislatorHoldings.push({
     name,
-    party: l?.party || mappedParty || null,
+    party: l?.party || info.party || null,
     date: l?.date || '',
     hasData: !!l,
     stockCount: stocks.length,
@@ -232,16 +232,16 @@ const stockHoldings: StockAggregate[] = Array.from(stockMap.entries()).map(([key
 stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.holderCount);
 ---
 
-<Layout title="立委股票持股">
+<Layout title="📈 股票持股">
   <section class="header">
-    <h1>立委股票持股</h1>
+    <h1>📈 股票持股</h1>
     <p class="subtitle warning-note">注意：本頁資料假設自申報日起持有至今，且所有金額均以新臺幣（TWD）計算</p>
   </section>
 
   <div class="controls-row controls-compact">
     <div class="toggle-group" id="view-toggle">
       <button type="button" class="toggle-btn active" data-view="stock">依股票看</button>
-      <button type="button" class="toggle-btn" data-view="legislator">依立委看</button>
+      <button type="button" class="toggle-btn" data-view="legislator">依人物看</button>
     </div>
     <div class="toggle-group" id="stock-sort-toggle">
       <button type="button" class="toggle-btn active" data-sort="value">依總市值</button>
@@ -264,7 +264,7 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
   <div class="controls-row hidden" id="legislator-search-controls">
     <div class="search-box">
       <span class="search-icon" aria-hidden="true">🔍</span>
-      <input type="text" id="legislator-search-input" placeholder="搜尋立委姓名..." />
+      <input type="text" id="legislator-search-input" placeholder="搜尋姓名..." />
       <button type="button" class="search-clear hidden" id="legislator-search-clear" aria-label="清除搜尋">×</button>
     </div>
   </div>
@@ -311,7 +311,18 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
           <div class="stock-header" data-expandable>
             <span class="rank-num">{i + 1}</span>
             <div class="stock-info">
-              <span class="stock-name" style={`color: ${getPartyColor(h.party)}`}>{h.name}</span>
+              <div class="stock-name-row">
+                <span class="stock-name" style={`color: ${getPartyColor(h.party)}`}>{h.name}</span>
+                {(() => {
+                  const info = getPersonInfo(h.name);
+                  if (!info) return null;
+                  return (
+                    <span class="person-badge" style={`background: ${getPartyBgColor(h.party)}`} title={`${info.type === 'mayor' ? '縣市首長' : '立法委員'} · ${info.area}`}>
+                      {info.type === 'mayor' ? '長' : getPartyShortName(h.party)}
+                    </span>
+                  );
+                })()}
+              </div>
               <span class="stock-date">{h.date ? `申報日 ${h.date.replace(/-/g, '/')}` : '無資料'}</span>
             </div>
             <div class="stock-stats">
@@ -453,6 +464,17 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
   }
 
   .stock-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .stock-name-row { display: flex; align-items: center; gap: 5px; }
+  .person-badge {
+    font-size: 9px;
+    font-weight: 700;
+    color: #fff;
+    padding: 1px 3px;
+    border-radius: 3px;
+    line-height: 1.2;
+    flex-shrink: 0;
+    cursor: help;
+  }
   .stock-info-inline {
     flex-direction: row;
     align-items: center;
