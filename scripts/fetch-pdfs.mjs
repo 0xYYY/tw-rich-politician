@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { writeFile, mkdir, readFile } from "node:fs/promises";
+import { writeFile, mkdir, readFile, readdir, stat } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 
@@ -75,12 +75,12 @@ const progress = {
   },
 };
 
-async function queryPage(pageNo, searchValue) {
+async function queryPage(pageNo, searchValue, searchType = "title") {
   const res = await fetch(QUERY_URL, {
     method: "POST",
     headers: HEADERS,
     body: JSON.stringify({
-      Data: { Type: "title", Value: searchValue },
+      Data: { Type: searchType, Value: searchValue },
       Page: { PageNo: pageNo, PageSize: PAGE_SIZE, OrderByNum: 0, OrderBySort: "" },
     }),
   });
@@ -95,12 +95,37 @@ function publishTypeKey(publishType) {
   return m ? m[1] : "00";
 }
 
+function rocYearFromPublishDate(publishDate) {
+  const m = String(publishDate || "").match(/民國\s*(\d+)年/);
+  return m ? Number(m[1]) : null;
+}
+
+function rocDateCompact(publishDate) {
+  const m = String(publishDate || "").match(/民國\s*(\d+)年\s*(\d+)月\s*(\d+)日/);
+  if (!m) return "";
+  const y = m[1].padStart(3, "0");
+  const mm = m[2].padStart(2, "0");
+  const dd = m[3].padStart(2, "0");
+  return `${y}${mm}${dd}`;
+}
+
+function filingDirName(record) {
+  const disclosureCode = publishTypeKey(record.PublishType);
+  if (disclosureCode !== "11") return disclosureCode;
+
+  // Keep multiple 11 filings in the same year as separate records.
+  const dateKey = rocDateCompact(record.PublishDate) || "unknown-date";
+  const idKey = String(record.Id || "").replace(/[^\dA-Za-z_-]/g, "") || "unknown-id";
+  return `${disclosureCode}-${dateKey}-${idKey}`;
+}
+
 async function downloadRecord(record) {
   const disclosureCode = publishTypeKey(record.PublishType);
-  const dir = path.join(OUTPUT_DIR, record.Name, disclosureCode);
+  const filingKey = filingDirName(record);
+  const dir = path.join(OUTPUT_DIR, record.Name, filingKey);
   const pdfPath = path.join(dir, "original.pdf");
   const jsonPath = path.join(dir, "metadata.json");
-  const label = `${record.Name}/${disclosureCode}/${record.Period}-${record.PublishType}`;
+  const label = `${record.Name}/${filingKey}/${record.Period}-${record.PublishType}`;
 
   await mkdir(dir, { recursive: true });
 
@@ -133,6 +158,53 @@ async function downloadRecord(record) {
 
 const YEAR_PREFIXES = ["民國114年", "民國113年"];
 
+function normalizeComparableName(name) {
+  return String(name || "")
+    .replace(/^\d+\s*[-－]\s*/, "")
+    .replace(/[\s\u3000]/g, "")
+    .replace(/台/g, "臺")
+    .replace(/啓/g, "啟");
+}
+
+async function listPeopleWithLocalData() {
+  const covered = new Set();
+  let entries = [];
+  try {
+    entries = await readdir(OUTPUT_DIR, { withFileTypes: true });
+  } catch {
+    return covered;
+  }
+
+  for (const person of entries) {
+    if (!person.isDirectory()) continue;
+    if (person.name.startsWith(".") || person.name.startsWith("_")) continue;
+
+    const personDir = path.join(OUTPUT_DIR, person.name);
+    let filings = [];
+    try {
+      filings = await readdir(personDir, { withFileTypes: true });
+    } catch {
+      continue;
+    }
+
+    for (const filing of filings) {
+      if (!filing.isDirectory()) continue;
+      if (!/^\d{2}(?:-.+)?$/.test(filing.name)) continue;
+      const pdfPath = path.join(personDir, filing.name, "original.pdf");
+      try {
+        const s = await stat(pdfPath);
+        if (s.isFile()) {
+          covered.add(normalizeComparableName(person.name));
+          break;
+        }
+      } catch {
+        // ignore
+      }
+    }
+  }
+  return covered;
+}
+
 function filterAndCheck(records) {
   const matching = [];
   let seenOlder = false;
@@ -146,36 +218,86 @@ function filterAndCheck(records) {
   return { matching, seenOlder };
 }
 
-// For each person + publishType (01/02/04/09/...), keep only the latest record.
-// This keeps all filing kinds while removing older duplicates.
-function dedup(records) {
-  const byKey = new Map();
-  for (const r of records) {
-    const key = `${r.Name}__${publishTypeKey(r.PublishType)}`;
-    const existing = byKey.get(key);
-    if (!existing) {
-      byKey.set(key, r);
-      continue;
-    }
-    const a = Number(String(existing.Period || "").replace(/[^\d]/g, "")) || 0;
-    const b = Number(String(r.Period || "").replace(/[^\d]/g, "")) || 0;
-    if (b > a) {
-      byKey.set(key, r);
-    }
-  }
-  return [...byKey.values()];
+function periodNum(period) {
+  return Number(String(period || "").replace(/[^\d]/g, "")) || 0;
 }
 
-async function collectAllRecords(searchValue, titleFilter, allowedNames) {
+function isNewerRecord(a, b) {
+  // Return true when b is newer than a.
+  const pa = periodNum(a?.Period);
+  const pb = periodNum(b?.Period);
+  if (pb !== pa) return pb > pa;
+
+  const ya = rocYearFromPublishDate(a?.PublishDate) || 0;
+  const yb = rocYearFromPublishDate(b?.PublishDate) || 0;
+  if (yb !== ya) return yb > ya;
+
+  const da = rocDateCompact(a?.PublishDate);
+  const db = rocDateCompact(b?.PublishDate);
+  if (db !== da) return db > da;
+
+  return Number(b?.Id || 0) > Number(a?.Id || 0);
+}
+
+// Keep the latest record for most filing types.
+// Special rule for "11新增信託申報":
+// - keep only the latest available ROC year per person
+// - keep all distinct records in that year as separate filings
+function dedup(records) {
+  const byKey = new Map();
+  const trust11ByPerson = new Map();
+
+  for (const r of records) {
+    const code = publishTypeKey(r.PublishType);
+    if (code === "11") {
+      const person = r.Name;
+      const year = rocYearFromPublishDate(r.PublishDate) || 0;
+      const state = trust11ByPerson.get(person);
+
+      if (!state || year > state.year) {
+        trust11ByPerson.set(person, { year, records: [r] });
+        continue;
+      }
+      if (year === state.year) {
+        state.records.push(r);
+      }
+      continue;
+    }
+
+    const key = `${r.Name}__${code}`;
+    const existing = byKey.get(key);
+    if (!existing || isNewerRecord(existing, r)) byKey.set(key, r);
+  }
+
+  const trust11Records = [];
+  for (const { records: sameYearRecords } of trust11ByPerson.values()) {
+    const unique = new Map();
+    for (const r of sameYearRecords) {
+      const uniqueKey =
+        Number(r.Id || 0) > 0
+          ? `id:${r.Id}`
+          : `${r.Name}|${r.PublishType}|${r.PublishDate}|${r.Period || ""}`;
+      if (!unique.has(uniqueKey)) unique.set(uniqueKey, r);
+    }
+    trust11Records.push(...unique.values());
+  }
+
+  return [...byKey.values(), ...trust11Records];
+}
+
+async function collectAllRecords(searchValue, titleFilter, allowedNamesNorm, searchType = "title") {
   const allRecords = [];
   for (let page = 1; ; page++) {
     if (page > 1) await sleep(DELAY_MS);
-    process.stdout.write(`\rFetching ${searchValue} page ${page}...`);
-    const result = await queryPage(page, searchValue);
+    process.stdout.write(`\rFetching [${searchType || "all"}] ${searchValue} page ${page}...`);
+    const result = await queryPage(page, searchValue, searchType);
     let pageRecords = result.Data;
 
     if (titleFilter) pageRecords = pageRecords.filter((r) => titleFilter(r));
-    if (allowedNames) pageRecords = pageRecords.filter((r) => allowedNames.has(r.Name));
+    if (allowedNamesNorm)
+      pageRecords = pageRecords.filter((r) =>
+        allowedNamesNorm.has(normalizeComparableName(r.Name)),
+      );
 
     const { matching, seenOlder } = filterAndCheck(pageRecords);
     allRecords.push(...matching);
@@ -210,6 +332,7 @@ async function downloadAll(records) {
 async function main() {
   await mkdir(OUTPUT_DIR, { recursive: true });
   const peopleMap = JSON.parse(await readFile(PEOPLE_MAP_PATH, "utf8"));
+  const mappedNames = Object.keys(peopleMap);
   const legislatorNames = new Set(
     Object.entries(peopleMap)
       .filter(([, info]) => info.type === "legislator")
@@ -220,28 +343,70 @@ async function main() {
       .filter(([, info]) => info.type === "mayor")
       .map(([name]) => name),
   );
+  const legislatorNamesNorm = new Set([...legislatorNames].map(normalizeComparableName));
+  const mayorNamesNorm = new Set([...mayorNames].map(normalizeComparableName));
 
   // Fetch legislators
   console.log(`Fetching 立法委員 records for ${YEAR_PREFIXES.join(" + ")}...`);
   const legislatorRecords = await collectAllRecords(
     "立法委員",
     (r) => r.Title === "立法委員",
-    legislatorNames,
+    legislatorNamesNorm,
   );
   console.log(`  Found ${legislatorRecords.length} raw legislator records`);
 
   // Fetch mayors (市長 only, not 副市長)
   console.log(`Fetching 市長 records for ${YEAR_PREFIXES.join(" + ")}...`);
-  const mayorRecords = await collectAllRecords("市長", (r) => r.Title === "市長", mayorNames);
+  const mayorRecords = await collectAllRecords("市長", (r) => r.Title === "市長", mayorNamesNorm);
   console.log(`  Found ${mayorRecords.length} raw mayor records (filtered out 副市長)`);
 
+  const initialRaw = [...legislatorRecords, ...mayorRecords];
+  const namesSeenByTitle = new Set(initialRaw.map((r) => normalizeComparableName(r.Name)));
+  const locallyCoveredBeforeFallback = await listPeopleWithLocalData();
+  const missingNames = mappedNames.filter(
+    (name) => !locallyCoveredBeforeFallback.has(normalizeComparableName(name)),
+  );
+  const fallbackTargets = missingNames.filter(
+    (name) => !namesSeenByTitle.has(normalizeComparableName(name)),
+  );
+
+  const fallbackRecords = [];
+  if (fallbackTargets.length > 0) {
+    console.log(
+      `\nMissing in local data (people-mapping): ${missingNames.length}. ` +
+        `Trying direct name search for ${fallbackTargets.length} people...`,
+    );
+
+    for (const name of fallbackTargets) {
+      const info = peopleMap[name];
+      const titleFilter =
+        info?.type === "legislator"
+          ? (r) => /立法委員|院長|副院長/.test(String(r.Title || ""))
+          : info?.type === "mayor"
+            ? (r) => /市長|縣長/.test(String(r.Title || ""))
+            : null;
+
+      const direct = await collectAllRecords(
+        name,
+        titleFilter,
+        new Set([normalizeComparableName(name)]),
+        "",
+      );
+      if (direct.length > 0) fallbackRecords.push(...direct);
+      console.log(`  ${name}: ${direct.length > 0 ? `found ${direct.length}` : "not found"}`);
+    }
+  } else {
+    console.log("\nNo missing people requiring direct-name fallback search.");
+  }
+
   // Combine and dedup
-  const allRaw = [...legislatorRecords, ...mayorRecords];
+  const allRaw = [...initialRaw, ...fallbackRecords];
   const records = dedup(allRaw);
   const dropped = allRaw.length - records.length;
   progress.totalExpected = records.length;
   console.log(
-    `\nTotal: ${allRaw.length} raw → ${records.length} after dedup (dropped ${dropped} older duplicates)\n`,
+    `\nTotal: ${allRaw.length} raw (title + direct fallback) → ` +
+      `${records.length} after dedup (dropped ${dropped})\n`,
   );
 
   if (records.length > 0) await downloadAll(records);

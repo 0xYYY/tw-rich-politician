@@ -1,0 +1,16 @@
+curl 'https://priso.cy.gov.tw/api/Query/QueryData' \
+-X 'POST' \
+-H 'Content-Type: application/json' \
+-H 'Accept: application/json, text/plain, */*' \
+-H 'Sec-Fetch-Site: same-origin' \
+-H 'Accept-Language: en-GB,en;q=0.9' \
+-H 'Accept-Encoding: gzip, deflate, br' \
+-H 'Sec-Fetch-Mode: cors' \
+-H 'Origin: https://priso.cy.gov.tw' \
+-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15' \
+-H 'Referer: https://priso.cy.gov.tw/layout/baselist' \
+-H 'Content-Length: 122' \
+-H 'Sec-Fetch-Dest: empty' \
+-H 'Cookie: _ga_ZNT75JG6D8=GS2.1.s1772297301$o2$g0$t1772297301$j60$l0$h0' \
+-H 'Priority: u=3, i' \
+--data-raw $'{"Data":{"Type":"","Value":"\u738b\u60e0\u7f8e"},"Page":{"PageNo":1,"PageSize":20,"TotalCount":44,"OrderByNum":0,"OrderBySort":""}}'

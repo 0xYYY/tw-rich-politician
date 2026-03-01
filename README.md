@@ -129,6 +129,9 @@ This updates:
 
 - Coverage: 民國113年 (2024) and 民國114年 (2025) filings
 - Duplicate filings for same person and type: newer period is kept
+- `11新增信託申報` special handling:
+  - Keep only the latest available ROC year per person
+  - Within that year, keep multiple filings as separate records and sum during consolidation
 - Consolidation priority:
   - `01` (一般申報) is primary when available
   - `04` trust data is merged
@@ -142,6 +145,7 @@ This updates:
 data/
   {name}/
     {code}/
+    {code}-{date}-{id}/
       original.pdf
       metadata.json
       extracted.json
@@ -155,6 +159,8 @@ data/
 ```
 
 `{code}` is the 2-digit disclosure type from `PublishType` (for example `01`, `04`, `09`).
+For multiple `11新增信託申報` entries in the same year, folders are stored as
+`11-{rocDate}-{id}` so each filing remains separate.
 
 Ticker resolution priority during consolidate:
 1. `data/stock-ticker-overrides.json` (manual alias/override)

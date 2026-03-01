@@ -655,7 +655,7 @@ async function findAllPdfEntries() {
     const filings = await readdir(personDir, { withFileTypes: true });
     for (const filing of filings) {
       if (!filing.isDirectory()) continue;
-      if (!/^\d{2}$/.test(filing.name)) continue;
+      if (!/^\d{2}(?:-.+)?$/.test(filing.name)) continue;
 
       const filingDir = path.join(personDir, filing.name);
       const pdfPath = path.join(filingDir, "original.pdf");

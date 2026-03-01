@@ -736,9 +736,14 @@ async function main() {
 
   const normText = (s) => String(s || "").replace(/[\s\u3000]/g, "");
   const periodNum = (period) => Number(String(period || "").replace(/[^\d]/g, "")) || 0;
+  const publishDateNum = (publishDate) => {
+    const m = String(publishDate || "").match(/(\d+)年(\d+)月(\d+)日/);
+    if (!m) return 0;
+    return Number(`${m[1].padStart(3, "0")}${m[2].padStart(2, "0")}${m[3].padStart(2, "0")}`);
+  };
 
-  async function loadFiling(personDir, filingCode) {
-    const filingDir = path.join(DATA_DIR, personDir, filingCode);
+  async function loadFiling(personDir, filingEntry) {
+    const filingDir = path.join(DATA_DIR, personDir, filingEntry.dirName);
     const metadataPath = path.join(filingDir, "metadata.json");
     const extractedPath = path.join(filingDir, "extracted.json");
 
@@ -748,7 +753,8 @@ async function main() {
         readFile(extractedPath, "utf8"),
       ]);
       return {
-        code: filingCode,
+        key: filingEntry.dirName,
+        code: filingEntry.code,
         metadata: JSON.parse(metadataRaw),
         raw: JSON.parse(extractedRaw),
       };
@@ -766,7 +772,10 @@ async function main() {
       const pa = periodNum(a.metadata?.Period);
       const pb = periodNum(b.metadata?.Period);
       if (pb !== pa) return pb - pa;
-      return String(b.code).localeCompare(String(a.code), "zh-TW");
+      const da = publishDateNum(a.metadata?.PublishDate);
+      const db = publishDateNum(b.metadata?.PublishDate);
+      if (db !== da) return db - da;
+      return String(b.key || b.code).localeCompare(String(a.key || a.code), "zh-TW");
     });
     return candidates[0] || null;
   }
@@ -848,19 +857,24 @@ async function main() {
   for (const dir of dirs) {
     const personDir = path.join(DATA_DIR, dir);
     const filingDirEntries = await readdir(personDir, { withFileTypes: true });
-    const filingCodes = filingDirEntries
-      .filter((d) => d.isDirectory() && /^\d{2}$/.test(d.name))
-      .map((d) => d.name)
-      .sort((a, b) => a.localeCompare(b, "zh-TW"));
+    const filingEntries = filingDirEntries
+      .filter((d) => d.isDirectory())
+      .map((d) => {
+        const m = d.name.match(/^(\d{2})(?:-.+)?$/);
+        if (!m) return null;
+        return { dirName: d.name, code: m[1] };
+      })
+      .filter(Boolean)
+      .sort((a, b) => a.dirName.localeCompare(b.dirName, "zh-TW"));
 
-    if (filingCodes.length === 0) {
+    if (filingEntries.length === 0) {
       skipped++;
       continue;
     }
 
     const filings = [];
-    for (const code of filingCodes) {
-      const filing = await loadFiling(dir, code);
+    for (const filingEntry of filingEntries) {
+      const filing = await loadFiling(dir, filingEntry);
       if (filing) filings.push(filing);
     }
     // Exclude 09 (變動申報) entirely from consolidation.
