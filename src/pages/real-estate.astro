@@ -9,16 +9,16 @@ import SearchBar from '../components/ui/SearchBar.astro';
 const rankings = getRealEstateRankings('ping');
 const peopleMap = getPeopleMap();
 
-const REAL_ESTATE_TIER_COLORS = {
-  low: '#8C7A63',   // < 50
-  mid: '#5A6F7B',   // 50 ~ 100
-  high: '#7A5E8E',  // > 100
+const REAL_ESTATE_TIER_STYLES = {
+  low: 'tier-bronze',  // < 50
+  mid: 'tier-silver',  // 50 ~ 100
+  high: 'tier-gold',   // > 100
 } as const;
 
 function getRealEstateTier(ping: number) {
-  if (ping > 100) return { key: 'high', color: REAL_ESTATE_TIER_COLORS.high } as const;
-  if (ping >= 50) return { key: 'mid', color: REAL_ESTATE_TIER_COLORS.mid } as const;
-  return { key: 'low', color: REAL_ESTATE_TIER_COLORS.low } as const;
+  if (ping > 100) return { key: 'high', styleClass: REAL_ESTATE_TIER_STYLES.high } as const;
+  if (ping >= 50) return { key: 'mid', styleClass: REAL_ESTATE_TIER_STYLES.mid } as const;
+  return { key: 'low', styleClass: REAL_ESTATE_TIER_STYLES.low } as const;
 }
 ---
 
@@ -34,9 +34,9 @@ function getRealEstateTier(ping: number) {
         <div class="mb-6 flex items-center justify-between gap-2">
           <div class="min-w-0 flex-1 overflow-x-auto">
             <div class="flex w-max items-center gap-2 whitespace-nowrap">
-              <div class="flex items-center gap-1"><div class="h-2.5 w-2.5 shrink-0 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.high};`}></div><span class="font-[var(--font-mono)] text-[10px] text-[var(--color-text-muted)]">&gt; 100 坪</span></div>
-              <div class="flex items-center gap-1"><div class="h-2.5 w-2.5 shrink-0 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.mid};`}></div><span class="font-[var(--font-mono)] text-[10px] text-[var(--color-text-muted)]">50 ~ 100 坪</span></div>
-              <div class="flex items-center gap-1"><div class="h-2.5 w-2.5 shrink-0 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.low};`}></div><span class="font-[var(--font-mono)] text-[10px] text-[var(--color-text-muted)]">&lt; 50 坪</span></div>
+              <span class="tier-chip tier-gold">&gt; 100 坪</span>
+              <span class="tier-chip tier-silver">50 ~ 100 坪</span>
+              <span class="tier-chip tier-bronze">&lt; 50 坪</span>
             </div>
           </div>
           <SegmentedToggle
@@ -85,11 +85,11 @@ function getRealEstateTier(ping: number) {
                     </span>
                     <span class="font-[var(--font-mono)] text-xs text-[var(--color-text-muted)]">
                       <span class="font-bold text-[var(--color-text-secondary)]">{r.propertyCount.toLocaleString('en-US')}</span> 筆
-                      <span class="ml-1 inline-flex items-center gap-1.5">
+                      <span class="ml-1 inline-flex items-center gap-1">
                         <span>(</span>
-                        <span class="inline-flex items-center gap-1"><span class="inline-block h-2 w-2 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.high};`}></span><span class="font-bold text-[var(--color-text-secondary)]">{tierCounts.high.toLocaleString('en-US')}</span></span>
-                        <span class="inline-flex items-center gap-1"><span class="inline-block h-2 w-2 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.mid};`}></span><span class="font-bold text-[var(--color-text-secondary)]">{tierCounts.mid.toLocaleString('en-US')}</span></span>
-                        <span class="inline-flex items-center gap-1"><span class="inline-block h-2 w-2 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.low};`}></span><span class="font-bold text-[var(--color-text-secondary)]">{tierCounts.low.toLocaleString('en-US')}</span></span>
+                        <span class="tier-chip tier-chip-sm tier-gold">{tierCounts.high.toLocaleString('en-US')}</span>
+                        <span class="tier-chip tier-chip-sm tier-silver">{tierCounts.mid.toLocaleString('en-US')}</span>
+                        <span class="tier-chip tier-chip-sm tier-bronze">{tierCounts.low.toLocaleString('en-US')}</span>
                         <span>)</span>
                       </span>
                     </span>
@@ -102,17 +102,17 @@ function getRealEstateTier(ping: number) {
                       .sort((a, b) => b.effectiveAreaPing - a.effectiveAreaPing)
                       .map(b => {
                         const { city, detail } = parseCity(b.location);
-                        const tierColor = getRealEstateTier(b.effectiveAreaPing).color;
+                        const tier = getRealEstateTier(b.effectiveAreaPing);
                         return (
-                          <div class="building-card min-w-0 overflow-hidden rounded-none border-2" style={`border-color: ${tierColor};`}>
-                          <div class="flex items-center justify-center px-1.5 py-[5px]" style={`background: ${tierColor};`}>
-                              <span class="text-[12px] font-extrabold tracking-[0.03em] text-white">{city}</span>
+                          <div class={`building-card min-w-0 overflow-hidden rounded-none ${tier.styleClass}`}>
+                          <div class="building-card-head flex items-center justify-center px-1.5 py-[5px]">
+                              <span class="building-card-city text-[12px] font-extrabold tracking-[0.03em]">{city}</span>
                           </div>
                           <div class="flex flex-col items-center gap-0.5 bg-[var(--color-surface)] px-1.5 py-2">
                               <span class="text-[9px] text-[var(--color-text-secondary)]">{detail}</span>
                               <span class="inline-flex items-baseline justify-center gap-1">
                                 <span aria-hidden="true" class="select-none text-[9px] text-transparent">坪</span>
-                                <span class="font-[var(--font-mono)] text-xl font-extrabold" style={`color: ${tierColor};`}>{formatPing(b.effectiveAreaPing)}</span>
+                                <span class="building-card-value font-[var(--font-mono)] text-xl font-extrabold">{formatPing(b.effectiveAreaPing)}</span>
                                 <span class="text-[9px] text-[var(--color-text-muted)]">坪</span>
                               </span>
                           </div>
@@ -134,6 +134,45 @@ function getRealEstateTier(ping: number) {
 <style>
   .hidden { display: none; }
 
+  .tier-chip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0;
+    border: 1px solid color-mix(in srgb, var(--tier-border, var(--color-border)) 68%, var(--color-border));
+    background: color-mix(in srgb, var(--tier-accent) 13%, transparent);
+    color: var(--tier-text);
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    padding: 2px 6px;
+    white-space: nowrap;
+  }
+  .tier-chip-sm {
+    font-size: 9px;
+    padding: 1px 4px;
+  }
+
+  .tier-gold {
+    --tier-border: #b79a5f;
+    --tier-accent: #d8bf7d;
+    --tier-text: #d8bf7d;
+  }
+
+  .tier-silver {
+    --tier-border: #96a2b8;
+    --tier-accent: #bdc9dc;
+    --tier-text: #bdc9dc;
+  }
+
+  .tier-bronze {
+    --tier-border: #9b6f4e;
+    --tier-accent: #cc9974;
+    --tier-text: #cc9974;
+  }
+
   /* Rank number colors */
   .rank-num { color: var(--color-text-muted); }
   .rank-card.filtered-out { display: none !important; }
@@ -147,6 +186,35 @@ function getRealEstateTier(ping: number) {
     padding: 0 16px 14px;
   }
   .rank-card.expanded .cards-container { display: grid; }
+
+  .building-card {
+    position: relative;
+    border: 1px solid var(--tier-border);
+    border-color: var(--tier-border);
+    background: var(--color-surface);
+  }
+  .building-card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, var(--tier-accent), color-mix(in srgb, var(--tier-accent) 38%, transparent));
+    pointer-events: none;
+  }
+  .building-card-head {
+    background: color-mix(in srgb, var(--tier-accent) 8%, transparent);
+    border-bottom: 1px solid color-mix(in srgb, var(--tier-border) 58%, var(--color-border-light));
+  }
+  .building-card-city {
+    color: var(--tier-text);
+    text-shadow: none;
+  }
+  .building-card-value {
+    color: var(--tier-text);
+    text-shadow: none;
+  }
 </style>
 
 <script>

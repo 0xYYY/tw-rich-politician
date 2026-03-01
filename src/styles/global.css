@@ -18,9 +18,10 @@
     --accent-purple: #bb9af7;
 
     /* Party colors */
-    --color-dpp: var(--accent-green);
-    --color-kmt: var(--accent-blue);
-    --color-tpp: var(--accent-cyan);
+    /* Official party hues (Wikidata P465 sRGB hex triplet) */
+    --color-dpp: #1b9431;
+    --color-kmt: #000099;
+    --color-tpp: #40e0d0;
     --color-independent: #787c99;
 
     /* Real estate tier colors */
@@ -204,15 +205,15 @@ h3 {
 .person-meta {
     --party-color: var(--color-independent);
     display: inline-grid;
-    grid-template-columns: calc(
-            var(--person-meta-top-height) + var(--person-meta-bottom-height)
-        ) minmax(0, 1fr);
+    grid-template-columns:
+        calc(var(--person-meta-top-height) + var(--person-meta-bottom-height))
+        minmax(0, 1fr);
     grid-template-rows: var(--person-meta-top-height) var(--person-meta-bottom-height);
     width: var(--person-meta-width);
     border-radius: 0;
     border: 1px solid var(--color-border);
     overflow: hidden;
-    background: var(--bg-card);
+    background-color: var(--bg-card);
     flex-shrink: 0;
 }
 
@@ -232,7 +233,7 @@ h3 {
     grid-column: 2;
     grid-row: 1;
     background: var(--party-color);
-    color: color-mix(in srgb, var(--party-color) 45%, black);
+    color: var(--party-area-text, color-mix(in srgb, var(--party-color) 45%, black));
     display: flex;
     align-items: center;
     justify-content: center;
@@ -252,11 +253,11 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--bg-card);
+    background-color: var(--bg-card);
     text-align: center;
     padding: 0 6px;
     font-size: 13px;
-    color: var(--party-color);
+    color: var(--party-name-text, var(--party-color));
     font-weight: 700;
     line-height: 1;
     white-space: nowrap;
@@ -266,11 +267,11 @@ h3 {
 }
 
 .person-meta[class] {
-    background: var(--bg-card) !important;
+    background-color: var(--bg-card) !important;
 }
 
 .person-meta[class] .person-meta-name {
-    background: var(--bg-card) !important;
+    background-color: var(--bg-card) !important;
 }
 
 .blueprint-theme {

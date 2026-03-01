@@ -399,7 +399,9 @@ const latestStockPriceDate = Object.keys(stockPriceCache)
     flex-direction: column;
     gap: 0;
     padding: 0 38px 10px 34px;
-    background: rgba(26, 26, 28, 0.36);
+    background-color: rgba(26, 26, 28, 0.36);
+    background-image: radial-gradient(circle at 1px 1px, rgba(169, 177, 214, 0.08) 0.55px, transparent 0.75px);
+    background-size: 7px 7px;
     border-top: 1px solid var(--color-border-light);
   }
   :global(.stock-breakdown.open) { display: flex; }
@@ -644,11 +646,25 @@ const latestStockPriceDate = Object.keys(stockPriceCache)
       return 'var(--color-independent)';
     }
 
+    function getPartyAreaTextColor(party) {
+      if (party === '民主進步黨') return '#103d1d';
+      if (party === '中國國民黨') return '#dbe3ff';
+      if (party === '台灣民眾黨') return '#083d3a';
+      return '#1f2436';
+    }
+
+    function getPartyNameTextColor(party) {
+      if (party === '中國國民黨') return '#7aa2f7';
+      if (party === '民主進步黨') return 'var(--color-dpp)';
+      if (party === '台灣民眾黨') return 'var(--color-tpp)';
+      return 'var(--color-independent)';
+    }
+
     function buildPersonMeta(name, party) {
       const info = peopleMeta[name];
       if (!info) return '';
       const typeIcon = info.type === 'mayor' ? '🏙️' : '🏛️';
-      return `<span class="person-meta person-meta-grid" style="--party-color:${getPartyColor(party)}"><span class="person-meta-emoji">${typeIcon}</span><span class="person-meta-area">${info.area}</span><span class="person-meta-name">${name}</span></span>`;
+      return `<span class="person-meta person-meta-grid" style="--party-color:${getPartyColor(party)};--party-area-text:${getPartyAreaTextColor(party)};--party-name-text:${getPartyNameTextColor(party)}"><span class="person-meta-emoji">${typeIcon}</span><span class="person-meta-area">${info.area}</span><span class="person-meta-name">${name}</span></span>`;
     }
 
     function formatRankLabel(rank) {

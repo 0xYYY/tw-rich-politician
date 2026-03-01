@@ -83,8 +83,52 @@
     "ticker": "2887",
     "market": "twse"
   },
+  "台新金己": {
+    "ticker": "2887",
+    "market": "twse"
+  },
   "中華開發金控": {
     "ticker": "2883",
+    "market": "twse"
+  },
+  "第一金控": {
+    "ticker": "2892",
+    "market": "twse"
+  },
+  "華南金控": {
+    "ticker": "2880",
+    "market": "twse"
+  },
+  "國票金控": {
+    "ticker": "2889",
+    "market": "twse"
+  },
+  "F-中租": {
+    "ticker": "5871",
+    "market": "twse"
+  },
+  "台灣百和": {
+    "ticker": "9938",
+    "market": "twse"
+  },
+  "明泰科技": {
+    "ticker": "3380",
+    "market": "twse"
+  },
+  "新麥企業": {
+    "ticker": "1580",
+    "market": "tpex"
+  },
+  "豐興鋼鐵": {
+    "ticker": "2015",
+    "market": "twse"
+  },
+  "先進光電": {
+    "ticker": "3362",
+    "market": "tpex"
+  },
+  "勝華 (未交付信託原 因：已下市無需信託)": {
+    "ticker": "2384",
     "market": "twse"
   },
   "台新金控": {
@@ -133,6 +177,10 @@
   },
   "國泰全球品牌50": {
     "ticker": "00916",
+    "market": "twse"
+  },
+  "國 票金 (未 交付 信託 原 因：年代久遠遺失)": {
+    "ticker": "2889",
     "market": "twse"
   },
   "亞太電舊": {
@@ -195,6 +243,10 @@
     "ticker": "6289",
     "market": "twse"
   },
+  "華 南金 (未 交付 信託 原 因：年代久遠遺失)": {
+    "ticker": "2880",
+    "market": "twse"
+  },
   "合富－KY": {
     "ticker": "4745",
     "market": "tpex"
@@ -219,12 +271,20 @@
     "ticker": "9917",
     "market": "twse"
   },
+  "中 石化 (未 交付 信託 原 因：年代久遠遺失)": {
+    "ticker": "1314",
+    "market": "twse"
+  },
   "華碩電腦": {
     "ticker": "2357",
     "market": "twse"
   },
   "太電": {
     "ticker": "1602",
+    "market": "twse"
+  },
+  "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)": {
+    "ticker": "2892",
     "market": "twse"
   },
   "富邦綜合證券股份有限公 司/勝華 (未交付信託原 因：已下市無需信託)": {
@@ -282,6 +342,18 @@
   "SY HOLDINGS": {
     "ticker": "SY",
     "market": "foreign"
+  },
+  "聖暉": {
+    "ticker": "5536",
+    "market": "tpex"
+  },
+  "大 眾控 (未 交付 信託 原 因：年代久遠遺失)": {
+    "ticker": "3701",
+    "market": "twse"
+  },
+  "合機公司": {
+    "ticker": "1618",
+    "market": "twse"
   },
   "91APP*-KY": {
     "ticker": "6741",

@@ -155,6 +155,32 @@ export function getPartyColor(party: string | null): string {
   }
 }
 
+export function getPartyAreaTextColor(party: string | null): string {
+  switch (party) {
+    case "民主進步黨":
+      return "#103d1d";
+    case "中國國民黨":
+      return "#dbe3ff";
+    case "台灣民眾黨":
+      return "#083d3a";
+    default:
+      return "#1f2436";
+  }
+}
+
+export function getPartyNameTextColor(party: string | null): string {
+  switch (party) {
+    case "民主進步黨":
+      return "var(--color-dpp)";
+    case "中國國民黨":
+      return "#7aa2f7";
+    case "台灣民眾黨":
+      return "var(--color-tpp)";
+    default:
+      return "var(--color-independent)";
+  }
+}
+
 export function getPartyShortName(party: string | null): string {
   switch (party) {
     case "民主進步黨":
@@ -205,11 +231,35 @@ export function formatPing(ping: number): string {
   return ping.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 
+function normalizePropertyLocationText(raw: string): string {
+  return (
+    raw
+      .replace(/\r?\n/g, " ")
+      .replace(/\s+/g, " ")
+      // OCR line-break artifacts inside CJK text should not be kept.
+      .replace(/([○\u4e00-\u9fff])\s+(?=[○\u4e00-\u9fff])/g, "$1")
+      .replace(/([○\u4e00-\u9fff])\s+([（(])/g, "$1$2")
+      .replace(/([：:])\s+/g, "$1")
+      .replace(/未交付\s+信託原因/g, "未交付信託原因")
+      .trim()
+  );
+}
+
+function stripPropertyDisplayNotes(raw: string): string {
+  return raw
+    .replace(/[（(]\s*稅籍號碼[:：][^）)]*[）)]/g, "")
+    .replace(/[（(]\s*未交付信託原因[:：][^）)]*[）)]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 /** Extract city + district from location string like "臺北市信義區永春段一小段" */
 export function parseCity(location: string): { city: string; detail: string } {
-  const m = location.match(/^(.+?[市縣])(.+?[區鄉鎮市])(.+)/);
+  const normalized = normalizePropertyLocationText(location);
+  const cleaned = stripPropertyDisplayNotes(normalized);
+  const m = cleaned.match(/^(.+?[市縣])(.+?[區鄉鎮市])(.+)/);
   if (m) return { city: m[1] + m[2], detail: m[3] };
-  return { city: location.slice(0, 6), detail: location.slice(6) };
+  return { city: cleaned.slice(0, 6), detail: cleaned.slice(6) };
 }
 
 export interface RealEstateRanking {
