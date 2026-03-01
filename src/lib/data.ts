@@ -67,16 +67,12 @@ export interface PersonInfo {
   area: string;
 }
 
-// Load all consolidated JSON files at build time (both numbered and plain dirs)
-const numberedModules = import.meta.glob<PersonData>("../../data/consolidated/[0-9]*.json", {
+// Load per-person consolidated JSON files at build time.
+const plainModules = import.meta.glob<PersonData>("../../data/*/consolidated.json", {
   eager: true,
   import: "default",
 });
-const plainModules = import.meta.glob<PersonData>("../../data/consolidated/[!0-9_]*.json", {
-  eager: true,
-  import: "default",
-});
-const modules = { ...numberedModules, ...plainModules };
+const modules = { ...plainModules };
 
 // Load people mapping
 const peopleMappingModules = import.meta.glob<Record<string, PersonInfo>>(
@@ -177,13 +173,13 @@ export function getPartyShortName(party: string | null): string {
 export function getPartyBgColor(party: string | null): string {
   switch (party) {
     case "民主進步黨":
-      return "#1B9431";
+      return "var(--color-dpp)";
     case "中國國民黨":
-      return "#2D6CC0";
+      return "var(--color-kmt)";
     case "台灣民眾黨":
-      return "#28C8C8";
+      return "var(--color-tpp)";
     default:
-      return "#888";
+      return "var(--color-independent)";
   }
 }
 
@@ -195,16 +191,18 @@ export function getTierColor(ping: number): string {
 }
 
 export function formatAmount(amount: number): string {
-  if (amount >= 1_0000_0000) return `${(amount / 1_0000_0000).toFixed(1)} 億`;
-  if (amount >= 1_0000) return `${Math.round(amount / 1_0000)} 萬`;
-  return amount.toLocaleString();
+  if (amount >= 1_0000_0000) {
+    return `${new Intl.NumberFormat("en-US", { minimumFractionDigits: 1, maximumFractionDigits: 1 }).format(amount / 1_0000_0000)} 億`;
+  }
+  if (amount >= 1_0000) return `${Math.round(amount / 1_0000).toLocaleString("en-US")} 萬`;
+  return amount.toLocaleString("en-US");
 }
 
 export function formatPing(ping: number): string {
-  if (ping >= 1000) return ping.toLocaleString("en-US", { maximumFractionDigits: 0 });
-  if (ping >= 100) return ping.toFixed(0);
-  if (ping >= 10) return ping.toFixed(1);
-  return ping.toFixed(2);
+  if (ping >= 100) return ping.toLocaleString("en-US", { maximumFractionDigits: 0 });
+  if (ping >= 10)
+    return ping.toLocaleString("en-US", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  return ping.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 
 /** Extract city + district from location string like "臺北市信義區永春段一小段" */

@@ -1,205 +1,166 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getRealEstateRankings, formatPing, parseCity, getTierColor } from '../lib/data';
-import type { RealEstateRanking } from '../lib/data';
+import { getRealEstateRankings, formatPing, parseCity, getPeopleMap } from '../lib/data';
 import PersonMeta from '../components/PersonMeta.astro';
-import InfoPopover from '../components/InfoPopover.astro';
+import PageHeader from '../components/ui/PageHeader.astro';
+import SegmentedToggle from '../components/ui/SegmentedToggle.astro';
+import SearchBar from '../components/ui/SearchBar.astro';
 
 const rankings = getRealEstateRankings('ping');
+const peopleMap = getPeopleMap();
+
+const REAL_ESTATE_TIER_COLORS = {
+  low: '#8C7A63',   // < 50
+  mid: '#5A6F7B',   // 50 ~ 100
+  high: '#7A5E8E',  // > 100
+} as const;
+
+function getRealEstateTier(ping: number) {
+  if (ping > 100) return { key: 'high', color: REAL_ESTATE_TIER_COLORS.high } as const;
+  if (ping >= 50) return { key: 'mid', color: REAL_ESTATE_TIER_COLORS.mid } as const;
+  return { key: 'low', color: REAL_ESTATE_TIER_COLORS.low } as const;
+}
 ---
 
-<Layout title="🏘️ 不動產排行榜">
-  <section class="header">
-    <div class="page-headline">
-      <h1>🏠 不動產排行榜</h1>
-      <InfoPopover>
-        <p>坪數為依申報資料推算之持分後坪數，不代表市價與實際可使用面積。</p>
-        <p>資料含申報人、配偶與未成年子女名下項目，僅供跨人比較。</p>
-      </InfoPopover>
-    </div>
-    <p class="subtitle">含本人及配偶、未成年子女申報之建物</p>
-  </section>
+<Layout title="🏠 不動產" fullBleed={true} bodyClass="blueprint-theme page-accent-purple">
+  <div class="blueprint-page min-h-dvh">
+    <section class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto w-full max-w-6xl px-5 pb-10 pt-6 md:px-8 md:pb-12 md:pt-8">
+        <PageHeader title="🏠 不動產" subtitle="依申報資料推算之持分後坪數">
+          <p>坪數不代表市價與實際可使用面積，僅供跨人比較。</p>
+          <p>本頁計算皆包含本人、配偶及未成年子女之申報資料。</p>
+        </PageHeader>
 
-  <div class="sort-toggle" id="sort-toggle">
-    <button class="toggle-btn active" data-sort="ping">依總坪數</button>
-    <button class="toggle-btn" data-sort="count">依筆數</button>
-  </div>
-
-  <div id="ranking-list">
-    {rankings.map((r, i) => (
-      <div
-        class={`rank-card ${i < 5 ? 'expanded' : ''}`}
-        data-ping={r.totalPing.toFixed(2)}
-        data-count={r.propertyCount}
-        data-name={r.name}
-        data-party={r.party}
-        data-buildings={JSON.stringify(r.buildings)}
-      >
-        <div class="rank-header" data-expandable>
-          <span class={`rank-num ${i < 5 ? 'top' : ''}`}>{i + 1}</span>
-          <div class="rank-info">
-            <PersonMeta name={r.name} party={r.party} />
+        <div class="mb-6 flex items-center justify-between gap-2">
+          <div class="min-w-0 flex-1 overflow-x-auto">
+            <div class="flex w-max items-center gap-2 whitespace-nowrap">
+              <div class="flex items-center gap-1"><div class="h-2.5 w-2.5 shrink-0 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.high};`}></div><span class="font-[var(--font-mono)] text-[10px] text-[var(--color-text-muted)]">&gt; 100 坪</span></div>
+              <div class="flex items-center gap-1"><div class="h-2.5 w-2.5 shrink-0 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.mid};`}></div><span class="font-[var(--font-mono)] text-[10px] text-[var(--color-text-muted)]">50 ~ 100 坪</span></div>
+              <div class="flex items-center gap-1"><div class="h-2.5 w-2.5 shrink-0 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.low};`}></div><span class="font-[var(--font-mono)] text-[10px] text-[var(--color-text-muted)]">&lt; 50 坪</span></div>
+            </div>
           </div>
-          <div class="rank-stats">
-            <span class="stat-primary">
-              {r.totalPing > 0 ? formatPing(r.totalPing) : '0'}
-              <span class="stat-unit">坪</span>
-            </span>
-            <span class="stat-secondary">{r.propertyCount} 筆</span>
-          </div>
+          <SegmentedToggle
+            id="sort-toggle"
+            className="ml-2 shrink-0 sort-toggle"
+            variant="sort"
+            active="ping"
+            dataKey="sort"
+            items={[
+              { value: 'ping', label: '依總坪數' },
+              { value: 'count', label: '依筆數' },
+            ]}
+          />
         </div>
-        {r.buildings.length > 0 && (
-          <div class="cards-container">
-            {r.buildings
-              .sort((a, b) => b.effectiveAreaPing - a.effectiveAreaPing)
-              .map(b => {
-                const { city, detail } = parseCity(b.location);
-                const tierColor = getTierColor(b.effectiveAreaPing);
-                return (
-                  <div class="property-card" style={`border-color: ${tierColor};`}>
-                    <div class="card-header" style={`background: ${tierColor};`}>
-                      <span class="card-city">{city}</span>
-                    </div>
-                    <div class="card-body">
-                      <span class="card-detail">{detail}</span>
-                      <span class="card-ping" style={`color: ${tierColor};`}>{formatPing(b.effectiveAreaPing)}</span>
-                      <span class="card-unit">坪</span>
-                    </div>
-                  </div>
-                );
-              })}
-          </div>
-        )}
-      </div>
-    ))}
-  </div>
 
-  <div class="legend">
-    <span class="legend-title">坪數分級</span>
-    <div class="legend-items">
-      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-1);"></div><span>&lt; 30 坪</span></div>
-      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-2);"></div><span>30 – 60 坪</span></div>
-      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-3);"></div><span>60 – 100 坪</span></div>
-      <div class="legend-item"><div class="legend-dot" style="background: var(--color-tier-4);"></div><span>&gt; 100 坪</span></div>
-    </div>
+        <div class="mb-4 flex gap-3">
+          <SearchBar inputId="search-input" clearId="search-clear" placeholder="搜尋姓名或選區/縣市..." />
+        </div>
+
+        <div class="mb-6 flex flex-col gap-3" id="ranking-list">
+          {rankings.map((r, i) => {
+            const tierCounts = { low: 0, mid: 0, high: 0 };
+            for (const b of r.buildings) {
+              const tier = getRealEstateTier(b.effectiveAreaPing);
+              tierCounts[tier.key]++;
+            }
+            return (
+              <div
+                class={`bp-crosshair rank-card overflow-hidden rounded-none bg-[var(--color-surface)] ${i === 0 ? 'expanded' : ''}`}
+                data-ping={r.totalPing.toFixed(2)}
+                data-count={r.propertyCount}
+                data-name={r.name}
+                data-area={peopleMap[r.name]?.area || ''}
+                data-party={r.party}
+                data-buildings={JSON.stringify(r.buildings)}
+              >
+                <div class="flex cursor-pointer items-center gap-3 px-4 py-3.5" data-expandable>
+                  <span class="rank-num w-6 shrink-0 text-right font-[var(--font-mono)] text-sm font-bold">{i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : i + 1}</span>
+                  <div class="rank-info flex flex-1 flex-col gap-0.5">
+                    <PersonMeta name={r.name} party={r.party} />
+                  </div>
+                  <div class="flex shrink-0 flex-col items-end gap-0.5">
+                    <span class="font-[var(--font-mono)] text-base font-extrabold tabular-nums">
+                      {r.totalPing > 0 ? formatPing(r.totalPing) : '0'}
+                      <span class="text-xs font-medium text-[var(--color-text-muted)]">坪</span>
+                    </span>
+                    <span class="font-[var(--font-mono)] text-xs text-[var(--color-text-muted)]">
+                      <span class="font-bold text-[var(--color-text-secondary)]">{r.propertyCount.toLocaleString('en-US')}</span> 筆
+                      <span class="ml-1 inline-flex items-center gap-1.5">
+                        <span>(</span>
+                        <span class="inline-flex items-center gap-1"><span class="inline-block h-2 w-2 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.high};`}></span><span class="font-bold text-[var(--color-text-secondary)]">{tierCounts.high.toLocaleString('en-US')}</span></span>
+                        <span class="inline-flex items-center gap-1"><span class="inline-block h-2 w-2 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.mid};`}></span><span class="font-bold text-[var(--color-text-secondary)]">{tierCounts.mid.toLocaleString('en-US')}</span></span>
+                        <span class="inline-flex items-center gap-1"><span class="inline-block h-2 w-2 rounded-none" style={`background:${REAL_ESTATE_TIER_COLORS.low};`}></span><span class="font-bold text-[var(--color-text-secondary)]">{tierCounts.low.toLocaleString('en-US')}</span></span>
+                        <span>)</span>
+                      </span>
+                    </span>
+                  </div>
+                  <svg class="chevron shrink-0 text-[var(--color-text-muted)] transition-transform duration-200" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                </div>
+                {r.buildings.length > 0 && (
+                  <div class="cards-container">
+                    {r.buildings
+                      .sort((a, b) => b.effectiveAreaPing - a.effectiveAreaPing)
+                      .map(b => {
+                        const { city, detail } = parseCity(b.location);
+                        const tierColor = getRealEstateTier(b.effectiveAreaPing).color;
+                        return (
+                          <div class="building-card min-w-0 overflow-hidden rounded-none border-2" style={`border-color: ${tierColor};`}>
+                          <div class="flex items-center justify-center px-1.5 py-[5px]" style={`background: ${tierColor};`}>
+                              <span class="text-[12px] font-extrabold tracking-[0.03em] text-white">{city}</span>
+                          </div>
+                          <div class="flex flex-col items-center gap-0.5 bg-[var(--color-surface)] px-1.5 py-2">
+                              <span class="text-[9px] text-[var(--color-text-secondary)]">{detail}</span>
+                              <span class="inline-flex items-baseline justify-center gap-1">
+                                <span aria-hidden="true" class="select-none text-[9px] text-transparent">坪</span>
+                                <span class="font-[var(--font-mono)] text-xl font-extrabold" style={`color: ${tierColor};`}>{formatPing(b.effectiveAreaPing)}</span>
+                                <span class="text-[9px] text-[var(--color-text-muted)]">坪</span>
+                              </span>
+                          </div>
+                          </div>
+                        );
+                      })}
+                  </div>
+                )}
+              </div>
+            );
+          })}
+        </div>
+
+      </div>
+    </section>
   </div>
 </Layout>
 
 <style>
-  .header { margin-bottom: var(--section-gap); }
-  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
-  .subtitle { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
+  .hidden { display: none; }
 
-  .sort-toggle {
-    display: flex;
-    padding: 3px;
-    border: 1px solid rgba(16, 30, 46, 0.16);
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.72);
-    margin-bottom: 16px;
-  }
-  .toggle-btn {
-    flex: 1;
-    padding: 9px 14px;
-    font-size: 13px;
-    font-weight: 600;
-    color: #566274;
-    transition: all 0.18s;
-    border-radius: 999px;
-  }
-  .toggle-btn.active {
-    background: linear-gradient(135deg, #7a5a12, #b78518);
-    color: #fff;
-    box-shadow: 0 4px 10px rgba(122, 90, 18, 0.26);
-  }
+  /* Rank number colors */
+  .rank-num { color: var(--color-text-muted); }
+  .rank-card.filtered-out { display: none !important; }
+  .rank-card.expanded .chevron { transform: rotate(180deg); }
 
-  #ranking-list {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    margin-bottom: 24px;
-  }
-
-  .rank-card {
-    background: var(--color-surface);
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-  }
-
-  .rank-header {
-    display: flex;
-    align-items: center;
-    padding: 14px 16px;
-    gap: 12px;
-    cursor: pointer;
-  }
-
-  .rank-num {
-    font-family: var(--font-mono);
-    font-size: 18px;
-    font-weight: 800;
-    width: 28px;
-    flex-shrink: 0;
-    color: #aaa;
-  }
-  .rank-num.top { color: var(--color-tier-4); }
-
-  .rank-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
-  .rank-info :global(.person-meta) { max-width: 170px; }
-
-  .rank-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
-  .stat-primary { font-family: var(--font-mono); font-size: 16px; font-weight: 700; }
-  .stat-unit { font-size: 12px; font-weight: 500; color: var(--color-text-muted); }
-  .stat-secondary { font-family: var(--font-mono); font-size: 12px; color: var(--color-text-muted); }
-
+  /* Expand/collapse property cards */
   .cards-container {
     display: none;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 8px;
     padding: 0 16px 14px;
   }
-  .rank-card.expanded .cards-container { display: flex; }
-
-  .property-card {
-    width: 100px;
-    border-radius: 8px;
-    overflow: hidden;
-    border: 2px solid;
-  }
-  .card-header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 6px 6px 5px;
-  }
-  .card-city { font-size: 9px; font-weight: 700; color: #fff; letter-spacing: 0.05em; }
-  .card-body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 8px 6px;
-    gap: 2px;
-    background: #fff;
-  }
-  .card-detail { font-size: 8px; color: var(--color-text-muted); }
-  .card-ping { font-family: var(--font-mono); font-size: 18px; font-weight: 800; }
-  .card-unit { font-size: 9px; color: var(--color-text-muted); }
-
-  .legend {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding-top: 16px;
-  }
-  .legend-title { font-size: 12px; font-weight: 600; color: var(--color-text-muted); }
-  .legend-items { display: flex; gap: 12px; flex-wrap: wrap; }
-  .legend-item { display: flex; align-items: center; gap: 6px; }
-  .legend-dot { width: 12px; height: 12px; border-radius: 3px; flex-shrink: 0; }
-  .legend-item span { font-family: var(--font-mono); font-size: 11px; color: #666; }
+  .rank-card.expanded .cards-container { display: grid; }
 </style>
 
 <script>
+  function formatRankLabel(rank) {
+    if (rank === 1) return '🥇';
+    if (rank === 2) return '🥈';
+    if (rank === 3) return '🥉';
+    return String(rank);
+  }
+
+  function normalizeSearchText(value) {
+    return value.toLowerCase().replace(/台/g, '臺');
+  }
+
   // Expand/collapse
   document.querySelectorAll('[data-expandable]').forEach(header => {
     header.addEventListener('click', () => {
@@ -210,6 +171,32 @@ const rankings = getRealEstateRankings('ping');
   // Sort toggle
   const toggle = document.getElementById('sort-toggle')!;
   const list = document.getElementById('ranking-list')!;
+  const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
+  const searchClear = document.getElementById('search-clear') as HTMLButtonElement | null;
+
+  function updateVisibleRanks() {
+    let rank = 1;
+    const cards = Array.from(list.querySelectorAll('.rank-card'));
+    cards.forEach(card => {
+      const num = card.querySelector('.rank-num');
+      if (!num || card.classList.contains('filtered-out')) return;
+      num.textContent = formatRankLabel(rank++);
+    });
+  }
+
+  function applySearchFilter() {
+    if (!searchInput) return;
+    const query = normalizeSearchText(searchInput.value.trim());
+    const cards = Array.from(list.querySelectorAll('.rank-card'));
+    cards.forEach(card => {
+      const name = normalizeSearchText(card.getAttribute('data-name') || '');
+      const area = normalizeSearchText(card.getAttribute('data-area') || '');
+      const matched = query === '' || name.includes(query) || area.includes(query);
+      card.classList.toggle('filtered-out', !matched);
+    });
+    searchClear?.classList.toggle('hidden', query.length === 0);
+    updateVisibleRanks();
+  }
 
   toggle.addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest('.toggle-btn');
@@ -220,6 +207,11 @@ const rankings = getRealEstateRankings('ping');
 
     const sortBy = btn.getAttribute('data-sort');
     const cards = Array.from(list.querySelectorAll('.rank-card'));
+    const expandedNames = new Set(
+      cards
+        .filter(card => card.classList.contains('expanded'))
+        .map(card => card.getAttribute('data-name') || '')
+    );
 
     cards.sort((a, b) => {
       if (sortBy === 'count') {
@@ -231,11 +223,19 @@ const rankings = getRealEstateRankings('ping');
     });
 
     // Re-render
-    cards.forEach((card, i) => {
-      const num = card.querySelector('.rank-num')!;
-      num.textContent = String(i + 1);
-      num.classList.toggle('top', i < 5);
-      list.appendChild(card);
+    cards.forEach(card => list.appendChild(card));
+    cards.forEach(card => {
+      const name = card.getAttribute('data-name') || '';
+      card.classList.toggle('expanded', expandedNames.has(name));
     });
+    updateVisibleRanks();
+  });
+
+  searchInput?.addEventListener('input', applySearchFilter);
+  searchClear?.addEventListener('click', () => {
+    if (!searchInput) return;
+    searchInput.value = '';
+    applySearchFilter();
+    searchInput.focus();
   });
 </script>

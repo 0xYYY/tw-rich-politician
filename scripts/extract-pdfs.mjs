@@ -1,11 +1,81 @@
 #!/usr/bin/env node
 
 import { convert } from "@opendataloader/pdf";
-import { readFile, writeFile, readdir, stat, mkdir, rm, symlink } from "fs/promises";
+import { readFile, writeFile, readdir, stat, mkdir, rm, symlink, access } from "fs/promises";
+import { constants as fsConstants } from "node:fs";
+import { spawnSync } from "node:child_process";
 import path from "node:path";
+import os from "node:os";
 
 const DATA_DIR = path.resolve(import.meta.dirname, "../data");
 const TEMP_DIR = path.resolve(import.meta.dirname, "../.tmp-extract");
+
+async function fileIsExecutable(filePath) {
+  try {
+    await access(filePath, fsConstants.X_OK);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function javaIsCallable() {
+  const res = spawnSync("java", ["-version"], { stdio: "ignore" });
+  return res.status === 0;
+}
+
+async function ensureJavaRuntime() {
+  if (javaIsCallable()) return;
+
+  const javaHomes = [
+    process.env.JAVA_HOME || "",
+    "/opt/homebrew/opt/openjdk/libexec/openjdk.jdk/Contents/Home",
+    "/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home",
+    "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home",
+    "/usr/local/opt/openjdk/libexec/openjdk.jdk/Contents/Home",
+    "/usr/local/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home",
+    "/usr/local/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home",
+  ].filter(Boolean);
+
+  const javaBinCandidates = [
+    "/opt/homebrew/opt/openjdk/bin/java",
+    "/opt/homebrew/opt/openjdk@21/bin/java",
+    "/opt/homebrew/opt/openjdk@17/bin/java",
+    "/usr/local/opt/openjdk/bin/java",
+    "/usr/local/opt/openjdk@21/bin/java",
+    "/usr/local/opt/openjdk@17/bin/java",
+    ...javaHomes.map((home) => path.join(home, "bin/java")),
+  ];
+
+  for (const javaBin of javaBinCandidates) {
+    if (!(await fileIsExecutable(javaBin))) continue;
+    const javaHome = path.dirname(path.dirname(javaBin));
+    process.env.JAVA_HOME = javaHome;
+    process.env.PATH = `${path.dirname(javaBin)}:${process.env.PATH || ""}`;
+    if (javaIsCallable()) {
+      console.log(`Using Java runtime: ${javaBin}`);
+      return;
+    }
+  }
+
+  throw new Error(
+    [
+      "Java runtime is required by @opendataloader/pdf but was not found in PATH.",
+      "If installed via Homebrew, run:",
+      "  echo 'export PATH=\"/opt/homebrew/opt/openjdk/bin:$PATH\"' >> ~/.zshrc",
+      "  echo 'export JAVA_HOME=\"$(/usr/libexec/java_home)\"' >> ~/.zshrc",
+      "Then restart shell and retry `npm run extract-pdfs`.",
+    ].join("\n"),
+  );
+}
+
+function ensureHeadlessJava() {
+  const key = "JAVA_TOOL_OPTIONS";
+  const headlessFlag = "-Djava.awt.headless=true";
+  const current = process.env[key] || "";
+  if (current.includes(headlessFlag)) return;
+  process.env[key] = current ? `${current} ${headlessFlag}` : headlessFlag;
+}
 
 // ── Helpers ──
 
@@ -151,7 +221,8 @@ function identifyTable(table) {
   if (cells.some((c) => c.includes("建物標示"))) return "building";
   if (cells.some((c) => c.includes("廠牌"))) return "vehicle";
   // Deposits: "存放機構" + "種類" + "幣別" (distinguish from crypto table which also has 存放機構)
-  if (cells.some((c) => c.includes("存放機構")) && cells.some((c) => c.includes("幣別"))) return "deposit";
+  if (cells.some((c) => c.includes("存放機構")) && cells.some((c) => c.includes("幣別")))
+    return "deposit";
   if (cells.some((c) => c.includes("股數"))) return "stock";
   if (cells.some((c) => c.includes("投資事業") || c.includes("投資金額"))) return "investment";
   // Credits (十): 種類 | 債權人 | 債務人及地址 | ...
@@ -248,6 +319,9 @@ function mergeContRows(rows) {
 
 function parseLandOrBuilding(rows) {
   const items = [];
+  const headerNorm = (rows[0] || []).map((c) => norm(c)).join("|");
+  const isTrustProperty =
+    headerNorm.includes("信託前所有權人") || headerNorm.includes("信託前所有人");
   const merged = mergeContRows(rows);
   // Skip header row (first row has labels like 土地坐落/建物標示)
   for (let i = 1; i < merged.length; i++) {
@@ -256,15 +330,28 @@ function parseLandOrBuilding(rows) {
     if (norm(row.join("")).includes("本欄空白")) continue;
     if (norm(row[0]).includes("監察院公報")) continue;
 
-    items.push({
-      location: row[0] || "",
-      area: parseFloat(row[1]?.replace(/[,\s]/g, "")) || 0,
-      share: row[2] || "",
-      owner: row[3] || "",
-      date: row[4]?.replace(/\s/g, "") || "",
-      reason: row[5] || "",
-      price: row[6] || "",
-    });
+    if (isTrustProperty) {
+      // 信託表: 標示 | 面積 | 持分 | 信託前所有權人 | 受託人 | 移轉登記完成日期
+      items.push({
+        location: row[0] || "",
+        area: parseFloat(row[1]?.replace(/[,\s]/g, "")) || 0,
+        share: row[2] || "",
+        owner: row[3] || "",
+        date: row[5]?.replace(/\s/g, "") || "",
+        reason: row[4] ? `受託人:${row[4]}` : "",
+        price: "",
+      });
+    } else {
+      items.push({
+        location: row[0] || "",
+        area: parseFloat(row[1]?.replace(/[,\s]/g, "")) || 0,
+        share: row[2] || "",
+        owner: row[3] || "",
+        date: row[4]?.replace(/\s/g, "") || "",
+        reason: row[5] || "",
+        price: row[6] || "",
+      });
+    }
   }
   return items;
 }
@@ -314,9 +401,13 @@ function parseStocks(rows) {
   const items = [];
   if (!rows.length) return items;
 
-  // Detect format: 一般申報 has 5 cols, 變動申報 has 8 cols
+  // Detect format:
+  // - 變動申報: includes 「證券交易商」
+  // - 信託申報: includes 「信託前所有人」/「受託人」
+  // - 一般申報: 名稱, 所有人, 股數, 票面價額, 外幣幣別, 新臺幣總額
   const headerCells = rows[0].map((c) => norm(c));
   const isChange = headerCells.some((c) => c.includes("證券交易商"));
+  const isTrust = headerCells.some((c) => c.includes("信託前所有人") || c.includes("受託人"));
 
   const merged = mergeContRows(rows);
   for (let i = 1; i < merged.length; i++) {
@@ -334,6 +425,18 @@ function parseStocks(rows) {
         pricePerShare: row[4] || "",
         changeDate: row[5]?.replace(/\s/g, "") || "",
         changeReason: row[6] || "",
+        totalValue: parseNumber(row[row.length - 1]),
+      });
+    } else if (isTrust) {
+      // 信託: 名稱, 股數, 信託前所有人, 受託人, 移轉日期, 票面價額, 總額
+      items.push({
+        name: row[0] || "",
+        owner: row[2] || "",
+        shares: parseNumber(row[1]),
+        trustee: row[3] || "",
+        transferDate: row[4]?.replace(/\s/g, "") || "",
+        faceValue: parseNumber(row[5]),
+        foreignCurrency: "",
         totalValue: parseNumber(row[row.length - 1]),
       });
     } else {
@@ -494,7 +597,9 @@ function parseDocument(doc) {
 
   const totals = collectSectionTotals(kids);
 
-  const header = identified.header ? parseHeader(identified.header) : { name: "", org: "", title: "", date: "", type: "" };
+  const header = identified.header
+    ? parseHeader(identified.header)
+    : { name: "", org: "", title: "", date: "", type: "" };
   const family = identified.header ? parseFamily(identified.header) : [];
 
   return {
@@ -504,14 +609,29 @@ function parseDocument(doc) {
     buildings: identified.building ? parseLandOrBuilding(identified.building) : [],
     vehicles: identified.vehicle ? parseVehicles(identified.vehicle) : [],
     cash: { total: totals["六"] || 0 },
-    deposits: { total: totals["七"] || 0, items: identified.deposit ? parseDeposits(identified.deposit) : [] },
-    stocks: { total: totals._stock || 0, items: identified.stock ? parseStocks(identified.stock) : [] },
+    deposits: {
+      total: totals["七"] || 0,
+      items: identified.deposit ? parseDeposits(identified.deposit) : [],
+    },
+    stocks: {
+      total: totals._stock || 0,
+      items: identified.stock ? parseStocks(identified.stock) : [],
+    },
     funds: { items: identified.fund ? parseFunds(identified.fund) : [] },
     insurance: { items: identified.insurance ? parseInsurance(identified.insurance) : [] },
     valuables: { items: identified.valuable ? parseValuables(identified.valuable) : [] },
-    credits: { total: totals["十"] || 0, items: identified.credit ? parseCredits(identified.credit) : [] },
-    debts: { total: totals["十一"] || 0, items: identified.debt ? parseDebts(identified.debt) : [] },
-    investments: { total: totals["十二"] || 0, items: identified.investment ? parseInvestments(identified.investment) : [] },
+    credits: {
+      total: totals["十"] || 0,
+      items: identified.credit ? parseCredits(identified.credit) : [],
+    },
+    debts: {
+      total: totals["十一"] || 0,
+      items: identified.debt ? parseDebts(identified.debt) : [],
+    },
+    investments: {
+      total: totals["十二"] || 0,
+      items: identified.investment ? parseInvestments(identified.investment) : [],
+    },
   };
 }
 
@@ -524,115 +644,114 @@ function formatTime(seconds) {
   return `${m}m${s}s`;
 }
 
-async function findAllPdfs() {
-  const pdfs = [];
-  const dirs = await readdir(DATA_DIR);
-  for (const dir of dirs) {
-    const dirPath = path.join(DATA_DIR, dir);
-    const s = await stat(dirPath);
-    if (!s.isDirectory()) continue;
-    // Look in subdirs (ordinary/, change/)
-    const subdirs = await readdir(dirPath);
-    for (const sub of subdirs) {
-      const subPath = path.join(dirPath, sub);
-      const ss = await stat(subPath);
-      if (!ss.isDirectory()) continue;
-      const files = await readdir(subPath);
-      for (const file of files) {
-        if (file.endsWith(".pdf")) pdfs.push(path.join(subPath, file));
+async function findAllPdfEntries() {
+  const entries = [];
+  const people = await readdir(DATA_DIR, { withFileTypes: true });
+  for (const person of people) {
+    if (!person.isDirectory()) continue;
+    if (person.name.startsWith(".") || person.name.startsWith("_")) continue;
+
+    const personDir = path.join(DATA_DIR, person.name);
+    const filings = await readdir(personDir, { withFileTypes: true });
+    for (const filing of filings) {
+      if (!filing.isDirectory()) continue;
+      if (!/^\d{2}$/.test(filing.name)) continue;
+
+      const filingDir = path.join(personDir, filing.name);
+      const pdfPath = path.join(filingDir, "original.pdf");
+      const extractedPath = path.join(filingDir, "extracted.json");
+
+      try {
+        const s = await stat(pdfPath);
+        if (s.isFile()) entries.push({ pdfPath, extractedPath });
+      } catch {
+        // ignore subdirs without original.pdf
       }
     }
   }
-  return pdfs;
+  entries.sort((a, b) => a.pdfPath.localeCompare(b.pdfPath, "zh-TW"));
+  return entries;
+}
+
+function readConcurrencyArg() {
+  const arg = process.argv.find((a) => a.startsWith("--concurrency="));
+  if (!arg) return null;
+  const n = Number(arg.split("=")[1]);
+  if (!Number.isFinite(n) || n < 1) return null;
+  return Math.floor(n);
+}
+
+function getConcurrency(totalEntries) {
+  const fromArg = readConcurrencyArg();
+  const fromEnv = Number(process.env.EXTRACT_CONCURRENCY || "");
+  const cpuBasedDefault = Math.max(1, Math.min(4, os.cpus().length - 1));
+  const raw =
+    fromArg ?? (Number.isFinite(fromEnv) && fromEnv > 0 ? Math.floor(fromEnv) : cpuBasedDefault);
+  return Math.max(1, Math.min(raw, totalEntries));
 }
 
 async function main() {
-  const allPdfs = await findAllPdfs();
-  console.log(`Found ${allPdfs.length} PDFs to extract\n`);
-  if (allPdfs.length === 0) return;
+  await ensureJavaRuntime();
+  ensureHeadlessJava();
+  if (process.argv.includes("--check-java")) {
+    console.log("Java runtime check passed.");
+    return;
+  }
+
+  const entries = await findAllPdfEntries();
+  console.log(`Found ${entries.length} PDFs to extract\n`);
+  if (entries.length === 0) return;
+  const concurrency = getConcurrency(entries.length);
+  console.log(`Using concurrency: ${concurrency}\n`);
 
   const startTime = Date.now();
   await rm(TEMP_DIR, { recursive: true, force: true });
+  await mkdir(TEMP_DIR, { recursive: true });
 
-  // Symlink all PDFs into a flat temp dir with unique names: "001-丁學忠__262-01一般申報.pdf"
-  const linkDir = path.join(TEMP_DIR, "links");
-  await mkdir(linkDir, { recursive: true });
-
-  // Map: unique json output name -> original pdf path
-  const pdfMap = new Map();
-  for (const pdf of allPdfs) {
-    const subDir = path.basename(path.dirname(pdf)); // ordinary or change
-    const personDir = path.basename(path.dirname(path.dirname(pdf))); // 001-丁學忠
-    const baseName = path.basename(pdf);
-    const uniqueName = `${personDir}__${subDir}__${baseName}`;
-    pdfMap.set(uniqueName.replace(/\.pdf$/, ".json"), pdf);
-    await symlink(pdf, path.join(linkDir, uniqueName));
-  }
-
-  const linkFiles = (await readdir(linkDir)).filter((f) => f.endsWith(".pdf")).map((f) => path.join(linkDir, f));
-
-  console.log(`Converting ${linkFiles.length} PDFs in a single batch...`);
-  let usedFallback = false;
-  try {
-    await convert(linkFiles, { format: "json", outputDir: TEMP_DIR, quiet: true });
-  } catch (err) {
-    usedFallback = true;
-    console.warn(`Batch conversion failed (${err.message}). Falling back to one-by-one conversion...`);
-    let converted = 0;
-    let convertErrors = 0;
-    for (const [jsonName, origPdf] of pdfMap) {
-      const singleDir = path.join(TEMP_DIR, "single", String(converted + 1));
-      try {
-        await rm(singleDir, { recursive: true, force: true });
-        await mkdir(singleDir, { recursive: true });
-        await convert([origPdf], { format: "json", outputDir: singleDir, quiet: true });
-
-        const jsonFiles = (await readdir(singleDir)).filter((f) => f.endsWith(".json"));
-        if (jsonFiles.length === 0) throw new Error("No JSON output");
-
-        const srcJson = path.join(singleDir, jsonFiles[0]);
-        const destJson = path.join(TEMP_DIR, jsonName);
-        await writeFile(destJson, await readFile(srcJson, "utf-8"));
-      } catch {
-        convertErrors++;
-      }
-      converted++;
-      const elapsed = (Date.now() - startTime) / 1000;
-      const pct = Math.round((converted / allPdfs.length) * 100);
-      process.stdout.write(
-        `\r[${formatTime(elapsed)}] ${pct}% Converting ${converted}/${allPdfs.length}  ConvertErr: ${convertErrors}  `,
-      );
-    }
-    process.stdout.write("\n");
-  }
-  const convertTime = (Date.now() - startTime) / 1000;
-  console.log(`Conversion done in ${formatTime(convertTime)}${usedFallback ? " (fallback mode)" : ""}\n`);
-
-  // Parse each converted JSON and write extracted output
   let processed = 0;
   let errors = 0;
-  for (const [jsonName, origPdf] of pdfMap) {
-    const jsonFile = path.join(TEMP_DIR, jsonName);
-    const outFile = origPdf.replace(/\.pdf$/, ".extracted.json");
-    try {
-      const doc = JSON.parse(await readFile(jsonFile, "utf-8"));
-      const result = fixMojibakeDeep(parseDocument(doc));
-      await writeFile(outFile, JSON.stringify(result, null, 2));
-    } catch (err) {
-      errors++;
-      console.error(`\n  ERROR ${path.relative(DATA_DIR, origPdf)}: ${err.message}`);
+
+  let nextIndex = 0;
+  async function worker(workerId) {
+    while (true) {
+      const index = nextIndex++;
+      if (index >= entries.length) return;
+      const entry = entries[index];
+      const workerDir = path.join(TEMP_DIR, `worker-${workerId}-${index}`);
+
+      try {
+        await rm(workerDir, { recursive: true, force: true });
+        await mkdir(workerDir, { recursive: true });
+        await convert([entry.pdfPath], { format: "json", outputDir: workerDir, quiet: true });
+
+        const jsonFiles = (await readdir(workerDir)).filter((f) => f.endsWith(".json"));
+        if (jsonFiles.length === 0) throw new Error("No JSON output");
+
+        const doc = JSON.parse(await readFile(path.join(workerDir, jsonFiles[0]), "utf-8"));
+        const result = fixMojibakeDeep(parseDocument(doc));
+        await writeFile(entry.extractedPath, JSON.stringify(result, null, 2));
+      } catch (err) {
+        errors++;
+        console.error(`\n  ERROR ${path.relative(DATA_DIR, entry.pdfPath)}: ${err.message}`);
+      } finally {
+        processed++;
+        const elapsed = (Date.now() - startTime) / 1000;
+        const pct = Math.round((processed / entries.length) * 100);
+        process.stdout.write(
+          `\r[${formatTime(elapsed)}] ${pct}% Extracting ${processed}/${entries.length}  Err: ${errors}  `,
+        );
+      }
     }
-    processed++;
-    const elapsed = (Date.now() - startTime) / 1000;
-    const pct = Math.round((processed / allPdfs.length) * 100);
-    process.stdout.write(`\r[${formatTime(elapsed)}] ${pct}% Parsing ${processed}/${allPdfs.length}  Err: ${errors}  `);
   }
+  await Promise.all(Array.from({ length: concurrency }, (_, i) => worker(i + 1)));
 
   // Cleanup temp dir
   await rm(TEMP_DIR, { recursive: true, force: true });
 
   const elapsed = (Date.now() - startTime) / 1000;
-  console.log(`\n\nDone in ${formatTime(elapsed)} — ${allPdfs.length} extracted (${errors} errors)`);
+  console.log(
+    `\n\nDone in ${formatTime(elapsed)} — ${entries.length} extracted (${errors} errors)`,
+  );
 }
 
 main().catch((err) => {

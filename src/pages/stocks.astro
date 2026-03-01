@@ -2,7 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import { getAllPeople, getPartyColor, getPeopleMap } from '../lib/data';
 import PersonMeta from '../components/PersonMeta.astro';
-import InfoPopover from '../components/InfoPopover.astro';
+import PageHeader from '../components/ui/PageHeader.astro';
+import SegmentedToggle from '../components/ui/SegmentedToggle.astro';
+import SearchBar from '../components/ui/SearchBar.astro';
+import stockPriceCache from '../../data/stock-price-cache.json';
 
 interface LegislatorStockItem {
   name: string;
@@ -23,6 +26,7 @@ interface LegislatorStockHolding {
   totalShares: number;
   totalCurrentValue: number;
   totalReturnValue: number;
+  totalReturnPct: number | null;
   hasCurrentValueData: boolean;
   hasReturnData: boolean;
   stocks: LegislatorStockItem[];
@@ -119,13 +123,19 @@ function formatCompactTwd(amount: number): string {
   if (!Number.isFinite(amount) || amount <= 0) return 'NT$ —';
   if (amount >= 1_0000_0000) return `NT$ ${(amount / 1_0000_0000).toFixed(1)} 億`;
   if (amount >= 1_0000) return `NT$ ${(amount / 1_0000).toFixed(1)} 萬`;
-  return `NT$ ${Math.round(amount).toLocaleString()}`;
+  return `NT$ ${Math.round(amount).toLocaleString('en-US')}`;
 }
 
 function formatSignedCompactTwd(amount: number): string {
   if (!Number.isFinite(amount) || amount === 0) return 'NT$ 0';
   const sign = amount > 0 ? '+' : '-';
   return `${sign}${formatCompactTwd(Math.abs(amount))}`;
+}
+
+function formatSignedPct(pct: number | null): string {
+  if (pct == null || !Number.isFinite(pct)) return '—';
+  const sign = pct > 0 ? '+' : '';
+  return `${sign}${pct.toFixed(1)}%`;
 }
 
 const allPeople = getAllPeople();
@@ -156,6 +166,11 @@ for (const [name, info] of Object.entries(peopleMap)) {
     if (s.latestPrice == null || s.priceAtDisclosure == null) return sum;
     return sum + (s.latestPrice - s.priceAtDisclosure) * s.shares;
   }, 0);
+  const totalReturnBase = stocks.reduce((sum, s) => {
+    if (s.latestPrice == null || s.priceAtDisclosure == null) return sum;
+    return sum + (s.priceAtDisclosure * s.shares);
+  }, 0);
+  const totalReturnPct = totalReturnBase > 0 ? (totalReturnValue / totalReturnBase) * 100 : null;
   const hasCurrentValueData = stocks.some(s => s.latestPrice != null);
   const hasReturnData = stocks.some(s => s.latestPrice != null && s.priceAtDisclosure != null);
 
@@ -168,6 +183,7 @@ for (const [name, info] of Object.entries(peopleMap)) {
     totalShares,
     totalCurrentValue,
     totalReturnValue,
+    totalReturnPct,
     hasCurrentValueData,
     hasReturnData,
     stocks,
@@ -232,56 +248,74 @@ const stockHoldings: StockAggregate[] = Array.from(stockMap.entries()).map(([key
 
 // Default view sort: by total value, then by number of legislators holding
 stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.holderCount);
+
+const latestStockPriceDate = Object.keys(stockPriceCache)
+  .filter((key) => !key.startsWith('USDTWD:'))
+  .map((key) => key.match(/:(\d{4}-\d{2}-\d{2})$/)?.[1] || '')
+  .filter(Boolean)
+  .sort()
+  .at(-1) || '';
 ---
 
-<Layout title="📈 股票持股">
-  <section class="header">
-    <div class="page-headline">
-      <h1>📈 股票持股</h1>
-      <InfoPopover>
-        <p>市值與報酬為估算值，假設申報後持有至今，未納入股利、交易成本與途中調整。</p>
-        <p>海外標的先取美元報價，再換算為新臺幣，與實際申報口徑可能有差異。</p>
-      </InfoPopover>
-    </div>
-    <p class="subtitle warning-note">本頁以「申報時點 vs. 近期收盤」推估，不等同真實損益</p>
-  </section>
+<Layout title="📈 股票" fullBleed={true} bodyClass="blueprint-theme page-accent-red">
+  <div class="blueprint-page min-h-dvh">
+    <section class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto w-full max-w-6xl px-5 pb-10 pt-6 md:px-8 md:pb-12 md:pt-8">
+  <PageHeader title="📈 股票" subtitle="報酬計算假設申報後持有至今">
+    <p>市值為估算值；報酬計算假設申報後持有至今，未納入股利、交易成本與途中調整。</p>
+    <p>海外標的先取美元報價，再換算為新臺幣，與實際申報口徑可能有差異。</p>
+    <p>最新股價資料日期：{latestStockPriceDate || '—'}</p>
+    <p>本頁計算皆包含本人、配偶及未成年子女之申報資料。</p>
+  </PageHeader>
 
-  <div class="controls-row controls-compact">
-    <div class="toggle-group view-toggle" id="view-toggle">
-      <button type="button" class="toggle-btn view-btn active" data-view="stock">依股票看</button>
-      <button type="button" class="toggle-btn view-btn" data-view="legislator">依人物看</button>
-    </div>
-    <div class="toggle-group sort-toggle" id="stock-sort-toggle">
-      <button type="button" class="toggle-btn sort-btn active" data-sort="value">依總市值</button>
-      <button type="button" class="toggle-btn sort-btn" data-sort="person">依持有人數</button>
-    </div>
-    <div class="toggle-group sort-toggle hidden" id="legislator-sort-toggle">
-      <button type="button" class="toggle-btn sort-btn active" data-sort="value">依目前總值</button>
-      <button type="button" class="toggle-btn sort-btn" data-sort="return">依總報酬</button>
-    </div>
+  <div class="mb-2 flex flex-wrap items-center gap-3">
+    <SegmentedToggle
+      id="view-toggle"
+      variant="view"
+      active="stock"
+      dataKey="view"
+      items={[
+        { value: 'stock', label: '依股票看' },
+        { value: 'legislator', label: '依人物看' },
+      ]}
+    />
+    <SegmentedToggle
+      id="stock-sort-toggle"
+      className="ml-auto sort-toggle"
+      variant="sort"
+      active="value"
+      dataKey="sort"
+      items={[
+        { value: 'value', label: '依總市值' },
+        { value: 'person', label: '依持有人數' },
+      ]}
+    />
+    <SegmentedToggle
+      id="legislator-sort-toggle"
+      className="ml-auto sort-toggle hidden"
+      variant="sort"
+      active="value"
+      dataKey="sort"
+      items={[
+        { value: 'value', label: '依目前總值' },
+        { value: 'return', label: '依總報酬' },
+      ]}
+    />
   </div>
 
-  <div class="controls-row" id="stock-search-controls">
-    <div class="search-box">
-      <span class="search-icon" aria-hidden="true">🔍</span>
-      <input type="text" id="stock-search-input" placeholder="搜尋股票名稱或代號..." />
-      <button type="button" class="search-clear hidden" id="stock-search-clear" aria-label="清除搜尋">×</button>
-    </div>
+  <div class="mb-2 flex gap-3" id="stock-search-controls">
+    <SearchBar inputId="stock-search-input" clearId="stock-search-clear" placeholder="搜尋股票名稱或代號..." />
   </div>
 
-  <div class="controls-row hidden" id="legislator-search-controls">
-    <div class="search-box">
-      <span class="search-icon" aria-hidden="true">🔍</span>
-      <input type="text" id="legislator-search-input" placeholder="搜尋姓名..." />
-      <button type="button" class="search-clear hidden" id="legislator-search-clear" aria-label="清除搜尋">×</button>
-    </div>
+  <div class="mb-2 flex gap-3 hidden" id="legislator-search-controls">
+    <SearchBar inputId="legislator-search-input" clearId="legislator-search-clear" placeholder="搜尋姓名或選區/縣市..." />
   </div>
 
   <section id="stock-panel" class="panel active">
-    <div id="stock-list">
+    <div id="stock-list" class="flex flex-col gap-0.5">
       {stockHoldings.map((s, i) => (
         <div
-          class="stock-card"
+          class="bp-crosshair stock-card overflow-hidden rounded-none bg-[var(--color-surface)]"
           data-card-type="stock"
           data-person={s.holderCount}
           data-shares={s.totalShares}
@@ -291,14 +325,14 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
           data-ticker={s.ticker || ''}
           data-holders={JSON.stringify(s.holders)}
         >
-          <div class="stock-header" data-expandable>
-            <span class="rank-num">{i + 1}</span>
-            <div class="stock-info stock-info-inline">
-              <span class="stock-name">{s.displayName}</span>
-              <span class="stock-exchange">{s.exchangeTicker}</span>
-              <span class="stock-inline-value">{formatCompactTwd(s.totalValue)}（{s.holderCount}人）</span>
+          <div class="flex cursor-pointer items-center gap-2.5 px-3.5 py-3" data-expandable>
+            <span class="rank-num w-6 shrink-0 text-right font-[var(--font-mono)] text-sm font-bold text-[var(--color-text-muted)]">{i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : i + 1}</span>
+            <div class="flex min-w-0 flex-1 flex-row items-center gap-2">
+              <span class="text-sm font-bold">{s.displayName}</span>
+              <span class="whitespace-nowrap font-[var(--font-mono)] text-[11px] text-[var(--color-text-muted)]">{s.exchangeTicker}</span>
+              <span class="ml-auto whitespace-nowrap font-[var(--font-mono)] text-[13px] font-bold text-[var(--color-text)]">{formatCompactTwd(s.totalValue)}（{s.holderCount.toLocaleString('en-US')}人）</span>
             </div>
-            <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+            <svg class="chevron shrink-0 text-[var(--color-text-muted)] transition-transform duration-200" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
           </div>
         </div>
       ))}
@@ -306,245 +340,67 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
   </section>
 
   <section id="legislator-panel" class="panel">
-    <div id="ranking-list">
+    <div id="ranking-list" class="flex flex-col gap-0.5">
       {legislatorHoldings.map((h, i) => (
         <div
-          class="stock-card"
+          class="bp-crosshair stock-card overflow-hidden rounded-none bg-[var(--color-surface)]"
           data-card-type="legislator"
           data-value={h.totalCurrentValue}
           data-return={h.totalReturnValue}
           data-name={h.name}
+          data-area={peopleMap[h.name]?.area || ''}
           data-stocks={JSON.stringify(h.stocks)}
         >
-          <div class="stock-header" data-expandable>
-            <span class="rank-num">{i + 1}</span>
-            <div class="stock-info">
-              <div class="stock-name-row">
+          <div class="flex cursor-pointer items-center gap-2.5 px-3.5 py-3" data-expandable>
+            <span class="rank-num w-6 shrink-0 text-right font-[var(--font-mono)] text-sm font-bold text-[var(--color-text-muted)]">{i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : i + 1}</span>
+            <div class="min-w-0 flex-1">
+              <div class="flex min-w-0 items-start gap-2">
                 <PersonMeta name={h.name} party={h.party} />
-                {h.date ? <span class="stock-date">{`申報日 ${h.date.replace(/-/g, '/')}`}</span> : null}
               </div>
             </div>
-            <div class="stock-stats">
-              <span class="stat-primary">{h.hasCurrentValueData ? formatCompactTwd(h.totalCurrentValue) : 'NT$ —'}</span>
-              <span class={`stat-secondary ${h.hasReturnData ? (h.totalReturnValue >= 0 ? 'stat-gain' : 'stat-loss') : ''}`}>
-                報酬 {h.hasReturnData ? formatSignedCompactTwd(h.totalReturnValue) : 'NT$ —'}
+            <div class="flex shrink-0 flex-col items-end gap-0.5">
+              <span class="font-[var(--font-mono)] text-[13px] font-bold text-[var(--color-text)]">{h.hasCurrentValueData ? formatCompactTwd(h.totalCurrentValue) : 'NT$ —'}</span>
+              <span class={`main-return font-[var(--font-mono)] text-[11px] ${h.hasReturnData ? (h.totalReturnValue > 0 ? 'gain' : (h.totalReturnValue < 0 ? 'loss' : '')) : ''}`}>
+                報酬 {h.hasReturnData ? `${formatSignedCompactTwd(h.totalReturnValue)} / ${formatSignedPct(h.totalReturnPct)}` : 'NT$ — / —'}
               </span>
             </div>
-            <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+            <svg class="chevron shrink-0 text-[var(--color-text-muted)] transition-transform duration-200" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
           </div>
         </div>
       ))}
     </div>
   </section>
+      </div>
+    </section>
+  </div>
 </Layout>
 
 <style>
-  .header { margin-bottom: var(--section-gap); }
-  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
-  .subtitle { font-size: 13px; color: var(--color-text-muted); margin-top: 6px; line-height: 1.5; }
-  .warning-note {
-    display: inline-block;
-    padding: 8px 10px;
-    border-radius: 8px;
-    background: #fff3cd;
-    color: #7a5a00;
-    border: 1px solid #f2df9d;
+  :global(body.page-accent-red) {
+    /* Product requirement for this page: increase=red, loss=green */
+    --color-gain: var(--accent-red);
+    --color-loss: var(--accent-green);
   }
 
-  .controls-row {
-    display: flex;
-    gap: 12px;
-    margin-bottom: 8px;
-  }
-  .controls-compact {
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  .controls-compact #stock-sort-toggle,
-  .controls-compact #legislator-sort-toggle {
-    margin-left: auto;
-  }
-  .toggle-group {
-    display: flex;
-    align-items: center;
-  }
-  .toggle-btn {
-    border-radius: 999px;
-    transition: all 0.18s;
-    white-space: nowrap;
-  }
-  .view-toggle {
-    padding: 3px;
-    border: 1px solid rgba(10, 22, 36, 0.14);
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.72);
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8);
-  }
-  .view-btn {
-    padding: 7px 11px;
-    font-size: 12px;
-    font-weight: 600;
-    color: #556070;
-  }
-  .view-btn.active {
-    background: linear-gradient(135deg, #16304a, #244f75);
-    color: #fff;
-    box-shadow: 0 4px 10px rgba(17, 37, 55, 0.28);
-  }
-  .sort-toggle {
-    gap: 6px;
-  }
-  .sort-btn {
-    padding: 6px 10px;
-    border-radius: 8px;
-    border: 1px solid rgba(10, 22, 36, 0.14);
-    background: rgba(255, 255, 255, 0.86);
-    color: #5c6777;
-    font-size: 12px;
-    font-weight: 600;
-  }
-  .sort-btn.active {
-    border-color: rgba(21, 57, 95, 0.34);
-    background: rgba(27, 70, 113, 0.1);
-    color: #1b4671;
-    box-shadow: 0 1px 2px rgba(16, 40, 63, 0.15);
-  }
-  .search-box {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    border: 1px solid var(--color-border);
-    border-radius: 8px;
-    background: var(--color-surface);
-    padding: 8px 10px;
-  }
-  .search-icon {
-    font-size: 13px;
-    line-height: 1;
-    opacity: 0.7;
-    flex-shrink: 0;
-  }
-  .search-box input {
-    flex: 1;
-    min-width: 0;
-    font-size: 16px;
-    color: var(--color-text);
-  }
-  .search-box input::placeholder { color: var(--color-text-muted); }
-  .search-clear {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
-    line-height: 1;
-    color: var(--color-text-muted);
-    background: var(--color-border-light);
-    flex-shrink: 0;
-  }
+  .main-return { color: var(--color-text-muted); }
+  .main-return.gain { color: var(--color-gain); }
+  .main-return.loss { color: var(--color-loss); }
 
+  /* JS-toggled state classes */
   .hidden { display: none; }
   .panel { display: none; }
   .panel.active { display: block; }
-
-  #stock-list,
-  #ranking-list {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-  }
-
-  .stock-card {
-    background: var(--color-surface);
-    border-radius: 8px;
-    overflow: hidden;
-  }
   .stock-card.filtered-out { display: none !important; }
-
-  @media (max-width: 430px) {
-    #stock-sort-toggle .sort-btn[data-sort="value"] { padding-left: 8px; padding-right: 8px; }
-    #stock-sort-toggle .sort-btn[data-sort="person"] { padding-left: 8px; padding-right: 8px; }
-    #legislator-sort-toggle .sort-btn[data-sort="value"] { padding-left: 8px; padding-right: 8px; }
-    #legislator-sort-toggle .sort-btn[data-sort="return"] { padding-left: 8px; padding-right: 8px; }
-  }
-
-  .stock-header {
-    display: flex;
-    align-items: center;
-    padding: 12px 14px;
-    gap: 10px;
-    cursor: pointer;
-  }
-
-  .rank-num {
-    font-family: var(--font-mono);
-    font-size: 14px;
-    font-weight: 700;
-    width: 24px;
-    text-align: right;
-    flex-shrink: 0;
-    color: var(--color-text-muted);
-  }
-
-  .stock-info { flex: 1; min-width: 0; }
-  .stock-name-row { display: flex; align-items: flex-start; gap: 8px; min-width: 0; }
-  .stock-name-row :global(.person-meta) {
-    flex: 1;
-    min-width: 0;
-    max-width: 180px;
-  }
-  .stock-info-inline {
-    flex-direction: row;
-    align-items: center;
-    gap: 8px;
-    min-width: 0;
-  }
-  .stock-name { font-size: 14px; font-weight: 700; }
-  .stock-date {
-    font-size: 11px;
-    color: var(--color-text-muted);
-    white-space: nowrap;
-    flex-shrink: 0;
-    padding-top: 2px;
-  }
-  .stock-exchange {
-    font-family: var(--font-mono);
-    font-size: 11px;
-    color: var(--color-text-muted);
-    white-space: nowrap;
-  }
-  .stock-inline-value {
-    margin-left: auto;
-    font-family: var(--font-mono);
-    font-size: 12px;
-    font-weight: 700;
-    color: var(--color-text);
-    white-space: nowrap;
-  }
-
-  .stock-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; flex-shrink: 0; }
-  .stat-primary { font-family: var(--font-mono); font-size: 15px; font-weight: 700; color: var(--color-text); }
-  .stat-secondary { font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); }
-  .stat-gain { color: var(--color-gain); }
-  .stat-loss { color: var(--color-loss); }
-
-  .chevron {
-    color: var(--color-text-muted);
-    transition: transform 0.2s;
-    flex-shrink: 0;
-  }
   .stock-card.open .chevron { transform: rotate(180deg); }
 
+  /* JS-injected breakdown styles */
   :global(.stock-breakdown) {
     display: none;
     flex-direction: column;
     gap: 0;
-    /* Match row paddings; alignment is handled by an internal spacer column. */
-    padding: 0 14px 10px 48px;
-    background: #fafafa;
+    padding: 0 38px 10px 34px;
+    background: rgba(26, 26, 28, 0.36);
+    border-top: 1px solid var(--color-border-light);
   }
   :global(.stock-breakdown.open) { display: flex; }
   :global(.stock-detail-row) {
@@ -561,29 +417,28 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
     min-width: 0;
     display: flex;
     align-items: center;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
   }
-  :global(.stock-detail-name .person-meta) {
-    width: 100%;
-    max-width: 170px;
-  }
   :global(.stock-detail-shares) {
-    width: 96px;
+    width: 88px;
+    margin-left: 8px;
     text-align: right;
     white-space: nowrap;
     color: var(--color-text-secondary);
     font-family: var(--font-mono);
     font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
   }
   :global(.stock-detail-value) {
-    width: 120px;
+    width: 104px;
     text-align: right;
     white-space: nowrap;
     color: var(--color-text);
     font-weight: 700;
     font-family: var(--font-mono);
     font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
   }
   :global(.stock-detail-ticker) {
     width: 98px;
@@ -617,9 +472,24 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
     flex-shrink: 0;
   }
   :global(.stock-detail-spacer) {
-    width: 24px; /* 10px gap + 14px chevron width in header row */
+    width: 0;
     flex-shrink: 0;
     visibility: hidden;
+  }
+  @media (max-width: 640px) {
+    :global(.stock-breakdown) {
+      padding: 0 38px 10px 20px;
+    }
+    :global(.stock-detail-row) {
+      gap: 6px;
+    }
+    :global(.stock-detail-shares) {
+      width: 80px;
+      margin-left: 10px;
+    }
+    :global(.stock-detail-value) {
+      width: 88px;
+    }
   }
   :global(.leg-stock-item) {
     display: flex;
@@ -649,7 +519,7 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
   }
   :global(.leg-stock-exchange) {
@@ -727,14 +597,14 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
 
     function formatValue(value) {
       if (value == null) return '—';
-      return `NT$${Math.round(value).toLocaleString()}`;
+      return `NT$${Math.round(value).toLocaleString('en-US')}`;
     }
 
     function formatCompactTwd(amount) {
       if (!Number.isFinite(amount) || amount <= 0) return 'NT$ —';
       if (amount >= 1_0000_0000) return `NT$ ${(amount / 1_0000_0000).toFixed(1)} 億`;
       if (amount >= 1_0000) return `NT$ ${(amount / 1_0000).toFixed(1)} 萬`;
-      return `NT$ ${Math.round(amount).toLocaleString()}`;
+      return `NT$ ${Math.round(amount).toLocaleString('en-US')}`;
     }
 
     function formatSignedCompactTwd(amount) {
@@ -774,25 +644,22 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
       return 'var(--color-independent)';
     }
 
-    function getPartyShortName(party) {
-      if (party === '民主進步黨') return '民';
-      if (party === '中國國民黨') return '國';
-      if (party === '台灣民眾黨') return '眾';
-      return '無';
-    }
-
-    function getPartyBgColor(party) {
-      if (party === '民主進步黨') return '#1B9431';
-      if (party === '中國國民黨') return '#2D6CC0';
-      if (party === '台灣民眾黨') return '#28C8C8';
-      return '#888';
-    }
-
     function buildPersonMeta(name, party) {
       const info = peopleMeta[name];
       if (!info) return '';
       const typeIcon = info.type === 'mayor' ? '🏙️' : '🏛️';
-      return `<span class="person-meta"><span class="person-meta-top" style="background:${getPartyBgColor(party)}"><span class="person-meta-party">${getPartyShortName(party)}</span><span class="person-meta-type">${typeIcon}</span><span class="person-meta-area">${info.area}</span></span><span class="person-meta-name" style="color:${getPartyColor(party)}">${name}</span></span>`;
+      return `<span class="person-meta person-meta-grid" style="--party-color:${getPartyColor(party)}"><span class="person-meta-emoji">${typeIcon}</span><span class="person-meta-area">${info.area}</span><span class="person-meta-name">${name}</span></span>`;
+    }
+
+    function formatRankLabel(rank) {
+      if (rank === 1) return '🥇';
+      if (rank === 2) return '🥈';
+      if (rank === 3) return '🥉';
+      return String(rank);
+    }
+
+    function normalizeSearchText(value) {
+      return value.toLowerCase().replace(/台/g, '臺');
     }
 
     function applyView() {
@@ -825,7 +692,7 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
       breakdown.innerHTML = holders.map(h => `
       <div class="stock-detail-row">
         <span class="stock-detail-name">${buildPersonMeta(h.legislator, h.party)}</span>
-        <span class="stock-detail-shares">${h.shares.toLocaleString()} 股</span>
+        <span class="stock-detail-shares">${h.shares.toLocaleString('en-US')} 股</span>
         <span class="stock-detail-value">${formatCompactTwd(h.value ?? 0)}</span>
         <span class="stock-detail-spacer" aria-hidden="true"></span>
       </div>
@@ -853,7 +720,7 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
           <span class="leg-stock-current">${formatCompactTwd((s.latestPrice ?? 0) * s.shares)}</span>
         </div>
         <div class="leg-stock-row">
-          <span class="leg-stock-shares">${s.shares.toLocaleString()} 股</span>
+          <span class="leg-stock-shares">${s.shares.toLocaleString('en-US')} 股</span>
           <span class="leg-stock-return ${getReturnClass(s.latestPrice, s.priceAtDisclosure, s.shares)}">
           ${formatReturnLine(s.latestPrice, s.priceAtDisclosure, s.shares)}
           </span>
@@ -865,8 +732,6 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
 
     function sortCards(list, key) {
       const cards = Array.from(list.querySelectorAll('.stock-card'));
-      cards.forEach(card => card.classList.remove('open'));
-      list.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
       cards.sort((a, b) => {
         const aVal = Number(a.getAttribute(`data-${key}`));
         const bVal = Number(b.getAttribute(`data-${key}`));
@@ -875,7 +740,7 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
 
       cards.forEach((card, i) => {
         const num = card.querySelector('.rank-num');
-        if (num) num.textContent = String(i + 1);
+        if (num) num.textContent = formatRankLabel(i + 1);
         list.appendChild(card);
       });
       updateVisibleRanks(list);
@@ -888,28 +753,29 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
         const num = card.querySelector('.rank-num');
         if (!num) continue;
         if (card.classList.contains('filtered-out')) continue;
-        num.textContent = String(rank++);
+        num.textContent = formatRankLabel(rank++);
       }
     }
 
     function applySearchFilter() {
-      const stockQuery = stockSearchInput.value.trim().toLowerCase();
+      const stockQuery = normalizeSearchText(stockSearchInput.value.trim());
       const stockCards = Array.from(stockList.querySelectorAll('.stock-card'));
       stockCards.forEach(card => {
-        const name = (card.getAttribute('data-display-name') || '').toLowerCase();
-        const fallback = (card.getAttribute('data-name') || '').toLowerCase();
-        const ticker = (card.getAttribute('data-ticker') || '').toLowerCase();
+        const name = normalizeSearchText(card.getAttribute('data-display-name') || '');
+        const fallback = normalizeSearchText(card.getAttribute('data-name') || '');
+        const ticker = normalizeSearchText(card.getAttribute('data-ticker') || '');
         const matched = !stockQuery || name.includes(stockQuery) || fallback.includes(stockQuery) || ticker.includes(stockQuery);
         card.classList.toggle('filtered-out', !matched);
         if (!matched) card.classList.remove('open');
       });
       stockList.querySelectorAll('.stock-breakdown').forEach(el => el.remove());
 
-      const legislatorQuery = legislatorSearchInput.value.trim().toLowerCase();
+      const legislatorQuery = normalizeSearchText(legislatorSearchInput.value.trim());
       const legislatorCards = Array.from(legislatorList.querySelectorAll('.stock-card'));
       legislatorCards.forEach(card => {
-        const name = (card.getAttribute('data-name') || '').toLowerCase();
-        const matched = !legislatorQuery || name.includes(legislatorQuery);
+        const name = normalizeSearchText(card.getAttribute('data-name') || '');
+        const area = normalizeSearchText(card.getAttribute('data-area') || '');
+        const matched = !legislatorQuery || name.includes(legislatorQuery) || area.includes(legislatorQuery);
         card.classList.toggle('filtered-out', !matched);
         if (!matched) card.classList.remove('open');
       });
@@ -921,12 +787,21 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
       legislatorSearchClear.classList.toggle('hidden', legislatorQuery.length === 0);
     }
 
+    function openFirstVisibleCard(list) {
+      const cards = Array.from(list.querySelectorAll('.stock-card'));
+      const firstVisible = cards.find(card => !card.classList.contains('filtered-out'));
+      if (!firstVisible) return;
+      const header = firstVisible.querySelector('[data-expandable]');
+      if (header instanceof HTMLElement) header.click();
+    }
+
     viewButtons.forEach(btn => {
       btn.addEventListener('click', () => {
         const view = btn.getAttribute('data-view');
         if (view !== 'stock' && view !== 'legislator') return;
         currentView = view;
         applyView();
+        openFirstVisibleCard(currentView === 'stock' ? stockList : legislatorList);
       });
     });
 
@@ -937,7 +812,6 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
         currentStockSort = sort;
         stockSortButtons.forEach(el => el.classList.toggle('active', el === btn));
         sortCards(stockList, sort);
-        applySearchFilter();
       });
     });
 
@@ -948,7 +822,6 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
         currentLegislatorSort = sort;
         legislatorSortButtons.forEach(el => el.classList.toggle('active', el === btn));
         sortCards(legislatorList, sort);
-        applySearchFilter();
       });
     });
 
@@ -965,6 +838,15 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
       legislatorSearchInput.focus();
     });
 
+    function closeOpenBreakdowns(list, exceptCard = null) {
+      const openCards = Array.from(list.querySelectorAll('.stock-card.open'));
+      openCards.forEach(card => {
+        if (exceptCard && card === exceptCard) return;
+        card.classList.remove('open');
+        card.querySelectorAll('.stock-breakdown.open').forEach(el => el.classList.remove('open'));
+      });
+    }
+
     function handleCardToggle(e, list) {
       const rawTarget = e.target;
       const target = rawTarget instanceof Element
@@ -977,14 +859,12 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
       const card = header.closest('.stock-card');
       if (!card) return;
 
-      list.querySelectorAll('.stock-card.open').forEach(other => {
-        if (other !== card) other.classList.remove('open');
-      });
+      closeOpenBreakdowns(list, card);
 
-      const existing = card.nextElementSibling;
-      if (existing && existing.classList.contains('stock-breakdown')) {
+      const existing = card.querySelector('.stock-breakdown');
+      if (existing) {
         const willOpen = !existing.classList.contains('open');
-        list.querySelectorAll('.stock-breakdown.open').forEach(el => el.classList.remove('open'));
+        closeOpenBreakdowns(list);
         existing.classList.toggle('open', willOpen);
         card.classList.toggle('open', willOpen);
         return;
@@ -993,8 +873,8 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
       const cardType = card.getAttribute('data-card-type');
       const breakdown = cardType === 'stock' ? buildStockBreakdown(card) : buildLegislatorBreakdown(card);
       if (!breakdown) return;
-      list.querySelectorAll('.stock-breakdown.open').forEach(el => el.classList.remove('open'));
-      card.after(breakdown);
+      closeOpenBreakdowns(list);
+      card.appendChild(breakdown);
       card.classList.add('open');
     }
 
@@ -1004,5 +884,6 @@ stockHoldings.sort((a, b) => b.totalValue - a.totalValue || b.holderCount - a.ho
     // Default to stock view per product requirement.
     applyView();
     applySearchFilter();
+    openFirstVisibleCard(stockList);
   }
 </script>

@@ -1,0 +1,8547 @@
+{
+  "台泥": {
+    "ticker": "1101",
+    "market": "twse"
+  },
+  "亞泥": {
+    "ticker": "1102",
+    "market": "twse"
+  },
+  "嘉泥": {
+    "ticker": "1103",
+    "market": "twse"
+  },
+  "環泥": {
+    "ticker": "1104",
+    "market": "twse"
+  },
+  "幸福": {
+    "ticker": "1108",
+    "market": "twse"
+  },
+  "信大": {
+    "ticker": "1109",
+    "market": "twse"
+  },
+  "東泥": {
+    "ticker": "1110",
+    "market": "twse"
+  },
+  "味全": {
+    "ticker": "1201",
+    "market": "twse"
+  },
+  "味王": {
+    "ticker": "1203",
+    "market": "twse"
+  },
+  "大成": {
+    "ticker": "1210",
+    "market": "twse"
+  },
+  "大飲": {
+    "ticker": "1213",
+    "market": "twse"
+  },
+  "卜蜂": {
+    "ticker": "1215",
+    "market": "twse"
+  },
+  "統一": {
+    "ticker": "1216",
+    "market": "twse"
+  },
+  "愛之味": {
+    "ticker": "1217",
+    "market": "twse"
+  },
+  "泰山": {
+    "ticker": "1218",
+    "market": "twse"
+  },
+  "福壽": {
+    "ticker": "1219",
+    "market": "twse"
+  },
+  "台榮": {
+    "ticker": "1220",
+    "market": "twse"
+  },
+  "福懋油": {
+    "ticker": "1225",
+    "market": "twse"
+  },
+  "佳格": {
+    "ticker": "1227",
+    "market": "twse"
+  },
+  "聯華": {
+    "ticker": "1229",
+    "market": "twse"
+  },
+  "聯華食": {
+    "ticker": "1231",
+    "market": "twse"
+  },
+  "大統益": {
+    "ticker": "1232",
+    "market": "twse"
+  },
+  "天仁": {
+    "ticker": "1233",
+    "market": "twse"
+  },
+  "黑松": {
+    "ticker": "1234",
+    "market": "twse"
+  },
+  "興泰": {
+    "ticker": "1235",
+    "market": "twse"
+  },
+  "宏亞": {
+    "ticker": "1236",
+    "market": "twse"
+  },
+  "鮮活果汁-KY": {
+    "ticker": "1256",
+    "market": "twse"
+  },
+  "台塑": {
+    "ticker": "1301",
+    "market": "twse"
+  },
+  "南亞": {
+    "ticker": "1303",
+    "market": "twse"
+  },
+  "台聚": {
+    "ticker": "1304",
+    "market": "twse"
+  },
+  "華夏": {
+    "ticker": "1305",
+    "market": "twse"
+  },
+  "三芳": {
+    "ticker": "1307",
+    "market": "twse"
+  },
+  "亞聚": {
+    "ticker": "1308",
+    "market": "twse"
+  },
+  "台達化": {
+    "ticker": "1309",
+    "market": "twse"
+  },
+  "台苯": {
+    "ticker": "1310",
+    "market": "twse"
+  },
+  "國喬": {
+    "ticker": "1312",
+    "market": "twse"
+  },
+  "聯成": {
+    "ticker": "1313",
+    "market": "twse"
+  },
+  "中石化": {
+    "ticker": "1314",
+    "market": "twse"
+  },
+  "達新": {
+    "ticker": "1315",
+    "market": "twse"
+  },
+  "上曜": {
+    "ticker": "1316",
+    "market": "twse"
+  },
+  "東陽": {
+    "ticker": "1319",
+    "market": "twse"
+  },
+  "大洋": {
+    "ticker": "1321",
+    "market": "twse"
+  },
+  "永裕": {
+    "ticker": "1323",
+    "market": "twse"
+  },
+  "地球": {
+    "ticker": "1324",
+    "market": "twse"
+  },
+  "恆大": {
+    "ticker": "1325",
+    "market": "twse"
+  },
+  "台化": {
+    "ticker": "1326",
+    "market": "twse"
+  },
+  "再生-KY": {
+    "ticker": "1337",
+    "market": "twse"
+  },
+  "廣華-KY": {
+    "ticker": "1338",
+    "market": "twse"
+  },
+  "昭輝": {
+    "ticker": "1339",
+    "market": "twse"
+  },
+  "勝悅-KY": {
+    "ticker": "1340",
+    "market": "twse"
+  },
+  "富林-KY": {
+    "ticker": "1341",
+    "market": "twse"
+  },
+  "八貫": {
+    "ticker": "1342",
+    "market": "twse"
+  },
+  "遠東新": {
+    "ticker": "1402",
+    "market": "twse"
+  },
+  "新纖": {
+    "ticker": "1409",
+    "market": "twse"
+  },
+  "南染": {
+    "ticker": "1410",
+    "market": "twse"
+  },
+  "宏洲": {
+    "ticker": "1413",
+    "market": "twse"
+  },
+  "東和": {
+    "ticker": "1414",
+    "market": "twse"
+  },
+  "廣豐": {
+    "ticker": "1416",
+    "market": "twse"
+  },
+  "嘉裕": {
+    "ticker": "1417",
+    "market": "twse"
+  },
+  "東華": {
+    "ticker": "1418",
+    "market": "twse"
+  },
+  "新紡": {
+    "ticker": "1419",
+    "market": "twse"
+  },
+  "利華": {
+    "ticker": "1423",
+    "market": "twse"
+  },
+  "大魯閣": {
+    "ticker": "1432",
+    "market": "twse"
+  },
+  "福懋": {
+    "ticker": "1434",
+    "market": "twse"
+  },
+  "中福": {
+    "ticker": "1435",
+    "market": "twse"
+  },
+  "華友聯": {
+    "ticker": "1436",
+    "market": "twse"
+  },
+  "勤益控": {
+    "ticker": "1437",
+    "market": "twse"
+  },
+  "三地開發": {
+    "ticker": "1438",
+    "market": "twse"
+  },
+  "雋揚": {
+    "ticker": "1439",
+    "market": "twse"
+  },
+  "南紡": {
+    "ticker": "1440",
+    "market": "twse"
+  },
+  "大東": {
+    "ticker": "1441",
+    "market": "twse"
+  },
+  "名軒": {
+    "ticker": "1442",
+    "market": "twse"
+  },
+  "立益物流": {
+    "ticker": "1443",
+    "market": "twse"
+  },
+  "力麗": {
+    "ticker": "1444",
+    "market": "twse"
+  },
+  "大宇": {
+    "ticker": "1445",
+    "market": "twse"
+  },
+  "宏和": {
+    "ticker": "1446",
+    "market": "twse"
+  },
+  "力鵬": {
+    "ticker": "1447",
+    "market": "twse"
+  },
+  "佳和": {
+    "ticker": "1449",
+    "market": "twse"
+  },
+  "年興": {
+    "ticker": "1451",
+    "market": "twse"
+  },
+  "宏益": {
+    "ticker": "1452",
+    "market": "twse"
+  },
+  "大將": {
+    "ticker": "1453",
+    "market": "twse"
+  },
+  "台富": {
+    "ticker": "1454",
+    "market": "twse"
+  },
+  "集盛": {
+    "ticker": "1455",
+    "market": "twse"
+  },
+  "怡華": {
+    "ticker": "1456",
+    "market": "twse"
+  },
+  "宜進": {
+    "ticker": "1457",
+    "market": "twse"
+  },
+  "聯發": {
+    "ticker": "1459",
+    "market": "twse"
+  },
+  "宏遠": {
+    "ticker": "1460",
+    "market": "twse"
+  },
+  "強盛新": {
+    "ticker": "1463",
+    "market": "twse"
+  },
+  "得力": {
+    "ticker": "1464",
+    "market": "twse"
+  },
+  "偉全": {
+    "ticker": "1465",
+    "market": "twse"
+  },
+  "聚隆": {
+    "ticker": "1466",
+    "market": "twse"
+  },
+  "南緯": {
+    "ticker": "1467",
+    "market": "twse"
+  },
+  "昶和": {
+    "ticker": "1468",
+    "market": "twse"
+  },
+  "大統新創": {
+    "ticker": "1470",
+    "market": "twse"
+  },
+  "首利": {
+    "ticker": "1471",
+    "market": "twse"
+  },
+  "三洋實業": {
+    "ticker": "1472",
+    "market": "twse"
+  },
+  "台南": {
+    "ticker": "1473",
+    "market": "twse"
+  },
+  "弘裕": {
+    "ticker": "1474",
+    "market": "twse"
+  },
+  "業旺": {
+    "ticker": "1475",
+    "market": "twse"
+  },
+  "儒鴻": {
+    "ticker": "1476",
+    "market": "twse"
+  },
+  "聚陽": {
+    "ticker": "1477",
+    "market": "twse"
+  },
+  "士電": {
+    "ticker": "1503",
+    "market": "twse"
+  },
+  "東元": {
+    "ticker": "1504",
+    "market": "twse"
+  },
+  "正道": {
+    "ticker": "1506",
+    "market": "twse"
+  },
+  "瑞利": {
+    "ticker": "1512",
+    "market": "twse"
+  },
+  "中興電": {
+    "ticker": "1513",
+    "market": "twse"
+  },
+  "亞力": {
+    "ticker": "1514",
+    "market": "twse"
+  },
+  "力山": {
+    "ticker": "1515",
+    "market": "twse"
+  },
+  "川飛": {
+    "ticker": "1516",
+    "market": "twse"
+  },
+  "利奇": {
+    "ticker": "1517",
+    "market": "twse"
+  },
+  "華城": {
+    "ticker": "1519",
+    "market": "twse"
+  },
+  "大億": {
+    "ticker": "1521",
+    "market": "twse"
+  },
+  "堤維西": {
+    "ticker": "1522",
+    "market": "twse"
+  },
+  "耿鼎": {
+    "ticker": "1524",
+    "market": "twse"
+  },
+  "江申": {
+    "ticker": "1525",
+    "market": "twse"
+  },
+  "日馳": {
+    "ticker": "1526",
+    "market": "twse"
+  },
+  "鑽全": {
+    "ticker": "1527",
+    "market": "twse"
+  },
+  "恩德": {
+    "ticker": "1528",
+    "market": "twse"
+  },
+  "樂事綠能": {
+    "ticker": "1529",
+    "market": "twse"
+  },
+  "亞崴": {
+    "ticker": "1530",
+    "market": "twse"
+  },
+  "高林股": {
+    "ticker": "1531",
+    "market": "twse"
+  },
+  "勤美": {
+    "ticker": "1532",
+    "market": "twse"
+  },
+  "車王電": {
+    "ticker": "1533",
+    "market": "twse"
+  },
+  "中宇": {
+    "ticker": "1535",
+    "market": "twse"
+  },
+  "和大": {
+    "ticker": "1536",
+    "market": "twse"
+  },
+  "廣隆": {
+    "ticker": "1537",
+    "market": "twse"
+  },
+  "正峰": {
+    "ticker": "1538",
+    "market": "twse"
+  },
+  "巨庭": {
+    "ticker": "1539",
+    "market": "twse"
+  },
+  "喬福": {
+    "ticker": "1540",
+    "market": "twse"
+  },
+  "錩泰": {
+    "ticker": "1541",
+    "market": "twse"
+  },
+  "伸興": {
+    "ticker": "1558",
+    "market": "twse"
+  },
+  "中砂": {
+    "ticker": "1560",
+    "market": "twse"
+  },
+  "巧新": {
+    "ticker": "1563",
+    "market": "twse"
+  },
+  "倉佑": {
+    "ticker": "1568",
+    "market": "twse"
+  },
+  "信錦": {
+    "ticker": "1582",
+    "market": "twse"
+  },
+  "程泰": {
+    "ticker": "1583",
+    "market": "twse"
+  },
+  "吉茂": {
+    "ticker": "1587",
+    "market": "twse"
+  },
+  "永冠-KY": {
+    "ticker": "1589",
+    "market": "twse"
+  },
+  "亞德客-KY": {
+    "ticker": "1590",
+    "market": "twse"
+  },
+  "直得": {
+    "ticker": "1597",
+    "market": "twse"
+  },
+  "岱宇": {
+    "ticker": "1598",
+    "market": "twse"
+  },
+  "華電": {
+    "ticker": "1603",
+    "market": "twse"
+  },
+  "聲寶": {
+    "ticker": "1604",
+    "market": "twse"
+  },
+  "華新": {
+    "ticker": "1605",
+    "market": "twse"
+  },
+  "華榮": {
+    "ticker": "1608",
+    "market": "twse"
+  },
+  "大亞": {
+    "ticker": "1609",
+    "market": "twse"
+  },
+  "中電": {
+    "ticker": "1611",
+    "market": "twse"
+  },
+  "宏泰": {
+    "ticker": "1612",
+    "market": "twse"
+  },
+  "三洋電": {
+    "ticker": "1614",
+    "market": "twse"
+  },
+  "大山": {
+    "ticker": "1615",
+    "market": "twse"
+  },
+  "億泰": {
+    "ticker": "1616",
+    "market": "twse"
+  },
+  "榮星": {
+    "ticker": "1617",
+    "market": "twse"
+  },
+  "合機": {
+    "ticker": "1618",
+    "market": "twse"
+  },
+  "大東電": {
+    "ticker": "1623",
+    "market": "twse"
+  },
+  "艾美特-KY": {
+    "ticker": "1626",
+    "market": "twse"
+  },
+  "南僑": {
+    "ticker": "1702",
+    "market": "twse"
+  },
+  "葡萄王": {
+    "ticker": "1707",
+    "market": "twse"
+  },
+  "東鹼": {
+    "ticker": "1708",
+    "market": "twse"
+  },
+  "和益": {
+    "ticker": "1709",
+    "market": "twse"
+  },
+  "東聯": {
+    "ticker": "1710",
+    "market": "twse"
+  },
+  "永光": {
+    "ticker": "1711",
+    "market": "twse"
+  },
+  "興農": {
+    "ticker": "1712",
+    "market": "twse"
+  },
+  "國化": {
+    "ticker": "1713",
+    "market": "twse"
+  },
+  "和桐": {
+    "ticker": "1714",
+    "market": "twse"
+  },
+  "長興": {
+    "ticker": "1717",
+    "market": "twse"
+  },
+  "中纖": {
+    "ticker": "1718",
+    "market": "twse"
+  },
+  "生達": {
+    "ticker": "1720",
+    "market": "twse"
+  },
+  "三晃": {
+    "ticker": "1721",
+    "market": "twse"
+  },
+  "台肥": {
+    "ticker": "1722",
+    "market": "twse"
+  },
+  "中碳": {
+    "ticker": "1723",
+    "market": "twse"
+  },
+  "元禎": {
+    "ticker": "1725",
+    "market": "twse"
+  },
+  "永記": {
+    "ticker": "1726",
+    "market": "twse"
+  },
+  "中華化": {
+    "ticker": "1727",
+    "market": "twse"
+  },
+  "花仙子": {
+    "ticker": "1730",
+    "market": "twse"
+  },
+  "美吾華": {
+    "ticker": "1731",
+    "market": "twse"
+  },
+  "毛寶": {
+    "ticker": "1732",
+    "market": "twse"
+  },
+  "五鼎": {
+    "ticker": "1733",
+    "market": "twse"
+  },
+  "杏輝": {
+    "ticker": "1734",
+    "market": "twse"
+  },
+  "日勝化": {
+    "ticker": "1735",
+    "market": "twse"
+  },
+  "喬山": {
+    "ticker": "1736",
+    "market": "twse"
+  },
+  "臺鹽": {
+    "ticker": "1737",
+    "market": "twse"
+  },
+  "南光": {
+    "ticker": "1752",
+    "market": "twse"
+  },
+  "寶齡富錦": {
+    "ticker": "1760",
+    "market": "twse"
+  },
+  "中化生": {
+    "ticker": "1762",
+    "market": "twse"
+  },
+  "勝一": {
+    "ticker": "1773",
+    "market": "twse"
+  },
+  "展宇": {
+    "ticker": "1776",
+    "market": "twse"
+  },
+  "和康生": {
+    "ticker": "1783",
+    "market": "twse"
+  },
+  "科妍": {
+    "ticker": "1786",
+    "market": "twse"
+  },
+  "神隆": {
+    "ticker": "1789",
+    "market": "twse"
+  },
+  "美時": {
+    "ticker": "1795",
+    "market": "twse"
+  },
+  "台玻": {
+    "ticker": "1802",
+    "market": "twse"
+  },
+  "寶徠": {
+    "ticker": "1805",
+    "market": "twse"
+  },
+  "冠軍": {
+    "ticker": "1806",
+    "market": "twse"
+  },
+  "潤隆": {
+    "ticker": "1808",
+    "market": "twse"
+  },
+  "中釉": {
+    "ticker": "1809",
+    "market": "twse"
+  },
+  "和成": {
+    "ticker": "1810",
+    "market": "twse"
+  },
+  "凱撒衛": {
+    "ticker": "1817",
+    "market": "twse"
+  },
+  "士紙": {
+    "ticker": "1903",
+    "market": "twse"
+  },
+  "正隆": {
+    "ticker": "1904",
+    "market": "twse"
+  },
+  "華紙": {
+    "ticker": "1905",
+    "market": "twse"
+  },
+  "寶隆": {
+    "ticker": "1906",
+    "market": "twse"
+  },
+  "永豐餘": {
+    "ticker": "1907",
+    "market": "twse"
+  },
+  "榮成": {
+    "ticker": "1909",
+    "market": "twse"
+  },
+  "中鋼": {
+    "ticker": "2002",
+    "market": "twse"
+  },
+  "東和鋼鐵": {
+    "ticker": "2006",
+    "market": "twse"
+  },
+  "燁興": {
+    "ticker": "2007",
+    "market": "twse"
+  },
+  "高興昌": {
+    "ticker": "2008",
+    "market": "twse"
+  },
+  "第一銅": {
+    "ticker": "2009",
+    "market": "twse"
+  },
+  "春源": {
+    "ticker": "2010",
+    "market": "twse"
+  },
+  "春雨": {
+    "ticker": "2012",
+    "market": "twse"
+  },
+  "中鋼構": {
+    "ticker": "2013",
+    "market": "twse"
+  },
+  "中鴻": {
+    "ticker": "2014",
+    "market": "twse"
+  },
+  "豐興": {
+    "ticker": "2015",
+    "market": "twse"
+  },
+  "官田鋼": {
+    "ticker": "2017",
+    "market": "twse"
+  },
+  "美亞": {
+    "ticker": "2020",
+    "market": "twse"
+  },
+  "聚亨": {
+    "ticker": "2022",
+    "market": "twse"
+  },
+  "燁輝": {
+    "ticker": "2023",
+    "market": "twse"
+  },
+  "志聯": {
+    "ticker": "2024",
+    "market": "twse"
+  },
+  "千興": {
+    "ticker": "2025",
+    "market": "twse"
+  },
+  "大成鋼": {
+    "ticker": "2027",
+    "market": "twse"
+  },
+  "威致": {
+    "ticker": "2028",
+    "market": "twse"
+  },
+  "盛餘": {
+    "ticker": "2029",
+    "market": "twse"
+  },
+  "彰源": {
+    "ticker": "2030",
+    "market": "twse"
+  },
+  "新光鋼": {
+    "ticker": "2031",
+    "market": "twse"
+  },
+  "新鋼": {
+    "ticker": "2032",
+    "market": "twse"
+  },
+  "佳大": {
+    "ticker": "2033",
+    "market": "twse"
+  },
+  "允強": {
+    "ticker": "2034",
+    "market": "twse"
+  },
+  "海光": {
+    "ticker": "2038",
+    "market": "twse"
+  },
+  "上銀": {
+    "ticker": "2049",
+    "market": "twse"
+  },
+  "川湖": {
+    "ticker": "2059",
+    "market": "twse"
+  },
+  "橋椿": {
+    "ticker": "2062",
+    "market": "twse"
+  },
+  "運錩": {
+    "ticker": "2069",
+    "market": "twse"
+  },
+  "南港": {
+    "ticker": "2101",
+    "market": "twse"
+  },
+  "泰豐": {
+    "ticker": "2102",
+    "market": "twse"
+  },
+  "台橡": {
+    "ticker": "2103",
+    "market": "twse"
+  },
+  "國際中橡": {
+    "ticker": "2104",
+    "market": "twse"
+  },
+  "正新": {
+    "ticker": "2105",
+    "market": "twse"
+  },
+  "建大": {
+    "ticker": "2106",
+    "market": "twse"
+  },
+  "厚生": {
+    "ticker": "2107",
+    "market": "twse"
+  },
+  "南帝": {
+    "ticker": "2108",
+    "market": "twse"
+  },
+  "華豐": {
+    "ticker": "2109",
+    "market": "twse"
+  },
+  "鑫永銓": {
+    "ticker": "2114",
+    "market": "twse"
+  },
+  "六暉-KY": {
+    "ticker": "2115",
+    "market": "twse"
+  },
+  "裕隆": {
+    "ticker": "2201",
+    "market": "twse"
+  },
+  "中華": {
+    "ticker": "2204",
+    "market": "twse"
+  },
+  "三陽工業": {
+    "ticker": "2206",
+    "market": "twse"
+  },
+  "和泰車": {
+    "ticker": "2207",
+    "market": "twse"
+  },
+  "台船": {
+    "ticker": "2208",
+    "market": "twse"
+  },
+  "長榮鋼": {
+    "ticker": "2211",
+    "market": "twse"
+  },
+  "裕日車": {
+    "ticker": "2227",
+    "market": "twse"
+  },
+  "劍麟": {
+    "ticker": "2228",
+    "market": "twse"
+  },
+  "為升": {
+    "ticker": "2231",
+    "market": "twse"
+  },
+  "宇隆": {
+    "ticker": "2233",
+    "market": "twse"
+  },
+  "百達-KY": {
+    "ticker": "2236",
+    "market": "twse"
+  },
+  "英利-KY": {
+    "ticker": "2239",
+    "market": "twse"
+  },
+  "艾姆勒": {
+    "ticker": "2241",
+    "market": "twse"
+  },
+  "宏旭-KY": {
+    "ticker": "2243",
+    "market": "twse"
+  },
+  "汎德永業": {
+    "ticker": "2247",
+    "market": "twse"
+  },
+  "華勝-KY": {
+    "ticker": "2248",
+    "market": "twse"
+  },
+  "IKKA-KY": {
+    "ticker": "2250",
+    "market": "twse"
+  },
+  "巨鎧精密-創": {
+    "ticker": "2254",
+    "market": "twse"
+  },
+  "鴻華先進-創": {
+    "ticker": "2258",
+    "market": "twse"
+  },
+  "光寶科": {
+    "ticker": "2301",
+    "market": "twse"
+  },
+  "麗正": {
+    "ticker": "2302",
+    "market": "twse"
+  },
+  "聯電": {
+    "ticker": "2303",
+    "market": "twse"
+  },
+  "全友": {
+    "ticker": "2305",
+    "market": "twse"
+  },
+  "台達電": {
+    "ticker": "2308",
+    "market": "twse"
+  },
+  "金寶": {
+    "ticker": "2312",
+    "market": "twse"
+  },
+  "華通": {
+    "ticker": "2313",
+    "market": "twse"
+  },
+  "台揚": {
+    "ticker": "2314",
+    "market": "twse"
+  },
+  "楠梓電": {
+    "ticker": "2316",
+    "market": "twse"
+  },
+  "鴻海": {
+    "ticker": "2317",
+    "market": "twse"
+  },
+  "東訊": {
+    "ticker": "2321",
+    "market": "twse"
+  },
+  "中環": {
+    "ticker": "2323",
+    "market": "twse"
+  },
+  "仁寶": {
+    "ticker": "2324",
+    "market": "twse"
+  },
+  "國巨*": {
+    "ticker": "2327",
+    "market": "twse"
+  },
+  "廣宇": {
+    "ticker": "2328",
+    "market": "twse"
+  },
+  "華泰": {
+    "ticker": "2329",
+    "market": "twse"
+  },
+  "台積電": {
+    "ticker": "2330",
+    "market": "twse"
+  },
+  "精英": {
+    "ticker": "2331",
+    "market": "twse"
+  },
+  "友訊": {
+    "ticker": "2332",
+    "market": "twse"
+  },
+  "旺宏": {
+    "ticker": "2337",
+    "market": "twse"
+  },
+  "光罩": {
+    "ticker": "2338",
+    "market": "twse"
+  },
+  "台亞": {
+    "ticker": "2340",
+    "market": "twse"
+  },
+  "茂矽": {
+    "ticker": "2342",
+    "market": "twse"
+  },
+  "華邦電": {
+    "ticker": "2344",
+    "market": "twse"
+  },
+  "智邦": {
+    "ticker": "2345",
+    "market": "twse"
+  },
+  "聯強": {
+    "ticker": "2347",
+    "market": "twse"
+  },
+  "海悅": {
+    "ticker": "2348",
+    "market": "twse"
+  },
+  "錸德": {
+    "ticker": "2349",
+    "market": "twse"
+  },
+  "順德": {
+    "ticker": "2351",
+    "market": "twse"
+  },
+  "佳世達": {
+    "ticker": "2352",
+    "market": "twse"
+  },
+  "宏碁": {
+    "ticker": "2353",
+    "market": "twse"
+  },
+  "鴻準": {
+    "ticker": "2354",
+    "market": "twse"
+  },
+  "敬鵬": {
+    "ticker": "2355",
+    "market": "twse"
+  },
+  "英業達": {
+    "ticker": "2356",
+    "market": "twse"
+  },
+  "華碩": {
+    "ticker": "2357",
+    "market": "twse"
+  },
+  "所羅門": {
+    "ticker": "2359",
+    "market": "twse"
+  },
+  "致茂": {
+    "ticker": "2360",
+    "market": "twse"
+  },
+  "藍天": {
+    "ticker": "2362",
+    "market": "twse"
+  },
+  "矽統": {
+    "ticker": "2363",
+    "market": "twse"
+  },
+  "倫飛": {
+    "ticker": "2364",
+    "market": "twse"
+  },
+  "昆盈": {
+    "ticker": "2365",
+    "market": "twse"
+  },
+  "燿華": {
+    "ticker": "2367",
+    "market": "twse"
+  },
+  "金像電": {
+    "ticker": "2368",
+    "market": "twse"
+  },
+  "菱生": {
+    "ticker": "2369",
+    "market": "twse"
+  },
+  "大同": {
+    "ticker": "2371",
+    "market": "twse"
+  },
+  "震旦行": {
+    "ticker": "2373",
+    "market": "twse"
+  },
+  "佳能": {
+    "ticker": "2374",
+    "market": "twse"
+  },
+  "凱美": {
+    "ticker": "2375",
+    "market": "twse"
+  },
+  "技嘉": {
+    "ticker": "2376",
+    "market": "twse"
+  },
+  "微星": {
+    "ticker": "2377",
+    "market": "twse"
+  },
+  "瑞昱": {
+    "ticker": "2379",
+    "market": "twse"
+  },
+  "虹光": {
+    "ticker": "2380",
+    "market": "twse"
+  },
+  "廣達": {
+    "ticker": "2382",
+    "market": "twse"
+  },
+  "台光電": {
+    "ticker": "2383",
+    "market": "twse"
+  },
+  "群光": {
+    "ticker": "2385",
+    "market": "twse"
+  },
+  "精元": {
+    "ticker": "2387",
+    "market": "twse"
+  },
+  "威盛": {
+    "ticker": "2388",
+    "market": "twse"
+  },
+  "云辰": {
+    "ticker": "2390",
+    "market": "twse"
+  },
+  "正崴": {
+    "ticker": "2392",
+    "market": "twse"
+  },
+  "億光": {
+    "ticker": "2393",
+    "market": "twse"
+  },
+  "研華": {
+    "ticker": "2395",
+    "market": "twse"
+  },
+  "友通": {
+    "ticker": "2397",
+    "market": "twse"
+  },
+  "映泰": {
+    "ticker": "2399",
+    "market": "twse"
+  },
+  "凌陽": {
+    "ticker": "2401",
+    "market": "twse"
+  },
+  "毅嘉": {
+    "ticker": "2402",
+    "market": "twse"
+  },
+  "漢唐": {
+    "ticker": "2404",
+    "market": "twse"
+  },
+  "輔信": {
+    "ticker": "2405",
+    "market": "twse"
+  },
+  "國碩": {
+    "ticker": "2406",
+    "market": "twse"
+  },
+  "南亞科": {
+    "ticker": "2408",
+    "market": "twse"
+  },
+  "友達": {
+    "ticker": "2409",
+    "market": "twse"
+  },
+  "中華電": {
+    "ticker": "2412",
+    "market": "twse"
+  },
+  "環科": {
+    "ticker": "2413",
+    "market": "twse"
+  },
+  "精技": {
+    "ticker": "2414",
+    "market": "twse"
+  },
+  "錩新": {
+    "ticker": "2415",
+    "market": "twse"
+  },
+  "圓剛": {
+    "ticker": "2417",
+    "market": "twse"
+  },
+  "仲琦": {
+    "ticker": "2419",
+    "market": "twse"
+  },
+  "新巨": {
+    "ticker": "2420",
+    "market": "twse"
+  },
+  "建準": {
+    "ticker": "2421",
+    "market": "twse"
+  },
+  "固緯": {
+    "ticker": "2423",
+    "market": "twse"
+  },
+  "隴華": {
+    "ticker": "2424",
+    "market": "twse"
+  },
+  "承啟": {
+    "ticker": "2425",
+    "market": "twse"
+  },
+  "鼎元": {
+    "ticker": "2426",
+    "market": "twse"
+  },
+  "三商電": {
+    "ticker": "2427",
+    "market": "twse"
+  },
+  "興勤": {
+    "ticker": "2428",
+    "market": "twse"
+  },
+  "銘旺科": {
+    "ticker": "2429",
+    "market": "twse"
+  },
+  "燦坤": {
+    "ticker": "2430",
+    "market": "twse"
+  },
+  "聯昌": {
+    "ticker": "2431",
+    "market": "twse"
+  },
+  "倚天酷碁-創": {
+    "ticker": "2432",
+    "market": "twse"
+  },
+  "互盛電": {
+    "ticker": "2433",
+    "market": "twse"
+  },
+  "統懋": {
+    "ticker": "2434",
+    "market": "twse"
+  },
+  "偉詮電": {
+    "ticker": "2436",
+    "market": "twse"
+  },
+  "翔耀": {
+    "ticker": "2438",
+    "market": "twse"
+  },
+  "美律": {
+    "ticker": "2439",
+    "market": "twse"
+  },
+  "太空梭": {
+    "ticker": "2440",
+    "market": "twse"
+  },
+  "超豐": {
+    "ticker": "2441",
+    "market": "twse"
+  },
+  "新美齊": {
+    "ticker": "2442",
+    "market": "twse"
+  },
+  "兆勁": {
+    "ticker": "2444",
+    "market": "twse"
+  },
+  "京元電子": {
+    "ticker": "2449",
+    "market": "twse"
+  },
+  "神腦": {
+    "ticker": "2450",
+    "market": "twse"
+  },
+  "創見": {
+    "ticker": "2451",
+    "market": "twse"
+  },
+  "凌群": {
+    "ticker": "2453",
+    "market": "twse"
+  },
+  "聯發科": {
+    "ticker": "2454",
+    "market": "twse"
+  },
+  "全新": {
+    "ticker": "2455",
+    "market": "twse"
+  },
+  "飛宏": {
+    "ticker": "2457",
+    "market": "twse"
+  },
+  "義隆": {
+    "ticker": "2458",
+    "market": "twse"
+  },
+  "敦吉": {
+    "ticker": "2459",
+    "market": "twse"
+  },
+  "建通": {
+    "ticker": "2460",
+    "market": "twse"
+  },
+  "光群雷": {
+    "ticker": "2461",
+    "market": "twse"
+  },
+  "良得電": {
+    "ticker": "2462",
+    "market": "twse"
+  },
+  "盟立": {
+    "ticker": "2464",
+    "market": "twse"
+  },
+  "麗臺": {
+    "ticker": "2465",
+    "market": "twse"
+  },
+  "冠西電": {
+    "ticker": "2466",
+    "market": "twse"
+  },
+  "志聖": {
+    "ticker": "2467",
+    "market": "twse"
+  },
+  "華經": {
+    "ticker": "2468",
+    "market": "twse"
+  },
+  "資通": {
+    "ticker": "2471",
+    "market": "twse"
+  },
+  "立隆電": {
+    "ticker": "2472",
+    "market": "twse"
+  },
+  "可成": {
+    "ticker": "2474",
+    "market": "twse"
+  },
+  "鉅祥": {
+    "ticker": "2476",
+    "market": "twse"
+  },
+  "美隆電": {
+    "ticker": "2477",
+    "market": "twse"
+  },
+  "大毅": {
+    "ticker": "2478",
+    "market": "twse"
+  },
+  "敦陽科": {
+    "ticker": "2480",
+    "market": "twse"
+  },
+  "強茂": {
+    "ticker": "2481",
+    "market": "twse"
+  },
+  "連宇": {
+    "ticker": "2482",
+    "market": "twse"
+  },
+  "百容": {
+    "ticker": "2483",
+    "market": "twse"
+  },
+  "希華": {
+    "ticker": "2484",
+    "market": "twse"
+  },
+  "兆赫": {
+    "ticker": "2485",
+    "market": "twse"
+  },
+  "一詮": {
+    "ticker": "2486",
+    "market": "twse"
+  },
+  "漢平": {
+    "ticker": "2488",
+    "market": "twse"
+  },
+  "瑞軒": {
+    "ticker": "2489",
+    "market": "twse"
+  },
+  "吉祥全": {
+    "ticker": "2491",
+    "market": "twse"
+  },
+  "華新科": {
+    "ticker": "2492",
+    "market": "twse"
+  },
+  "揚博": {
+    "ticker": "2493",
+    "market": "twse"
+  },
+  "普安": {
+    "ticker": "2495",
+    "market": "twse"
+  },
+  "卓越": {
+    "ticker": "2496",
+    "market": "twse"
+  },
+  "怡利電": {
+    "ticker": "2497",
+    "market": "twse"
+  },
+  "宏達電": {
+    "ticker": "2498",
+    "market": "twse"
+  },
+  "國建": {
+    "ticker": "2501",
+    "market": "twse"
+  },
+  "國產": {
+    "ticker": "2504",
+    "market": "twse"
+  },
+  "國揚": {
+    "ticker": "2505",
+    "market": "twse"
+  },
+  "太設": {
+    "ticker": "2506",
+    "market": "twse"
+  },
+  "全坤建": {
+    "ticker": "2509",
+    "market": "twse"
+  },
+  "太子": {
+    "ticker": "2511",
+    "market": "twse"
+  },
+  "龍邦": {
+    "ticker": "2514",
+    "market": "twse"
+  },
+  "中工": {
+    "ticker": "2515",
+    "market": "twse"
+  },
+  "新建": {
+    "ticker": "2516",
+    "market": "twse"
+  },
+  "冠德": {
+    "ticker": "2520",
+    "market": "twse"
+  },
+  "京城": {
+    "ticker": "2524",
+    "market": "twse"
+  },
+  "宏璟": {
+    "ticker": "2527",
+    "market": "twse"
+  },
+  "皇普": {
+    "ticker": "2528",
+    "market": "twse"
+  },
+  "華建": {
+    "ticker": "2530",
+    "market": "twse"
+  },
+  "宏盛": {
+    "ticker": "2534",
+    "market": "twse"
+  },
+  "達欣工": {
+    "ticker": "2535",
+    "market": "twse"
+  },
+  "宏普": {
+    "ticker": "2536",
+    "market": "twse"
+  },
+  "聯上發": {
+    "ticker": "2537",
+    "market": "twse"
+  },
+  "基泰": {
+    "ticker": "2538",
+    "market": "twse"
+  },
+  "櫻花建": {
+    "ticker": "2539",
+    "market": "twse"
+  },
+  "愛山林": {
+    "ticker": "2540",
+    "market": "twse"
+  },
+  "興富發": {
+    "ticker": "2542",
+    "market": "twse"
+  },
+  "皇昌": {
+    "ticker": "2543",
+    "market": "twse"
+  },
+  "皇翔": {
+    "ticker": "2545",
+    "market": "twse"
+  },
+  "根基": {
+    "ticker": "2546",
+    "market": "twse"
+  },
+  "日勝生": {
+    "ticker": "2547",
+    "market": "twse"
+  },
+  "華固": {
+    "ticker": "2548",
+    "market": "twse"
+  },
+  "潤弘": {
+    "ticker": "2597",
+    "market": "twse"
+  },
+  "益航": {
+    "ticker": "2601",
+    "market": "twse"
+  },
+  "長榮": {
+    "ticker": "2603",
+    "market": "twse"
+  },
+  "新興": {
+    "ticker": "2605",
+    "market": "twse"
+  },
+  "裕民": {
+    "ticker": "2606",
+    "market": "twse"
+  },
+  "榮運": {
+    "ticker": "2607",
+    "market": "twse"
+  },
+  "嘉里大榮": {
+    "ticker": "2608",
+    "market": "twse"
+  },
+  "陽明": {
+    "ticker": "2609",
+    "market": "twse"
+  },
+  "華航": {
+    "ticker": "2610",
+    "market": "twse"
+  },
+  "志信": {
+    "ticker": "2611",
+    "market": "twse"
+  },
+  "中航": {
+    "ticker": "2612",
+    "market": "twse"
+  },
+  "中櫃": {
+    "ticker": "2613",
+    "market": "twse"
+  },
+  "東森": {
+    "ticker": "2614",
+    "market": "twse"
+  },
+  "萬海": {
+    "ticker": "2615",
+    "market": "twse"
+  },
+  "山隆": {
+    "ticker": "2616",
+    "market": "twse"
+  },
+  "台航": {
+    "ticker": "2617",
+    "market": "twse"
+  },
+  "長榮航": {
+    "ticker": "2618",
+    "market": "twse"
+  },
+  "亞航": {
+    "ticker": "2630",
+    "market": "twse"
+  },
+  "台灣高鐵": {
+    "ticker": "2633",
+    "market": "twse"
+  },
+  "漢翔": {
+    "ticker": "2634",
+    "market": "twse"
+  },
+  "台驊控股": {
+    "ticker": "2636",
+    "market": "twse"
+  },
+  "慧洋-KY": {
+    "ticker": "2637",
+    "market": "twse"
+  },
+  "宅配通": {
+    "ticker": "2642",
+    "market": "twse"
+  },
+  "長榮航太": {
+    "ticker": "2645",
+    "market": "twse"
+  },
+  "星宇航空": {
+    "ticker": "2646",
+    "market": "twse"
+  },
+  "萬企": {
+    "ticker": "2701",
+    "market": "twse"
+  },
+  "華園": {
+    "ticker": "2702",
+    "market": "twse"
+  },
+  "國賓": {
+    "ticker": "2704",
+    "market": "twse"
+  },
+  "六福": {
+    "ticker": "2705",
+    "market": "twse"
+  },
+  "第一店": {
+    "ticker": "2706",
+    "market": "twse"
+  },
+  "晶華": {
+    "ticker": "2707",
+    "market": "twse"
+  },
+  "遠雄來": {
+    "ticker": "2712",
+    "market": "twse"
+  },
+  "夏都": {
+    "ticker": "2722",
+    "market": "twse"
+  },
+  "美食-KY": {
+    "ticker": "2723",
+    "market": "twse"
+  },
+  "王品": {
+    "ticker": "2727",
+    "market": "twse"
+  },
+  "雄獅": {
+    "ticker": "2731",
+    "market": "twse"
+  },
+  "寒舍": {
+    "ticker": "2739",
+    "market": "twse"
+  },
+  "雲品": {
+    "ticker": "2748",
+    "market": "twse"
+  },
+  "八方雲集": {
+    "ticker": "2753",
+    "market": "twse"
+  },
+  "世界健身-KY": {
+    "ticker": "2762",
+    "market": "twse"
+  },
+  "彰銀": {
+    "ticker": "2801",
+    "market": "twse"
+  },
+  "台中銀": {
+    "ticker": "2812",
+    "market": "twse"
+  },
+  "旺旺保": {
+    "ticker": "2816",
+    "market": "twse"
+  },
+  "華票": {
+    "ticker": "2820",
+    "market": "twse"
+  },
+  "台產": {
+    "ticker": "2832",
+    "market": "twse"
+  },
+  "臺企銀": {
+    "ticker": "2834",
+    "market": "twse"
+  },
+  "高雄銀": {
+    "ticker": "2836",
+    "market": "twse"
+  },
+  "聯邦銀": {
+    "ticker": "2838",
+    "market": "twse"
+  },
+  "遠東銀": {
+    "ticker": "2845",
+    "market": "twse"
+  },
+  "安泰銀": {
+    "ticker": "2849",
+    "market": "twse"
+  },
+  "新產": {
+    "ticker": "2850",
+    "market": "twse"
+  },
+  "中再保": {
+    "ticker": "2851",
+    "market": "twse"
+  },
+  "第一保": {
+    "ticker": "2852",
+    "market": "twse"
+  },
+  "統一證": {
+    "ticker": "2855",
+    "market": "twse"
+  },
+  "三商壽": {
+    "ticker": "2867",
+    "market": "twse"
+  },
+  "華南金": {
+    "ticker": "2880",
+    "market": "twse"
+  },
+  "富邦金": {
+    "ticker": "2881",
+    "market": "twse"
+  },
+  "國泰金": {
+    "ticker": "2882",
+    "market": "twse"
+  },
+  "凱基金": {
+    "ticker": "2883",
+    "market": "twse"
+  },
+  "玉山金": {
+    "ticker": "2884",
+    "market": "twse"
+  },
+  "元大金": {
+    "ticker": "2885",
+    "market": "twse"
+  },
+  "兆豐金": {
+    "ticker": "2886",
+    "market": "twse"
+  },
+  "台新新光金": {
+    "ticker": "2887",
+    "market": "twse"
+  },
+  "國票金": {
+    "ticker": "2889",
+    "market": "twse"
+  },
+  "永豐金": {
+    "ticker": "2890",
+    "market": "twse"
+  },
+  "中信金": {
+    "ticker": "2891",
+    "market": "twse"
+  },
+  "第一金": {
+    "ticker": "2892",
+    "market": "twse"
+  },
+  "王道銀行": {
+    "ticker": "2897",
+    "market": "twse"
+  },
+  "欣欣": {
+    "ticker": "2901",
+    "market": "twse"
+  },
+  "遠百": {
+    "ticker": "2903",
+    "market": "twse"
+  },
+  "匯僑": {
+    "ticker": "2904",
+    "market": "twse"
+  },
+  "三商": {
+    "ticker": "2905",
+    "market": "twse"
+  },
+  "高林": {
+    "ticker": "2906",
+    "market": "twse"
+  },
+  "特力": {
+    "ticker": "2908",
+    "market": "twse"
+  },
+  "統領": {
+    "ticker": "2910",
+    "market": "twse"
+  },
+  "麗嬰房": {
+    "ticker": "2911",
+    "market": "twse"
+  },
+  "統一超": {
+    "ticker": "2912",
+    "market": "twse"
+  },
+  "農林": {
+    "ticker": "2913",
+    "market": "twse"
+  },
+  "潤泰全": {
+    "ticker": "2915",
+    "market": "twse"
+  },
+  "鼎固-KY": {
+    "ticker": "2923",
+    "market": "twse"
+  },
+  "淘帝-KY": {
+    "ticker": "2929",
+    "market": "twse"
+  },
+  "永邑-KY": {
+    "ticker": "2939",
+    "market": "twse"
+  },
+  "三商家購": {
+    "ticker": "2945",
+    "market": "twse"
+  },
+  "歐格": {
+    "ticker": "3002",
+    "market": "twse"
+  },
+  "健和興": {
+    "ticker": "3003",
+    "market": "twse"
+  },
+  "豐達科": {
+    "ticker": "3004",
+    "market": "twse"
+  },
+  "神基": {
+    "ticker": "3005",
+    "market": "twse"
+  },
+  "晶豪科": {
+    "ticker": "3006",
+    "market": "twse"
+  },
+  "大立光": {
+    "ticker": "3008",
+    "market": "twse"
+  },
+  "華立": {
+    "ticker": "3010",
+    "market": "twse"
+  },
+  "今皓": {
+    "ticker": "3011",
+    "market": "twse"
+  },
+  "晟銘電": {
+    "ticker": "3013",
+    "market": "twse"
+  },
+  "聯陽": {
+    "ticker": "3014",
+    "market": "twse"
+  },
+  "全漢": {
+    "ticker": "3015",
+    "market": "twse"
+  },
+  "嘉晶": {
+    "ticker": "3016",
+    "market": "twse"
+  },
+  "奇鋐": {
+    "ticker": "3017",
+    "market": "twse"
+  },
+  "隆銘綠能": {
+    "ticker": "3018",
+    "market": "twse"
+  },
+  "亞光": {
+    "ticker": "3019",
+    "market": "twse"
+  },
+  "鴻名": {
+    "ticker": "3021",
+    "market": "twse"
+  },
+  "威強電": {
+    "ticker": "3022",
+    "market": "twse"
+  },
+  "信邦": {
+    "ticker": "3023",
+    "market": "twse"
+  },
+  "憶聲": {
+    "ticker": "3024",
+    "market": "twse"
+  },
+  "星通": {
+    "ticker": "3025",
+    "market": "twse"
+  },
+  "禾伸堂": {
+    "ticker": "3026",
+    "market": "twse"
+  },
+  "盛達": {
+    "ticker": "3027",
+    "market": "twse"
+  },
+  "增你強": {
+    "ticker": "3028",
+    "market": "twse"
+  },
+  "零壹": {
+    "ticker": "3029",
+    "market": "twse"
+  },
+  "德律": {
+    "ticker": "3030",
+    "market": "twse"
+  },
+  "佰鴻": {
+    "ticker": "3031",
+    "market": "twse"
+  },
+  "偉訓": {
+    "ticker": "3032",
+    "market": "twse"
+  },
+  "威健": {
+    "ticker": "3033",
+    "market": "twse"
+  },
+  "聯詠": {
+    "ticker": "3034",
+    "market": "twse"
+  },
+  "智原": {
+    "ticker": "3035",
+    "market": "twse"
+  },
+  "文曄": {
+    "ticker": "3036",
+    "market": "twse"
+  },
+  "欣興": {
+    "ticker": "3037",
+    "market": "twse"
+  },
+  "全台": {
+    "ticker": "3038",
+    "market": "twse"
+  },
+  "遠見": {
+    "ticker": "3040",
+    "market": "twse"
+  },
+  "揚智": {
+    "ticker": "3041",
+    "market": "twse"
+  },
+  "晶技": {
+    "ticker": "3042",
+    "market": "twse"
+  },
+  "科風": {
+    "ticker": "3043",
+    "market": "twse"
+  },
+  "健鼎": {
+    "ticker": "3044",
+    "market": "twse"
+  },
+  "台灣大": {
+    "ticker": "3045",
+    "market": "twse"
+  },
+  "建碁": {
+    "ticker": "3046",
+    "market": "twse"
+  },
+  "訊舟": {
+    "ticker": "3047",
+    "market": "twse"
+  },
+  "益登": {
+    "ticker": "3048",
+    "market": "twse"
+  },
+  "精金": {
+    "ticker": "3049",
+    "market": "twse"
+  },
+  "鈺德": {
+    "ticker": "3050",
+    "market": "twse"
+  },
+  "力特": {
+    "ticker": "3051",
+    "market": "twse"
+  },
+  "夆典": {
+    "ticker": "3052",
+    "market": "twse"
+  },
+  "立萬利": {
+    "ticker": "3054",
+    "market": "twse"
+  },
+  "蔚華科": {
+    "ticker": "3055",
+    "market": "twse"
+  },
+  "富華新": {
+    "ticker": "3056",
+    "market": "twse"
+  },
+  "喬鼎": {
+    "ticker": "3057",
+    "market": "twse"
+  },
+  "立德": {
+    "ticker": "3058",
+    "market": "twse"
+  },
+  "華晶科": {
+    "ticker": "3059",
+    "market": "twse"
+  },
+  "銘異": {
+    "ticker": "3060",
+    "market": "twse"
+  },
+  "建漢": {
+    "ticker": "3062",
+    "market": "twse"
+  },
+  "日電貿": {
+    "ticker": "3090",
+    "market": "twse"
+  },
+  "鴻碩": {
+    "ticker": "3092",
+    "market": "twse"
+  },
+  "聯傑": {
+    "ticker": "3094",
+    "market": "twse"
+  },
+  "一零四": {
+    "ticker": "3130",
+    "market": "twse"
+  },
+  "凌航": {
+    "ticker": "3135",
+    "market": "twse"
+  },
+  "耀登": {
+    "ticker": "3138",
+    "market": "twse"
+  },
+  "正達": {
+    "ticker": "3149",
+    "market": "twse"
+  },
+  "鈺寶-創": {
+    "ticker": "3150",
+    "market": "twse"
+  },
+  "景岳": {
+    "ticker": "3164",
+    "market": "twse"
+  },
+  "大量": {
+    "ticker": "3167",
+    "market": "twse"
+  },
+  "眾福科": {
+    "ticker": "3168",
+    "market": "twse"
+  },
+  "景碩": {
+    "ticker": "3189",
+    "market": "twse"
+  },
+  "全科": {
+    "ticker": "3209",
+    "market": "twse"
+  },
+  "晟鈦": {
+    "ticker": "3229",
+    "market": "twse"
+  },
+  "緯創": {
+    "ticker": "3231",
+    "market": "twse"
+  },
+  "虹冠電": {
+    "ticker": "3257",
+    "market": "twse"
+  },
+  "昇陽": {
+    "ticker": "3266",
+    "market": "twse"
+  },
+  "勝德": {
+    "ticker": "3296",
+    "market": "twse"
+  },
+  "昇貿": {
+    "ticker": "3305",
+    "market": "twse"
+  },
+  "聯德": {
+    "ticker": "3308",
+    "market": "twse"
+  },
+  "閎暉": {
+    "ticker": "3311",
+    "market": "twse"
+  },
+  "弘憶股": {
+    "ticker": "3312",
+    "market": "twse"
+  },
+  "同泰": {
+    "ticker": "3321",
+    "market": "twse"
+  },
+  "泰碩": {
+    "ticker": "3338",
+    "market": "twse"
+  },
+  "麗清": {
+    "ticker": "3346",
+    "market": "twse"
+  },
+  "奇偶": {
+    "ticker": "3356",
+    "market": "twse"
+  },
+  "新日興": {
+    "ticker": "3376",
+    "market": "twse"
+  },
+  "明泰": {
+    "ticker": "3380",
+    "market": "twse"
+  },
+  "玉晶光": {
+    "ticker": "3406",
+    "market": "twse"
+  },
+  "京鼎": {
+    "ticker": "3413",
+    "market": "twse"
+  },
+  "融程電": {
+    "ticker": "3416",
+    "market": "twse"
+  },
+  "譁裕": {
+    "ticker": "3419",
+    "market": "twse"
+  },
+  "台端": {
+    "ticker": "3432",
+    "market": "twse"
+  },
+  "榮創": {
+    "ticker": "3437",
+    "market": "twse"
+  },
+  "創意": {
+    "ticker": "3443",
+    "market": "twse"
+  },
+  "展達": {
+    "ticker": "3447",
+    "market": "twse"
+  },
+  "聯鈞": {
+    "ticker": "3450",
+    "market": "twse"
+  },
+  "晶睿": {
+    "ticker": "3454",
+    "market": "twse"
+  },
+  "群創": {
+    "ticker": "3481",
+    "market": "twse"
+  },
+  "誠研": {
+    "ticker": "3494",
+    "market": "twse"
+  },
+  "維熹": {
+    "ticker": "3501",
+    "market": "twse"
+  },
+  "揚明光": {
+    "ticker": "3504",
+    "market": "twse"
+  },
+  "華擎": {
+    "ticker": "3515",
+    "market": "twse"
+  },
+  "柏騰": {
+    "ticker": "3518",
+    "market": "twse"
+  },
+  "安馳": {
+    "ticker": "3528",
+    "market": "twse"
+  },
+  "晶相光": {
+    "ticker": "3530",
+    "market": "twse"
+  },
+  "台勝科": {
+    "ticker": "3532",
+    "market": "twse"
+  },
+  "嘉澤": {
+    "ticker": "3533",
+    "market": "twse"
+  },
+  "晶彩科": {
+    "ticker": "3535",
+    "market": "twse"
+  },
+  "州巧": {
+    "ticker": "3543",
+    "market": "twse"
+  },
+  "敦泰": {
+    "ticker": "3545",
+    "market": "twse"
+  },
+  "聯穎": {
+    "ticker": "3550",
+    "market": "twse"
+  },
+  "嘉威": {
+    "ticker": "3557",
+    "market": "twse"
+  },
+  "牧德": {
+    "ticker": "3563",
+    "market": "twse"
+  },
+  "聯合再生": {
+    "ticker": "3576",
+    "market": "twse"
+  },
+  "辛耘": {
+    "ticker": "3583",
+    "market": "twse"
+  },
+  "通嘉": {
+    "ticker": "3588",
+    "market": "twse"
+  },
+  "艾笛森": {
+    "ticker": "3591",
+    "market": "twse"
+  },
+  "瑞鼎": {
+    "ticker": "3592",
+    "market": "twse"
+  },
+  "力銘": {
+    "ticker": "3593",
+    "market": "twse"
+  },
+  "智易": {
+    "ticker": "3596",
+    "market": "twse"
+  },
+  "宏致": {
+    "ticker": "3605",
+    "market": "twse"
+  },
+  "谷崧": {
+    "ticker": "3607",
+    "market": "twse"
+  },
+  "碩天": {
+    "ticker": "3617",
+    "market": "twse"
+  },
+  "洋華": {
+    "ticker": "3622",
+    "market": "twse"
+  },
+  "達邁": {
+    "ticker": "3645",
+    "market": "twse"
+  },
+  "精聯": {
+    "ticker": "3652",
+    "market": "twse"
+  },
+  "健策": {
+    "ticker": "3653",
+    "market": "twse"
+  },
+  "世芯-KY": {
+    "ticker": "3661",
+    "market": "twse"
+  },
+  "貿聯-KY": {
+    "ticker": "3665",
+    "market": "twse"
+  },
+  "圓展": {
+    "ticker": "3669",
+    "market": "twse"
+  },
+  "TPK-KY": {
+    "ticker": "3673",
+    "market": "twse"
+  },
+  "新至陞": {
+    "ticker": "3679",
+    "market": "twse"
+  },
+  "達能": {
+    "ticker": "3686",
+    "market": "twse"
+  },
+  "海華": {
+    "ticker": "3694",
+    "market": "twse"
+  },
+  "大眾控": {
+    "ticker": "3701",
+    "market": "twse"
+  },
+  "大聯大": {
+    "ticker": "3702",
+    "market": "twse"
+  },
+  "欣陸": {
+    "ticker": "3703",
+    "market": "twse"
+  },
+  "合勤控": {
+    "ticker": "3704",
+    "market": "twse"
+  },
+  "永信": {
+    "ticker": "3705",
+    "market": "twse"
+  },
+  "神達": {
+    "ticker": "3706",
+    "market": "twse"
+  },
+  "上緯投控": {
+    "ticker": "3708",
+    "market": "twse"
+  },
+  "日月光投控": {
+    "ticker": "3711",
+    "market": "twse"
+  },
+  "永崴投控": {
+    "ticker": "3712",
+    "market": "twse"
+  },
+  "富采": {
+    "ticker": "3714",
+    "market": "twse"
+  },
+  "定穎投控": {
+    "ticker": "3715",
+    "market": "twse"
+  },
+  "中化控股": {
+    "ticker": "3716",
+    "market": "twse"
+  },
+  "聯嘉投控": {
+    "ticker": "3717",
+    "market": "twse"
+  },
+  "佳醫": {
+    "ticker": "4104",
+    "market": "twse"
+  },
+  "雃博": {
+    "ticker": "4106",
+    "market": "twse"
+  },
+  "懷特": {
+    "ticker": "4108",
+    "market": "twse"
+  },
+  "旭富": {
+    "ticker": "4119",
+    "market": "twse"
+  },
+  "亞諾法": {
+    "ticker": "4133",
+    "market": "twse"
+  },
+  "麗豐-KY": {
+    "ticker": "4137",
+    "market": "twse"
+  },
+  "國光生": {
+    "ticker": "4142",
+    "market": "twse"
+  },
+  "全宇生技-KY": {
+    "ticker": "4148",
+    "market": "twse"
+  },
+  "訊映": {
+    "ticker": "4155",
+    "market": "twse"
+  },
+  "承業醫": {
+    "ticker": "4164",
+    "market": "twse"
+  },
+  "佐登-KY": {
+    "ticker": "4190",
+    "market": "twse"
+  },
+  "炎洲": {
+    "ticker": "4306",
+    "market": "twse"
+  },
+  "如興": {
+    "ticker": "4414",
+    "market": "twse"
+  },
+  "利勤": {
+    "ticker": "4426",
+    "market": "twse"
+  },
+  "廣越": {
+    "ticker": "4438",
+    "market": "twse"
+  },
+  "冠星-KY": {
+    "ticker": "4439",
+    "market": "twse"
+  },
+  "宜新實業": {
+    "ticker": "4440",
+    "market": "twse"
+  },
+  "振大環球": {
+    "ticker": "4441",
+    "market": "twse"
+  },
+  "東台": {
+    "ticker": "4526",
+    "market": "twse"
+  },
+  "瑞智": {
+    "ticker": "4532",
+    "market": "twse"
+  },
+  "拓凱": {
+    "ticker": "4536",
+    "market": "twse"
+  },
+  "全球傳動": {
+    "ticker": "4540",
+    "market": "twse"
+  },
+  "銘鈺": {
+    "ticker": "4545",
+    "market": "twse"
+  },
+  "智伸科": {
+    "ticker": "4551",
+    "market": "twse"
+  },
+  "力達-KY": {
+    "ticker": "4552",
+    "market": "twse"
+  },
+  "氣立": {
+    "ticker": "4555",
+    "market": "twse"
+  },
+  "永新-KY": {
+    "ticker": "4557",
+    "market": "twse"
+  },
+  "強信-KY": {
+    "ticker": "4560",
+    "market": "twse"
+  },
+  "穎漢": {
+    "ticker": "4562",
+    "market": "twse"
+  },
+  "元翎": {
+    "ticker": "4564",
+    "market": "twse"
+  },
+  "時碩工業": {
+    "ticker": "4566",
+    "market": "twse"
+  },
+  "六方科-KY": {
+    "ticker": "4569",
+    "market": "twse"
+  },
+  "鈞興-KY": {
+    "ticker": "4571",
+    "market": "twse"
+  },
+  "駐龍": {
+    "ticker": "4572",
+    "market": "twse"
+  },
+  "大銀微系統": {
+    "ticker": "4576",
+    "market": "twse"
+  },
+  "光隆精密-KY": {
+    "ticker": "4581",
+    "market": "twse"
+  },
+  "台灣精銳": {
+    "ticker": "4583",
+    "market": "twse"
+  },
+  "達明": {
+    "ticker": "4585",
+    "market": "twse"
+  },
+  "玖鼎電力": {
+    "ticker": "4588",
+    "market": "twse"
+  },
+  "富田-創": {
+    "ticker": "4590",
+    "market": "twse"
+  },
+  "德淵": {
+    "ticker": "4720",
+    "market": "twse"
+  },
+  "國精化": {
+    "ticker": "4722",
+    "market": "twse"
+  },
+  "泰博": {
+    "ticker": "4736",
+    "market": "twse"
+  },
+  "華廣": {
+    "ticker": "4737",
+    "market": "twse"
+  },
+  "康普": {
+    "ticker": "4739",
+    "market": "twse"
+  },
+  "台耀": {
+    "ticker": "4746",
+    "market": "twse"
+  },
+  "三福化": {
+    "ticker": "4755",
+    "market": "twse"
+  },
+  "材料*-KY": {
+    "ticker": "4763",
+    "market": "twse"
+  },
+  "雙鍵": {
+    "ticker": "4764",
+    "market": "twse"
+  },
+  "南寶": {
+    "ticker": "4766",
+    "market": "twse"
+  },
+  "上品": {
+    "ticker": "4770",
+    "market": "twse"
+  },
+  "望隼": {
+    "ticker": "4771",
+    "market": "twse"
+  },
+  "日成-KY": {
+    "ticker": "4807",
+    "market": "twse"
+  },
+  "遠傳": {
+    "ticker": "4904",
+    "market": "twse"
+  },
+  "正文": {
+    "ticker": "4906",
+    "market": "twse"
+  },
+  "聯德控股-KY": {
+    "ticker": "4912",
+    "market": "twse"
+  },
+  "致伸": {
+    "ticker": "4915",
+    "market": "twse"
+  },
+  "事欣科": {
+    "ticker": "4916",
+    "market": "twse"
+  },
+  "新唐": {
+    "ticker": "4919",
+    "market": "twse"
+  },
+  "泰鼎-KY": {
+    "ticker": "4927",
+    "market": "twse"
+  },
+  "燦星網": {
+    "ticker": "4930",
+    "market": "twse"
+  },
+  "太極": {
+    "ticker": "4934",
+    "market": "twse"
+  },
+  "茂林-KY": {
+    "ticker": "4935",
+    "market": "twse"
+  },
+  "和碩": {
+    "ticker": "4938",
+    "market": "twse"
+  },
+  "嘉彰": {
+    "ticker": "4942",
+    "market": "twse"
+  },
+  "康控-KY": {
+    "ticker": "4943",
+    "market": "twse"
+  },
+  "有成精密": {
+    "ticker": "4949",
+    "market": "twse"
+  },
+  "凌通": {
+    "ticker": "4952",
+    "market": "twse"
+  },
+  "光鋐": {
+    "ticker": "4956",
+    "market": "twse"
+  },
+  "臻鼎-KY": {
+    "ticker": "4958",
+    "market": "twse"
+  },
+  "誠美材": {
+    "ticker": "4960",
+    "market": "twse"
+  },
+  "天鈺": {
+    "ticker": "4961",
+    "market": "twse"
+  },
+  "十銓": {
+    "ticker": "4967",
+    "market": "twse"
+  },
+  "立積": {
+    "ticker": "4968",
+    "market": "twse"
+  },
+  "佳凌": {
+    "ticker": "4976",
+    "market": "twse"
+  },
+  "眾達-KY": {
+    "ticker": "4977",
+    "market": "twse"
+  },
+  "榮科": {
+    "ticker": "4989",
+    "market": "twse"
+  },
+  "傳奇": {
+    "ticker": "4994",
+    "market": "twse"
+  },
+  "鑫禾": {
+    "ticker": "4999",
+    "market": "twse"
+  },
+  "三星": {
+    "ticker": "5007",
+    "market": "twse"
+  },
+  "訊連": {
+    "ticker": "5203",
+    "market": "twse"
+  },
+  "科嘉-KY": {
+    "ticker": "5215",
+    "market": "twse"
+  },
+  "全訊": {
+    "ticker": "5222",
+    "market": "twse"
+  },
+  "東科-KY": {
+    "ticker": "5225",
+    "market": "twse"
+  },
+  "達興材料": {
+    "ticker": "5234",
+    "market": "twse"
+  },
+  "乙盛-KY": {
+    "ticker": "5243",
+    "market": "twse"
+  },
+  "弘凱": {
+    "ticker": "5244",
+    "market": "twse"
+  },
+  "虹堡": {
+    "ticker": "5258",
+    "market": "twse"
+  },
+  "祥碩": {
+    "ticker": "5269",
+    "market": "twse"
+  },
+  "禾聯碩": {
+    "ticker": "5283",
+    "market": "twse"
+  },
+  "jpp-KY": {
+    "ticker": "5284",
+    "market": "twse"
+  },
+  "界霖": {
+    "ticker": "5285",
+    "market": "twse"
+  },
+  "豐祥-KY": {
+    "ticker": "5288",
+    "market": "twse"
+  },
+  "華懋": {
+    "ticker": "5292",
+    "market": "twse"
+  },
+  "桂盟": {
+    "ticker": "5306",
+    "market": "twse"
+  },
+  "中磊": {
+    "ticker": "5388",
+    "market": "twse"
+  },
+  "崇越": {
+    "ticker": "5434",
+    "market": "twse"
+  },
+  "瀚宇博": {
+    "ticker": "5469",
+    "market": "twse"
+  },
+  "松翰": {
+    "ticker": "5471",
+    "market": "twse"
+  },
+  "慧友": {
+    "ticker": "5484",
+    "market": "twse"
+  },
+  "建國": {
+    "ticker": "5515",
+    "market": "twse"
+  },
+  "隆大": {
+    "ticker": "5519",
+    "market": "twse"
+  },
+  "工信": {
+    "ticker": "5521",
+    "market": "twse"
+  },
+  "遠雄": {
+    "ticker": "5522",
+    "market": "twse"
+  },
+  "順天": {
+    "ticker": "5525",
+    "market": "twse"
+  },
+  "鄉林": {
+    "ticker": "5531",
+    "market": "twse"
+  },
+  "皇鼎": {
+    "ticker": "5533",
+    "market": "twse"
+  },
+  "長虹": {
+    "ticker": "5534",
+    "market": "twse"
+  },
+  "東明-KY": {
+    "ticker": "5538",
+    "market": "twse"
+  },
+  "永固-KY": {
+    "ticker": "5546",
+    "market": "twse"
+  },
+  "遠雄港": {
+    "ticker": "5607",
+    "market": "twse"
+  },
+  "四維航": {
+    "ticker": "5608",
+    "market": "twse"
+  },
+  "鳳凰": {
+    "ticker": "5706",
+    "market": "twse"
+  },
+  "中租-KY": {
+    "ticker": "5871",
+    "market": "twse"
+  },
+  "上海商銀": {
+    "ticker": "5876",
+    "market": "twse"
+  },
+  "合庫金": {
+    "ticker": "5880",
+    "market": "twse"
+  },
+  "台南-KY": {
+    "ticker": "5906",
+    "market": "twse"
+  },
+  "大洋-KY": {
+    "ticker": "5907",
+    "market": "twse"
+  },
+  "群益證": {
+    "ticker": "6005",
+    "market": "twse"
+  },
+  "群益期": {
+    "ticker": "6024",
+    "market": "twse"
+  },
+  "競國": {
+    "ticker": "6108",
+    "market": "twse"
+  },
+  "邁達特": {
+    "ticker": "6112",
+    "market": "twse"
+  },
+  "鎰勝": {
+    "ticker": "6115",
+    "market": "twse"
+  },
+  "彩晶": {
+    "ticker": "6116",
+    "market": "twse"
+  },
+  "迎廣": {
+    "ticker": "6117",
+    "market": "twse"
+  },
+  "達運": {
+    "ticker": "6120",
+    "market": "twse"
+  },
+  "上福": {
+    "ticker": "6128",
+    "market": "twse"
+  },
+  "金橋": {
+    "ticker": "6133",
+    "market": "twse"
+  },
+  "富爾特": {
+    "ticker": "6136",
+    "market": "twse"
+  },
+  "亞翔": {
+    "ticker": "6139",
+    "market": "twse"
+  },
+  "柏承": {
+    "ticker": "6141",
+    "market": "twse"
+  },
+  "友勁": {
+    "ticker": "6142",
+    "market": "twse"
+  },
+  "百一": {
+    "ticker": "6152",
+    "market": "twse"
+  },
+  "嘉聯益": {
+    "ticker": "6153",
+    "market": "twse"
+  },
+  "鈞寶": {
+    "ticker": "6155",
+    "market": "twse"
+  },
+  "華興": {
+    "ticker": "6164",
+    "market": "twse"
+  },
+  "浪凡": {
+    "ticker": "6165",
+    "market": "twse"
+  },
+  "凌華": {
+    "ticker": "6166",
+    "market": "twse"
+  },
+  "宏齊": {
+    "ticker": "6168",
+    "market": "twse"
+  },
+  "瑞儀": {
+    "ticker": "6176",
+    "market": "twse"
+  },
+  "達麗": {
+    "ticker": "6177",
+    "market": "twse"
+  },
+  "關貿": {
+    "ticker": "6183",
+    "market": "twse"
+  },
+  "大豐電": {
+    "ticker": "6184",
+    "market": "twse"
+  },
+  "豐藝": {
+    "ticker": "6189",
+    "market": "twse"
+  },
+  "精成科": {
+    "ticker": "6191",
+    "market": "twse"
+  },
+  "巨路": {
+    "ticker": "6192",
+    "market": "twse"
+  },
+  "帆宣": {
+    "ticker": "6196",
+    "market": "twse"
+  },
+  "佳必琪": {
+    "ticker": "6197",
+    "market": "twse"
+  },
+  "亞弘電": {
+    "ticker": "6201",
+    "market": "twse"
+  },
+  "盛群": {
+    "ticker": "6202",
+    "market": "twse"
+  },
+  "詮欣": {
+    "ticker": "6205",
+    "market": "twse"
+  },
+  "飛捷": {
+    "ticker": "6206",
+    "market": "twse"
+  },
+  "今國光": {
+    "ticker": "6209",
+    "market": "twse"
+  },
+  "聯茂": {
+    "ticker": "6213",
+    "market": "twse"
+  },
+  "精誠": {
+    "ticker": "6214",
+    "market": "twse"
+  },
+  "和椿": {
+    "ticker": "6215",
+    "market": "twse"
+  },
+  "居易": {
+    "ticker": "6216",
+    "market": "twse"
+  },
+  "聚鼎": {
+    "ticker": "6224",
+    "market": "twse"
+  },
+  "天瀚": {
+    "ticker": "6225",
+    "market": "twse"
+  },
+  "光鼎": {
+    "ticker": "6226",
+    "market": "twse"
+  },
+  "尼得科超眾": {
+    "ticker": "6230",
+    "market": "twse"
+  },
+  "華孚": {
+    "ticker": "6235",
+    "market": "twse"
+  },
+  "力成": {
+    "ticker": "6239",
+    "market": "twse"
+  },
+  "迅杰": {
+    "ticker": "6243",
+    "market": "twse"
+  },
+  "矽格": {
+    "ticker": "6257",
+    "market": "twse"
+  },
+  "台郡": {
+    "ticker": "6269",
+    "market": "twse"
+  },
+  "同欣電": {
+    "ticker": "6271",
+    "market": "twse"
+  },
+  "驊陞": {
+    "ticker": "6272",
+    "market": "twse"
+  },
+  "宏正": {
+    "ticker": "6277",
+    "market": "twse"
+  },
+  "台表科": {
+    "ticker": "6278",
+    "market": "twse"
+  },
+  "全國電": {
+    "ticker": "6281",
+    "market": "twse"
+  },
+  "康舒": {
+    "ticker": "6282",
+    "market": "twse"
+  },
+  "淳安": {
+    "ticker": "6283",
+    "market": "twse"
+  },
+  "啟碁": {
+    "ticker": "6285",
+    "market": "twse"
+  },
+  "悅城": {
+    "ticker": "6405",
+    "market": "twse"
+  },
+  "旭隼": {
+    "ticker": "6409",
+    "market": "twse"
+  },
+  "群電": {
+    "ticker": "6412",
+    "market": "twse"
+  },
+  "樺漢": {
+    "ticker": "6414",
+    "market": "twse"
+  },
+  "矽力*-KY": {
+    "ticker": "6415",
+    "market": "twse"
+  },
+  "瑞祺電通": {
+    "ticker": "6416",
+    "market": "twse"
+  },
+  "統新": {
+    "ticker": "6426",
+    "market": "twse"
+  },
+  "光麗-KY": {
+    "ticker": "6431",
+    "market": "twse"
+  },
+  "迅得": {
+    "ticker": "6438",
+    "market": "twse"
+  },
+  "光聖": {
+    "ticker": "6442",
+    "market": "twse"
+  },
+  "元晶": {
+    "ticker": "6443",
+    "market": "twse"
+  },
+  "藥華藥": {
+    "ticker": "6446",
+    "market": "twse"
+  },
+  "鈺邦": {
+    "ticker": "6449",
+    "market": "twse"
+  },
+  "訊芯-KY": {
+    "ticker": "6451",
+    "market": "twse"
+  },
+  "GIS-KY": {
+    "ticker": "6456",
+    "market": "twse"
+  },
+  "台數科": {
+    "ticker": "6464",
+    "market": "twse"
+  },
+  "保瑞": {
+    "ticker": "6472",
+    "market": "twse"
+  },
+  "安集": {
+    "ticker": "6477",
+    "market": "twse"
+  },
+  "晶碩": {
+    "ticker": "6491",
+    "market": "twse"
+  },
+  "南六": {
+    "ticker": "6504",
+    "market": "twse"
+  },
+  "台塑化": {
+    "ticker": "6505",
+    "market": "twse"
+  },
+  "穎崴": {
+    "ticker": "6515",
+    "market": "twse"
+  },
+  "捷敏-KY": {
+    "ticker": "6525",
+    "market": "twse"
+  },
+  "達發": {
+    "ticker": "6526",
+    "market": "twse"
+  },
+  "愛普*": {
+    "ticker": "6531",
+    "market": "twse"
+  },
+  "晶心科": {
+    "ticker": "6533",
+    "market": "twse"
+  },
+  "正瀚-創": {
+    "ticker": "6534",
+    "market": "twse"
+  },
+  "泰福-KY": {
+    "ticker": "6541",
+    "market": "twse"
+  },
+  "北極星藥業-KY": {
+    "ticker": "6550",
+    "market": "twse"
+  },
+  "易華電": {
+    "ticker": "6552",
+    "market": "twse"
+  },
+  "興能高": {
+    "ticker": "6558",
+    "market": "twse"
+  },
+  "虹揚-KY": {
+    "ticker": "6573",
+    "market": "twse"
+  },
+  "研揚": {
+    "ticker": "6579",
+    "market": "twse"
+  },
+  "鋼聯": {
+    "ticker": "6581",
+    "market": "twse"
+  },
+  "申豐": {
+    "ticker": "6582",
+    "market": "twse"
+  },
+  "鼎基": {
+    "ticker": "6585",
+    "market": "twse"
+  },
+  "台康生技": {
+    "ticker": "6589",
+    "market": "twse"
+  },
+  "動力-KY": {
+    "ticker": "6591",
+    "market": "twse"
+  },
+  "和潤企業": {
+    "ticker": "6592",
+    "market": "twse"
+  },
+  "ABC-KY": {
+    "ticker": "6598",
+    "market": "twse"
+  },
+  "帝寶": {
+    "ticker": "6605",
+    "market": "twse"
+  },
+  "建德工業": {
+    "ticker": "6606",
+    "market": "twse"
+  },
+  "資拓宏宇": {
+    "ticker": "6614",
+    "market": "twse"
+  },
+  "必應": {
+    "ticker": "6625",
+    "market": "twse"
+  },
+  "基士德-KY": {
+    "ticker": "6641",
+    "market": "twse"
+  },
+  "金萬林-創": {
+    "ticker": "6645",
+    "market": "twse"
+  },
+  "科定": {
+    "ticker": "6655",
+    "market": "twse"
+  },
+  "華安": {
+    "ticker": "6657",
+    "market": "twse"
+  },
+  "聯策": {
+    "ticker": "6658",
+    "market": "twse"
+  },
+  "羅麗芬-KY": {
+    "ticker": "6666",
+    "market": "twse"
+  },
+  "中揚光": {
+    "ticker": "6668",
+    "market": "twse"
+  },
+  "緯穎": {
+    "ticker": "6669",
+    "market": "twse"
+  },
+  "復盛應用": {
+    "ticker": "6670",
+    "market": "twse"
+  },
+  "三能-KY": {
+    "ticker": "6671",
+    "market": "twse"
+  },
+  "騰輝電子-KY": {
+    "ticker": "6672",
+    "market": "twse"
+  },
+  "鋐寶科技": {
+    "ticker": "6674",
+    "market": "twse"
+  },
+  "伊雲谷": {
+    "ticker": "6689",
+    "market": "twse"
+  },
+  "洋基工程": {
+    "ticker": "6691",
+    "market": "twse"
+  },
+  "芯鼎": {
+    "ticker": "6695",
+    "market": "twse"
+  },
+  "旭暉應材": {
+    "ticker": "6698",
+    "market": "twse"
+  },
+  "惠特": {
+    "ticker": "6706",
+    "market": "twse"
+  },
+  "嘉基": {
+    "ticker": "6715",
+    "market": "twse"
+  },
+  "力智": {
+    "ticker": "6719",
+    "market": "twse"
+  },
+  "輝創": {
+    "ticker": "6722",
+    "market": "twse"
+  },
+  "澤米": {
+    "ticker": "6742",
+    "market": "twse"
+  },
+  "安普新": {
+    "ticker": "6743",
+    "market": "twse"
+  },
+  "龍德造船": {
+    "ticker": "6753",
+    "market": "twse"
+  },
+  "匯僑設計": {
+    "ticker": "6754",
+    "market": "twse"
+  },
+  "威鋒電子": {
+    "ticker": "6756",
+    "market": "twse"
+  },
+  "台灣虎航": {
+    "ticker": "6757",
+    "market": "twse"
+  },
+  "志強-KY": {
+    "ticker": "6768",
+    "market": "twse"
+  },
+  "力積電": {
+    "ticker": "6770",
+    "market": "twse"
+  },
+  "平和環保-創": {
+    "ticker": "6771",
+    "market": "twse"
+  },
+  "展碁國際": {
+    "ticker": "6776",
+    "market": "twse"
+  },
+  "AES-KY": {
+    "ticker": "6781",
+    "market": "twse"
+  },
+  "視陽": {
+    "ticker": "6782",
+    "market": "twse"
+  },
+  "采鈺": {
+    "ticker": "6789",
+    "market": "twse"
+  },
+  "永豐實": {
+    "ticker": "6790",
+    "market": "twse"
+  },
+  "詠業": {
+    "ticker": "6792",
+    "market": "twse"
+  },
+  "向榮生技": {
+    "ticker": "6794",
+    "market": "twse"
+  },
+  "晉弘": {
+    "ticker": "6796",
+    "market": "twse"
+  },
+  "來頡": {
+    "ticker": "6799",
+    "market": "twse"
+  },
+  "富世達": {
+    "ticker": "6805",
+    "market": "twse"
+  },
+  "森崴能源": {
+    "ticker": "6806",
+    "market": "twse"
+  },
+  "峰源-KY": {
+    "ticker": "6807",
+    "market": "twse"
+  },
+  "汎銓": {
+    "ticker": "6830",
+    "market": "twse"
+  },
+  "邁科": {
+    "ticker": "6831",
+    "market": "twse"
+  },
+  "天二科技": {
+    "ticker": "6834",
+    "market": "twse"
+  },
+  "圓裕": {
+    "ticker": "6835",
+    "market": "twse"
+  },
+  "台新藥": {
+    "ticker": "6838",
+    "market": "twse"
+  },
+  "錼創科技-KY創": {
+    "ticker": "6854",
+    "market": "twse"
+  },
+  "睿生光電": {
+    "ticker": "6861",
+    "market": "twse"
+  },
+  "三集瑞-KY": {
+    "ticker": "6862",
+    "market": "twse"
+  },
+  "永道-KY": {
+    "ticker": "6863",
+    "market": "twse"
+  },
+  "雲豹能源": {
+    "ticker": "6869",
+    "market": "twse"
+  },
+  "泓德能源": {
+    "ticker": "6873",
+    "market": "twse"
+  },
+  "全福生技": {
+    "ticker": "6885",
+    "market": "twse"
+  },
+  "寶綠特-KY": {
+    "ticker": "6887",
+    "market": "twse"
+  },
+  "來億-KY": {
+    "ticker": "6890",
+    "market": "twse"
+  },
+  "鑽石投資": {
+    "ticker": "6901",
+    "market": "twse"
+  },
+  "GOGOLOOK": {
+    "ticker": "6902",
+    "market": "twse"
+  },
+  "現觀科": {
+    "ticker": "6906",
+    "market": "twse"
+  },
+  "創控": {
+    "ticker": "6909",
+    "market": "twse"
+  },
+  "阜爾運通": {
+    "ticker": "6914",
+    "market": "twse"
+  },
+  "華凌": {
+    "ticker": "6916",
+    "market": "twse"
+  },
+  "愛派司": {
+    "ticker": "6918",
+    "market": "twse"
+  },
+  "康霈*": {
+    "ticker": "6919",
+    "market": "twse"
+  },
+  "嘉雨思-創": {
+    "ticker": "6921",
+    "market": "twse"
+  },
+  "中台": {
+    "ticker": "6923",
+    "market": "twse"
+  },
+  "榮惠-KY創": {
+    "ticker": "6924",
+    "market": "twse"
+  },
+  "攸泰科技": {
+    "ticker": "6928",
+    "market": "twse"
+  },
+  "青松健康": {
+    "ticker": "6931",
+    "market": "twse"
+  },
+  "AMAX-KY": {
+    "ticker": "6933",
+    "market": "twse"
+  },
+  "心誠鎂": {
+    "ticker": "6934",
+    "market": "twse"
+  },
+  "永鴻生技": {
+    "ticker": "6936",
+    "market": "twse"
+  },
+  "天虹": {
+    "ticker": "6937",
+    "market": "twse"
+  },
+  "兆聯實業": {
+    "ticker": "6944",
+    "market": "twse"
+  },
+  "沛爾生醫-創": {
+    "ticker": "6949",
+    "market": "twse"
+  },
+  "青新-創": {
+    "ticker": "6951",
+    "market": "twse"
+  },
+  "大武山": {
+    "ticker": "6952",
+    "market": "twse"
+  },
+  "邦睿生技-創": {
+    "ticker": "6955",
+    "market": "twse"
+  },
+  "裕慶-KY": {
+    "ticker": "6957",
+    "market": "twse"
+  },
+  "日盛台駿": {
+    "ticker": "6958",
+    "market": "twse"
+  },
+  "奕力-KY": {
+    "ticker": "6962",
+    "market": "twse"
+  },
+  "中傑-KY": {
+    "ticker": "6965",
+    "market": "twse"
+  },
+  "成信實業*-創": {
+    "ticker": "6969",
+    "market": "twse"
+  },
+  "威力暘-創": {
+    "ticker": "6988",
+    "market": "twse"
+  },
+  "富威電力": {
+    "ticker": "6994",
+    "market": "twse"
+  },
+  "聯友金屬-創": {
+    "ticker": "7610",
+    "market": "twse"
+  },
+  "聚賢研發-創": {
+    "ticker": "7631",
+    "market": "twse"
+  },
+  "三商餐飲": {
+    "ticker": "7705",
+    "market": "twse"
+  },
+  "永擎": {
+    "ticker": "7711",
+    "market": "twse"
+  },
+  "微程式": {
+    "ticker": "7721",
+    "market": "twse"
+  },
+  "LINEPAY": {
+    "ticker": "7722",
+    "market": "twse"
+  },
+  "暉盛-創": {
+    "ticker": "7730",
+    "market": "twse"
+  },
+  "金興精密": {
+    "ticker": "7732",
+    "market": "twse"
+  },
+  "虎山": {
+    "ticker": "7736",
+    "market": "twse"
+  },
+  "熙特爾-創": {
+    "ticker": "7740",
+    "market": "twse"
+  },
+  "意騰-KY": {
+    "ticker": "7749",
+    "market": "twse"
+  },
+  "新代": {
+    "ticker": "7750",
+    "market": "twse"
+  },
+  "中華資安": {
+    "ticker": "7765",
+    "market": "twse"
+  },
+  "鴻勁": {
+    "ticker": "7769",
+    "market": "twse"
+  },
+  "大研生醫*": {
+    "ticker": "7780",
+    "market": "twse"
+  },
+  "東方風能": {
+    "ticker": "7786",
+    "market": "twse"
+  },
+  "松川精密": {
+    "ticker": "7788",
+    "market": "twse"
+  },
+  "皇家可口": {
+    "ticker": "7791",
+    "market": "twse"
+  },
+  "長廣": {
+    "ticker": "7795",
+    "market": "twse"
+  },
+  "禾榮科": {
+    "ticker": "7799",
+    "market": "twse"
+  },
+  "奧義賽博-KY創": {
+    "ticker": "7823",
+    "market": "twse"
+  },
+  "台通": {
+    "ticker": "8011",
+    "market": "twse"
+  },
+  "矽創": {
+    "ticker": "8016",
+    "market": "twse"
+  },
+  "尖點": {
+    "ticker": "8021",
+    "market": "twse"
+  },
+  "昇陽半導體": {
+    "ticker": "8028",
+    "market": "twse"
+  },
+  "雷虎": {
+    "ticker": "8033",
+    "market": "twse"
+  },
+  "台虹": {
+    "ticker": "8039",
+    "market": "twse"
+  },
+  "達運光電": {
+    "ticker": "8045",
+    "market": "twse"
+  },
+  "南電": {
+    "ticker": "8046",
+    "market": "twse"
+  },
+  "長華*": {
+    "ticker": "8070",
+    "market": "twse"
+  },
+  "陞泰": {
+    "ticker": "8072",
+    "market": "twse"
+  },
+  "致新": {
+    "ticker": "8081",
+    "market": "twse"
+  },
+  "華冠": {
+    "ticker": "8101",
+    "market": "twse"
+  },
+  "瀚荃": {
+    "ticker": "8103",
+    "market": "twse"
+  },
+  "錸寶": {
+    "ticker": "8104",
+    "market": "twse"
+  },
+  "凌巨": {
+    "ticker": "8105",
+    "market": "twse"
+  },
+  "華東": {
+    "ticker": "8110",
+    "market": "twse"
+  },
+  "至上": {
+    "ticker": "8112",
+    "market": "twse"
+  },
+  "振樺電": {
+    "ticker": "8114",
+    "market": "twse"
+  },
+  "福懋科": {
+    "ticker": "8131",
+    "market": "twse"
+  },
+  "南茂": {
+    "ticker": "8150",
+    "market": "twse"
+  },
+  "微矽電子-創": {
+    "ticker": "8162",
+    "market": "twse"
+  },
+  "達方": {
+    "ticker": "8163",
+    "market": "twse"
+  },
+  "無敵": {
+    "ticker": "8201",
+    "market": "twse"
+  },
+  "勤誠": {
+    "ticker": "8210",
+    "market": "twse"
+  },
+  "志超": {
+    "ticker": "8213",
+    "market": "twse"
+  },
+  "明基材": {
+    "ticker": "8215",
+    "market": "twse"
+  },
+  "寶一": {
+    "ticker": "8222",
+    "market": "twse"
+  },
+  "菱光": {
+    "ticker": "8249",
+    "market": "twse"
+  },
+  "富鼎": {
+    "ticker": "8261",
+    "market": "twse"
+  },
+  "宇瞻": {
+    "ticker": "8271",
+    "market": "twse"
+  },
+  "日友": {
+    "ticker": "8341",
+    "market": "twse"
+  },
+  "建新國際": {
+    "ticker": "8367",
+    "market": "twse"
+  },
+  "羅昇": {
+    "ticker": "8374",
+    "market": "twse"
+  },
+  "百和興業-KY": {
+    "ticker": "8404",
+    "market": "twse"
+  },
+  "福貞-KY": {
+    "ticker": "8411",
+    "market": "twse"
+  },
+  "可寧衛*": {
+    "ticker": "8422",
+    "market": "twse"
+  },
+  "金麗-KY": {
+    "ticker": "8429",
+    "market": "twse"
+  },
+  "昶昕": {
+    "ticker": "8438",
+    "market": "twse"
+  },
+  "威宏-KY": {
+    "ticker": "8442",
+    "market": "twse"
+  },
+  "阿瘦": {
+    "ticker": "8443",
+    "market": "twse"
+  },
+  "富邦媒": {
+    "ticker": "8454",
+    "market": "twse"
+  },
+  "柏文": {
+    "ticker": "8462",
+    "market": "twse"
+  },
+  "潤泰材": {
+    "ticker": "8463",
+    "market": "twse"
+  },
+  "億豐": {
+    "ticker": "8464",
+    "market": "twse"
+  },
+  "美吉吉-KY": {
+    "ticker": "8466",
+    "market": "twse"
+  },
+  "波力-KY": {
+    "ticker": "8467",
+    "market": "twse"
+  },
+  "山林水": {
+    "ticker": "8473",
+    "market": "twse"
+  },
+  "台境*": {
+    "ticker": "8476",
+    "market": "twse"
+  },
+  "東哥遊艇": {
+    "ticker": "8478",
+    "market": "twse"
+  },
+  "政伸": {
+    "ticker": "8481",
+    "market": "twse"
+  },
+  "商億-KY": {
+    "ticker": "8482",
+    "market": "twse"
+  },
+  "愛爾達-創": {
+    "ticker": "8487",
+    "market": "twse"
+  },
+  "吉源-KY": {
+    "ticker": "8488",
+    "market": "twse"
+  },
+  "鼎炫-KY": {
+    "ticker": "8499",
+    "market": "twse"
+  },
+  "台汽電": {
+    "ticker": "8926",
+    "market": "twse"
+  },
+  "新天地": {
+    "ticker": "8940",
+    "market": "twse"
+  },
+  "高力": {
+    "ticker": "8996",
+    "market": "twse"
+  },
+  "美德醫療-DR": {
+    "ticker": "9103",
+    "market": "twse"
+  },
+  "康師傅-DR": {
+    "ticker": "910322",
+    "market": "twse"
+  },
+  "泰金寶-DR": {
+    "ticker": "9105",
+    "market": "twse"
+  },
+  "神州-DR": {
+    "ticker": "910861",
+    "market": "twse"
+  },
+  "越南控-DR": {
+    "ticker": "9110",
+    "market": "twse"
+  },
+  "明輝-DR": {
+    "ticker": "911608",
+    "market": "twse"
+  },
+  "泰聚亨-DR": {
+    "ticker": "911622",
+    "market": "twse"
+  },
+  "同方友友-DR": {
+    "ticker": "911868",
+    "market": "twse"
+  },
+  "晨訊科-DR": {
+    "ticker": "912000",
+    "market": "twse"
+  },
+  "巨騰-DR": {
+    "ticker": "9136",
+    "market": "twse"
+  },
+  "鈺齊-KY": {
+    "ticker": "9802",
+    "market": "twse"
+  },
+  "台火": {
+    "ticker": "9902",
+    "market": "twse"
+  },
+  "寶成": {
+    "ticker": "9904",
+    "market": "twse"
+  },
+  "大華": {
+    "ticker": "9905",
+    "market": "twse"
+  },
+  "欣巴巴": {
+    "ticker": "9906",
+    "market": "twse"
+  },
+  "統一實": {
+    "ticker": "9907",
+    "market": "twse"
+  },
+  "大台北": {
+    "ticker": "9908",
+    "market": "twse"
+  },
+  "豐泰": {
+    "ticker": "9910",
+    "market": "twse"
+  },
+  "櫻花": {
+    "ticker": "9911",
+    "market": "twse"
+  },
+  "偉聯": {
+    "ticker": "9912",
+    "market": "twse"
+  },
+  "美利達": {
+    "ticker": "9914",
+    "market": "twse"
+  },
+  "中保科": {
+    "ticker": "9917",
+    "market": "twse"
+  },
+  "欣天然": {
+    "ticker": "9918",
+    "market": "twse"
+  },
+  "康那香": {
+    "ticker": "9919",
+    "market": "twse"
+  },
+  "巨大": {
+    "ticker": "9921",
+    "market": "twse"
+  },
+  "福興": {
+    "ticker": "9924",
+    "market": "twse"
+  },
+  "新保": {
+    "ticker": "9925",
+    "market": "twse"
+  },
+  "新海": {
+    "ticker": "9926",
+    "market": "twse"
+  },
+  "泰銘": {
+    "ticker": "9927",
+    "market": "twse"
+  },
+  "中視": {
+    "ticker": "9928",
+    "market": "twse"
+  },
+  "秋雨": {
+    "ticker": "9929",
+    "market": "twse"
+  },
+  "中聯資源": {
+    "ticker": "9930",
+    "market": "twse"
+  },
+  "欣高": {
+    "ticker": "9931",
+    "market": "twse"
+  },
+  "中鼎": {
+    "ticker": "9933",
+    "market": "twse"
+  },
+  "成霖": {
+    "ticker": "9934",
+    "market": "twse"
+  },
+  "慶豐富": {
+    "ticker": "9935",
+    "market": "twse"
+  },
+  "全國": {
+    "ticker": "9937",
+    "market": "twse"
+  },
+  "百和": {
+    "ticker": "9938",
+    "market": "twse"
+  },
+  "宏全": {
+    "ticker": "9939",
+    "market": "twse"
+  },
+  "信義": {
+    "ticker": "9940",
+    "market": "twse"
+  },
+  "裕融": {
+    "ticker": "9941",
+    "market": "twse"
+  },
+  "茂順": {
+    "ticker": "9942",
+    "market": "twse"
+  },
+  "好樂迪": {
+    "ticker": "9943",
+    "market": "twse"
+  },
+  "新麗": {
+    "ticker": "9944",
+    "market": "twse"
+  },
+  "潤泰新": {
+    "ticker": "9945",
+    "market": "twse"
+  },
+  "三發地產": {
+    "ticker": "9946",
+    "market": "twse"
+  },
+  "佳龍": {
+    "ticker": "9955",
+    "market": "twse"
+  },
+  "世紀鋼": {
+    "ticker": "9958",
+    "market": "twse"
+  },
+  "元大美債20年": {
+    "ticker": "00679B",
+    "market": "tpex"
+  },
+  "國泰20年美債": {
+    "ticker": "00687B",
+    "market": "tpex"
+  },
+  "國泰20年美債+櫃U": {
+    "ticker": "00687C",
+    "market": "tpex"
+  },
+  "富邦美債1-3": {
+    "ticker": "00694B",
+    "market": "tpex"
+  },
+  "富邦美債7-10": {
+    "ticker": "00695B",
+    "market": "tpex"
+  },
+  "富邦美債20年": {
+    "ticker": "00696B",
+    "market": "tpex"
+  },
+  "元大美債7-10": {
+    "ticker": "00697B",
+    "market": "tpex"
+  },
+  "元大美債1-3": {
+    "ticker": "00719B",
+    "market": "tpex"
+  },
+  "元大投資級公司債": {
+    "ticker": "00720B",
+    "market": "tpex"
+  },
+  "群益投資級電信債": {
+    "ticker": "00722B",
+    "market": "tpex"
+  },
+  "群益投資級科技債": {
+    "ticker": "00723B",
+    "market": "tpex"
+  },
+  "群益投資級金融債": {
+    "ticker": "00724B",
+    "market": "tpex"
+  },
+  "國泰投資級公司債": {
+    "ticker": "00725B",
+    "market": "tpex"
+  },
+  "國泰新興投等債": {
+    "ticker": "00726B",
+    "market": "tpex"
+  },
+  "國泰優選非投等債": {
+    "ticker": "00727B",
+    "market": "tpex"
+  },
+  "台新JPM新興債": {
+    "ticker": "00734B",
+    "market": "tpex"
+  },
+  "富邦全球投等債": {
+    "ticker": "00740B",
+    "market": "tpex"
+  },
+  "富邦全球非投等債": {
+    "ticker": "00741B",
+    "market": "tpex"
+  },
+  "富邦A級公司債": {
+    "ticker": "00746B",
+    "market": "tpex"
+  },
+  "凱基新興債10+": {
+    "ticker": "00749B",
+    "market": "tpex"
+  },
+  "凱基科技債10+": {
+    "ticker": "00750B",
+    "market": "tpex"
+  },
+  "元大AAA至A公司債": {
+    "ticker": "00751B",
+    "market": "tpex"
+  },
+  "群益AAA-AA公司債": {
+    "ticker": "00754B",
+    "market": "tpex"
+  },
+  "群益投資級公用債": {
+    "ticker": "00755B",
+    "market": "tpex"
+  },
+  "群益投等新興公債": {
+    "ticker": "00756B",
+    "market": "tpex"
+  },
+  "復華能源債": {
+    "ticker": "00758B",
+    "market": "tpex"
+  },
+  "復華製藥債": {
+    "ticker": "00759B",
+    "market": "tpex"
+  },
+  "復華新興企業債": {
+    "ticker": "00760B",
+    "market": "tpex"
+  },
+  "國泰A級公司債": {
+    "ticker": "00761B",
+    "market": "tpex"
+  },
+  "群益25年美債": {
+    "ticker": "00764B",
+    "market": "tpex"
+  },
+  "復華20年美債": {
+    "ticker": "00768B",
+    "market": "tpex"
+  },
+  "中信高評級公司債": {
+    "ticker": "00772B",
+    "market": "tpex"
+  },
+  "中信優先金融債": {
+    "ticker": "00773B",
+    "market": "tpex"
+  },
+  "凱基AAA至A公司債": {
+    "ticker": "00777B",
+    "market": "tpex"
+  },
+  "凱基金融債20+": {
+    "ticker": "00778B",
+    "market": "tpex"
+  },
+  "凱基美債25+": {
+    "ticker": "00779B",
+    "market": "tpex"
+  },
+  "國泰A級金融債": {
+    "ticker": "00780B",
+    "market": "tpex"
+  },
+  "國泰A級科技債": {
+    "ticker": "00781B",
+    "market": "tpex"
+  },
+  "國泰A級公用債": {
+    "ticker": "00782B",
+    "market": "tpex"
+  },
+  "富邦金融投等債": {
+    "ticker": "00785B",
+    "market": "tpex"
+  },
+  "元大10年IG銀行債": {
+    "ticker": "00786B",
+    "market": "tpex"
+  },
+  "元大10年IG醫療債": {
+    "ticker": "00787B",
+    "market": "tpex"
+  },
+  "元大10年IG電能債": {
+    "ticker": "00788B",
+    "market": "tpex"
+  },
+  "復華公司債A3": {
+    "ticker": "00789B",
+    "market": "tpex"
+  },
+  "復華信用債1-5": {
+    "ticker": "00791B",
+    "market": "tpex"
+  },
+  "群益A級公司債": {
+    "ticker": "00792B",
+    "market": "tpex"
+  },
+  "群益AAA-A醫療債": {
+    "ticker": "00793B",
+    "market": "tpex"
+  },
+  "中信美國公債20年": {
+    "ticker": "00795B",
+    "market": "tpex"
+  },
+  "國泰A級醫療債": {
+    "ticker": "00799B",
+    "market": "tpex"
+  },
+  "第一金金融債10+": {
+    "ticker": "00834B",
+    "market": "tpex"
+  },
+  "永豐10年A公司債": {
+    "ticker": "00836B",
+    "market": "tpex"
+  },
+  "凱基IG精選15+": {
+    "ticker": "00840B",
+    "market": "tpex"
+  },
+  "凱基AAA-AA公司債": {
+    "ticker": "00841B",
+    "market": "tpex"
+  },
+  "台新美元銀行債": {
+    "ticker": "00842B",
+    "market": "tpex"
+  },
+  "新光15年IG金融債": {
+    "ticker": "00844B",
+    "market": "tpex"
+  },
+  "富邦新興投等債": {
+    "ticker": "00845B",
+    "market": "tpex"
+  },
+  "富邦歐洲銀行債": {
+    "ticker": "00846B",
+    "market": "tpex"
+  },
+  "中信美國市政債": {
+    "ticker": "00847B",
+    "market": "tpex"
+  },
+  "中信新興亞洲債": {
+    "ticker": "00848B",
+    "market": "tpex"
+  },
+  "中信EM主權債0-5": {
+    "ticker": "00849B",
+    "market": "tpex"
+  },
+  "統一美債10年Aa-A": {
+    "ticker": "00853B",
+    "market": "tpex"
+  },
+  "永豐1-3年美公債": {
+    "ticker": "00856B",
+    "market": "tpex"
+  },
+  "永豐20年美公債": {
+    "ticker": "00857B",
+    "market": "tpex"
+  },
+  "永豐美國500大": {
+    "ticker": "00858",
+    "market": "tpex"
+  },
+  "群益0-1年美債": {
+    "ticker": "00859B",
+    "market": "tpex"
+  },
+  "群益1-5Y投資級債": {
+    "ticker": "00860B",
+    "market": "tpex"
+  },
+  "中信投資級公司債": {
+    "ticker": "00862B",
+    "market": "tpex"
+  },
+  "中信全球電信債": {
+    "ticker": "00863B",
+    "market": "tpex"
+  },
+  "中信美國公債0-1": {
+    "ticker": "00864B",
+    "market": "tpex"
+  },
+  "新光A-BBB電信債": {
+    "ticker": "00867B",
+    "market": "tpex"
+  },
+  "元大15年EM主權債": {
+    "ticker": "00870B",
+    "market": "tpex"
+  },
+  "復華中國5G": {
+    "ticker": "00877",
+    "market": "tpex"
+  },
+  "中信ESG投資級債": {
+    "ticker": "00883B",
+    "market": "tpex"
+  },
+  "中信低碳新興債": {
+    "ticker": "00884B",
+    "market": "tpex"
+  },
+  "永豐美國科技": {
+    "ticker": "00886",
+    "market": "tpex"
+  },
+  "永豐中國科技50大": {
+    "ticker": "00887",
+    "market": "tpex"
+  },
+  "永豐台灣ESG": {
+    "ticker": "00888",
+    "market": "tpex"
+  },
+  "凱基ESG BBB債15+": {
+    "ticker": "00890B",
+    "market": "tpex"
+  },
+  "中信上櫃ESG 30": {
+    "ticker": "00928",
+    "market": "tpex"
+  },
+  "統一美債20年": {
+    "ticker": "00931B",
+    "market": "tpex"
+  },
+  "國泰10Y+金融債": {
+    "ticker": "00933B",
+    "market": "tpex"
+  },
+  "群益ESG投等債20+": {
+    "ticker": "00937B",
+    "market": "tpex"
+  },
+  "台新美A公司債20+": {
+    "ticker": "00942B",
+    "market": "tpex"
+  },
+  "中信優息投資級債": {
+    "ticker": "00948B",
+    "market": "tpex"
+  },
+  "凱基A級公司債": {
+    "ticker": "00950B",
+    "market": "tpex"
+  },
+  "中信日本商社": {
+    "ticker": "00955",
+    "market": "tpex"
+  },
+  "兆豐US優選投等債": {
+    "ticker": "00957B",
+    "market": "tpex"
+  },
+  "永豐ESG銀行債15+": {
+    "ticker": "00958B",
+    "market": "tpex"
+  },
+  "大華投等美債15Y+": {
+    "ticker": "00959B",
+    "market": "tpex"
+  },
+  "統一ESG投等債15+": {
+    "ticker": "00966B",
+    "market": "tpex"
+  },
+  "元大優息美債": {
+    "ticker": "00967B",
+    "market": "tpex"
+  },
+  "元大優息投等債": {
+    "ticker": "00968B",
+    "market": "tpex"
+  },
+  "元大零息超長美債": {
+    "ticker": "00969B",
+    "market": "tpex"
+  },
+  "新光BBB投等債20+": {
+    "ticker": "00970B",
+    "market": "tpex"
+  },
+  "台新特選IG債10+": {
+    "ticker": "00980B",
+    "market": "tpex"
+  },
+  "主動聯博投等入息": {
+    "ticker": "00980D",
+    "market": "tpex"
+  },
+  "平衡凱基美國TOP": {
+    "ticker": "00980T",
+    "market": "tpex"
+  },
+  "第一金優選非投債": {
+    "ticker": "00981B",
+    "market": "tpex"
+  },
+  "主動中信非投等債": {
+    "ticker": "00981D",
+    "market": "tpex"
+  },
+  "FT投資級債20+": {
+    "ticker": "00982B",
+    "market": "tpex"
+  },
+  "大華優利美公債20": {
+    "ticker": "00983B",
+    "market": "tpex"
+  },
+  "大華優利美A債15": {
+    "ticker": "00984B",
+    "market": "tpex"
+  },
+  "FT金融債10+": {
+    "ticker": "00986B",
+    "market": "tpex"
+  },
+  "野村10+澳洲公債": {
+    "ticker": "00987B",
+    "market": "tpex"
+  },
+  "茂生農經": {
+    "ticker": "1240",
+    "market": "tpex"
+  },
+  "安心": {
+    "ticker": "1259",
+    "market": "tpex"
+  },
+  "德麥": {
+    "ticker": "1264",
+    "market": "tpex"
+  },
+  "漢來美食": {
+    "ticker": "1268",
+    "market": "tpex"
+  },
+  "漢田生技": {
+    "ticker": "1294",
+    "market": "tpex"
+  },
+  "生合": {
+    "ticker": "1295",
+    "market": "tpex"
+  },
+  "台翰": {
+    "ticker": "1336",
+    "market": "tpex"
+  },
+  "精華": {
+    "ticker": "1565",
+    "market": "tpex"
+  },
+  "濱川": {
+    "ticker": "1569",
+    "market": "tpex"
+  },
+  "力肯": {
+    "ticker": "1570",
+    "market": "tpex"
+  },
+  "新麥": {
+    "ticker": "1580",
+    "market": "tpex"
+  },
+  "精剛": {
+    "ticker": "1584",
+    "market": "tpex"
+  },
+  "和勤": {
+    "ticker": "1586",
+    "market": "tpex"
+  },
+  "駿吉-KY": {
+    "ticker": "1591",
+    "market": "tpex"
+  },
+  "祺驊": {
+    "ticker": "1593",
+    "market": "tpex"
+  },
+  "川寶": {
+    "ticker": "1595",
+    "market": "tpex"
+  },
+  "宏佳騰": {
+    "ticker": "1599",
+    "market": "tpex"
+  },
+  "台蠟": {
+    "ticker": "1742",
+    "market": "tpex"
+  },
+  "生泰": {
+    "ticker": "1777",
+    "market": "tpex"
+  },
+  "合世": {
+    "ticker": "1781",
+    "market": "tpex"
+  },
+  "訊聯": {
+    "ticker": "1784",
+    "market": "tpex"
+  },
+  "光洋科": {
+    "ticker": "1785",
+    "market": "tpex"
+  },
+  "杏昌": {
+    "ticker": "1788",
+    "market": "tpex"
+  },
+  "金穎生技": {
+    "ticker": "1796",
+    "market": "tpex"
+  },
+  "易威": {
+    "ticker": "1799",
+    "market": "tpex"
+  },
+  "寶利徠": {
+    "ticker": "1813",
+    "market": "tpex"
+  },
+  "富喬": {
+    "ticker": "1815",
+    "market": "tpex"
+  },
+  "唐榮": {
+    "ticker": "2035",
+    "market": "tpex"
+  },
+  "風青": {
+    "ticker": "2061",
+    "market": "tpex"
+  },
+  "世鎧": {
+    "ticker": "2063",
+    "market": "tpex"
+  },
+  "晉椿": {
+    "ticker": "2064",
+    "market": "tpex"
+  },
+  "世豐": {
+    "ticker": "2065",
+    "market": "tpex"
+  },
+  "世德": {
+    "ticker": "2066",
+    "market": "tpex"
+  },
+  "嘉鋼": {
+    "ticker": "2067",
+    "market": "tpex"
+  },
+  "精湛": {
+    "ticker": "2070",
+    "market": "tpex"
+  },
+  "雄順": {
+    "ticker": "2073",
+    "market": "tpex"
+  },
+  "大甲": {
+    "ticker": "2221",
+    "market": "tpex"
+  },
+  "泰茂": {
+    "ticker": "2230",
+    "market": "tpex"
+  },
+  "謚源": {
+    "ticker": "2235",
+    "market": "tpex"
+  },
+  "綠意": {
+    "ticker": "2596",
+    "market": "tpex"
+  },
+  "大車隊": {
+    "ticker": "2640",
+    "market": "tpex"
+  },
+  "正德": {
+    "ticker": "2641",
+    "market": "tpex"
+  },
+  "捷迅": {
+    "ticker": "2643",
+    "market": "tpex"
+  },
+  "全心投控": {
+    "ticker": "2718",
+    "market": "tpex"
+  },
+  "燦星旅": {
+    "ticker": "2719",
+    "market": "tpex"
+  },
+  "藝舍-KY": {
+    "ticker": "2724",
+    "market": "tpex"
+  },
+  "雅茗-KY": {
+    "ticker": "2726",
+    "market": "tpex"
+  },
+  "瓦城": {
+    "ticker": "2729",
+    "market": "tpex"
+  },
+  "六角": {
+    "ticker": "2732",
+    "market": "tpex"
+  },
+  "易飛網": {
+    "ticker": "2734",
+    "market": "tpex"
+  },
+  "富野": {
+    "ticker": "2736",
+    "market": "tpex"
+  },
+  "天蔥": {
+    "ticker": "2740",
+    "market": "tpex"
+  },
+  "山富": {
+    "ticker": "2743",
+    "market": "tpex"
+  },
+  "五福": {
+    "ticker": "2745",
+    "market": "tpex"
+  },
+  "王座": {
+    "ticker": "2751",
+    "market": "tpex"
+  },
+  "豆府": {
+    "ticker": "2752",
+    "market": "tpex"
+  },
+  "亞洲藏壽司": {
+    "ticker": "2754",
+    "market": "tpex"
+  },
+  "揚秦": {
+    "ticker": "2755",
+    "market": "tpex"
+  },
+  "聯發國際": {
+    "ticker": "2756",
+    "market": "tpex"
+  },
+  "滿心": {
+    "ticker": "2916",
+    "market": "tpex"
+  },
+  "宏太-KY": {
+    "ticker": "2924",
+    "market": "tpex"
+  },
+  "誠品生活": {
+    "ticker": "2926",
+    "market": "tpex"
+  },
+  "集雅社": {
+    "ticker": "2937",
+    "market": "tpex"
+  },
+  "米斯特": {
+    "ticker": "2941",
+    "market": "tpex"
+  },
+  "振宇五金": {
+    "ticker": "2947",
+    "market": "tpex"
+  },
+  "寶陞": {
+    "ticker": "2948",
+    "market": "tpex"
+  },
+  "欣新網": {
+    "ticker": "2949",
+    "market": "tpex"
+  },
+  "泰偉": {
+    "ticker": "3064",
+    "market": "tpex"
+  },
+  "李洲": {
+    "ticker": "3066",
+    "market": "tpex"
+  },
+  "全域": {
+    "ticker": "3067",
+    "market": "tpex"
+  },
+  "協禧": {
+    "ticker": "3071",
+    "market": "tpex"
+  },
+  "天方能源": {
+    "ticker": "3073",
+    "market": "tpex"
+  },
+  "僑威": {
+    "ticker": "3078",
+    "market": "tpex"
+  },
+  "聯亞": {
+    "ticker": "3081",
+    "market": "tpex"
+  },
+  "網龍": {
+    "ticker": "3083",
+    "market": "tpex"
+  },
+  "新零售": {
+    "ticker": "3085",
+    "market": "tpex"
+  },
+  "華義": {
+    "ticker": "3086",
+    "market": "tpex"
+  },
+  "艾訊": {
+    "ticker": "3088",
+    "market": "tpex"
+  },
+  "港建*": {
+    "ticker": "3093",
+    "market": "tpex"
+  },
+  "及成": {
+    "ticker": "3095",
+    "market": "tpex"
+  },
+  "穩懋": {
+    "ticker": "3105",
+    "market": "tpex"
+  },
+  "好德": {
+    "ticker": "3114",
+    "market": "tpex"
+  },
+  "富榮綱": {
+    "ticker": "3115",
+    "market": "tpex"
+  },
+  "進階": {
+    "ticker": "3118",
+    "market": "tpex"
+  },
+  "笙泉": {
+    "ticker": "3122",
+    "market": "tpex"
+  },
+  "昇銳": {
+    "ticker": "3128",
+    "market": "tpex"
+  },
+  "弘塑": {
+    "ticker": "3131",
+    "market": "tpex"
+  },
+  "晶宏": {
+    "ticker": "3141",
+    "market": "tpex"
+  },
+  "大綜": {
+    "ticker": "3147",
+    "market": "tpex"
+  },
+  "璟德": {
+    "ticker": "3152",
+    "market": "tpex"
+  },
+  "嘉實": {
+    "ticker": "3158",
+    "market": "tpex"
+  },
+  "精確": {
+    "ticker": "3162",
+    "market": "tpex"
+  },
+  "波若威": {
+    "ticker": "3163",
+    "market": "tpex"
+  },
+  "亞信": {
+    "ticker": "3169",
+    "market": "tpex"
+  },
+  "炎洲流通": {
+    "ticker": "3171",
+    "market": "tpex"
+  },
+  "基亞": {
+    "ticker": "3176",
+    "market": "tpex"
+  },
+  "公準": {
+    "ticker": "3178",
+    "market": "tpex"
+  },
+  "鑫龍騰": {
+    "ticker": "3188",
+    "market": "tpex"
+  },
+  "雲嘉南": {
+    "ticker": "3191",
+    "market": "tpex"
+  },
+  "佰研": {
+    "ticker": "3205",
+    "market": "tpex"
+  },
+  "志豐": {
+    "ticker": "3206",
+    "market": "tpex"
+  },
+  "耀勝": {
+    "ticker": "3207",
+    "market": "tpex"
+  },
+  "順達": {
+    "ticker": "3211",
+    "market": "tpex"
+  },
+  "茂訊": {
+    "ticker": "3213",
+    "market": "tpex"
+  },
+  "優群": {
+    "ticker": "3217",
+    "market": "tpex"
+  },
+  "大學光": {
+    "ticker": "3218",
+    "market": "tpex"
+  },
+  "倚強科": {
+    "ticker": "3219",
+    "market": "tpex"
+  },
+  "台嘉碩": {
+    "ticker": "3221",
+    "market": "tpex"
+  },
+  "三顧": {
+    "ticker": "3224",
+    "market": "tpex"
+  },
+  "龍鋒": {
+    "ticker": "3226",
+    "market": "tpex"
+  },
+  "原相": {
+    "ticker": "3227",
+    "market": "tpex"
+  },
+  "金麗科": {
+    "ticker": "3228",
+    "market": "tpex"
+  },
+  "錦明": {
+    "ticker": "3230",
+    "market": "tpex"
+  },
+  "昱捷": {
+    "ticker": "3232",
+    "market": "tpex"
+  },
+  "光環": {
+    "ticker": "3234",
+    "market": "tpex"
+  },
+  "千如": {
+    "ticker": "3236",
+    "market": "tpex"
+  },
+  "海灣": {
+    "ticker": "3252",
+    "market": "tpex"
+  },
+  "鑫創": {
+    "ticker": "3259",
+    "market": "tpex"
+  },
+  "威剛": {
+    "ticker": "3260",
+    "market": "tpex"
+  },
+  "欣銓": {
+    "ticker": "3264",
+    "market": "tpex"
+  },
+  "台星科": {
+    "ticker": "3265",
+    "market": "tpex"
+  },
+  "海德威": {
+    "ticker": "3268",
+    "market": "tpex"
+  },
+  "東碩": {
+    "ticker": "3272",
+    "market": "tpex"
+  },
+  "宇環": {
+    "ticker": "3276",
+    "market": "tpex"
+  },
+  "太普高": {
+    "ticker": "3284",
+    "market": "tpex"
+  },
+  "微端": {
+    "ticker": "3285",
+    "market": "tpex"
+  },
+  "廣寰科": {
+    "ticker": "3287",
+    "market": "tpex"
+  },
+  "點晶": {
+    "ticker": "3288",
+    "market": "tpex"
+  },
+  "宜特": {
+    "ticker": "3289",
+    "market": "tpex"
+  },
+  "東浦": {
+    "ticker": "3290",
+    "market": "tpex"
+  },
+  "鈊象": {
+    "ticker": "3293",
+    "market": "tpex"
+  },
+  "英濟": {
+    "ticker": "3294",
+    "market": "tpex"
+  },
+  "杭特": {
+    "ticker": "3297",
+    "market": "tpex"
+  },
+  "岱稜": {
+    "ticker": "3303",
+    "market": "tpex"
+  },
+  "鼎天": {
+    "ticker": "3306",
+    "market": "tpex"
+  },
+  "佳穎": {
+    "ticker": "3310",
+    "market": "tpex"
+  },
+  "斐成": {
+    "ticker": "3313",
+    "market": "tpex"
+  },
+  "尼克森": {
+    "ticker": "3317",
+    "market": "tpex"
+  },
+  "建舜電": {
+    "ticker": "3322",
+    "market": "tpex"
+  },
+  "加百裕": {
+    "ticker": "3323",
+    "market": "tpex"
+  },
+  "雙鴻": {
+    "ticker": "3324",
+    "market": "tpex"
+  },
+  "旭品": {
+    "ticker": "3325",
+    "market": "tpex"
+  },
+  "幸康": {
+    "ticker": "3332",
+    "market": "tpex"
+  },
+  "泰谷": {
+    "ticker": "3339",
+    "market": "tpex"
+  },
+  "寶德": {
+    "ticker": "3349",
+    "market": "tpex"
+  },
+  "律勝": {
+    "ticker": "3354",
+    "market": "tpex"
+  },
+  "臺慶科": {
+    "ticker": "3357",
+    "market": "tpex"
+  },
+  "尚立": {
+    "ticker": "3360",
+    "market": "tpex"
+  },
+  "先進光": {
+    "ticker": "3362",
+    "market": "tpex"
+  },
+  "上詮": {
+    "ticker": "3363",
+    "market": "tpex"
+  },
+  "典範": {
+    "ticker": "3372",
+    "market": "tpex"
+  },
+  "熱映": {
+    "ticker": "3373",
+    "market": "tpex"
+  },
+  "精材": {
+    "ticker": "3374",
+    "market": "tpex"
+  },
+  "彬台": {
+    "ticker": "3379",
+    "market": "tpex"
+  },
+  "崇越電": {
+    "ticker": "3388",
+    "market": "tpex"
+  },
+  "旭軟": {
+    "ticker": "3390",
+    "market": "tpex"
+  },
+  "漢科": {
+    "ticker": "3402",
+    "market": "tpex"
+  },
+  "台興": {
+    "ticker": "3426",
+    "market": "tpex"
+  },
+  "奇鈦科": {
+    "ticker": "3430",
+    "market": "tpex"
+  },
+  "哲固": {
+    "ticker": "3434",
+    "market": "tpex"
+  },
+  "類比科": {
+    "ticker": "3438",
+    "market": "tpex"
+  },
+  "聯一光": {
+    "ticker": "3441",
+    "market": "tpex"
+  },
+  "利機": {
+    "ticker": "3444",
+    "market": "tpex"
+  },
+  "由田": {
+    "ticker": "3455",
+    "market": "tpex"
+  },
+  "進泰電子": {
+    "ticker": "3465",
+    "market": "tpex"
+  },
+  "德晉": {
+    "ticker": "3466",
+    "market": "tpex"
+  },
+  "台灣精材": {
+    "ticker": "3467",
+    "market": "tpex"
+  },
+  "安勤": {
+    "ticker": "3479",
+    "market": "tpex"
+  },
+  "力致": {
+    "ticker": "3483",
+    "market": "tpex"
+  },
+  "崧騰": {
+    "ticker": "3484",
+    "market": "tpex"
+  },
+  "森寶": {
+    "ticker": "3489",
+    "market": "tpex"
+  },
+  "單井": {
+    "ticker": "3490",
+    "market": "tpex"
+  },
+  "昇達科": {
+    "ticker": "3491",
+    "market": "tpex"
+  },
+  "長盛": {
+    "ticker": "3492",
+    "market": "tpex"
+  },
+  "陽程": {
+    "ticker": "3498",
+    "market": "tpex"
+  },
+  "環天科": {
+    "ticker": "3499",
+    "market": "tpex"
+  },
+  "位速": {
+    "ticker": "3508",
+    "market": "tpex"
+  },
+  "矽瑪": {
+    "ticker": "3511",
+    "market": "tpex"
+  },
+  "皇龍": {
+    "ticker": "3512",
+    "market": "tpex"
+  },
+  "亞帝歐": {
+    "ticker": "3516",
+    "market": "tpex"
+  },
+  "華盈": {
+    "ticker": "3520",
+    "market": "tpex"
+  },
+  "台鋼建設": {
+    "ticker": "3521",
+    "market": "tpex"
+  },
+  "御嵿": {
+    "ticker": "3522",
+    "market": "tpex"
+  },
+  "迎輝": {
+    "ticker": "3523",
+    "market": "tpex"
+  },
+  "凡甲": {
+    "ticker": "3526",
+    "market": "tpex"
+  },
+  "聚積": {
+    "ticker": "3527",
+    "market": "tpex"
+  },
+  "力旺": {
+    "ticker": "3529",
+    "market": "tpex"
+  },
+  "先益": {
+    "ticker": "3531",
+    "market": "tpex"
+  },
+  "堡達": {
+    "ticker": "3537",
+    "market": "tpex"
+  },
+  "曜越": {
+    "ticker": "3540",
+    "market": "tpex"
+  },
+  "西柏": {
+    "ticker": "3541",
+    "market": "tpex"
+  },
+  "宇峻": {
+    "ticker": "3546",
+    "market": "tpex"
+  },
+  "兆利": {
+    "ticker": "3548",
+    "market": "tpex"
+  },
+  "世禾": {
+    "ticker": "3551",
+    "market": "tpex"
+  },
+  "同致": {
+    "ticker": "3552",
+    "market": "tpex"
+  },
+  "博士旺": {
+    "ticker": "3555",
+    "market": "tpex"
+  },
+  "禾瑞亞": {
+    "ticker": "3556",
+    "market": "tpex"
+  },
+  "神準": {
+    "ticker": "3558",
+    "market": "tpex"
+  },
+  "其陽": {
+    "ticker": "3564",
+    "market": "tpex"
+  },
+  "逸昌": {
+    "ticker": "3567",
+    "market": "tpex"
+  },
+  "大塚": {
+    "ticker": "3570",
+    "market": "tpex"
+  },
+  "泓格": {
+    "ticker": "3577",
+    "market": "tpex"
+  },
+  "友威科": {
+    "ticker": "3580",
+    "market": "tpex"
+  },
+  "博磊": {
+    "ticker": "3581",
+    "market": "tpex"
+  },
+  "閎康": {
+    "ticker": "3587",
+    "market": "tpex"
+  },
+  "磐儀": {
+    "ticker": "3594",
+    "market": "tpex"
+  },
+  "映興": {
+    "ticker": "3597",
+    "market": "tpex"
+  },
+  "三一東林": {
+    "ticker": "3609",
+    "market": "tpex"
+  },
+  "鼎翰": {
+    "ticker": "3611",
+    "market": "tpex"
+  },
+  "安可": {
+    "ticker": "3615",
+    "market": "tpex"
+  },
+  "富晶通": {
+    "ticker": "3623",
+    "market": "tpex"
+  },
+  "光頡": {
+    "ticker": "3624",
+    "market": "tpex"
+  },
+  "西勝": {
+    "ticker": "3625",
+    "market": "tpex"
+  },
+  "盈正": {
+    "ticker": "3628",
+    "market": "tpex"
+  },
+  "地心引力": {
+    "ticker": "3629",
+    "market": "tpex"
+  },
+  "新鉅科": {
+    "ticker": "3630",
+    "market": "tpex"
+  },
+  "晟楠": {
+    "ticker": "3631",
+    "market": "tpex"
+  },
+  "研勤": {
+    "ticker": "3632",
+    "market": "tpex"
+  },
+  "艾恩特": {
+    "ticker": "3646",
+    "market": "tpex"
+  },
+  "鑫科": {
+    "ticker": "3663",
+    "market": "tpex"
+  },
+  "安瑞-KY": {
+    "ticker": "3664",
+    "market": "tpex"
+  },
+  "光耀": {
+    "ticker": "3666",
+    "market": "tpex"
+  },
+  "康聯訊": {
+    "ticker": "3672",
+    "market": "tpex"
+  },
+  "德微": {
+    "ticker": "3675",
+    "market": "tpex"
+  },
+  "家登": {
+    "ticker": "3680",
+    "market": "tpex"
+  },
+  "榮昌": {
+    "ticker": "3684",
+    "market": "tpex"
+  },
+  "元創精密": {
+    "ticker": "3685",
+    "market": "tpex"
+  },
+  "歐買尬": {
+    "ticker": "3687",
+    "market": "tpex"
+  },
+  "湧德": {
+    "ticker": "3689",
+    "market": "tpex"
+  },
+  "碩禾": {
+    "ticker": "3691",
+    "market": "tpex"
+  },
+  "營邦": {
+    "ticker": "3693",
+    "market": "tpex"
+  },
+  "漢磊": {
+    "ticker": "3707",
+    "market": "tpex"
+  },
+  "鑫聯大投控": {
+    "ticker": "3709",
+    "market": "tpex"
+  },
+  "連展投控": {
+    "ticker": "3710",
+    "market": "tpex"
+  },
+  "新晶投控": {
+    "ticker": "3713",
+    "market": "tpex"
+  },
+  "永日": {
+    "ticker": "4102",
+    "market": "tpex"
+  },
+  "東洋": {
+    "ticker": "4105",
+    "market": "tpex"
+  },
+  "邦特": {
+    "ticker": "4107",
+    "market": "tpex"
+  },
+  "加捷生醫": {
+    "ticker": "4109",
+    "market": "tpex"
+  },
+  "濟生": {
+    "ticker": "4111",
+    "market": "tpex"
+  },
+  "聯上": {
+    "ticker": "4113",
+    "market": "tpex"
+  },
+  "健喬": {
+    "ticker": "4114",
+    "market": "tpex"
+  },
+  "明基醫": {
+    "ticker": "4116",
+    "market": "tpex"
+  },
+  "友華": {
+    "ticker": "4120",
+    "market": "tpex"
+  },
+  "優盛": {
+    "ticker": "4121",
+    "market": "tpex"
+  },
+  "晟德": {
+    "ticker": "4123",
+    "market": "tpex"
+  },
+  "太醫": {
+    "ticker": "4126",
+    "market": "tpex"
+  },
+  "天良": {
+    "ticker": "4127",
+    "market": "tpex"
+  },
+  "中天": {
+    "ticker": "4128",
+    "market": "tpex"
+  },
+  "聯合": {
+    "ticker": "4129",
+    "market": "tpex"
+  },
+  "健亞": {
+    "ticker": "4130",
+    "market": "tpex"
+  },
+  "浩泰": {
+    "ticker": "4131",
+    "market": "tpex"
+  },
+  "曜亞": {
+    "ticker": "4138",
+    "market": "tpex"
+  },
+  "馬光-KY": {
+    "ticker": "4139",
+    "market": "tpex"
+  },
+  "中裕": {
+    "ticker": "4147",
+    "market": "tpex"
+  },
+  "鈺緯": {
+    "ticker": "4153",
+    "market": "tpex"
+  },
+  "樂威科-KY": {
+    "ticker": "4154",
+    "market": "tpex"
+  },
+  "太景*-KY": {
+    "ticker": "4157",
+    "market": "tpex"
+  },
+  "訊聯基因": {
+    "ticker": "4160",
+    "market": "tpex"
+  },
+  "聿新科": {
+    "ticker": "4161",
+    "market": "tpex"
+  },
+  "智擎": {
+    "ticker": "4162",
+    "market": "tpex"
+  },
+  "鐿鈦": {
+    "ticker": "4163",
+    "market": "tpex"
+  },
+  "友霖": {
+    "ticker": "4166",
+    "market": "tpex"
+  },
+  "松瑞藥": {
+    "ticker": "4167",
+    "market": "tpex"
+  },
+  "醣聯": {
+    "ticker": "4168",
+    "market": "tpex"
+  },
+  "瑞基": {
+    "ticker": "4171",
+    "market": "tpex"
+  },
+  "久裕": {
+    "ticker": "4173",
+    "market": "tpex"
+  },
+  "浩鼎": {
+    "ticker": "4174",
+    "market": "tpex"
+  },
+  "杏一": {
+    "ticker": "4175",
+    "market": "tpex"
+  },
+  "福永生技": {
+    "ticker": "4183",
+    "market": "tpex"
+  },
+  "安克": {
+    "ticker": "4188",
+    "market": "tpex"
+  },
+  "杏國": {
+    "ticker": "4192",
+    "market": "tpex"
+  },
+  "欣大健康": {
+    "ticker": "4198",
+    "market": "tpex"
+  },
+  "中華食": {
+    "ticker": "4205",
+    "market": "tpex"
+  },
+  "環泰": {
+    "ticker": "4207",
+    "market": "tpex"
+  },
+  "信立": {
+    "ticker": "4303",
+    "market": "tpex"
+  },
+  "勝昱": {
+    "ticker": "4304",
+    "market": "tpex"
+  },
+  "世坤": {
+    "ticker": "4305",
+    "market": "tpex"
+  },
+  "東隆興": {
+    "ticker": "4401",
+    "market": "tpex"
+  },
+  "郡都開發": {
+    "ticker": "4402",
+    "market": "tpex"
+  },
+  "新昕纖": {
+    "ticker": "4406",
+    "market": "tpex"
+  },
+  "飛寶企業": {
+    "ticker": "4413",
+    "market": "tpex"
+  },
+  "三圓": {
+    "ticker": "4416",
+    "market": "tpex"
+  },
+  "金洲": {
+    "ticker": "4417",
+    "market": "tpex"
+  },
+  "皇家美食": {
+    "ticker": "4419",
+    "market": "tpex"
+  },
+  "光明": {
+    "ticker": "4420",
+    "market": "tpex"
+  },
+  "耀億": {
+    "ticker": "4430",
+    "market": "tpex"
+  },
+  "銘旺實": {
+    "ticker": "4432",
+    "market": "tpex"
+  },
+  "興采": {
+    "ticker": "4433",
+    "market": "tpex"
+  },
+  "竣邦-KY": {
+    "ticker": "4442",
+    "market": "tpex"
+  },
+  "健信": {
+    "ticker": "4502",
+    "market": "tpex"
+  },
+  "金雨": {
+    "ticker": "4503",
+    "market": "tpex"
+  },
+  "崇友": {
+    "ticker": "4506",
+    "market": "tpex"
+  },
+  "高鋒": {
+    "ticker": "4510",
+    "market": "tpex"
+  },
+  "福裕": {
+    "ticker": "4513",
+    "market": "tpex"
+  },
+  "永彰": {
+    "ticker": "4523",
+    "market": "tpex"
+  },
+  "方土霖": {
+    "ticker": "4527",
+    "market": "tpex"
+  },
+  "江興鍛": {
+    "ticker": "4528",
+    "market": "tpex"
+  },
+  "淳紳": {
+    "ticker": "4529",
+    "market": "tpex"
+  },
+  "宏易": {
+    "ticker": "4530",
+    "market": "tpex"
+  },
+  "協易機": {
+    "ticker": "4533",
+    "market": "tpex"
+  },
+  "慶騰": {
+    "ticker": "4534",
+    "market": "tpex"
+  },
+  "至興": {
+    "ticker": "4535",
+    "market": "tpex"
+  },
+  "大詠城": {
+    "ticker": "4538",
+    "market": "tpex"
+  },
+  "晟田": {
+    "ticker": "4541",
+    "market": "tpex"
+  },
+  "科嶠": {
+    "ticker": "4542",
+    "market": "tpex"
+  },
+  "萬在": {
+    "ticker": "4543",
+    "market": "tpex"
+  },
+  "桓達": {
+    "ticker": "4549",
+    "market": "tpex"
+  },
+  "長佳": {
+    "ticker": "4550",
+    "market": "tpex"
+  },
+  "橙的": {
+    "ticker": "4554",
+    "market": "tpex"
+  },
+  "旭然": {
+    "ticker": "4556",
+    "market": "tpex"
+  },
+  "寶緯": {
+    "ticker": "4558",
+    "market": "tpex"
+  },
+  "健椿": {
+    "ticker": "4561",
+    "market": "tpex"
+  },
+  "百德": {
+    "ticker": "4563",
+    "market": "tpex"
+  },
+  "科際精密": {
+    "ticker": "4568",
+    "market": "tpex"
+  },
+  "達航科技": {
+    "ticker": "4577",
+    "market": "tpex"
+  },
+  "捷流閥業": {
+    "ticker": "4580",
+    "market": "tpex"
+  },
+  "君帆": {
+    "ticker": "4584",
+    "market": "tpex"
+  },
+  "唐鋒": {
+    "ticker": "4609",
+    "market": "tpex"
+  },
+  "中美實": {
+    "ticker": "4702",
+    "market": "tpex"
+  },
+  "大恭": {
+    "ticker": "4706",
+    "market": "tpex"
+  },
+  "磐亞": {
+    "ticker": "4707",
+    "market": "tpex"
+  },
+  "永純": {
+    "ticker": "4711",
+    "market": "tpex"
+  },
+  "永捷": {
+    "ticker": "4714",
+    "market": "tpex"
+  },
+  "大立": {
+    "ticker": "4716",
+    "market": "tpex"
+  },
+  "美琪瑪": {
+    "ticker": "4721",
+    "market": "tpex"
+  },
+  "永昕": {
+    "ticker": "4726",
+    "market": "tpex"
+  },
+  "雙美": {
+    "ticker": "4728",
+    "market": "tpex"
+  },
+  "熒茂": {
+    "ticker": "4729",
+    "market": "tpex"
+  },
+  "豪展": {
+    "ticker": "4735",
+    "market": "tpex"
+  },
+  "泓瀚": {
+    "ticker": "4741",
+    "market": "tpex"
+  },
+  "合一": {
+    "ticker": "4743",
+    "market": "tpex"
+  },
+  "皇將": {
+    "ticker": "4744",
+    "market": "tpex"
+  },
+  "合富-KY": {
+    "ticker": "4745",
+    "market": "tpex"
+  },
+  "強生": {
+    "ticker": "4747",
+    "market": "tpex"
+  },
+  "新應材": {
+    "ticker": "4749",
+    "market": "tpex"
+  },
+  "國碳科": {
+    "ticker": "4754",
+    "market": "tpex"
+  },
+  "勤凱": {
+    "ticker": "4760",
+    "market": "tpex"
+  },
+  "誠泰科技": {
+    "ticker": "4767",
+    "market": "tpex"
+  },
+  "晶呈科技": {
+    "ticker": "4768",
+    "market": "tpex"
+  },
+  "台特化": {
+    "ticker": "4772",
+    "market": "tpex"
+  },
+  "大略-KY": {
+    "ticker": "4804",
+    "market": "tpex"
+  },
+  "桂田文創": {
+    "ticker": "4806",
+    "market": "tpex"
+  },
+  "聯光通": {
+    "ticker": "4903",
+    "market": "tpex"
+  },
+  "台聯電": {
+    "ticker": "4905",
+    "market": "tpex"
+  },
+  "富宇": {
+    "ticker": "4907",
+    "market": "tpex"
+  },
+  "前鼎": {
+    "ticker": "4908",
+    "market": "tpex"
+  },
+  "新復興": {
+    "ticker": "4909",
+    "market": "tpex"
+  },
+  "德英": {
+    "ticker": "4911",
+    "market": "tpex"
+  },
+  "力士": {
+    "ticker": "4923",
+    "market": "tpex"
+  },
+  "欣厚-KY": {
+    "ticker": "4924",
+    "market": "tpex"
+  },
+  "新盛力": {
+    "ticker": "4931",
+    "market": "tpex"
+  },
+  "友輝": {
+    "ticker": "4933",
+    "market": "tpex"
+  },
+  "亞電": {
+    "ticker": "4939",
+    "market": "tpex"
+  },
+  "辣椒": {
+    "ticker": "4946",
+    "market": "tpex"
+  },
+  "金耘國際": {
+    "ticker": "4950",
+    "market": "tpex"
+  },
+  "精拓科": {
+    "ticker": "4951",
+    "market": "tpex"
+  },
+  "緯軟": {
+    "ticker": "4953",
+    "market": "tpex"
+  },
+  "譜瑞-KY": {
+    "ticker": "4966",
+    "market": "tpex"
+  },
+  "IET-KY": {
+    "ticker": "4971",
+    "market": "tpex"
+  },
+  "湯石照明": {
+    "ticker": "4972",
+    "market": "tpex"
+  },
+  "廣穎": {
+    "ticker": "4973",
+    "market": "tpex"
+  },
+  "亞泰": {
+    "ticker": "4974",
+    "market": "tpex"
+  },
+  "華星光": {
+    "ticker": "4979",
+    "market": "tpex"
+  },
+  "科誠": {
+    "ticker": "4987",
+    "market": "tpex"
+  },
+  "環宇-KY": {
+    "ticker": "4991",
+    "market": "tpex"
+  },
+  "晶達": {
+    "ticker": "4995",
+    "market": "tpex"
+  },
+  "榮剛": {
+    "ticker": "5009",
+    "market": "tpex"
+  },
+  "久陽": {
+    "ticker": "5011",
+    "market": "tpex"
+  },
+  "強新": {
+    "ticker": "5013",
+    "market": "tpex"
+  },
+  "建錩": {
+    "ticker": "5014",
+    "market": "tpex"
+  },
+  "華祺": {
+    "ticker": "5015",
+    "market": "tpex"
+  },
+  "松和": {
+    "ticker": "5016",
+    "market": "tpex"
+  },
+  "凱衛": {
+    "ticker": "5201",
+    "market": "tpex"
+  },
+  "力新": {
+    "ticker": "5202",
+    "market": "tpex"
+  },
+  "中茂": {
+    "ticker": "5205",
+    "market": "tpex"
+  },
+  "坤悅": {
+    "ticker": "5206",
+    "market": "tpex"
+  },
+  "新鼎": {
+    "ticker": "5209",
+    "market": "tpex"
+  },
+  "寶碩": {
+    "ticker": "5210",
+    "market": "tpex"
+  },
+  "蒙恬": {
+    "ticker": "5211",
+    "market": "tpex"
+  },
+  "凌網": {
+    "ticker": "5212",
+    "market": "tpex"
+  },
+  "亞昕": {
+    "ticker": "5213",
+    "market": "tpex"
+  },
+  "萬達光電": {
+    "ticker": "5220",
+    "market": "tpex"
+  },
+  "安力-KY": {
+    "ticker": "5223",
+    "market": "tpex"
+  },
+  "立凱-KY": {
+    "ticker": "5227",
+    "market": "tpex"
+  },
+  "鈺鎧": {
+    "ticker": "5228",
+    "market": "tpex"
+  },
+  "雷笛克光學": {
+    "ticker": "5230",
+    "market": "tpex"
+  },
+  "凌陽創新": {
+    "ticker": "5236",
+    "market": "tpex"
+  },
+  "智晶": {
+    "ticker": "5245",
+    "market": "tpex"
+  },
+  "天鉞電": {
+    "ticker": "5251",
+    "market": "tpex"
+  },
+  "智崴": {
+    "ticker": "5263",
+    "market": "tpex"
+  },
+  "笙科": {
+    "ticker": "5272",
+    "market": "tpex"
+  },
+  "信驊": {
+    "ticker": "5274",
+    "market": "tpex"
+  },
+  "達輝-KY": {
+    "ticker": "5276",
+    "market": "tpex"
+  },
+  "尚凡*": {
+    "ticker": "5278",
+    "market": "tpex"
+  },
+  "數字": {
+    "ticker": "5287",
+    "market": "tpex"
+  },
+  "宜鼎": {
+    "ticker": "5289",
+    "market": "tpex"
+  },
+  "邑昇": {
+    "ticker": "5291",
+    "market": "tpex"
+  },
+  "杰力": {
+    "ticker": "5299",
+    "market": "tpex"
+  },
+  "寶得利": {
+    "ticker": "5301",
+    "market": "tpex"
+  },
+  "太欣": {
+    "ticker": "5302",
+    "market": "tpex"
+  },
+  "系統電": {
+    "ticker": "5309",
+    "market": "tpex"
+  },
+  "天剛": {
+    "ticker": "5310",
+    "market": "tpex"
+  },
+  "寶島科": {
+    "ticker": "5312",
+    "market": "tpex"
+  },
+  "世紀*": {
+    "ticker": "5314",
+    "market": "tpex"
+  },
+  "光聯": {
+    "ticker": "5315",
+    "market": "tpex"
+  },
+  "美而快": {
+    "ticker": "5321",
+    "market": "tpex"
+  },
+  "士開": {
+    "ticker": "5324",
+    "market": "tpex"
+  },
+  "華容": {
+    "ticker": "5328",
+    "market": "tpex"
+  },
+  "建榮": {
+    "ticker": "5340",
+    "market": "tpex"
+  },
+  "立衛": {
+    "ticker": "5344",
+    "market": "tpex"
+  },
+  "馥鴻": {
+    "ticker": "5345",
+    "market": "tpex"
+  },
+  "世界": {
+    "ticker": "5347",
+    "market": "tpex"
+  },
+  "正能量智能": {
+    "ticker": "5348",
+    "market": "tpex"
+  },
+  "鈺創": {
+    "ticker": "5351",
+    "market": "tpex"
+  },
+  "台林": {
+    "ticker": "5353",
+    "market": "tpex"
+  },
+  "佳總": {
+    "ticker": "5355",
+    "market": "tpex"
+  },
+  "協益": {
+    "ticker": "5356",
+    "market": "tpex"
+  },
+  "力麗店": {
+    "ticker": "5364",
+    "market": "tpex"
+  },
+  "中光電": {
+    "ticker": "5371",
+    "market": "tpex"
+  },
+  "合正": {
+    "ticker": "5381",
+    "market": "tpex"
+  },
+  "青雲": {
+    "ticker": "5386",
+    "market": "tpex"
+  },
+  "能率": {
+    "ticker": "5392",
+    "market": "tpex"
+  },
+  "慕康生醫": {
+    "ticker": "5398",
+    "market": "tpex"
+  },
+  "中菲": {
+    "ticker": "5403",
+    "market": "tpex"
+  },
+  "國眾": {
+    "ticker": "5410",
+    "market": "tpex"
+  },
+  "台半": {
+    "ticker": "5425",
+    "market": "tpex"
+  },
+  "振發": {
+    "ticker": "5426",
+    "market": "tpex"
+  },
+  "新門": {
+    "ticker": "5432",
+    "market": "tpex"
+  },
+  "東友": {
+    "ticker": "5438",
+    "market": "tpex"
+  },
+  "高技": {
+    "ticker": "5439",
+    "market": "tpex"
+  },
+  "均豪": {
+    "ticker": "5443",
+    "market": "tpex"
+  },
+  "南良": {
+    "ticker": "5450",
+    "market": "tpex"
+  },
+  "佶優": {
+    "ticker": "5452",
+    "market": "tpex"
+  },
+  "昇益": {
+    "ticker": "5455",
+    "market": "tpex"
+  },
+  "宣德": {
+    "ticker": "5457",
+    "market": "tpex"
+  },
+  "同協": {
+    "ticker": "5460",
+    "market": "tpex"
+  },
+  "霖宏": {
+    "ticker": "5464",
+    "market": "tpex"
+  },
+  "富驊": {
+    "ticker": "5465",
+    "market": "tpex"
+  },
+  "凱鈺": {
+    "ticker": "5468",
+    "market": "tpex"
+  },
+  "聰泰": {
+    "ticker": "5474",
+    "market": "tpex"
+  },
+  "德宏": {
+    "ticker": "5475",
+    "market": "tpex"
+  },
+  "智冠": {
+    "ticker": "5478",
+    "market": "tpex"
+  },
+  "新華": {
+    "ticker": "5481",
+    "market": "tpex"
+  },
+  "中美晶": {
+    "ticker": "5483",
+    "market": "tpex"
+  },
+  "通泰": {
+    "ticker": "5487",
+    "market": "tpex"
+  },
+  "松普": {
+    "ticker": "5488",
+    "market": "tpex"
+  },
+  "彩富": {
+    "ticker": "5489",
+    "market": "tpex"
+  },
+  "同亨": {
+    "ticker": "5490",
+    "market": "tpex"
+  },
+  "三聯": {
+    "ticker": "5493",
+    "market": "tpex"
+  },
+  "凱崴": {
+    "ticker": "5498",
+    "market": "tpex"
+  },
+  "永信建": {
+    "ticker": "5508",
+    "market": "tpex"
+  },
+  "德昌": {
+    "ticker": "5511",
+    "market": "tpex"
+  },
+  "力麒": {
+    "ticker": "5512",
+    "market": "tpex"
+  },
+  "三豐": {
+    "ticker": "5514",
+    "market": "tpex"
+  },
+  "雙喜": {
+    "ticker": "5516",
+    "market": "tpex"
+  },
+  "力泰": {
+    "ticker": "5520",
+    "market": "tpex"
+  },
+  "豐謙": {
+    "ticker": "5523",
+    "market": "tpex"
+  },
+  "鉅陞": {
+    "ticker": "5529",
+    "market": "tpex"
+  },
+  "龍巖": {
+    "ticker": "5530",
+    "market": "tpex"
+  },
+  "聖暉*": {
+    "ticker": "5536",
+    "market": "tpex"
+  },
+  "桓鼎-KY": {
+    "ticker": "5543",
+    "market": "tpex"
+  },
+  "久舜": {
+    "ticker": "5547",
+    "market": "tpex"
+  },
+  "安倉": {
+    "ticker": "5548",
+    "market": "tpex"
+  },
+  "台聯櫃": {
+    "ticker": "5601",
+    "market": "tpex"
+  },
+  "陸海": {
+    "ticker": "5603",
+    "market": "tpex"
+  },
+  "中連": {
+    "ticker": "5604",
+    "market": "tpex"
+  },
+  "中菲行": {
+    "ticker": "5609",
+    "market": "tpex"
+  },
+  "劍湖山": {
+    "ticker": "5701",
+    "market": "tpex"
+  },
+  "亞都": {
+    "ticker": "5703",
+    "market": "tpex"
+  },
+  "老爺知": {
+    "ticker": "5704",
+    "market": "tpex"
+  },
+  "致和證": {
+    "ticker": "5864",
+    "market": "tpex"
+  },
+  "台名": {
+    "ticker": "5878",
+    "market": "tpex"
+  },
+  "德記": {
+    "ticker": "5902",
+    "market": "tpex"
+  },
+  "全家": {
+    "ticker": "5903",
+    "market": "tpex"
+  },
+  "寶雅": {
+    "ticker": "5904",
+    "market": "tpex"
+  },
+  "南仁湖": {
+    "ticker": "5905",
+    "market": "tpex"
+  },
+  "宏遠證": {
+    "ticker": "6015",
+    "market": "tpex"
+  },
+  "康和證": {
+    "ticker": "6016",
+    "market": "tpex"
+  },
+  "大展證": {
+    "ticker": "6020",
+    "market": "tpex"
+  },
+  "美好證": {
+    "ticker": "6021",
+    "market": "tpex"
+  },
+  "元大期": {
+    "ticker": "6023",
+    "market": "tpex"
+  },
+  "福邦證": {
+    "ticker": "6026",
+    "market": "tpex"
+  },
+  "寬魚國際": {
+    "ticker": "6101",
+    "market": "tpex"
+  },
+  "合邦": {
+    "ticker": "6103",
+    "market": "tpex"
+  },
+  "創惟": {
+    "ticker": "6104",
+    "market": "tpex"
+  },
+  "亞元": {
+    "ticker": "6109",
+    "market": "tpex"
+  },
+  "大宇資": {
+    "ticker": "6111",
+    "market": "tpex"
+  },
+  "亞矽": {
+    "ticker": "6113",
+    "market": "tpex"
+  },
+  "久威": {
+    "ticker": "6114",
+    "market": "tpex"
+  },
+  "建達": {
+    "ticker": "6118",
+    "market": "tpex"
+  },
+  "新普": {
+    "ticker": "6121",
+    "market": "tpex"
+  },
+  "擎邦": {
+    "ticker": "6122",
+    "market": "tpex"
+  },
+  "上奇": {
+    "ticker": "6123",
+    "market": "tpex"
+  },
+  "業強": {
+    "ticker": "6124",
+    "market": "tpex"
+  },
+  "廣運": {
+    "ticker": "6125",
+    "market": "tpex"
+  },
+  "信音": {
+    "ticker": "6126",
+    "market": "tpex"
+  },
+  "九豪": {
+    "ticker": "6127",
+    "market": "tpex"
+  },
+  "普誠": {
+    "ticker": "6129",
+    "market": "tpex"
+  },
+  "上亞科技": {
+    "ticker": "6130",
+    "market": "tpex"
+  },
+  "萬旭": {
+    "ticker": "6134",
+    "market": "tpex"
+  },
+  "茂達": {
+    "ticker": "6138",
+    "market": "tpex"
+  },
+  "訊達": {
+    "ticker": "6140",
+    "market": "tpex"
+  },
+  "振曜": {
+    "ticker": "6143",
+    "market": "tpex"
+  },
+  "得利影": {
+    "ticker": "6144",
+    "market": "tpex"
+  },
+  "耕興": {
+    "ticker": "6146",
+    "market": "tpex"
+  },
+  "頎邦": {
+    "ticker": "6147",
+    "market": "tpex"
+  },
+  "驊宏資": {
+    "ticker": "6148",
+    "market": "tpex"
+  },
+  "撼訊": {
+    "ticker": "6150",
+    "market": "tpex"
+  },
+  "晉倫": {
+    "ticker": "6151",
+    "market": "tpex"
+  },
+  "順發": {
+    "ticker": "6154",
+    "market": "tpex"
+  },
+  "松上": {
+    "ticker": "6156",
+    "market": "tpex"
+  },
+  "禾昌": {
+    "ticker": "6158",
+    "market": "tpex"
+  },
+  "欣技": {
+    "ticker": "6160",
+    "market": "tpex"
+  },
+  "捷波": {
+    "ticker": "6161",
+    "market": "tpex"
+  },
+  "華電網": {
+    "ticker": "6163",
+    "market": "tpex"
+  },
+  "久正": {
+    "ticker": "6167",
+    "market": "tpex"
+  },
+  "昱泉": {
+    "ticker": "6169",
+    "market": "tpex"
+  },
+  "統振": {
+    "ticker": "6170",
+    "market": "tpex"
+  },
+  "大城地產": {
+    "ticker": "6171",
+    "market": "tpex"
+  },
+  "信昌電": {
+    "ticker": "6173",
+    "market": "tpex"
+  },
+  "安碁": {
+    "ticker": "6174",
+    "market": "tpex"
+  },
+  "立敦": {
+    "ticker": "6175",
+    "market": "tpex"
+  },
+  "亞通": {
+    "ticker": "6179",
+    "market": "tpex"
+  },
+  "橘子": {
+    "ticker": "6180",
+    "market": "tpex"
+  },
+  "合晶": {
+    "ticker": "6182",
+    "market": "tpex"
+  },
+  "幃翔": {
+    "ticker": "6185",
+    "market": "tpex"
+  },
+  "新潤": {
+    "ticker": "6186",
+    "market": "tpex"
+  },
+  "萬潤": {
+    "ticker": "6187",
+    "market": "tpex"
+  },
+  "廣明": {
+    "ticker": "6188",
+    "market": "tpex"
+  },
+  "萬泰科": {
+    "ticker": "6190",
+    "market": "tpex"
+  },
+  "育富": {
+    "ticker": "6194",
+    "market": "tpex"
+  },
+  "詩肯": {
+    "ticker": "6195",
+    "market": "tpex"
+  },
+  "瑞築": {
+    "ticker": "6198",
+    "market": "tpex"
+  },
+  "天品": {
+    "ticker": "6199",
+    "market": "tpex"
+  },
+  "元大富櫃50": {
+    "ticker": "006201",
+    "market": "tpex"
+  },
+  "海韻電": {
+    "ticker": "6203",
+    "market": "tpex"
+  },
+  "艾華": {
+    "ticker": "6204",
+    "market": "tpex"
+  },
+  "雷科": {
+    "ticker": "6207",
+    "market": "tpex"
+  },
+  "日揚": {
+    "ticker": "6208",
+    "market": "tpex"
+  },
+  "慶生": {
+    "ticker": "6210",
+    "market": "tpex"
+  },
+  "理銘": {
+    "ticker": "6212",
+    "market": "tpex"
+  },
+  "中探針": {
+    "ticker": "6217",
+    "market": "tpex"
+  },
+  "豪勉": {
+    "ticker": "6218",
+    "market": "tpex"
+  },
+  "富旺": {
+    "ticker": "6219",
+    "market": "tpex"
+  },
+  "岳豐": {
+    "ticker": "6220",
+    "market": "tpex"
+  },
+  "晉泰": {
+    "ticker": "6221",
+    "market": "tpex"
+  },
+  "立軒": {
+    "ticker": "6222",
+    "market": "tpex"
+  },
+  "旺矽": {
+    "ticker": "6223",
+    "market": "tpex"
+  },
+  "茂綸": {
+    "ticker": "6227",
+    "market": "tpex"
+  },
+  "全譜": {
+    "ticker": "6228",
+    "market": "tpex"
+  },
+  "研通": {
+    "ticker": "6229",
+    "market": "tpex"
+  },
+  "系微": {
+    "ticker": "6231",
+    "market": "tpex"
+  },
+  "旺玖": {
+    "ticker": "6233",
+    "market": "tpex"
+  },
+  "高僑": {
+    "ticker": "6234",
+    "market": "tpex"
+  },
+  "中湛": {
+    "ticker": "6236",
+    "market": "tpex"
+  },
+  "驊訊": {
+    "ticker": "6237",
+    "market": "tpex"
+  },
+  "松崗": {
+    "ticker": "6240",
+    "market": "tpex"
+  },
+  "易通展": {
+    "ticker": "6241",
+    "market": "tpex"
+  },
+  "立康": {
+    "ticker": "6242",
+    "market": "tpex"
+  },
+  "茂迪": {
+    "ticker": "6244",
+    "market": "tpex"
+  },
+  "立端": {
+    "ticker": "6245",
+    "market": "tpex"
+  },
+  "臺龍": {
+    "ticker": "6246",
+    "market": "tpex"
+  },
+  "沛波": {
+    "ticker": "6248",
+    "market": "tpex"
+  },
+  "百徽": {
+    "ticker": "6259",
+    "market": "tpex"
+  },
+  "久元": {
+    "ticker": "6261",
+    "market": "tpex"
+  },
+  "普萊德": {
+    "ticker": "6263",
+    "market": "tpex"
+  },
+  "富裔": {
+    "ticker": "6264",
+    "market": "tpex"
+  },
+  "方土昶": {
+    "ticker": "6265",
+    "market": "tpex"
+  },
+  "泰詠": {
+    "ticker": "6266",
+    "market": "tpex"
+  },
+  "倍微": {
+    "ticker": "6270",
+    "market": "tpex"
+  },
+  "台燿": {
+    "ticker": "6274",
+    "market": "tpex"
+  },
+  "元山": {
+    "ticker": "6275",
+    "market": "tpex"
+  },
+  "安鈦克": {
+    "ticker": "6276",
+    "market": "tpex"
+  },
+  "胡連": {
+    "ticker": "6279",
+    "market": "tpex"
+  },
+  "佳邦": {
+    "ticker": "6284",
+    "market": "tpex"
+  },
+  "良維": {
+    "ticker": "6290",
+    "market": "tpex"
+  },
+  "沛亨": {
+    "ticker": "6291",
+    "market": "tpex"
+  },
+  "迅德": {
+    "ticker": "6292",
+    "market": "tpex"
+  },
+  "智基": {
+    "ticker": "6294",
+    "market": "tpex"
+  },
+  "晶焱": {
+    "ticker": "6411",
+    "market": "tpex"
+  },
+  "韋僑": {
+    "ticker": "6417",
+    "market": "tpex"
+  },
+  "詠昇": {
+    "ticker": "6418",
+    "market": "tpex"
+  },
+  "京晨科": {
+    "ticker": "6419",
+    "market": "tpex"
+  },
+  "億而得": {
+    "ticker": "6423",
+    "market": "tpex"
+  },
+  "易發": {
+    "ticker": "6425",
+    "market": "tpex"
+  },
+  "今展科": {
+    "ticker": "6432",
+    "market": "tpex"
+  },
+  "大中": {
+    "ticker": "6435",
+    "market": "tpex"
+  },
+  "廣錠": {
+    "ticker": "6441",
+    "market": "tpex"
+  },
+  "益得": {
+    "ticker": "6461",
+    "market": "tpex"
+  },
+  "神盾": {
+    "ticker": "6462",
+    "market": "tpex"
+  },
+  "威潤": {
+    "ticker": "6465",
+    "market": "tpex"
+  },
+  "大樹": {
+    "ticker": "6469",
+    "market": "tpex"
+  },
+  "宇智": {
+    "ticker": "6470",
+    "market": "tpex"
+  },
+  "華豫寧": {
+    "ticker": "6474",
+    "market": "tpex"
+  },
+  "弘煜科": {
+    "ticker": "6482",
+    "market": "tpex"
+  },
+  "點序": {
+    "ticker": "6485",
+    "market": "tpex"
+  },
+  "互動": {
+    "ticker": "6486",
+    "market": "tpex"
+  },
+  "環球晶": {
+    "ticker": "6488",
+    "market": "tpex"
+  },
+  "生華科": {
+    "ticker": "6492",
+    "market": "tpex"
+  },
+  "九齊": {
+    "ticker": "6494",
+    "market": "tpex"
+  },
+  "科懋": {
+    "ticker": "6496",
+    "market": "tpex"
+  },
+  "久禾光": {
+    "ticker": "6498",
+    "market": "tpex"
+  },
+  "益安": {
+    "ticker": "6499",
+    "market": "tpex"
+  },
+  "雙邦": {
+    "ticker": "6506",
+    "market": "tpex"
+  },
+  "惠光": {
+    "ticker": "6508",
+    "market": "tpex"
+  },
+  "聚和": {
+    "ticker": "6509",
+    "market": "tpex"
+  },
+  "精測": {
+    "ticker": "6510",
+    "market": "tpex"
+  },
+  "啟發電": {
+    "ticker": "6512",
+    "market": "tpex"
+  },
+  "勤崴國際": {
+    "ticker": "6516",
+    "market": "tpex"
+  },
+  "保勝光學": {
+    "ticker": "6517",
+    "market": "tpex"
+  },
+  "達爾膚": {
+    "ticker": "6523",
+    "market": "tpex"
+  },
+  "明達醫": {
+    "ticker": "6527",
+    "market": "tpex"
+  },
+  "創威": {
+    "ticker": "6530",
+    "market": "tpex"
+  },
+  "瑞耘": {
+    "ticker": "6532",
+    "market": "tpex"
+  },
+  "順藥": {
+    "ticker": "6535",
+    "market": "tpex"
+  },
+  "倉和": {
+    "ticker": "6538",
+    "market": "tpex"
+  },
+  "隆中": {
+    "ticker": "6542",
+    "market": "tpex"
+  },
+  "正基": {
+    "ticker": "6546",
+    "market": "tpex"
+  },
+  "高端疫苗": {
+    "ticker": "6547",
+    "market": "tpex"
+  },
+  "長科*": {
+    "ticker": "6548",
+    "market": "tpex"
+  },
+  "勝品": {
+    "ticker": "6556",
+    "market": "tpex"
+  },
+  "欣普羅": {
+    "ticker": "6560",
+    "market": "tpex"
+  },
+  "是方": {
+    "ticker": "6561",
+    "market": "tpex"
+  },
+  "宏觀": {
+    "ticker": "6568",
+    "market": "tpex"
+  },
+  "醫揚": {
+    "ticker": "6569",
+    "market": "tpex"
+  },
+  "維田": {
+    "ticker": "6570",
+    "market": "tpex"
+  },
+  "霈方": {
+    "ticker": "6574",
+    "market": "tpex"
+  },
+  "逸達": {
+    "ticker": "6576",
+    "market": "tpex"
+  },
+  "勁豐": {
+    "ticker": "6577",
+    "market": "tpex"
+  },
+  "達邦蛋白": {
+    "ticker": "6578",
+    "market": "tpex"
+  },
+  "南俊國際": {
+    "ticker": "6584",
+    "market": "tpex"
+  },
+  "東典光電": {
+    "ticker": "6588",
+    "market": "tpex"
+  },
+  "普鴻": {
+    "ticker": "6590",
+    "market": "tpex"
+  },
+  "台灣銘板": {
+    "ticker": "6593",
+    "market": "tpex"
+  },
+  "寬宏藝術": {
+    "ticker": "6596",
+    "market": "tpex"
+  },
+  "立誠": {
+    "ticker": "6597",
+    "market": "tpex"
+  },
+  "富強鑫": {
+    "ticker": "6603",
+    "market": "tpex"
+  },
+  "瀧澤科": {
+    "ticker": "6609",
+    "market": "tpex"
+  },
+  "奈米醫材": {
+    "ticker": "6612",
+    "market": "tpex"
+  },
+  "朋億*": {
+    "ticker": "6613",
+    "market": "tpex"
+  },
+  "慧智": {
+    "ticker": "6615",
+    "market": "tpex"
+  },
+  "特昇-KY": {
+    "ticker": "6616",
+    "market": "tpex"
+  },
+  "共信-KY": {
+    "ticker": "6617",
+    "market": "tpex"
+  },
+  "漢達": {
+    "ticker": "6620",
+    "market": "tpex"
+  },
+  "萬年清": {
+    "ticker": "6624",
+    "market": "tpex"
+  },
+  "泰金-KY": {
+    "ticker": "6629",
+    "market": "tpex"
+  },
+  "醫影": {
+    "ticker": "6637",
+    "market": "tpex"
+  },
+  "均華": {
+    "ticker": "6640",
+    "market": "tpex"
+  },
+  "富致": {
+    "ticker": "6642",
+    "market": "tpex"
+  },
+  "M31": {
+    "ticker": "6643",
+    "market": "tpex"
+  },
+  "台生材": {
+    "ticker": "6649",
+    "market": "tpex"
+  },
+  "全宇昕": {
+    "ticker": "6651",
+    "market": "tpex"
+  },
+  "天正國際": {
+    "ticker": "6654",
+    "market": "tpex"
+  },
+  "威健生技": {
+    "ticker": "6661",
+    "market": "tpex"
+  },
+  "樂斯科": {
+    "ticker": "6662",
+    "market": "tpex"
+  },
+  "群翊": {
+    "ticker": "6664",
+    "market": "tpex"
+  },
+  "信紘科": {
+    "ticker": "6667",
+    "market": "tpex"
+  },
+  "鈺太": {
+    "ticker": "6679",
+    "market": "tpex"
+  },
+  "鑫創電子": {
+    "ticker": "6680",
+    "market": "tpex"
+  },
+  "雍智科技": {
+    "ticker": "6683",
+    "market": "tpex"
+  },
+  "安格": {
+    "ticker": "6684",
+    "market": "tpex"
+  },
+  "安碁資訊": {
+    "ticker": "6690",
+    "market": "tpex"
+  },
+  "進能服": {
+    "ticker": "6692",
+    "market": "tpex"
+  },
+  "廣閎科": {
+    "ticker": "6693",
+    "market": "tpex"
+  },
+  "東捷資訊": {
+    "ticker": "6697",
+    "market": "tpex"
+  },
+  "軒郁": {
+    "ticker": "6703",
+    "market": "tpex"
+  },
+  "天擎": {
+    "ticker": "6708",
+    "market": "tpex"
+  },
+  "長聖": {
+    "ticker": "6712",
+    "market": "tpex"
+  },
+  "應廣": {
+    "ticker": "6716",
+    "market": "tpex"
+  },
+  "久昌": {
+    "ticker": "6720",
+    "market": "tpex"
+  },
+  "信實": {
+    "ticker": "6721",
+    "market": "tpex"
+  },
+  "矽科宏晟": {
+    "ticker": "6725",
+    "market": "tpex"
+  },
+  "亞泰金屬": {
+    "ticker": "6727",
+    "market": "tpex"
+  },
+  "上洋": {
+    "ticker": "6728",
+    "market": "tpex"
+  },
+  "常廣": {
+    "ticker": "6730",
+    "market": "tpex"
+  },
+  "昇佳電子": {
+    "ticker": "6732",
+    "market": "tpex"
+  },
+  "博晟生醫": {
+    "ticker": "6733",
+    "market": "tpex"
+  },
+  "美達科技": {
+    "ticker": "6735",
+    "market": "tpex"
+  },
+  "竹陞科技": {
+    "ticker": "6739",
+    "market": "tpex"
+  },
+  "91APP*-KY": {
+    "ticker": "6741",
+    "market": "tpex"
+  },
+  "智聯服務": {
+    "ticker": "6751",
+    "market": "tpex"
+  },
+  "叡揚": {
+    "ticker": "6752",
+    "market": "tpex"
+  },
+  "穩得": {
+    "ticker": "6761",
+    "market": "tpex"
+  },
+  "達亞": {
+    "ticker": "6762",
+    "market": "tpex"
+  },
+  "綠界科技*": {
+    "ticker": "6763",
+    "market": "tpex"
+  },
+  "台微醫": {
+    "ticker": "6767",
+    "market": "tpex"
+  },
+  "昱展新藥": {
+    "ticker": "6785",
+    "market": "tpex"
+  },
+  "華景電": {
+    "ticker": "6788",
+    "market": "tpex"
+  },
+  "虎門科技": {
+    "ticker": "6791",
+    "market": "tpex"
+  },
+  "崑鼎": {
+    "ticker": "6803",
+    "market": "tpex"
+  },
+  "明係": {
+    "ticker": "6804",
+    "market": "tpex"
+  },
+  "宏碁資訊": {
+    "ticker": "6811",
+    "market": "tpex"
+  },
+  "聯寶": {
+    "ticker": "6821",
+    "market": "tpex"
+  },
+  "濾能": {
+    "ticker": "6823",
+    "market": "tpex"
+  },
+  "千附精密": {
+    "ticker": "6829",
+    "market": "tpex"
+  },
+  "東研信超": {
+    "ticker": "6840",
+    "market": "tpex"
+  },
+  "長佳智能": {
+    "ticker": "6841",
+    "market": "tpex"
+  },
+  "進典": {
+    "ticker": "6843",
+    "market": "tpex"
+  },
+  "諾貝兒": {
+    "ticker": "6844",
+    "market": "tpex"
+  },
+  "綠茵": {
+    "ticker": "6846",
+    "market": "tpex"
+  },
+  "數泓科": {
+    "ticker": "6855",
+    "market": "tpex"
+  },
+  "鑫傳": {
+    "ticker": "6856",
+    "market": "tpex"
+  },
+  "伯特光": {
+    "ticker": "6859",
+    "market": "tpex"
+  },
+  "偉康科技": {
+    "ticker": "6865",
+    "market": "tpex"
+  },
+  "騰雲": {
+    "ticker": "6870",
+    "market": "tpex"
+  },
+  "浩宇生醫": {
+    "ticker": "6872",
+    "market": "tpex"
+  },
+  "倍力": {
+    "ticker": "6874",
+    "market": "tpex"
+  },
+  "國邑*": {
+    "ticker": "6875",
+    "market": "tpex"
+  },
+  "鏵友益": {
+    "ticker": "6877",
+    "market": "tpex"
+  },
+  "潤德": {
+    "ticker": "6881",
+    "market": "tpex"
+  },
+  "海柏特": {
+    "ticker": "6884",
+    "market": "tpex"
+  },
+  "衛司特": {
+    "ticker": "6894",
+    "market": "tpex"
+  },
+  "宏碩系統": {
+    "ticker": "6895",
+    "market": "tpex"
+  },
+  "創為精密": {
+    "ticker": "6899",
+    "market": "tpex"
+  },
+  "巨漢": {
+    "ticker": "6903",
+    "market": "tpex"
+  },
+  "伯鑫": {
+    "ticker": "6904",
+    "market": "tpex"
+  },
+  "雅特力-KY": {
+    "ticker": "6907",
+    "market": "tpex"
+  },
+  "德鴻": {
+    "ticker": "6910",
+    "market": "tpex"
+  },
+  "鴻呈": {
+    "ticker": "6913",
+    "market": "tpex"
+  },
+  "宸曜": {
+    "ticker": "6922",
+    "market": "tpex"
+  },
+  "意藍": {
+    "ticker": "6925",
+    "market": "tpex"
+  },
+  "佑全": {
+    "ticker": "6929",
+    "market": "tpex"
+  },
+  "家碩": {
+    "ticker": "6953",
+    "market": "tpex"
+  },
+  "旅天下": {
+    "ticker": "6961",
+    "market": "tpex"
+  },
+  "汎瑋材料": {
+    "ticker": "6967",
+    "market": "tpex"
+  },
+  "萬達寵物": {
+    "ticker": "6968",
+    "market": "tpex"
+  },
+  "惠民實業": {
+    "ticker": "6971",
+    "market": "tpex"
+  },
+  "大井泵浦": {
+    "ticker": "6982",
+    "market": "tpex"
+  },
+  "力領科技": {
+    "ticker": "6996",
+    "market": "tpex"
+  },
+  "博弘": {
+    "ticker": "6997",
+    "market": "tpex"
+  },
+  "邑錡": {
+    "ticker": "7402",
+    "market": "tpex"
+  },
+  "碩網": {
+    "ticker": "7547",
+    "market": "tpex"
+  },
+  "意德士": {
+    "ticker": "7556",
+    "market": "tpex"
+  },
+  "樂意": {
+    "ticker": "7584",
+    "market": "tpex"
+  },
+  "昶瑞機電": {
+    "ticker": "7642",
+    "market": "tpex"
+  },
+  "銳澤": {
+    "ticker": "7703",
+    "market": "tpex"
+  },
+  "明遠精密": {
+    "ticker": "7704",
+    "market": "tpex"
+  },
+  "全家餐飲": {
+    "ticker": "7708",
+    "market": "tpex"
+  },
+  "榮田": {
+    "ticker": "7709",
+    "market": "tpex"
+  },
+  "博盛半導體": {
+    "ticker": "7712",
+    "market": "tpex"
+  },
+  "威力德生醫": {
+    "ticker": "7713",
+    "market": "tpex"
+  },
+  "創泓科技": {
+    "ticker": "7714",
+    "market": "tpex"
+  },
+  "裕山": {
+    "ticker": "7715",
+    "market": "tpex"
+  },
+  "昱臺國際": {
+    "ticker": "7716",
+    "market": "tpex"
+  },
+  "萊德光電-KY": {
+    "ticker": "7717",
+    "market": "tpex"
+  },
+  "友鋮": {
+    "ticker": "7718",
+    "market": "tpex"
+  },
+  "築間": {
+    "ticker": "7723",
+    "market": "tpex"
+  },
+  "光焱科技": {
+    "ticker": "7728",
+    "market": "tpex"
+  },
+  "印能科技": {
+    "ticker": "7734",
+    "market": "tpex"
+  },
+  "東聯互動": {
+    "ticker": "7738",
+    "market": "tpex"
+  },
+  "金利食安": {
+    "ticker": "7743",
+    "market": "tpex"
+  },
+  "崴寶": {
+    "ticker": "7744",
+    "market": "tpex"
+  },
+  "昕奇雲端": {
+    "ticker": "7747",
+    "market": "tpex"
+  },
+  "竑騰": {
+    "ticker": "7751",
+    "market": "tpex"
+  },
+  "星亞": {
+    "ticker": "7753",
+    "market": "tpex"
+  },
+  "金色三麥": {
+    "ticker": "7757",
+    "market": "tpex"
+  },
+  "仁大資訊": {
+    "ticker": "7767",
+    "market": "tpex"
+  },
+  "君曜": {
+    "ticker": "7770",
+    "market": "tpex"
+  },
+  "能率亞洲": {
+    "ticker": "7777",
+    "market": "tpex"
+  },
+  "光速火箭": {
+    "ticker": "7782",
+    "market": "tpex"
+  },
+  "安葆": {
+    "ticker": "7792",
+    "market": "tpex"
+  },
+  "威聯通": {
+    "ticker": "7805",
+    "market": "tpex"
+  },
+  "捷創科技": {
+    "ticker": "7810",
+    "market": "tpex"
+  },
+  "佑華": {
+    "ticker": "8024",
+    "market": "tpex"
+  },
+  "鈦昇": {
+    "ticker": "8027",
+    "market": "tpex"
+  },
+  "光菱": {
+    "ticker": "8032",
+    "market": "tpex"
+  },
+  "榮群": {
+    "ticker": "8034",
+    "market": "tpex"
+  },
+  "長園科": {
+    "ticker": "8038",
+    "market": "tpex"
+  },
+  "九暘": {
+    "ticker": "8040",
+    "market": "tpex"
+  },
+  "金山電": {
+    "ticker": "8042",
+    "market": "tpex"
+  },
+  "蜜望實": {
+    "ticker": "8043",
+    "market": "tpex"
+  },
+  "網家": {
+    "ticker": "8044",
+    "market": "tpex"
+  },
+  "星雲": {
+    "ticker": "8047",
+    "market": "tpex"
+  },
+  "德勝": {
+    "ticker": "8048",
+    "market": "tpex"
+  },
+  "晶采": {
+    "ticker": "8049",
+    "market": "tpex"
+  },
+  "廣積": {
+    "ticker": "8050",
+    "market": "tpex"
+  },
+  "安國": {
+    "ticker": "8054",
+    "market": "tpex"
+  },
+  "凱碩": {
+    "ticker": "8059",
+    "market": "tpex"
+  },
+  "東捷": {
+    "ticker": "8064",
+    "market": "tpex"
+  },
+  "來思達": {
+    "ticker": "8066",
+    "market": "tpex"
+  },
+  "志旭": {
+    "ticker": "8067",
+    "market": "tpex"
+  },
+  "全達": {
+    "ticker": "8068",
+    "market": "tpex"
+  },
+  "元太": {
+    "ticker": "8069",
+    "market": "tpex"
+  },
+  "能率網通": {
+    "ticker": "8071",
+    "market": "tpex"
+  },
+  "鉅橡": {
+    "ticker": "8074",
+    "market": "tpex"
+  },
+  "伍豐": {
+    "ticker": "8076",
+    "market": "tpex"
+  },
+  "洛碁": {
+    "ticker": "8077",
+    "market": "tpex"
+  },
+  "泰霖": {
+    "ticker": "8080",
+    "market": "tpex"
+  },
+  "瑞穎": {
+    "ticker": "8083",
+    "market": "tpex"
+  },
+  "巨虹": {
+    "ticker": "8084",
+    "market": "tpex"
+  },
+  "福華": {
+    "ticker": "8085",
+    "market": "tpex"
+  },
+  "宏捷科": {
+    "ticker": "8086",
+    "market": "tpex"
+  },
+  "麗升能源": {
+    "ticker": "8087",
+    "market": "tpex"
+  },
+  "品安": {
+    "ticker": "8088",
+    "market": "tpex"
+  },
+  "康全電訊": {
+    "ticker": "8089",
+    "market": "tpex"
+  },
+  "翔名": {
+    "ticker": "8091",
+    "market": "tpex"
+  },
+  "建暐": {
+    "ticker": "8092",
+    "market": "tpex"
+  },
+  "保銳": {
+    "ticker": "8093",
+    "market": "tpex"
+  },
+  "擎亞": {
+    "ticker": "8096",
+    "market": "tpex"
+  },
+  "常珵": {
+    "ticker": "8097",
+    "market": "tpex"
+  },
+  "大世科": {
+    "ticker": "8099",
+    "market": "tpex"
+  },
+  "傑霖科技": {
+    "ticker": "8102",
+    "market": "tpex"
+  },
+  "大億金茂": {
+    "ticker": "8107",
+    "market": "tpex"
+  },
+  "博大": {
+    "ticker": "8109",
+    "market": "tpex"
+  },
+  "立碁": {
+    "ticker": "8111",
+    "market": "tpex"
+  },
+  "越峰": {
+    "ticker": "8121",
+    "market": "tpex"
+  },
+  "正淩": {
+    "ticker": "8147",
+    "market": "tpex"
+  },
+  "博智": {
+    "ticker": "8155",
+    "market": "tpex"
+  },
+  "天宇": {
+    "ticker": "8171",
+    "market": "tpex"
+  },
+  "智捷": {
+    "ticker": "8176",
+    "market": "tpex"
+  },
+  "加高": {
+    "ticker": "8182",
+    "market": "tpex"
+  },
+  "精星": {
+    "ticker": "8183",
+    "market": "tpex"
+  },
+  "巨有科技": {
+    "ticker": "8227",
+    "market": "tpex"
+  },
+  "新漢": {
+    "ticker": "8234",
+    "market": "tpex"
+  },
+  "華宏": {
+    "ticker": "8240",
+    "market": "tpex"
+  },
+  "朋程": {
+    "ticker": "8255",
+    "market": "tpex"
+  },
+  "全景軟體": {
+    "ticker": "8272",
+    "market": "tpex"
+  },
+  "商丞": {
+    "ticker": "8277",
+    "market": "tpex"
+  },
+  "生展": {
+    "ticker": "8279",
+    "market": "tpex"
+  },
+  "三竹": {
+    "ticker": "8284",
+    "market": "tpex"
+  },
+  "泰藝": {
+    "ticker": "8289",
+    "market": "tpex"
+  },
+  "尚茂": {
+    "ticker": "8291",
+    "market": "tpex"
+  },
+  "群聯": {
+    "ticker": "8299",
+    "market": "tpex"
+  },
+  "益張": {
+    "ticker": "8342",
+    "market": "tpex"
+  },
+  "恒耀": {
+    "ticker": "8349",
+    "market": "tpex"
+  },
+  "恒耀甲特": {
+    "ticker": "8349A",
+    "market": "tpex"
+  },
+  "冠好": {
+    "ticker": "8354",
+    "market": "tpex"
+  },
+  "金居": {
+    "ticker": "8358",
+    "market": "tpex"
+  },
+  "千附": {
+    "ticker": "8383",
+    "market": "tpex"
+  },
+  "金益鼎": {
+    "ticker": "8390",
+    "market": "tpex"
+  },
+  "白紗科": {
+    "ticker": "8401",
+    "market": "tpex"
+  },
+  "盛弘": {
+    "ticker": "8403",
+    "market": "tpex"
+  },
+  "商之器": {
+    "ticker": "8409",
+    "market": "tpex"
+  },
+  "森田": {
+    "ticker": "8410",
+    "market": "tpex"
+  },
+  "大國鋼": {
+    "ticker": "8415",
+    "market": "tpex"
+  },
+  "實威": {
+    "ticker": "8416",
+    "market": "tpex"
+  },
+  "旭源": {
+    "ticker": "8421",
+    "market": "tpex"
+  },
+  "保綠-KY": {
+    "ticker": "8423",
+    "market": "tpex"
+  },
+  "惠普": {
+    "ticker": "8424",
+    "market": "tpex"
+  },
+  "紅木-KY": {
+    "ticker": "8426",
+    "market": "tpex"
+  },
+  "匯鑽科": {
+    "ticker": "8431",
+    "market": "tpex"
+  },
+  "東生華": {
+    "ticker": "8432",
+    "market": "tpex"
+  },
+  "弘帆": {
+    "ticker": "8433",
+    "market": "tpex"
+  },
+  "鉅邁": {
+    "ticker": "8435",
+    "market": "tpex"
+  },
+  "大江": {
+    "ticker": "8436",
+    "market": "tpex"
+  },
+  "大地-KY": {
+    "ticker": "8437",
+    "market": "tpex"
+  },
+  "綠電": {
+    "ticker": "8440",
+    "market": "tpex"
+  },
+  "綠河-KY": {
+    "ticker": "8444",
+    "market": "tpex"
+  },
+  "華研": {
+    "ticker": "8446",
+    "market": "tpex"
+  },
+  "霹靂": {
+    "ticker": "8450",
+    "market": "tpex"
+  },
+  "大拓-KY": {
+    "ticker": "8455",
+    "market": "tpex"
+  },
+  "夠麻吉": {
+    "ticker": "8472",
+    "market": "tpex"
+  },
+  "創業家": {
+    "ticker": "8477",
+    "market": "tpex"
+  },
+  "三貝德": {
+    "ticker": "8489",
+    "market": "tpex"
+  },
+  "裕國": {
+    "ticker": "8905",
+    "market": "tpex"
+  },
+  "花王": {
+    "ticker": "8906",
+    "market": "tpex"
+  },
+  "欣雄": {
+    "ticker": "8908",
+    "market": "tpex"
+  },
+  "光隆": {
+    "ticker": "8916",
+    "market": "tpex"
+  },
+  "欣泰": {
+    "ticker": "8917",
+    "market": "tpex"
+  },
+  "沈氏": {
+    "ticker": "8921",
+    "market": "tpex"
+  },
+  "時報": {
+    "ticker": "8923",
+    "market": "tpex"
+  },
+  "大田": {
+    "ticker": "8924",
+    "market": "tpex"
+  },
+  "北基": {
+    "ticker": "8927",
+    "market": "tpex"
+  },
+  "鉅明": {
+    "ticker": "8928",
+    "market": "tpex"
+  },
+  "富堡": {
+    "ticker": "8929",
+    "market": "tpex"
+  },
+  "青鋼": {
+    "ticker": "8930",
+    "market": "tpex"
+  },
+  "大汽電": {
+    "ticker": "8931",
+    "market": "tpex"
+  },
+  "愛地雅": {
+    "ticker": "8933",
+    "market": "tpex"
+  },
+  "邦泰": {
+    "ticker": "8935",
+    "market": "tpex"
+  },
+  "國統": {
+    "ticker": "8936",
+    "market": "tpex"
+  },
+  "合騏": {
+    "ticker": "8937",
+    "market": "tpex"
+  },
+  "明安": {
+    "ticker": "8938",
+    "market": "tpex"
+  },
+  "關中": {
+    "ticker": "8941",
+    "market": "tpex"
+  },
+  "森鉅": {
+    "ticker": "8942",
+    "market": "tpex"
+  },
+  "台新標普500": {
+    "ticker": "009806",
+    "market": "tpex"
+  },
+  "台新標普科技精選": {
+    "ticker": "009807",
+    "market": "tpex"
+  },
+  "富邦標普500": {
+    "ticker": "009814",
+    "market": "tpex"
+  },
+  "大華美國MAG7+": {
+    "ticker": "009815",
+    "market": "tpex"
+  },
+  "琉園": {
+    "ticker": "9949",
+    "market": "tpex"
+  },
+  "萬國通": {
+    "ticker": "9950",
+    "market": "tpex"
+  },
+  "皇田": {
+    "ticker": "9951",
+    "market": "tpex"
+  },
+  "邁達康": {
+    "ticker": "9960",
+    "market": "tpex"
+  },
+  "有益": {
+    "ticker": "9962",
+    "market": "tpex"
+  },
+  "富邦存股雙十N": {
+    "ticker": "020001",
+    "market": "tpex"
+  },
+  "統一亞洲半導體N": {
+    "ticker": "020025",
+    "market": "tpex"
+  },
+  "元大上櫃ESG成長N": {
+    "ticker": "020027",
+    "market": "tpex"
+  },
+  "統一恒生科期N": {
+    "ticker": "020033",
+    "market": "tpex"
+  },
+  "元大上櫃ESG高息N": {
+    "ticker": "020035",
+    "market": "tpex"
+  },
+  "元大上櫃ESG龍頭N": {
+    "ticker": "020040",
+    "market": "tpex"
+  },
+  "兆豐半導體氣候N": {
+    "ticker": "020041",
+    "market": "tpex"
+  },
+  "_fetchedAt": "2026-02-28T02:21:42.675Z",
+  "蘋果電腦": {
+    "ticker": "AAPL",
+    "market": "foreign"
+  },
+  "蘋果電腦 (複委託)": {
+    "ticker": "AAPL",
+    "market": "foreign"
+  },
+  "阿里巴巴集團": {
+    "ticker": "BABA",
+    "market": "foreign"
+  },
+  "波音公司": {
+    "ticker": "BA",
+    "market": "foreign"
+  },
+  "AMERICAN WELL CORP": {
+    "ticker": "AMWL",
+    "market": "foreign"
+  },
+  "台積電 ADR": {
+    "ticker": "TSM",
+    "market": "foreign"
+  },
+  "超微": {
+    "ticker": "AMD",
+    "market": "foreign"
+  },
+  "BAIDU INC-CHINA ADR": {
+    "ticker": "BIDU",
+    "market": "foreign"
+  },
+  "NIO INC": {
+    "ticker": "NIO",
+    "market": "foreign"
+  },
+  "Carnival Corp": {
+    "ticker": "CCL",
+    "market": "foreign"
+  },
+  "Coinbase Global-A": {
+    "ticker": "COIN",
+    "market": "foreign"
+  },
+  "Rivian Automotive-A": {
+    "ticker": "RIVN",
+    "market": "foreign"
+  },
+  "Roblox": {
+    "ticker": "RBLX",
+    "market": "foreign"
+  },
+  "Tesla": {
+    "ticker": "TSLA",
+    "market": "foreign"
+  },
+  "TESLA INC": {
+    "ticker": "TSLA",
+    "market": "foreign"
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "market": "foreign"
+  },
+  "PYPL": {
+    "ticker": "PYPL",
+    "market": "foreign"
+  },
+  "NVAX": {
+    "ticker": "NVAX",
+    "market": "foreign"
+  },
+  "LCID": {
+    "ticker": "LCID",
+    "market": "foreign"
+  },
+  "NOK": {
+    "ticker": "NOK",
+    "market": "foreign"
+  },
+  "SHOPIFY INC": {
+    "ticker": "SHOP",
+    "market": "foreign"
+  },
+  "PALANTIR TECHNOLOGIES INC-A": {
+    "ticker": "PLTR",
+    "market": "foreign"
+  },
+  "中華開發": {
+    "ticker": "2883",
+    "market": "twse"
+  },
+  "可寧衛": {
+    "ticker": "8422",
+    "market": "twse"
+  },
+  "順達科": {
+    "ticker": "3211",
+    "market": "tpex"
+  },
+  "萬海航運": {
+    "ticker": "2615",
+    "market": "twse"
+  },
+  "美好證券": {
+    "ticker": "6021",
+    "market": "tpex"
+  },
+  "聯嘉": {
+    "ticker": "3717",
+    "market": "twse"
+  },
+  "元大高股息": {
+    "ticker": "0056",
+    "market": "twse"
+  },
+  "國泰智能電動 車": {
+    "ticker": "00893",
+    "market": "twse"
+  },
+  "長科": {
+    "ticker": "6548",
+    "market": "tpex"
+  },
+  "國泰全球品牌 50": {
+    "ticker": "00916",
+    "market": "twse"
+  },
+  "亞太電舊": {
+    "ticker": "3682",
+    "market": "twse"
+  },
+  "群創舊": {
+    "ticker": "3481",
+    "market": "twse"
+  },
+  "麗嬰房舊": {
+    "ticker": "2911",
+    "market": "twse"
+  },
+  "★聯電": {
+    "ticker": "2303",
+    "market": "twse"
+  },
+  "京城銀": {
+    "ticker": "2809",
+    "market": "twse"
+  },
+  "★北基": {
+    "ticker": "8927",
+    "market": "twse"
+  },
+  "元隆": {
+    "ticker": "6287",
+    "market": "tpex"
+  },
+  "元大台灣 50": {
+    "ticker": "0050",
+    "market": "twse"
+  },
+  "華映": {
+    "ticker": "2475",
+    "market": "twse"
+  },
+  "富旺舊": {
+    "ticker": "6219",
+    "market": "tpex"
+  },
+  "立凱-KY 舊": {
+    "ticker": "5227",
+    "market": "tpex"
+  },
+  "勝華": {
+    "ticker": "2384",
+    "market": "twse"
+  },
+  "華上": {
+    "ticker": "6289",
+    "market": "twse"
+  },
+  "華上(舊)": {
+    "ticker": "6289",
+    "market": "twse"
+  },
+  "合富－KY": {
+    "ticker": "4745",
+    "market": "tpex"
+  },
+  "和旺": {
+    "ticker": "5505",
+    "market": "tpex"
+  },
+  "騰輝電子－KY": {
+    "ticker": "6672",
+    "market": "twse"
+  },
+  "碩網 (未交付信託原因：非 國內上市、上櫃股票)": {
+    "ticker": "7547",
+    "market": "tpex"
+  },
+  "Goog (未交付信託原因：國 外股票)": {
+    "ticker": "GOOG",
+    "market": "foreign"
+  },
+  "Googl (未交付信託原因： 國外股票)": {
+    "ticker": "GOOGL",
+    "market": "foreign"
+  },
+  "茂達電子": {
+    "ticker": "6138",
+    "market": "tpex"
+  },
+  "中保": {
+    "ticker": "9917",
+    "market": "twse"
+  },
+  "華碩電腦": {
+    "ticker": "2357",
+    "market": "twse"
+  },
+  "太電": {
+    "ticker": "1602",
+    "market": "twse"
+  },
+  "富邦綜合證券股份有限公 司/勝華 (未交付信託原 因：已下市無需信託)": {
+    "ticker": "2384",
+    "market": "twse"
+  },
+  "新 光金 (未 交付 信託 原 因：有價證券未達新台幣一 百萬之零股)": {
+    "ticker": "2887",
+    "market": "twse"
+  },
+  "康友-KY": {
+    "ticker": "6452",
+    "market": "twse"
+  },
+  "頎邦科技": {
+    "ticker": "6147",
+    "market": "tpex"
+  },
+  "鋐寶": {
+    "ticker": "6674",
+    "market": "tpex"
+  },
+  "耀華": {
+    "ticker": "2367",
+    "market": "twse"
+  },
+  "土銀富邦 R1": {
+    "ticker": "01001T",
+    "market": "twse"
+  }
+}

@@ -1,131 +1,89 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getDepositRankings, formatAmount, getPartyColor } from '../lib/data';
+import { getDepositRankings, formatAmount, getPeopleMap } from '../lib/data';
 import PersonMeta from '../components/PersonMeta.astro';
-import InfoPopover from '../components/InfoPopover.astro';
+import PageHeader from '../components/ui/PageHeader.astro';
+import SearchBar from '../components/ui/SearchBar.astro';
 
 const rankings = getDepositRankings();
-const maxDeposit = rankings.find(r => r.hasData)?.depositsTotal || 1;
-const TOP_N = 5;
+const peopleMap = getPeopleMap();
 ---
 
-<Layout title="💧 流動資產排名">
-  <section class="header">
-    <div class="page-headline">
-      <h1>💧 流動資產排名</h1>
-      <InfoPopover>
-        <p>本頁將存款、債券、基金受益憑證合併計算，保險僅顯示筆數，不納入金額。</p>
-        <p>外幣折算以申報時點揭露基礎為主，不代表即時匯率結果。</p>
-      </InfoPopover>
-    </div>
-    <p class="subtitle">輸入你的存款金額，看看你排第幾</p>
-  </section>
+<Layout title="💰 存款排名" fullBleed={true} bodyClass="blueprint-theme page-accent-orange">
+  <div class="blueprint-page min-h-dvh">
+    <section class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto w-full max-w-6xl px-5 pb-10 pt-6 md:px-8 md:pb-12 md:pt-8">
+        <PageHeader title="💰 存款排名" subtitle="統計包含現金存款、債券與基金受益憑證">
+          <p>本頁將存款、債券、基金受益憑證合併計算。</p>
+          <p>外幣折算以申報時間揭露基礎為主，不代表即時匯率結果。</p>
+          <p>本頁計算皆包含本人、配偶及未成年子女之申報資料。</p>
+        </PageHeader>
 
-  <section class="input-section">
-    <div class="input-box">
-      <span class="input-prefix">新台幣</span>
-      <input type="number" id="user-amount" placeholder="0" min="0" />
-      <span class="input-suffix">萬</span>
-      <button class="confirm-btn" id="confirm-btn">查看排名</button>
-    </div>
-  </section>
-
-  <section class="ranking-section">
-    <h2 class="section-title">存款排名</h2>
-    <p class="section-sub">點擊可查看明細，所有金額皆以新台幣計算（含存款、債券、基金受益憑證）；保險顯示為保單筆數</p>
-    <div id="ranking-list">
-      {rankings.map((l, i) => {
-        const pct = maxDeposit > 0 ? (l.depositsTotal / maxDeposit) * 100 : 0;
-        return (
-          <div
-            class={`rank-row ${i >= TOP_N ? 'collapsed-row' : ''}`}
-            data-amount={l.depositsTotal}
-            data-deposits={JSON.stringify(l.deposits)}
-            data-insurance-count={l.insuranceCount}
-            data-name={l.name}
-            data-has-data={l.hasData ? '1' : '0'}
-            data-party-color={getPartyColor(l.party)}
-          >
-            <span class="rank-num">{i + 1}</span>
-            <span class="rank-name-wrap">
-              <PersonMeta name={l.name} party={l.party} />
-            </span>
-            <span class="rank-amount-text">{l.hasData ? formatAmount(l.depositsTotal) : '無資料'}</span>
-            {l.hasData && l.depositsTotal > 0 ? (
-              <div class="rank-bar-wrap">
-                <div
-                  class="rank-bar"
-                  style={`width: ${pct}%; background: ${getPartyColor(l.party)};`}
-                />
-              </div>
-            ) : (
-              <div class="rank-bar-wrap" />
-            )}
+        <section class="bp-crosshair mb-[var(--section-gap)] border border-[var(--border-grid)] p-3">
+          <p class="mb-2 text-sm text-[var(--color-text-secondary)]">輸入你的存款金額，看看你排第幾名</p>
+          <div class="flex items-center gap-2">
+            <div class="flex min-w-0 flex-1 items-center gap-2 border border-[var(--color-border)] bg-[var(--color-surface)] px-3 py-2">
+              <span class="whitespace-nowrap text-[15px] text-[var(--color-text)]">新台幣</span>
+              <input class="min-w-0 flex-1 font-[var(--font-mono)] text-base text-[var(--color-text)] placeholder:text-[var(--color-text-muted)]" type="number" id="user-amount" placeholder="0" min="0" />
+              <span class="whitespace-nowrap text-[15px] text-[var(--color-text-muted)]">萬</span>
+            </div>
+            <button class="confirm-btn shrink-0 whitespace-nowrap px-4 py-2.5 text-[13px] font-bold transition-opacity duration-150 active:opacity-70" id="confirm-btn">查看排名</button>
           </div>
-        );
-      })}
-    </div>
-    <button class="collapse-toggle" id="collapse-toggle">
-      <span id="collapse-text">顯示其餘 {rankings.length - TOP_N} 人</span>
-      <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-    </button>
-  </section>
+        </section>
+
+        <section class="mb-[var(--section-gap)]">
+          <div class="mb-4 flex gap-3">
+            <SearchBar inputId="search-input" clearId="search-clear" placeholder="搜尋姓名或選區/縣市..." />
+          </div>
+
+          <div id="ranking-list" class="flex flex-col gap-0.5">
+            {rankings.map((l, i) => {
+              return (
+                <div
+                  class="bp-crosshair rank-card overflow-hidden rounded-none bg-[var(--color-surface)]"
+                  data-amount={l.depositsTotal}
+                  data-deposits={JSON.stringify(l.deposits)}
+                  data-name={l.name}
+                  data-area={peopleMap[l.name]?.area || ''}
+                  data-has-data={l.hasData ? '1' : '0'}
+                >
+                  <div class="rank-row" data-expandable>
+                    <span class="rank-num">{i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : i + 1}</span>
+                    <span class="rank-name-wrap">
+                      <PersonMeta name={l.name} party={l.party} />
+                    </span>
+                    <span class="rank-amount-text">{l.hasData ? formatAmount(l.depositsTotal) : '無資料'}</span>
+                    <svg class="chevron shrink-0 text-[var(--color-text-muted)] transition-transform duration-200" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      </div>
+    </section>
+  </div>
 </Layout>
 
 <style>
-  .header { margin-bottom: var(--section-gap); }
-  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
-  .subtitle { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
-
-  .input-section { margin-bottom: var(--section-gap); }
-  .input-box {
-    display: flex;
-    align-items: center;
-    border: 1px solid var(--color-border);
-    border-radius: 10px;
-    padding: 14px 16px;
-    gap: 8px;
-    background: var(--color-surface);
-  }
-  .input-prefix { font-size: 15px; color: var(--color-text); white-space: nowrap; }
-  .input-suffix { font-size: 15px; color: var(--color-text-muted); white-space: nowrap; }
-  .input-box input {
-    flex: 1;
-    font-family: var(--font-mono);
-    font-size: 16px;
-    color: var(--color-text);
-    min-width: 0;
-  }
-  .input-box input::placeholder { color: var(--color-text-muted); }
-  .confirm-btn {
-    padding: 8px 14px;
-    font-size: 13px;
-    font-weight: 700;
-    color: var(--color-bg);
-    background: var(--color-text);
-    border-radius: 8px;
-    white-space: nowrap;
-    flex-shrink: 0;
-    transition: opacity 0.15s;
-  }
-  .confirm-btn:active { opacity: 0.7; }
-
-  .ranking-section { margin-bottom: var(--section-gap); overflow: hidden; }
-  .section-title { font-size: 16px; font-weight: 700; margin-bottom: 4px; }
-  .section-sub { font-size: 12px; color: var(--color-text-muted); margin-bottom: 12px; }
+  .hidden { display: none; }
 
   /* Row layout: rank | name | amount | bar */
   .rank-row {
     display: flex;
     align-items: center;
-    gap: 8px;
-    padding: 8px 0;
+    gap: 6px;
+    padding: 12px 14px;
     cursor: pointer;
-    border-bottom: 1px solid var(--color-border-light);
   }
-  .rank-row:last-child { border-bottom: none; }
-  .rank-row.collapsed-row { display: none; }
-  .rank-row.collapsed-row.visible { display: flex; }
+  .rank-card.open .chevron { transform: rotate(180deg); }
+  .rank-card.filtered-out { display: none !important; }
+
+  .confirm-btn {
+    border: 1px solid color-mix(in srgb, var(--page-accent) 55%, var(--border-grid));
+    background: color-mix(in srgb, var(--page-accent) 20%, transparent);
+    color: var(--color-text);
+  }
 
   .rank-num {
     font-family: var(--font-mono);
@@ -139,8 +97,8 @@ const TOP_N = 5;
   .rank-name-wrap {
     display: flex;
     align-items: center;
-    width: 112px;
     flex-shrink: 0;
+    min-width: 0;
   }
   .rank-amount-text {
     font-family: var(--font-mono);
@@ -148,23 +106,21 @@ const TOP_N = 5;
     font-weight: 600;
     color: var(--color-text-secondary);
     white-space: nowrap;
-    width: 56px;
+    width: 72px;
+    margin-left: auto;
     text-align: right;
+    font-variant-numeric: tabular-nums;
     flex-shrink: 0;
   }
-  .rank-bar-wrap { flex: 1; min-width: 0; }
-  .rank-bar {
-    height: 24px;
-    border-radius: 4px;
-    min-width: 2px;
-  }
 
-  /* Deposit breakdown - use :global() since these are created dynamically via JS */
+  /* Deposit breakdown — JS-injected */
   :global(.deposit-breakdown) {
     display: none;
     flex-direction: column;
-    gap: 4px;
-    padding: 4px 0 8px;
+    gap: 0;
+    padding: 0 34px 10px 20px;
+    background: rgba(26, 26, 28, 0.36);
+    border-top: 1px solid var(--color-border-light);
   }
   :global(.deposit-breakdown.open) { display: flex; }
   :global(.deposit-item) {
@@ -172,9 +128,10 @@ const TOP_N = 5;
     align-items: center;
     gap: 8px;
     font-size: 12px;
-    /* rank-num(24) + gap(8) = 32px, so emoji aligns with name left edge */
-    padding-left: 32px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--color-border-light);
   }
+  :global(.deposit-item:last-child) { border-bottom: none; }
   :global(.dep-label) {
     display: flex;
     align-items: center;
@@ -183,12 +140,9 @@ const TOP_N = 5;
     flex-shrink: 0;
     overflow: hidden;
   }
-  :global(.dep-flag) {
-    font-size: 13px;
-    flex-shrink: 0;
-  }
+  :global(.dep-flag) { font-size: 13px; flex-shrink: 0; }
   :global(.dep-currency) {
-    font-size: 11px;
+    font-size: 12px;
     color: var(--color-text-muted);
     white-space: nowrap;
     overflow: hidden;
@@ -206,13 +160,16 @@ const TOP_N = 5;
   }
   :global(.dep-bar-wrap) {
     flex: 1;
-    min-width: 30px;
+    min-width: 36px;
     height: 6px;
     background: var(--color-border-light);
-    border-radius: 3px;
+    border-radius: 0;
     overflow: hidden;
   }
-  :global(.dep-bar) { height: 100%; border-radius: 3px; }
+  :global(.dep-bar) {
+    height: 100%;
+    border-radius: 0;
+  }
   :global(.dep-pct) {
     font-family: var(--font-mono);
     font-size: 11px;
@@ -222,47 +179,72 @@ const TOP_N = 5;
     flex-shrink: 0;
   }
 
-  /* User row — orange highlight, centered text */
+  /* User row — orange highlight */
   :global(.user-row) {
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #FF8C00;
-    border-radius: 8px;
+    background:
+      radial-gradient(circle at 1px 1px, color-mix(in srgb, var(--page-accent) 16%, transparent) 1px, transparent 0) 0 0 / 10px 10px,
+      linear-gradient(180deg, color-mix(in srgb, var(--color-surface) 88%, transparent), color-mix(in srgb, var(--bg-base) 90%, transparent));
+    border-radius: 0;
     padding: 12px 16px;
     margin: 6px 0;
-    border-bottom: none;
+    border: 1px solid color-mix(in srgb, var(--page-accent) 55%, var(--color-border));
     cursor: default;
     font-size: 15px;
     font-weight: 700;
-    color: #fff;
+    color: var(--color-text);
     letter-spacing: 0.02em;
     gap: 6px;
+    overflow: hidden;
+    isolation: isolate;
   }
-
-  /* Pop-in animation for user row */
+  :global(.user-row::before) {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(to right, color-mix(in srgb, var(--color-border-light) 65%, transparent) 1px, transparent 1px),
+      linear-gradient(to bottom, color-mix(in srgb, var(--color-border-light) 65%, transparent) 1px, transparent 1px);
+    background-size: 20px 20px;
+    opacity: 0.12;
+    pointer-events: none;
+    z-index: -1;
+  }
   :global(.user-row.pop-in) {
     animation: popIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  :global(.user-row-arrow) {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.85;
+    will-change: transform, opacity;
+  }
+  :global(.user-row-text) {
+    white-space: nowrap;
+  }
+  :global(.user-row.pop-in .user-row-arrow--left) {
+    animation: arrowInLeft 0.45s cubic-bezier(0.22, 1, 0.36, 1) 0.06s both;
+  }
+  :global(.user-row.pop-in .user-row-arrow--right) {
+    animation: arrowInRight 0.45s cubic-bezier(0.22, 1, 0.36, 1) 0.06s both;
   }
   @keyframes popIn {
     0% { opacity: 0; transform: scale(0.92); }
     100% { opacity: 1; transform: scale(1); }
   }
-
-  /* Collapse toggle */
-  .collapse-toggle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 6px;
-    width: 100%;
-    padding: 12px 0;
-    font-size: 13px;
-    color: var(--color-text-muted);
-    cursor: pointer;
+  @keyframes arrowInLeft {
+    0% { opacity: 0; transform: translateX(-16px); }
+    100% { opacity: 0.85; transform: translateX(0); }
   }
-  .collapse-toggle .chevron { transition: transform 0.2s; }
-  .collapse-toggle.expanded .chevron { transform: rotate(180deg); }
+  @keyframes arrowInRight {
+    0% { opacity: 0; transform: translateX(16px); }
+    100% { opacity: 0.85; transform: translateX(0); }
+  }
+
 </style>
 
 <script>
@@ -281,95 +263,111 @@ const TOP_N = 5;
     '紐西蘭幣': '\u{1F1F3}\u{1F1FF}',
     '南非幣': '\u{1F1FF}\u{1F1E6}',
     '墨西哥披索': '\u{1F1F2}\u{1F1FD}',
-    '保險': '\u{1F6E1}\u{FE0F}',
   };
 
   function fmtAmt(amount: number): string {
     if (amount >= 1_0000_0000) return `${(amount / 1_0000_0000).toFixed(1)} 億`;
-    if (amount >= 1_0000) return `${Math.round(amount / 1_0000).toLocaleString()} 萬`;
-    return amount.toLocaleString();
+    if (amount >= 1_0000) return `${Math.round(amount / 1_0000).toLocaleString('en-US')} 萬`;
+    return amount.toLocaleString('en-US');
+  }
+
+  function normalizeSearchText(value: string): string {
+    return value.toLowerCase().replace(/台/g, '臺');
   }
 
   const input = document.getElementById('user-amount') as HTMLInputElement;
   const confirmBtn = document.getElementById('confirm-btn')!;
+  const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
+  const searchClear = document.getElementById('search-clear') as HTMLButtonElement | null;
   const list = document.getElementById('ranking-list')!;
-  const collapseBtn = document.getElementById('collapse-toggle')!;
-  const collapseText = document.getElementById('collapse-text')!;
 
-  const allRows = Array.from(list.querySelectorAll('.rank-row:not(.user-row)')) as HTMLElement[];
-  const amounts = allRows.map(r => Number(r.getAttribute('data-amount')));
-  const maxAmount = amounts[0] || 1;
-  const TOP_N = 5;
-  let isExpanded = false;
+  const allCards = Array.from(list.querySelectorAll('.rank-card')) as HTMLElement[];
+  const amounts = allCards.map(card => Number(card.getAttribute('data-amount')));
   let animationId = 0; // incremented to cancel running animations
 
-  // --- Collapse toggle ---
-  collapseBtn.addEventListener('click', () => {
-    isExpanded = !isExpanded;
-    collapseBtn.classList.toggle('expanded', isExpanded);
-    collapseText.textContent = isExpanded
-      ? '收起排名'
-      : `顯示其餘 ${allRows.length - TOP_N} 人`;
-    list.querySelectorAll('.collapsed-row').forEach(r => {
-      r.classList.toggle('visible', isExpanded);
+  function formatRankLabel(rank: number): string {
+    if (rank === 1) return '🥇';
+    if (rank === 2) return '🥈';
+    if (rank === 3) return '🥉';
+    return String(rank);
+  }
+
+  function updateVisibleRanks() {
+    let rank = 1;
+    allCards.forEach(card => {
+      const num = card.querySelector('.rank-num');
+      if (!num || card.classList.contains('filtered-out')) return;
+      num.textContent = formatRankLabel(rank++);
     });
-  });
+  }
+
+  function applySearchFilter() {
+    if (!searchInput) return;
+    const query = normalizeSearchText(searchInput.value.trim());
+    allCards.forEach(card => {
+      const name = normalizeSearchText(card.getAttribute('data-name') || '');
+      const area = normalizeSearchText(card.getAttribute('data-area') || '');
+      const matched = query === '' || name.includes(query) || area.includes(query);
+      card.classList.toggle('filtered-out', !matched);
+    });
+    const userRow = list.querySelector('.user-row') as HTMLElement | null;
+    if (userRow) {
+      userRow.style.display = query.length > 0 ? 'none' : '';
+    }
+    searchClear?.classList.toggle('hidden', query.length === 0);
+    updateVisibleRanks();
+  }
 
   // --- Deposit breakdown click ---
   list.addEventListener('click', (e) => {
-    const row = (e.target as HTMLElement).closest('.rank-row');
-    if (!row || row.classList.contains('user-row')) return;
+    const header = (e.target as HTMLElement).closest('[data-expandable]');
+    if (!header) return;
+    const card = header.closest('.rank-card') as HTMLElement | null;
+    if (!card) return;
 
     // Toggle existing breakdown
-    const existing = row.nextElementSibling;
-    if (existing?.classList.contains('deposit-breakdown')) {
-      existing.classList.toggle('open');
+    const existing = card.querySelector('.deposit-breakdown') as HTMLElement | null;
+    if (existing) {
+      const willOpen = !existing.classList.contains('open');
+      existing.classList.toggle('open', willOpen);
+      card.classList.toggle('open', willOpen);
       return;
     }
 
-    if (row.getAttribute('data-has-data') !== '1') return;
+    if (card.getAttribute('data-has-data') !== '1') return;
 
-    const depositsStr = row.getAttribute('data-deposits');
+    const depositsStr = card.getAttribute('data-deposits');
     if (!depositsStr) return;
     const deposits = JSON.parse(depositsStr) as { currency: string; amount: number }[];
-    const insuranceCount = Number(row.getAttribute('data-insurance-count') || '0');
-    if (deposits.length === 0 && insuranceCount === 0) return;
+    if (deposits.length === 0) return;
 
     deposits.sort((a, b) => b.amount - a.amount);
 
     const total = deposits.reduce((s, d) => s + d.amount, 0);
-    const partyColor = row.getAttribute('data-party-color') || 'var(--color-text-muted)';
-
     const breakdown = document.createElement('div');
     breakdown.className = 'deposit-breakdown open';
+    const neutralBarColor = 'color-mix(in srgb, var(--color-text-secondary) 55%, var(--bg-base))';
     const depositRows = deposits.map(d => {
       const flag = CURRENCY_FLAGS[d.currency] || '\u{1F4B0}';
       const pctVal = total > 0 ? (d.amount / total) * 100 : 0;
       return `<div class="deposit-item">
         <span class="dep-label"><span class="dep-flag">${flag}</span><span class="dep-currency">${d.currency}</span></span>
         <span class="dep-amount">${fmtAmt(d.amount)}</span>
-        <div class="dep-bar-wrap"><div class="dep-bar" style="width:${pctVal}%;background:${partyColor};"></div></div>
+        <div class="dep-bar-wrap"><div class="dep-bar" style="width:${pctVal}%;background:${neutralBarColor};"></div></div>
         <span class="dep-pct">${pctVal.toFixed(0)}%</span>
       </div>`;
     }).join('');
 
-    const insuranceRow = insuranceCount > 0
-      ? `<div class="deposit-item">
-        <span class="dep-label"><span class="dep-flag">${CURRENCY_FLAGS['保險']}</span><span class="dep-currency">保險</span></span>
-        <span class="dep-amount">${insuranceCount} 筆</span>
-        <div class="dep-bar-wrap"></div>
-        <span class="dep-pct">-</span>
-      </div>`
-      : '';
-
-    breakdown.innerHTML = `${depositRows}${insuranceRow}`;
-    row.after(breakdown);
+    breakdown.innerHTML = depositRows;
+    card.appendChild(breakdown);
+    card.classList.add('open');
   });
 
   // Default-expand the first visible row with deposit data.
-  const firstDataRow = allRows.find(r => r.getAttribute('data-has-data') === '1');
-  if (firstDataRow) {
-    firstDataRow.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+  const firstDataCard = allCards.find(card => card.getAttribute('data-has-data') === '1');
+  const firstDataHeader = firstDataCard?.querySelector('[data-expandable]');
+  if (firstDataHeader) {
+    firstDataHeader.dispatchEvent(new MouseEvent('click', { bubbles: true }));
   }
 
   // --- Helpers ---
@@ -417,18 +415,12 @@ const TOP_N = 5;
     list.querySelectorAll('.deposit-breakdown.open').forEach(el => {
       el.classList.remove('open');
     });
-
-    // Step 1: Expand all rows so the target position is in the DOM
-    allRows.forEach(r => {
-      if (r.classList.contains('collapsed-row')) {
-        r.classList.add('visible');
-      }
+    list.querySelectorAll('.rank-card.open').forEach(card => {
+      card.classList.remove('open');
     });
-    isExpanded = true;
-    collapseBtn.style.display = 'none';
 
-    // Step 2: Scroll to where the user row will land (center of viewport)
-    const anchorRow = allRows[targetPos] || allRows[allRows.length - 1];
+    // Step 1: Scroll to where the user row will land (center of viewport)
+    const anchorRow = allCards[targetPos] || allCards[allCards.length - 1];
     if (anchorRow) {
       anchorRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
       await waitForScrollEnd();
@@ -439,23 +431,28 @@ const TOP_N = 5;
     await delay(200);
     if (animationId !== thisAnimId) return;
 
-    // Step 3: Insert user row at the correct position with pop-in animation
+    // Step 2: Insert user row at the correct position with pop-in animation
     const label = fmtAmt(userAmount);
 
     const userRow = document.createElement('div');
     userRow.className = 'user-row pop-in';
-    userRow.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg><span>你的 ${label} 存款排名在這</span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>`;
+    userRow.innerHTML = `<span class="user-row-arrow user-row-arrow--left" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg></span><span class="user-row-text">你的 ${label} 存款排名在這</span><span class="user-row-arrow user-row-arrow--right" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg></span>`;
 
-    if (targetPos < allRows.length) {
-      allRows[targetPos].before(userRow);
+    if (targetPos < allCards.length) {
+      allCards[targetPos].before(userRow);
     } else {
       list.appendChild(userRow);
+    }
+
+    if (searchInput && searchInput.value.trim().length > 0) {
+      userRow.style.display = 'none';
     }
 
     // No rank number shift — other rows keep their original numbers
 
     // Remove pop-in class after animation completes
-    userRow.addEventListener('animationend', () => {
+    userRow.addEventListener('animationend', (event) => {
+      if (event.target !== userRow || event.animationName !== 'popIn') return;
       userRow.classList.remove('pop-in');
     }, { once: true });
   }
@@ -464,5 +461,12 @@ const TOP_N = 5;
   confirmBtn.addEventListener('click', animateToRank);
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') animateToRank();
+  });
+  searchInput?.addEventListener('input', applySearchFilter);
+  searchClear?.addEventListener('click', () => {
+    if (!searchInput) return;
+    searchInput.value = '';
+    applySearchFilter();
+    searchInput.focus();
   });
 </script>

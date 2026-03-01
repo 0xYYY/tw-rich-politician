@@ -1,0 +1,294 @@
+{
+  "台新金": {
+    "ticker": "2887",
+    "market": "twse"
+  },
+  "新光金": {
+    "ticker": "2888",
+    "market": "twse"
+  },
+  "臺化": {
+    "ticker": "1326",
+    "market": "twse"
+  },
+  "國巨": {
+    "ticker": "2327",
+    "market": "twse"
+  },
+  "開發金": {
+    "ticker": "2883",
+    "market": "twse"
+  },
+  "台企銀": {
+    "ticker": "2834",
+    "market": "twse"
+  },
+  "中華電信": {
+    "ticker": "2412",
+    "market": "twse"
+  },
+  "中鼎工程": {
+    "ticker": "9933",
+    "market": "twse"
+  },
+  "中信": {
+    "ticker": "2891",
+    "market": "twse"
+  },
+  "台光": {
+    "ticker": "2383",
+    "market": "twse"
+  },
+  "泰宗": {
+    "ticker": "4174",
+    "market": "tpex"
+  },
+  "泰宗生技": {
+    "ticker": "4174",
+    "market": "tpex"
+  },
+  "立凱－KY": {
+    "ticker": "5765",
+    "market": "tpex"
+  },
+  "宏遠電訊": {
+    "ticker": "6457",
+    "market": "tpex"
+  },
+  "亞太電信股份有限公司": {
+    "ticker": "3682",
+    "market": "twse"
+  },
+  "亞太電": {
+    "ticker": "3682",
+    "market": "twse"
+  },
+  "第一金融控股股份有限公 司": {
+    "ticker": "2892",
+    "market": "twse"
+  },
+  "中租-KY 甲特": {
+    "ticker": "5871",
+    "market": "twse"
+  },
+  "富邦金丙特": {
+    "ticker": "2881",
+    "market": "twse"
+  },
+  "文曄甲特": {
+    "ticker": "3036",
+    "market": "twse"
+  },
+  "台新金已": {
+    "ticker": "2887",
+    "market": "twse"
+  },
+  "中華開發金控": {
+    "ticker": "2883",
+    "market": "twse"
+  },
+  "台新金控": {
+    "ticker": "2887",
+    "market": "twse"
+  },
+  "新光金控": {
+    "ticker": "2888",
+    "market": "twse"
+  },
+  "泰豐輪胎": {
+    "ticker": "2102",
+    "market": "twse"
+  },
+  "合勤": {
+    "ticker": "2391",
+    "market": "twse"
+  },
+  "康聯訊科技股份有限公司": {
+    "ticker": "6830",
+    "market": "tpex"
+  },
+  "英格爾": {
+    "ticker": "8287",
+    "market": "tpex"
+  },
+  "元大高股息": {
+    "ticker": "0056",
+    "market": "twse"
+  },
+  "國泰智能電動 車": {
+    "ticker": "00893",
+    "market": "twse"
+  },
+  "國泰智能電動車": {
+    "ticker": "00893",
+    "market": "twse"
+  },
+  "長科": {
+    "ticker": "6548",
+    "market": "tpex"
+  },
+  "國泰全球品牌 50": {
+    "ticker": "00916",
+    "market": "twse"
+  },
+  "國泰全球品牌50": {
+    "ticker": "00916",
+    "market": "twse"
+  },
+  "亞太電舊": {
+    "ticker": "3682",
+    "market": "twse"
+  },
+  "群創舊": {
+    "ticker": "3481",
+    "market": "twse"
+  },
+  "麗嬰房舊": {
+    "ticker": "2911",
+    "market": "twse"
+  },
+  "★聯電": {
+    "ticker": "2303",
+    "market": "twse"
+  },
+  "京城銀": {
+    "ticker": "2809",
+    "market": "twse"
+  },
+  "★北基": {
+    "ticker": "8927",
+    "market": "twse"
+  },
+  "元隆": {
+    "ticker": "6287",
+    "market": "tpex"
+  },
+  "元大台灣 50": {
+    "ticker": "0050",
+    "market": "twse"
+  },
+  "元大台灣50": {
+    "ticker": "0050",
+    "market": "twse"
+  },
+  "華映": {
+    "ticker": "2475",
+    "market": "twse"
+  },
+  "富旺舊": {
+    "ticker": "6219",
+    "market": "tpex"
+  },
+  "立凱-KY 舊": {
+    "ticker": "5227",
+    "market": "tpex"
+  },
+  "勝華": {
+    "ticker": "2384",
+    "market": "twse"
+  },
+  "華上": {
+    "ticker": "6289",
+    "market": "twse"
+  },
+  "華上(舊)": {
+    "ticker": "6289",
+    "market": "twse"
+  },
+  "合富－KY": {
+    "ticker": "4745",
+    "market": "tpex"
+  },
+  "和旺": {
+    "ticker": "5505",
+    "market": "tpex"
+  },
+  "騰輝電子－KY": {
+    "ticker": "6672",
+    "market": "twse"
+  },
+  "碩網 (未交付信託原因：非 國內上市、上櫃股票)": {
+    "ticker": "7547",
+    "market": "tpex"
+  },
+  "茂達電子": {
+    "ticker": "6138",
+    "market": "tpex"
+  },
+  "中保": {
+    "ticker": "9917",
+    "market": "twse"
+  },
+  "華碩電腦": {
+    "ticker": "2357",
+    "market": "twse"
+  },
+  "太電": {
+    "ticker": "1602",
+    "market": "twse"
+  },
+  "富邦綜合證券股份有限公 司/勝華 (未交付信託原 因：已下市無需信託)": {
+    "ticker": "2384",
+    "market": "twse"
+  },
+  "新 光金 (未 交付 信託 原 因：有價證券未達新台幣一 百萬之零股)": {
+    "ticker": "2887",
+    "market": "twse"
+  },
+  "康友-KY": {
+    "ticker": "6452",
+    "market": "twse"
+  },
+  "頎邦科技": {
+    "ticker": "6147",
+    "market": "tpex"
+  },
+  "鋐寶": {
+    "ticker": "6674",
+    "market": "tpex"
+  },
+  "耀華": {
+    "ticker": "2367",
+    "market": "twse"
+  },
+  "土銀富邦 R1": {
+    "ticker": "01001T",
+    "market": "twse"
+  },
+  "Goog": {
+    "ticker": "GOOG",
+    "market": "foreign"
+  },
+  "Googl": {
+    "ticker": "GOOGL",
+    "market": "foreign"
+  },
+  "nvda": {
+    "ticker": "NVDA",
+    "market": "foreign"
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "market": "foreign"
+  },
+  "Intel": {
+    "ticker": "INTC",
+    "market": "foreign"
+  },
+  "SEA LTD-ADR": {
+    "ticker": "SE",
+    "market": "foreign"
+  },
+  "SY HOLDINGS": {
+    "ticker": "SY",
+    "market": "foreign"
+  },
+  "91APP*-KY": {
+    "ticker": "6741",
+    "market": "tpex"
+  },
+  "碩網": {
+    "ticker": "7547",
+    "market": "tpex"
+  }
+}

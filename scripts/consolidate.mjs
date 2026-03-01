@@ -1,11 +1,14 @@
 #!/usr/bin/env node
 
-import { readFile, writeFile, readdir, mkdir } from "fs/promises";
+import { readFile, writeFile, readdir } from "fs/promises";
 import path from "node:path";
 
 const DATA_DIR = path.resolve(import.meta.dirname, "../data");
-const OUT_DIR = path.resolve(import.meta.dirname, "../data/consolidated");
 const TICKER_CACHE = path.resolve(import.meta.dirname, "../data/stock-ticker-map.json");
+const TICKER_OVERRIDES_PATH = path.resolve(
+  import.meta.dirname,
+  "../data/stock-ticker-overrides.json",
+);
 
 // ── Date helpers ──
 
@@ -40,6 +43,16 @@ function parseShare(shareStr) {
 
 const M2_PER_PING = 3.305785; // 1坪 = 3.305785 m²
 
+function cleanBuildingLocation(location) {
+  const text = String(location || "").replace(/\u3000/g, " ");
+  // Remove disclosure-note parentheses from location text.
+  return text
+    .replace(/[（(]\s*未?\s*交付信\s*託原因[^）)]*[）)]/g, "")
+    .replace(/[（(][^）)]*自用房屋[^）)]*[）)]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function processBuildings(buildings) {
   if (!buildings || buildings.length === 0) return [];
 
@@ -50,7 +63,7 @@ function processBuildings(buildings) {
     const effectiveAreaPing = effectiveAreaM2 / M2_PER_PING;
 
     return {
-      location: b.location,
+      location: cleanBuildingLocation(b.location),
       areaM2: b.area,
       share,
       effectiveAreaPing: Math.round(effectiveAreaPing * 100) / 100,
@@ -188,61 +201,52 @@ function splitStockLikeAssets(rawStocks, rawFunds, ownerName) {
 
 // ── Stock name cleaning ──
 
-// Alias map for names that don't match the official TWSE/TPEx short names
-// Direct ticker overrides for names that can't be resolved via TWSE/TPEx lists
-// (renamed, delisted, special share classes, abbreviation mismatches)
-const TICKER_OVERRIDES = {
-  台新金: { ticker: "2887", market: "twse" },
-  新光金: { ticker: "2888", market: "twse" }, // now 台新新光金
-  臺化: { ticker: "1326", market: "twse" },
-  國巨: { ticker: "2327", market: "twse" }, // listed as 國巨*
-  開發金: { ticker: "2883", market: "twse" },
-  台企銀: { ticker: "2834", market: "twse" },
-  中華電信: { ticker: "2412", market: "twse" },
-  中鼎工程: { ticker: "9933", market: "twse" },
-  中信: { ticker: "2891", market: "twse" },
-  台光: { ticker: "2383", market: "twse" },
-  泰宗: { ticker: "4174", market: "tpex" },
-  泰宗生技: { ticker: "4174", market: "tpex" },
-  "立凱－KY": { ticker: "5765", market: "tpex" },
-  宏遠電訊: { ticker: "6457", market: "tpex" },
-  亞太電信股份有限公司: { ticker: "3682", market: "twse" },
-  亞太電: { ticker: "3682", market: "twse" },
-  "第一金融控股股份有限公 司": { ticker: "2892", market: "twse" },
-  "中租-KY 甲特": { ticker: "5871", market: "twse" },
-  富邦金丙特: { ticker: "2881", market: "twse" },
-  文曄甲特: { ticker: "3036", market: "twse" },
-  台新金已: { ticker: "2887", market: "twse" },
-  中華開發金控: { ticker: "2883", market: "twse" },
-  台新金控: { ticker: "2887", market: "twse" },
-  新光金控: { ticker: "2888", market: "twse" },
-  泰豐輪胎: { ticker: "2102", market: "twse" },
-  合勤: { ticker: "2391", market: "twse" },
-  康聯訊科技股份有限公司: { ticker: "6830", market: "tpex" },
-  英格爾: { ticker: "8287", market: "tpex" },
-  // Foreign stocks
-  nvda: { ticker: "NVDA", market: "foreign" },
-  NVDA: { ticker: "NVDA", market: "foreign" },
-  Intel: { ticker: "INTC", market: "foreign" },
-  "SEA LTD-ADR": { ticker: "SE", market: "foreign" },
-  "SY HOLDINGS": { ticker: "SY", market: "foreign" },
-  "91APP*-KY": { ticker: "6741", market: "tpex" },
-};
+async function loadTickerOverrides() {
+  try {
+    return JSON.parse(await readFile(TICKER_OVERRIDES_PATH, "utf8"));
+  } catch (err) {
+    console.warn(
+      `Could not read ticker overrides (${path.relative(DATA_DIR, TICKER_OVERRIDES_PATH)}): ${err.message}`,
+    );
+    return {};
+  }
+}
 
 /** Remove trust annotations like 「交付臺灣銀行信託」 from stock names */
 function cleanStockName(name) {
-  return name
-    .replace(/[「\(（]交付[^」\)）]*[」\)）]/g, "")
-    .replace(/^\d+★/, "") // remove "1★" prefix
-    .trim();
+  return (
+    String(name || "")
+      .replace(/\u3000/g, " ")
+      .replace(/[－–—]/g, "-")
+      // Some rows are "broker/stockName"
+      .replace(/^.*\//, "")
+      // Remove trust notes in parentheses/brackets
+      .replace(/[（(]\s*未?\s*交付信託原因[^）)]*[）)]/g, "")
+      .replace(/[「\(（]\s*交付[^」\)）]*[」\)）]/g, "")
+      // Remove generic "(舊)" and trailing "舊"
+      .replace(/[（(]\s*舊\s*[）)]/g, "")
+      .replace(/舊$/g, "")
+      // Remove star prefixes
+      .replace(/^\d+\s*★/, "")
+      .replace(/^★/, "")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
 }
 
 /** Resolve ticker info for a cleaned stock name */
-function resolveTickerInfo(cleanName, tickerMap) {
+function resolveTickerInfo(cleanName, tickerMap, tickerOverrides) {
+  const noSpace = cleanName.replace(/\s+/g, "");
+  const candidates = cleanName === noSpace ? [cleanName] : [cleanName, noSpace];
+
   // Check direct overrides first
-  if (TICKER_OVERRIDES[cleanName]) return TICKER_OVERRIDES[cleanName];
+  for (const c of candidates) {
+    if (tickerOverrides[c]) return tickerOverrides[c];
+  }
   // Then check TWSE/TPEx map
-  if (tickerMap[cleanName]) return tickerMap[cleanName];
+  for (const c of candidates) {
+    if (tickerMap[c]) return tickerMap[c];
+  }
   return null;
 }
 
@@ -561,13 +565,13 @@ function todayISO() {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 }
 
-async function fetchPriceForName(name, dateISO, tickerMap, priceCache, label) {
+async function fetchPriceForName(name, dateISO, tickerMap, tickerOverrides, priceCache, label) {
   const cacheKey = `${name}:${dateISO}`;
   if (priceCache[cacheKey] !== undefined) {
     return priceCache[cacheKey];
   }
 
-  const tickerInfo = resolveTickerInfo(name, tickerMap);
+  const tickerInfo = resolveTickerInfo(name, tickerMap, tickerOverrides);
   if (!tickerInfo) {
     priceCache[cacheKey] = null;
     return null;
@@ -575,9 +579,10 @@ async function fetchPriceForName(name, dateISO, tickerMap, priceCache, label) {
 
   try {
     await sleep(3000);
-    const price = label === "latest"
-      ? await fetchLatestStockPrice(tickerInfo.ticker, tickerInfo.market, dateISO, 14)
-      : await fetchStockPrice(tickerInfo.ticker, tickerInfo.market, dateISO);
+    const price =
+      label === "latest"
+        ? await fetchLatestStockPrice(tickerInfo.ticker, tickerInfo.market, dateISO, 14)
+        : await fetchStockPrice(tickerInfo.ticker, tickerInfo.market, dateISO);
     let normalizedPrice = price;
 
     // Foreign stock quotes are not TWD; convert them to TWD by historical USD/TWD.
@@ -635,17 +640,20 @@ async function fetchUsdTwdRate(dateISO, priceCache) {
   return promise;
 }
 
-async function processStocks(stocks, dateISO, tickerMap, priceCache, ownerName) {
+async function processStocks(stocks, dateISO, tickerMap, tickerOverrides, priceCache, ownerName) {
   if (!stocks?.items || stocks.items.length === 0) return [];
 
+  const validItems = stocks.items.filter((s) => Number(s.shares || 0) > 0);
+  if (validItems.length === 0) return [];
+
   const results = [];
-  const names = [...new Set(stocks.items.map((s) => cleanStockName(s.name)))];
+  const names = [...new Set(validItems.map((s) => cleanStockName(s.name)))];
   const disclosurePriceMap = {};
   const latestPriceMap = {};
   const today = todayISO();
 
   await runWithConcurrency(names, PRICE_FETCH_CONCURRENCY, async (name) => {
-    const tickerInfo = resolveTickerInfo(name, tickerMap);
+    const tickerInfo = resolveTickerInfo(name, tickerMap, tickerOverrides);
     if (!tickerInfo) {
       console.warn(`  ⚠ No ticker found for: ${name}`);
       disclosurePriceMap[name] = null;
@@ -656,23 +664,30 @@ async function processStocks(stocks, dateISO, tickerMap, priceCache, ownerName) 
     }
 
     if (dateISO === today) {
-      const price = await fetchPriceForName(name, today, tickerMap, priceCache, "latest");
+      const price = await fetchPriceForName(
+        name,
+        today,
+        tickerMap,
+        tickerOverrides,
+        priceCache,
+        "latest",
+      );
       disclosurePriceMap[name] = price;
       latestPriceMap[name] = price;
       return;
     }
 
     const [disclosurePrice, latestPrice] = await Promise.all([
-      fetchPriceForName(name, dateISO, tickerMap, priceCache, "disclosure"),
-      fetchPriceForName(name, today, tickerMap, priceCache, "latest"),
+      fetchPriceForName(name, dateISO, tickerMap, tickerOverrides, priceCache, "disclosure"),
+      fetchPriceForName(name, today, tickerMap, tickerOverrides, priceCache, "latest"),
     ]);
     disclosurePriceMap[name] = disclosurePrice;
     latestPriceMap[name] = latestPrice;
   });
 
-  for (const s of stocks.items) {
+  for (const s of validItems) {
     const name = cleanStockName(s.name);
-    const tickerInfo = resolveTickerInfo(name, tickerMap);
+    const tickerInfo = resolveTickerInfo(name, tickerMap, tickerOverrides);
     results.push({
       name: s.name,
       cleanName: name,
@@ -692,48 +707,82 @@ async function processStocks(stocks, dateISO, tickerMap, priceCache, ownerName) 
 async function main() {
   const skipStockPrices = process.argv.includes("--skip-prices");
 
-  await mkdir(OUT_DIR, { recursive: true });
-
+  const tickerOverrides = await loadTickerOverrides();
   const tickerMap = skipStockPrices ? {} : await fetchTickerMap();
   const priceCache = await loadPriceCache();
 
-  const peopleMapping = JSON.parse(await readFile(path.join(DATA_DIR, "people-mapping.json"), "utf8"));
+  const peopleMapping = JSON.parse(
+    await readFile(path.join(DATA_DIR, "people-mapping.json"), "utf8"),
+  );
   const partyMap = {};
   for (const [name, info] of Object.entries(peopleMapping)) partyMap[name] = info.party;
 
   const SKIP_DIRS = new Set(["consolidated", ".tmp-extract"]);
   const allDirEntries = await readdir(DATA_DIR, { withFileTypes: true });
   const dirs = allDirEntries
-    .filter((d) => d.isDirectory() && !SKIP_DIRS.has(d.name) && !d.name.startsWith(".") && !d.name.startsWith("_"))
+    .filter(
+      (d) =>
+        d.isDirectory() &&
+        !SKIP_DIRS.has(d.name) &&
+        !d.name.startsWith(".") &&
+        !d.name.startsWith("_"),
+    )
     .map((d) => d.name)
     .sort();
 
   let processed = 0;
   let skipped = 0;
   const unmatchedStocks = {}; // cleanName → { count, people[], originalNames[] }
-  const byCanonical = new Map(); // canonicalName -> { dateISO, sourceDir, consolidated }
 
   const normText = (s) => String(s || "").replace(/[\s\u3000]/g, "");
+  const periodNum = (period) => Number(String(period || "").replace(/[^\d]/g, "")) || 0;
 
-  async function loadTrustData(dir) {
-    const trustDir = path.join(DATA_DIR, dir, "trust");
-    let trustFiles;
+  async function loadFiling(personDir, filingCode) {
+    const filingDir = path.join(DATA_DIR, personDir, filingCode);
+    const metadataPath = path.join(filingDir, "metadata.json");
+    const extractedPath = path.join(filingDir, "extracted.json");
+
     try {
-      trustFiles = (await readdir(trustDir)).filter((f) => f.endsWith(".extracted.json"));
+      const [metadataRaw, extractedRaw] = await Promise.all([
+        readFile(metadataPath, "utf8"),
+        readFile(extractedPath, "utf8"),
+      ]);
+      return {
+        code: filingCode,
+        metadata: JSON.parse(metadataRaw),
+        raw: JSON.parse(extractedRaw),
+      };
     } catch {
       return null;
     }
-    if (trustFiles.length === 0) return null;
-    return JSON.parse(await readFile(path.join(trustDir, trustFiles[0]), "utf8"));
+  }
+
+  function choosePrimaryFiling(filings) {
+    const nonTrust = filings.filter((f) => !String(f.metadata?.PublishType || "").includes("信託"));
+    // Prefer 01 (一般申報) as the primary snapshot when available.
+    const ordinary = nonTrust.filter((f) => String(f.code) === "01");
+    const candidates = ordinary.length > 0 ? ordinary : nonTrust.length > 0 ? nonTrust : filings;
+    candidates.sort((a, b) => {
+      const pa = periodNum(a.metadata?.Period);
+      const pb = periodNum(b.metadata?.Period);
+      if (pb !== pa) return pb - pa;
+      return String(b.code).localeCompare(String(a.code), "zh-TW");
+    });
+    return candidates[0] || null;
   }
 
   function mergeStocksFromTrust(ordinaryStocks, trustStocks) {
     if (!trustStocks?.items?.length) return ordinaryStocks;
     const existingNames = new Set(
-      (ordinaryStocks?.items || []).map((s) => `${normText(cleanStockName(s.name))}|${normText(s.owner)}|${Number(s.shares || 0)}`)
+      (ordinaryStocks?.items || []).map(
+        (s) => `${normText(cleanStockName(s.name))}|${normText(s.owner)}|${Number(s.shares || 0)}`,
+      ),
     );
     const newItems = trustStocks.items.filter(
-      (s) => !existingNames.has(`${normText(cleanStockName(s.name))}|${normText(s.owner)}|${Number(s.shares || 0)}`)
+      (s) =>
+        !existingNames.has(
+          `${normText(cleanStockName(s.name))}|${normText(s.owner)}|${Number(s.shares || 0)}`,
+        ),
     );
     return {
       ...ordinaryStocks,
@@ -744,15 +793,16 @@ async function main() {
   function mergeDepositsFromTrust(ordinaryDeposits, trustDeposits) {
     if (!trustDeposits?.items?.length) return ordinaryDeposits;
     const existingKeys = new Set(
-      (ordinaryDeposits?.items || []).map((d) =>
-        `${normText(d.institution)}|${normText(d.currency || "新臺幣")}|${normText(d.owner)}|${Number(d.amount || 0)}`
-      )
+      (ordinaryDeposits?.items || []).map(
+        (d) =>
+          `${normText(d.institution)}|${normText(d.currency || "新臺幣")}|${normText(d.owner)}|${Number(d.amount || 0)}`,
+      ),
     );
     const newItems = trustDeposits.items.filter(
       (d) =>
         !existingKeys.has(
-          `${normText(d.institution)}|${normText(d.currency || "新臺幣")}|${normText(d.owner)}|${Number(d.amount || 0)}`
-        )
+          `${normText(d.institution)}|${normText(d.currency || "新臺幣")}|${normText(d.owner)}|${Number(d.amount || 0)}`,
+        ),
     );
     if (newItems.length === 0) return ordinaryDeposits;
     return {
@@ -764,15 +814,16 @@ async function main() {
   function mergeBuildingsFromTrust(ordinaryBuildings, trustBuildings) {
     if (!trustBuildings?.length) return ordinaryBuildings;
     const existingKeys = new Set(
-      (ordinaryBuildings || []).map((b) =>
-        `${normText(b.location)}|${Number(b.area || 0)}|${normText(b.share)}|${normText(b.owner)}`
-      )
+      (ordinaryBuildings || []).map(
+        (b) =>
+          `${normText(b.location)}|${Number(b.area || 0)}|${normText(b.share)}|${normText(b.owner)}`,
+      ),
     );
     const newItems = trustBuildings.filter(
       (b) =>
         !existingKeys.has(
-          `${normText(b.location)}|${Number(b.area || 0)}|${normText(b.share)}|${normText(b.owner)}`
-        )
+          `${normText(b.location)}|${Number(b.area || 0)}|${normText(b.share)}|${normText(b.owner)}`,
+        ),
     );
     return [...(ordinaryBuildings || []), ...newItems];
   }
@@ -780,63 +831,76 @@ async function main() {
   function mergeFundsFromTrust(ordinaryFunds, trustFunds) {
     if (!trustFunds?.items?.length) return ordinaryFunds;
     const existingKeys = new Set(
-      (ordinaryFunds?.items || []).map((f) =>
-        `${normText(f.name)}|${normText(f.owner)}|${normText(f.institution)}|${Number(f.units || 0)}|${Number(f.totalValue || 0)}`
-      )
+      (ordinaryFunds?.items || []).map(
+        (f) =>
+          `${normText(f.name)}|${normText(f.owner)}|${normText(f.institution)}|${Number(f.units || 0)}|${Number(f.totalValue || 0)}`,
+      ),
     );
     const newItems = trustFunds.items.filter(
       (f) =>
         !existingKeys.has(
-          `${normText(f.name)}|${normText(f.owner)}|${normText(f.institution)}|${Number(f.units || 0)}|${Number(f.totalValue || 0)}`
-        )
+          `${normText(f.name)}|${normText(f.owner)}|${normText(f.institution)}|${Number(f.units || 0)}|${Number(f.totalValue || 0)}`,
+        ),
     );
     return { items: [...(ordinaryFunds?.items || []), ...newItems] };
   }
 
   for (const dir of dirs) {
-    // Try ordinary first, fall back to correction
-    let srcDir = path.join(DATA_DIR, dir, "ordinary");
-    let files;
-    try {
-      files = (await readdir(srcDir)).filter((f) => f.endsWith(".extracted.json"));
-    } catch {
-      // No ordinary dir — try correction
-      srcDir = path.join(DATA_DIR, dir, "correction");
-      try {
-        files = (await readdir(srcDir)).filter((f) => f.endsWith(".extracted.json"));
-      } catch {
-        skipped++;
-        continue;
-      }
-    }
-    if (files.length === 0) {
+    const personDir = path.join(DATA_DIR, dir);
+    const filingDirEntries = await readdir(personDir, { withFileTypes: true });
+    const filingCodes = filingDirEntries
+      .filter((d) => d.isDirectory() && /^\d{2}$/.test(d.name))
+      .map((d) => d.name)
+      .sort((a, b) => a.localeCompare(b, "zh-TW"));
+
+    if (filingCodes.length === 0) {
       skipped++;
       continue;
     }
 
-    files.sort((a, b) => b.localeCompare(a, "zh-TW"));
-    const raw = JSON.parse(await readFile(path.join(srcDir, files[0]), "utf8"));
-    const dateISO = rocToISO(raw.date);
+    const filings = [];
+    for (const code of filingCodes) {
+      const filing = await loadFiling(dir, code);
+      if (filing) filings.push(filing);
+    }
+    // Exclude 09 (變動申報) entirely from consolidation.
+    const effectiveFilings = filings.filter((f) => String(f.code) !== "09");
+    if (effectiveFilings.length === 0) {
+      skipped++;
+      continue;
+    }
 
-    // Use directory name (e.g. "070-陳秀寳" → "陳秀寳") as canonical name,
-    // Plain name dirs (e.g. "謝國樑") are used directly
-    const canonicalName = dir.replace(/^\d+-/, "");
+    const primary = choosePrimaryFiling(effectiveFilings);
+    if (!primary) {
+      skipped++;
+      continue;
+    }
 
-    // Load trust data and merge if available
-    const trustRaw = await loadTrustData(dir);
-    let mergedStocks = raw.stocks;
-    let mergedDeposits = raw.deposits;
-    let mergedBuildings = raw.buildings;
-    let mergedFunds = raw.funds;
+    const canonicalName = dir;
+    const dateISO = rocToISO(primary.raw?.date || "") || null;
 
-    if (trustRaw) {
-      console.log(`Processing: ${canonicalName} (${dateISO}) [+trust]`);
-      mergedStocks = mergeStocksFromTrust(raw.stocks, trustRaw.stocks);
-      mergedDeposits = mergeDepositsFromTrust(raw.deposits, trustRaw.deposits);
-      mergedBuildings = mergeBuildingsFromTrust(raw.buildings, trustRaw.buildings);
-      mergedFunds = mergeFundsFromTrust(raw.funds, trustRaw.funds);
+    let mergedStocks = primary.raw.stocks;
+    let mergedDeposits = primary.raw.deposits;
+    let mergedBuildings = primary.raw.buildings;
+    let mergedFunds = primary.raw.funds;
+    let trustLands = [];
+
+    const trustFilings = effectiveFilings.filter((f) =>
+      String(f.metadata?.PublishType || "").includes("信託"),
+    );
+    if (trustFilings.length > 0) {
+      console.log(
+        `Processing: ${canonicalName} (${dateISO || "unknown"}) [+trust:${trustFilings.length}]`,
+      );
+      for (const trust of trustFilings) {
+        mergedStocks = mergeStocksFromTrust(mergedStocks, trust.raw?.stocks);
+        mergedDeposits = mergeDepositsFromTrust(mergedDeposits, trust.raw?.deposits);
+        mergedBuildings = mergeBuildingsFromTrust(mergedBuildings, trust.raw?.buildings);
+        mergedFunds = mergeFundsFromTrust(mergedFunds, trust.raw?.funds);
+        trustLands = mergeBuildingsFromTrust(trustLands, trust.raw?.land);
+      }
     } else {
-      console.log(`Processing: ${canonicalName} (${dateISO})`);
+      console.log(`Processing: ${canonicalName} (${dateISO || "unknown"})`);
     }
 
     const consolidated = {
@@ -847,32 +911,42 @@ async function main() {
       party: partyMap[canonicalName] || null,
       deposits: processDeposits(mergedDeposits),
       depositsTotal: mergedDeposits?.total || 0,
-      insurance: processInsurance(raw.insurance, canonicalName),
+      insurance: processInsurance(primary.raw?.insurance, canonicalName),
       stocks: [],
       bonds: [],
       fundCertificates: [],
-      buildings: processBuildings(mergedBuildings),
+      buildings: processBuildings([...(mergedBuildings || []), ...(trustLands || [])]),
     };
 
     const { regularStocks, bonds, fundCertificates } = splitStockLikeAssets(
       mergedStocks,
       mergedFunds,
-      canonicalName
+      canonicalName,
     );
 
     consolidated.bonds = bonds;
     consolidated.fundCertificates = fundCertificates;
     consolidated.stocks = skipStockPrices
-      ? regularStocks.map((s) => ({
+      ? regularStocks
+          .filter((s) => Number(s.shares || 0) > 0)
+          .map((s) => ({
             name: s.name,
             cleanName: cleanStockName(s.name),
-            ticker: resolveTickerInfo(cleanStockName(s.name), tickerMap)?.ticker || null,
+            ticker:
+              resolveTickerInfo(cleanStockName(s.name), tickerMap, tickerOverrides)?.ticker || null,
             shares: s.shares,
             owner: canonicalName,
             priceAtDisclosure: null,
             latestPrice: null,
           }))
-      : await processStocks({ items: regularStocks }, dateISO, tickerMap, priceCache, canonicalName);
+      : await processStocks(
+          { items: regularStocks },
+          dateISO,
+          tickerMap,
+          tickerOverrides,
+          priceCache,
+          canonicalName,
+        );
 
     // Track unmatched stocks
     for (const s of consolidated.stocks) {
@@ -889,16 +963,9 @@ async function main() {
       }
     }
 
-    const previous = byCanonical.get(canonicalName);
-    if (!previous || (dateISO && previous.dateISO && dateISO > previous.dateISO) || (dateISO && !previous.dateISO)) {
-      byCanonical.set(canonicalName, { dateISO, sourceDir: dir, consolidated });
-    }
+    const outFile = path.join(DATA_DIR, dir, "consolidated.json");
+    await writeFile(outFile, JSON.stringify(consolidated, null, 2));
     processed++;
-  }
-
-  for (const [name, entry] of byCanonical.entries()) {
-    const outFile = path.join(OUT_DIR, `${name}.json`);
-    await writeFile(outFile, JSON.stringify(entry.consolidated, null, 2));
   }
 
   // Save price cache
@@ -914,15 +981,15 @@ async function main() {
       people: info.people,
     }));
   await writeFile(
-    path.join(OUT_DIR, "_unmatched-stocks.json"),
+    path.join(DATA_DIR, "_unmatched-stocks.json"),
     JSON.stringify(unmatchedReport, null, 2),
   );
 
-  console.log(`\nDone: ${processed} processed, ${skipped} skipped (no ordinary filing), ${byCanonical.size} selected latest person files`);
+  console.log(`\nDone: ${processed} processed, ${skipped} skipped (no extracted filing)`);
   console.log(
     `Unmatched stocks: ${unmatchedReport.length} unique names (${unmatchedReport.reduce((s, r) => s + r.count, 0)} total entries)`,
   );
-  console.log(`Report saved to: data/consolidated/_unmatched-stocks.json`);
+  console.log(`Report saved to: data/_unmatched-stocks.json`);
 }
 
 main().catch(console.error);

@@ -1,0 +1,29 @@
+---
+import InfoPopover from './info-popover';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  subtitleClass?: string;
+  infoLabel?: string;
+  showInfo?: boolean;
+}
+
+const {
+  title,
+  subtitle = '',
+  subtitleClass = '',
+  infoLabel = '了解更多',
+  showInfo = true,
+} = Astro.props;
+---
+
+<section class="mb-[var(--section-gap)] border-b border-[var(--border-grid)] pb-5">
+  <h1 class="sr-only">{title}</h1>
+  {subtitle && <p class={`bp-body text-sm leading-[1.6] text-[var(--color-text-secondary)] ${subtitleClass}`}>{subtitle}</p>}
+  {showInfo && (
+    <InfoPopover client:load label={infoLabel} className="mt-2 inline-flex">
+      <slot />
+    </InfoPopover>
+  )}
+</section>

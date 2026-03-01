@@ -15,6 +15,7 @@ pnpm-debug.log*
 
 # downloaded data
 data/
+public/data/
 
 # environment variables
 .env
@@ -25,3 +26,6 @@ data/
 
 # jetbrains setting folder
 .idea/
+
+# local notes
+data-issues.md

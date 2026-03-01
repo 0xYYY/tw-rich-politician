@@ -1,5 +1,5 @@
 ---
-import { getPartyBgColor, getPartyColor, getPartyShortName, getPersonInfo } from '../lib/data';
+import { getPartyColor, getPersonInfo } from '../lib/data';
 
 interface Props {
   name: string;
@@ -13,11 +13,12 @@ if (!info) {
 }
 ---
 
-<span class="person-meta" title={`${info.party || party || '無黨籍'} · ${info.type === 'mayor' ? '縣市首長' : '立法委員'} · ${info.area}`}>
-  <span class="person-meta-top" style={`background:${getPartyBgColor(party)}`}>
-    <span class="person-meta-party">{getPartyShortName(party)}</span>
-    <span class="person-meta-type">{info.type === 'mayor' ? '🏙️' : '🏛️'}</span>
-    <span class="person-meta-area">{info.area}</span>
-  </span>
-  <span class="person-meta-name" style={`color:${getPartyColor(party)}`}>{name}</span>
+<span
+  class="person-meta person-meta-grid"
+  style={`--party-color:${getPartyColor(party)};`}
+  title={`${info.party || party || '無黨籍'} · ${info.type === 'mayor' ? '縣市首長' : '立法委員'} · ${info.area}`}
+>
+  <span class="person-meta-emoji">{info.type === 'mayor' ? '🏙️' : '🏛️'}</span>
+  <span class="person-meta-area">{info.area}</span>
+  <span class="person-meta-name">{name}</span>
 </span>

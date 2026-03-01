@@ -8,195 +8,318 @@ const legislatorCount = Object.values(peopleMap).filter(p => p.type === 'legisla
 const mayorCount = Object.values(peopleMap).filter(p => p.type === 'mayor').length;
 const totalBuildings = people.reduce((sum, p) => sum + p.buildings.length, 0);
 const totalStocks = people.reduce((sum, p) => sum + p.stocks.length, 0);
+const totalPeople = legislatorCount + mayorCount;
+const totalRecords = totalBuildings + totalStocks;
+const fmtInt = (value: number) => value.toLocaleString('en-US');
 ---
 
-<Layout title="政治人物財產公開 — 2025" showNav={false}>
-  <section class="hero">
-    <p class="hero-label">2025 監察院廉政專刊</p>
-    <h1>政治人物<br/>財產公開</h1>
-    <p class="hero-desc">{legislatorCount} 位立法委員、{mayorCount} 位縣市首長的財產申報資料，整理為可搜尋、可比較的格式</p>
-  </section>
+<Layout title="政治人物財產公開 — 2026" showNav={false} fullBleed={true} bodyClass="blueprint-theme page-accent-orange">
+  <div class="blueprint-page min-h-dvh">
+    <header class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-5 py-5 md:px-8">
+        <div class="bp-crosshair flex items-center gap-3 border border-[var(--border-grid)] px-3 py-2">
+          <span class="bp-mono text-[var(--text-muted)]">2026</span>
+          <span class="bp-heading text-sm font-semibold text-[var(--text-primary)]">監察院廉政專刊</span>
+        </div>
+        <nav class="bp-body hidden items-center gap-5 text-sm text-[var(--text-secondary)] md:flex">
+          <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/deposits">💰 存款排名</a>
+          <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/stocks">📈 股票持股</a>
+          <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/real-estate">🏠 不動產</a>
+          <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/download">📦 資料下載</a>
+        </nav>
+      </div>
+    </header>
 
-  <section class="cards">
-    <a class="card" href="/deposits">
-      <span class="card-icon">💰</span>
-      <div class="card-text">
-        <span class="card-title">存款排名</span>
-        <span class="card-desc">比較所有人的存款、債券、基金</span>
+    <section class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto grid w-full max-w-6xl gap-10 px-5 py-12 md:grid-cols-[1.2fr_0.8fr] md:px-8 md:py-16">
+        <div>
+          <p class="bp-mono mb-4 text-[var(--text-muted)]">2026 監察院廉政專刊</p>
+          <h1 class="bp-heading max-w-3xl text-4xl font-bold leading-[1.05] text-[var(--text-primary)] sm:text-5xl md:text-6xl">政治人物財產公開</h1>
+          <p class="bp-body mt-6 max-w-2xl text-[15px] text-[var(--text-secondary)]">{fmtInt(legislatorCount)} 位立法委員、{fmtInt(mayorCount)} 位縣市首長的財產申報資料，整理為可搜尋、可比較的格式。</p>
+          <p class="bp-body mt-2 max-w-2xl text-[13px] text-[var(--text-muted)]">實際財產申報內容請以監察院系統為準：<a class="text-[var(--text-secondary)] underline underline-offset-2 hover:text-[var(--text-primary)]" href="https://priso.cy.gov.tw/layout/baselist" target="_blank" rel="noopener noreferrer">https://priso.cy.gov.tw/layout/baselist</a></p>
+          <p class="bp-body mt-2 max-w-2xl text-[13px] text-[var(--text-secondary)]">資料主要來自 2025/2024 年度申報公開內容</p>
+          <div class="mt-8 flex flex-wrap items-center gap-4">
+            <a class="cta-primary bp-body relative inline-flex items-center gap-2 border px-6 py-3 text-sm font-semibold" href="/deposits">
+              <span>💰</span>
+              <span>查看存款排名</span>
+            </a>
+            <span class="bp-mono border border-[var(--border-grid)] px-3 py-2 text-[var(--text-muted)]">共 {fmtInt(totalPeople)} 人</span>
+          </div>
+        </div>
+        <div class="grid gap-3 self-start">
+          <div class="bp-crosshair border border-[var(--border-grid)] p-4">
+            <p class="bp-mono text-[var(--text-muted)]">立法委員</p>
+            <p class="bp-heading mt-3 text-3xl font-semibold text-[var(--text-primary)]">{fmtInt(legislatorCount)}</p>
+          </div>
+          <div class="bp-crosshair border border-[var(--border-grid)] p-4">
+            <p class="bp-mono text-[var(--text-muted)]">縣市首長</p>
+            <p class="bp-heading mt-3 text-3xl font-semibold text-[var(--text-primary)]">{fmtInt(mayorCount)}</p>
+          </div>
+          <div class="bp-crosshair border border-[var(--border-grid)] p-4">
+            <p class="bp-mono text-[var(--text-muted)]">建物 + 股票紀錄</p>
+            <p class="bp-heading mt-3 text-3xl font-semibold text-[var(--text-primary)]">{fmtInt(totalRecords)}</p>
+          </div>
+        </div>
       </div>
-      <svg class="card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
-    </a>
-    <a class="card" href="/stocks">
-      <span class="card-icon">📈</span>
-      <div class="card-text">
-        <span class="card-title">股票持股</span>
-        <span class="card-desc">查看 {totalStocks} 筆股票持股與損益</span>
-      </div>
-      <svg class="card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
-    </a>
-    <a class="card" href="/real-estate">
-      <span class="card-icon">🏠</span>
-      <div class="card-text">
-        <span class="card-title">不動產</span>
-        <span class="card-desc">瀏覽 {totalBuildings} 筆建物申報紀錄</span>
-      </div>
-      <svg class="card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
-    </a>
-    <a class="card" href="/download">
-      <span class="card-icon">📥</span>
-      <div class="card-text">
-        <span class="card-title">資料下載</span>
-        <span class="card-desc">取得原始 PDF 及結構化 JSON</span>
-      </div>
-      <svg class="card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
-    </a>
-  </section>
+    </section>
 
-  <section class="caveats">
-    <h2>資料說明與注意事項</h2>
-    <ul>
-      <li><strong>資料來源</strong>：所有資料來自監察院廉政專刊公開之財產申報資料，經 PDF 自動擷取轉為結構化格式。</li>
-      <li><strong>申報範圍</strong>：各頁統計均包含申報人、配偶與未成年子女資料。</li>
-      <li><strong>自動擷取的局限</strong>：PDF 解析、欄位擷取與整併可能出現誤差；請以監察院原始 PDF 為最終依據。</li>
-      <li><strong>申報時點</strong>：財產申報為特定時點之靜態資料，不代表目前持有狀況。</li>
-      <li><strong>股票估值</strong>：股票持股頁面之市值與損益假設自申報日起持有至今，僅供參考。</li>
-      <li><strong>信託財產</strong>：部分人員有信託申報，信託財產已盡可能合併但可能有重複或遺漏。</li>
-      <li><strong>非完整財產</strong>：申報範圍僅限法定項目（不動產、存款、有價證券等），不包含所有資產。</li>
-    </ul>
-  </section>
+    <section class="py-12 md:py-16">
+      <div class="mx-auto w-full max-w-6xl px-5 md:px-8">
+        <div class="mb-8 flex items-end justify-between border-b border-[var(--border-grid)] pb-4">
+          <div>
+            <h2 class="bp-heading text-2xl font-semibold text-[var(--text-primary)]">資料瀏覽入口</h2>
+          </div>
+          <p class="bp-body hidden text-sm text-[var(--text-secondary)] md:block">點擊卡片進入各主題</p>
+        </div>
 
-  <footer class="site-footer">
-    <p>資料來源：<a href="https://sunshine.cy.gov.tw" target="_blank" rel="noopener noreferrer">監察院陽光法令主題網</a></p>
-    <p>本站為公民科技專案，非官方網站</p>
-  </footer>
+        <div class="feature-grid grid gap-6 md:grid-cols-3">
+          <a class="feature-card bp-crosshair block border border-[var(--border-grid)] p-8 transition-[border-color,transform,box-shadow] hover:-translate-y-0.5 hover:border-[color:var(--accent-orange)] hover:shadow-[0_10px_24px_-16px_color-mix(in_srgb,var(--accent-orange)_70%,transparent)]" href="/deposits">
+            <div class="bp-graphic mb-7" data-accent="orange" role="img" aria-label="存款排名示意圖">
+              <span class="bp-graphic-icon">💰</span>
+            </div>
+            <h3 class="bp-heading text-xl font-semibold text-[var(--text-primary)]">存款排名</h3>
+            <p class="bp-body mt-3 text-sm text-[var(--text-secondary)]">比較所有人的存款、債券、基金。</p>
+            <span class="feature-link bp-mono mt-7 inline-flex text-[var(--text-secondary)] transition-colors">查看頁面</span>
+          </a>
+
+          <a class="feature-card bp-crosshair block border border-[var(--border-grid)] p-8 transition-[border-color,transform,box-shadow] hover:-translate-y-0.5 hover:border-[color:var(--accent-red)] hover:shadow-[0_10px_24px_-16px_color-mix(in_srgb,var(--accent-red)_70%,transparent)]" href="/stocks">
+            <div class="bp-graphic mb-7" data-accent="red" role="img" aria-label="股票持股示意圖">
+              <span class="bp-graphic-icon">📈</span>
+            </div>
+            <h3 class="bp-heading text-xl font-semibold text-[var(--text-primary)]">股票持股</h3>
+            <p class="bp-body mt-3 text-sm text-[var(--text-secondary)]">查看 {fmtInt(totalStocks)} 筆股票持股與損益。</p>
+            <span class="feature-link bp-mono mt-7 inline-flex text-[var(--text-secondary)] transition-colors">查看頁面</span>
+          </a>
+
+          <a class="feature-card bp-crosshair block border border-[var(--border-grid)] p-8 transition-[border-color,transform,box-shadow] hover:-translate-y-0.5 hover:border-[color:var(--accent-purple)] hover:shadow-[0_10px_24px_-16px_color-mix(in_srgb,var(--accent-purple)_70%,transparent)]" href="/real-estate">
+            <div class="bp-graphic mb-7" data-accent="purple" role="img" aria-label="不動產示意圖">
+              <span class="bp-graphic-icon">🏠</span>
+            </div>
+            <h3 class="bp-heading text-xl font-semibold text-[var(--text-primary)]">不動產</h3>
+            <p class="bp-body mt-3 text-sm text-[var(--text-secondary)]">瀏覽 {fmtInt(totalBuildings)} 筆建物申報紀錄。</p>
+            <span class="feature-link bp-mono mt-7 inline-flex text-[var(--text-secondary)] transition-colors">查看頁面</span>
+          </a>
+        </div>
+
+        <div class="connector-wrap relative mt-7 hidden h-24 md:block">
+          <div class="absolute left-[16.666%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-1/2 top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[83.333%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[16.666%] top-12 h-px w-[66.666%] bg-[var(--border-grid)]"></div>
+          <div class="absolute left-1/2 top-12 h-2 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute inset-x-0 top-14 flex justify-center">
+            <a class="download-node bp-crosshair border border-[var(--border-grid)] bg-[var(--bg-card)] px-4 py-2" href="/download">
+              <span class="bp-mono text-[var(--text-secondary)]">資料下載</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="mt-10 border-t border-[var(--border-grid)]"></div>
+
+        <section class="mt-8 grid gap-6 md:grid-cols-2 md:items-start">
+          <div class="border border-[var(--border-grid)] bg-[var(--bg-card)]/60">
+            <div class="border-b border-[var(--border-grid)] px-4 py-3">
+              <h2 class="bp-heading text-lg font-semibold text-[var(--text-primary)]">資料說明與注意事項</h2>
+            </div>
+            <div class="divide-y divide-[var(--border-grid)]">
+              <details class="group px-4 py-3" open>
+                <summary class="note-summary bp-body list-none text-sm text-[var(--text-primary)]">
+                  <span>資料來源與範圍</span>
+                  <span class="note-indicator">
+                    <span class="note-hint">點擊展開</span>
+                    <svg class="note-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                  </span>
+                </summary>
+                <ol class="bp-body mt-3 list-decimal space-y-2 pl-5 text-sm text-[var(--text-secondary)]">
+                  <li>資料來自監察院廉政專刊公開之財產申報，經 PDF 自動解析後結構化。</li>
+                  <li>統計範圍包含申報人、配偶與未成年子女。</li>
+                </ol>
+              </details>
+              <details class="group px-4 py-3">
+                <summary class="note-summary bp-body list-none text-sm text-[var(--text-primary)]">
+                  <span>自動解析限制</span>
+                  <span class="note-indicator">
+                    <span class="note-hint">點擊展開</span>
+                    <svg class="note-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                  </span>
+                </summary>
+                <ol class="bp-body mt-3 list-decimal space-y-2 pl-5 text-sm text-[var(--text-secondary)]">
+                  <li>PDF 解析、欄位解析與整併可能出現誤差。</li>
+                  <li>若資料有落差，請以監察院原始 PDF 為最終依據。</li>
+                </ol>
+              </details>
+              <details class="group px-4 py-3">
+                <summary class="note-summary bp-body list-none text-sm text-[var(--text-primary)]">
+                  <span>股票與信託說明</span>
+                  <span class="note-indicator">
+                    <span class="note-hint">點擊展開</span>
+                    <svg class="note-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                  </span>
+                </summary>
+                <ol class="bp-body mt-3 list-decimal space-y-2 pl-5 text-sm text-[var(--text-secondary)]">
+                  <li>股票市值與損益為估算值（報酬計算假設申報後持有至今），僅供參考。</li>
+                  <li>信託財產已盡可能合併，仍可能出現重複或遺漏。</li>
+                </ol>
+              </details>
+            </div>
+          </div>
+
+          <div class="self-start border border-[var(--border-grid)] bg-[var(--bg-card)]/60 p-4">
+            <h3 class="bp-heading text-lg font-semibold text-[var(--text-primary)]">人物標籤怎麼看</h3>
+            <div class="mt-4 flex flex-col gap-4 md:flex-row md:items-start">
+              <span class="person-meta person-meta-grid" style="--party-color:var(--color-dpp)">
+                <span class="person-meta-emoji">🏛️</span>
+                <span class="person-meta-area">臺中市</span>
+                <span class="person-meta-name">示例姓名</span>
+              </span>
+
+              <ol class="bp-body list-decimal space-y-2 pl-5 text-sm text-[var(--text-secondary)]">
+                <li><strong class="text-[var(--text-primary)]">顏色</strong>：代表政黨。
+                  <span class="ml-1 inline-flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-dpp);color:color-mix(in srgb, var(--color-dpp) 45%, black)">民進黨</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-kmt);color:color-mix(in srgb, var(--color-kmt) 45%, black)">國民黨</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-tpp);color:color-mix(in srgb, var(--color-tpp) 45%, black)">民眾黨</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-independent);color:color-mix(in srgb, var(--color-independent) 45%, black)">無黨籍</span>
+                  </span>
+                </li>
+                <li><strong class="text-[var(--text-primary)]">圖示</strong>：🏛️ 代表立法委員；🏙️ 代表縣市首長。</li>
+                <li><strong class="text-[var(--text-primary)]">上方文字</strong>：顯示選區或縣市名稱。</li>
+              </ol>
+            </div>
+          </div>
+        </section>
+
+        <footer class="mt-10 pb-6 text-center">
+          <p class="bp-body text-xs text-[var(--text-muted)]">資料來源：<a class="text-[var(--text-secondary)] underline underline-offset-2" href="https://sunshine.cy.gov.tw" target="_blank" rel="noopener noreferrer">監察院陽光法令主題網</a></p>
+          <p class="bp-body mt-1 text-xs text-[var(--text-muted)]">本站為公民科技專案，非官方網站</p>
+          <p class="bp-body mt-1 text-xs text-[var(--text-muted)]">聯絡開發者：<a class="text-[var(--text-secondary)] underline underline-offset-2" href="mailto:hi@haotong.com">hi@haotong.com</a></p>
+        </footer>
+      </div>
+    </section>
+  </div>
 </Layout>
 
 <style>
-  .hero {
-    padding: 20px 0 28px;
+  .cta-primary {
+    border-color: color-mix(in srgb, var(--page-accent, var(--accent-orange)) 70%, var(--border-grid));
+    background: linear-gradient(135deg, color-mix(in srgb, var(--page-accent, var(--accent-orange)) 20%, transparent), color-mix(in srgb, var(--accent-red) 12%, transparent));
+    color: var(--text-primary);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--page-accent, var(--accent-orange)) 45%, transparent);
+    transition: transform 0.16s ease, box-shadow 0.2s ease, background 0.2s ease;
   }
-  .hero-label {
-    font-size: 12px;
-    font-weight: 600;
+
+  .cta-primary:hover {
+    transform: translateY(-1px);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--page-accent, var(--accent-orange)) 28%, transparent), color-mix(in srgb, var(--accent-red) 18%, transparent));
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--page-accent, var(--accent-orange)) 65%, transparent);
+  }
+
+  .bp-graphic {
+    position: relative;
+    height: 130px;
+    border: 1px solid var(--border-grid);
+    background:
+      radial-gradient(circle at center, rgba(255, 255, 255, 0.09) 1px, transparent 1px) 0 0 / 10px 10px,
+      linear-gradient(160deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0)),
+      var(--bg-card);
+    overflow: hidden;
+  }
+
+  .bp-graphic-icon {
+    position: absolute;
+    left: 50px;
+    top: 54px;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    font-size: 30px;
+    line-height: 1;
+    filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.3));
+  }
+
+  .bp-graphic::before,
+  .bp-graphic::after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+  }
+
+  .bp-graphic::before {
+    width: 84px;
+    height: 84px;
+    right: 16px;
+    top: 22px;
+    transform: rotate(45deg);
+    border: 1px solid var(--border-grid);
+  }
+
+  .bp-graphic::after {
+    left: 18px;
+    top: 22px;
+    width: 64px;
+    height: 64px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    background: linear-gradient(var(--bg-base), var(--bg-base)) padding-box, linear-gradient(130deg, transparent, var(--accent-orange), transparent) border-box;
+  }
+
+  .bp-graphic[data-accent="red"]::after {
+    background: linear-gradient(var(--bg-base), var(--bg-base)) padding-box, linear-gradient(130deg, transparent, var(--color-loss), transparent) border-box;
+  }
+
+  .bp-graphic[data-accent="purple"]::after {
+    background: linear-gradient(var(--bg-base), var(--bg-base)) padding-box, linear-gradient(130deg, transparent, var(--accent-purple), transparent) border-box;
+  }
+
+  .bp-graphic[data-accent="orange"] {
+    box-shadow: inset 0 -40px 48px -48px color-mix(in srgb, var(--accent-orange) 60%, transparent);
+  }
+
+  .bp-graphic[data-accent="red"] {
+    box-shadow: inset 0 -40px 48px -48px color-mix(in srgb, var(--color-loss) 50%, transparent);
+  }
+
+  .bp-graphic[data-accent="purple"] {
+    box-shadow: inset 0 -40px 48px -48px color-mix(in srgb, var(--accent-purple) 60%, transparent);
+  }
+
+  .feature-card:hover .feature-link {
+    color: var(--text-primary);
+  }
+
+  .download-node {
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--color-text-muted) 45%, transparent);
+    transition: transform 0.16s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+  }
+
+  .download-node:hover {
+    transform: translateY(-1px);
+    border-color: color-mix(in srgb, var(--color-text-muted) 70%, var(--border-grid));
+    background: color-mix(in srgb, var(--color-text-muted) 10%, var(--bg-card));
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--color-text-muted) 70%, transparent);
+  }
+
+  .note-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+
+  .note-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--text-muted);
+    font-size: 11px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: var(--color-text-muted);
-    margin-bottom: 12px;
-  }
-  h1 {
-    font-size: 36px;
-    font-weight: 900;
-    letter-spacing: -0.03em;
-    line-height: 1.15;
-    margin-bottom: 14px;
-  }
-  .hero-desc {
-    font-size: 15px;
-    line-height: 1.6;
-    color: var(--color-text-secondary);
   }
 
-  .cards {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin-bottom: 32px;
-  }
-  .card {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    padding: 18px 16px;
-    background: var(--color-surface);
-    border-radius: 12px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-    transition: transform 0.15s, box-shadow 0.15s;
-  }
-  .card:active {
-    transform: scale(0.98);
-    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-  }
-  .card-icon {
-    font-size: 24px;
-    flex-shrink: 0;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: var(--color-bg);
-    border-radius: 10px;
-  }
-  .card-text {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 3px;
-  }
-  .card-title {
-    font-size: 16px;
-    font-weight: 700;
-  }
-  .card-desc {
-    font-size: 12px;
-    color: var(--color-text-muted);
-  }
-  .card-arrow {
-    color: var(--color-text-muted);
-    flex-shrink: 0;
+  .note-chevron {
+    transition: transform 0.18s ease;
   }
 
-  .caveats {
-    padding: 20px;
-    background: var(--color-surface);
-    border-radius: 12px;
-    margin-bottom: 32px;
-  }
-  .caveats h2 {
-    font-size: 15px;
-    font-weight: 700;
-    margin-bottom: 14px;
-  }
-  .caveats ul {
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-  }
-  .caveats li {
-    font-size: 13px;
-    line-height: 1.65;
-    color: var(--color-text-secondary);
-    padding-left: 14px;
-    position: relative;
-  }
-  .caveats li::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 7px;
-    width: 4px;
-    height: 4px;
-    border-radius: 50%;
-    background: var(--color-text-muted);
-  }
-  .caveats li strong {
-    color: var(--color-text);
-    font-weight: 600;
-  }
-
-  .site-footer {
-    padding: 20px 0 32px;
-    text-align: center;
-  }
-  .site-footer p {
-    font-size: 12px;
-    color: var(--color-text-muted);
-    line-height: 1.8;
-  }
-  .site-footer a {
-    color: var(--color-text-secondary);
-    text-decoration: underline;
-    text-underline-offset: 2px;
+  details[open] .note-chevron {
+    transform: rotate(180deg);
   }
 </style>

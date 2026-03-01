@@ -41,8 +41,10 @@ const progress = {
   startTime: Date.now(),
   update(status, filename, bytes = 0) {
     this.processed++;
-    if (status === "ok") { this.downloaded++; this.totalBytes += bytes; }
-    else if (status === "skip") this.skipped++;
+    if (status === "ok") {
+      this.downloaded++;
+      this.totalBytes += bytes;
+    } else if (status === "skip") this.skipped++;
     else if (status === "fail") this.failed++;
 
     const elapsed = (Date.now() - this.startTime) / 1000;
@@ -56,19 +58,20 @@ const progress = {
       eta = `ETA: ${formatTime(remaining)}  `;
     }
 
-    const pct = this.totalExpected > 0
-      ? `${Math.round((this.processed / this.totalExpected) * 100)}%`
-      : "?%";
+    const pct =
+      this.totalExpected > 0 ? `${Math.round((this.processed / this.totalExpected) * 100)}%` : "?%";
 
     process.stdout.write(
       `\r[${formatTime(elapsed)}] ${pct} ${tag} ${filename.padEnd(45)} | ` +
-      `DL: ${this.downloaded}  Skip: ${this.skipped}  Fail: ${this.failed}  ${eta}(${mb} MB)  `
+        `DL: ${this.downloaded}  Skip: ${this.skipped}  Fail: ${this.failed}  ${eta}(${mb} MB)  `,
     );
   },
   summary() {
     const elapsed = (Date.now() - this.startTime) / 1000;
     const mb = (this.totalBytes / 1024 / 1024).toFixed(1);
-    console.log(`\n\nDone in ${formatTime(elapsed)} — ${this.downloaded} downloaded, ${this.skipped} skipped, ${this.failed} failed (${mb} MB total)`);
+    console.log(
+      `\n\nDone in ${formatTime(elapsed)} — ${this.downloaded} downloaded, ${this.skipped} skipped, ${this.failed} failed (${mb} MB total)`,
+    );
   },
 };
 
@@ -87,25 +90,17 @@ async function queryPage(pageNo, searchValue) {
   return json.Data;
 }
 
-function getSubdir(publishType) {
-  if (publishType.includes("更補正")) return "correction";
-  if (publishType.includes("變動")) return "change";
-  if (publishType.includes("信託")) return "trust";
-  return "ordinary";
-}
-
 function publishTypeKey(publishType) {
   const m = String(publishType || "").match(/^(\d{2})/);
-  return m ? m[1] : String(publishType || "").trim();
+  return m ? m[1] : "00";
 }
 
 async function downloadRecord(record) {
-  const subdir = getSubdir(record.PublishType);
-  const dir = path.join(OUTPUT_DIR, record.Name, subdir);
-  const filename = `${record.Period}-${record.PublishType}`;
-  const pdfPath = path.join(dir, `${filename}.pdf`);
-  const jsonPath = path.join(dir, `${filename}.json`);
-  const label = `${record.Name}/${subdir}/${filename}`;
+  const disclosureCode = publishTypeKey(record.PublishType);
+  const dir = path.join(OUTPUT_DIR, record.Name, disclosureCode);
+  const pdfPath = path.join(dir, "original.pdf");
+  const jsonPath = path.join(dir, "metadata.json");
+  const label = `${record.Name}/${disclosureCode}/${record.Period}-${record.PublishType}`;
 
   await mkdir(dir, { recursive: true });
 
@@ -142,7 +137,7 @@ function filterAndCheck(records) {
   const matching = [];
   let seenOlder = false;
   for (const r of records) {
-    if (YEAR_PREFIXES.some(p => r.PublishDate.startsWith(p))) {
+    if (YEAR_PREFIXES.some((p) => r.PublishDate.startsWith(p))) {
       matching.push(r);
     } else {
       seenOlder = true;
@@ -179,8 +174,8 @@ async function collectAllRecords(searchValue, titleFilter, allowedNames) {
     const result = await queryPage(page, searchValue);
     let pageRecords = result.Data;
 
-    if (titleFilter) pageRecords = pageRecords.filter(r => titleFilter(r));
-    if (allowedNames) pageRecords = pageRecords.filter(r => allowedNames.has(r.Name));
+    if (titleFilter) pageRecords = pageRecords.filter((r) => titleFilter(r));
+    if (allowedNames) pageRecords = pageRecords.filter((r) => allowedNames.has(r.Name));
 
     const { matching, seenOlder } = filterAndCheck(pageRecords);
     allRecords.push(...matching);
@@ -200,7 +195,10 @@ async function downloadAll(records) {
         const record = records[idx++];
         active++;
         downloadRecord(record)
-          .then(() => { active--; next(); })
+          .then(() => {
+            active--;
+            next();
+          })
           .catch(reject);
       }
       if (active === 0 && idx >= records.length) resolve();
@@ -234,11 +232,7 @@ async function main() {
 
   // Fetch mayors (市長 only, not 副市長)
   console.log(`Fetching 市長 records for ${YEAR_PREFIXES.join(" + ")}...`);
-  const mayorRecords = await collectAllRecords(
-    "市長",
-    (r) => r.Title === "市長",
-    mayorNames,
-  );
+  const mayorRecords = await collectAllRecords("市長", (r) => r.Title === "市長", mayorNames);
   console.log(`  Found ${mayorRecords.length} raw mayor records (filtered out 副市長)`);
 
   // Combine and dedup
@@ -246,7 +240,9 @@ async function main() {
   const records = dedup(allRaw);
   const dropped = allRaw.length - records.length;
   progress.totalExpected = records.length;
-  console.log(`\nTotal: ${allRaw.length} raw → ${records.length} after dedup (dropped ${dropped} older duplicates)\n`);
+  console.log(
+    `\nTotal: ${allRaw.length} raw → ${records.length} after dedup (dropped ${dropped} older duplicates)\n`,
+  );
 
   if (records.length > 0) await downloadAll(records);
 

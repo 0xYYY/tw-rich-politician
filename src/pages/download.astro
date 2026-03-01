@@ -1,10 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getAllPeople, getPeopleMap } from '../lib/data';
-import { existsSync, readdirSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import PersonMeta from '../components/PersonMeta.astro';
-import InfoPopover from '../components/InfoPopover.astro';
+import PageHeader from '../components/ui/PageHeader.astro';
+import SegmentedToggle from '../components/ui/SegmentedToggle.astro';
+import SearchBar from '../components/ui/SearchBar.astro';
 
 const allPeople = getAllPeople();
 const peopleMap = getPeopleMap();
@@ -13,13 +15,13 @@ const personByName = new Map(allPeople.map(l => [l.name, l]));
 type DownloadMember = {
   name: string;
   party: string | null;
+  area: string | null;
   date: string | null;
   hasData: boolean;
-  defaultOrdinaryPdf: string | null;
-  defaultOrdinaryJson: string | null;
   consolidatedJson: string | null;
   filings: {
     label: string;
+    publishDate: string | null;
     pdf: string | null;
     json: string | null;
   }[];
@@ -31,89 +33,78 @@ function safeReaddir(dir: string) {
   return existsSync(dir) ? readdirSync(dir) : [];
 }
 
-const consolidatedFiles = safeReaddir(path.join(DATA_ROOT, 'consolidated'))
-  .filter(f => f.endsWith('.json'))
-  .sort((a, b) => a.localeCompare(b, 'zh-TW'));
-const consolidatedByName = new Map<string, { path: string; isPrefixed: boolean }>();
-for (const f of consolidatedFiles) {
-  const name = f.replace(/^\d+-/, '').replace(/\.json$/, '');
-  const isPrefixed = /^\d+-/.test(f);
-  const prev = consolidatedByName.get(name);
-  if (!prev || (prev.isPrefixed && !isPrefixed)) {
-    consolidatedByName.set(name, { path: `/data/consolidated/${f}`, isPrefixed });
-  }
-}
-
 const SKIP_DIRS = new Set(['consolidated', '.tmp-extract']);
 const memberDirs = (existsSync(DATA_ROOT) ? readdirSync(DATA_ROOT, { withFileTypes: true }) : [])
   .filter(d => d.isDirectory() && !d.name.startsWith('.') && !d.name.startsWith('_') && !SKIP_DIRS.has(d.name))
   .map(d => d.name);
 const dirByName = new Map<string, string>();
 for (const dirName of memberDirs) {
-  const name = dirName.replace(/^\d+-/, '');
+  const name = dirName;
   dirByName.set(name, dirName);
 }
 
-const sectionLabel: Record<string, string> = {
-  ordinary: '一般',
-  change: '變動',
-  trust: '信託',
-  correction: '更補正',
-};
+const consolidatedByName = new Map<string, string>();
+for (const dirName of memberDirs) {
+  const consolidatedFsPath = path.join(DATA_ROOT, dirName, 'consolidated.json');
+  if (!existsSync(consolidatedFsPath)) continue;
+  consolidatedByName.set(dirName, `/data/${dirName}/consolidated.json`);
+}
 
-function parseFilingLabel(base: string, section: string): string {
-  const m = base.match(/^\d+-\d+(.+)$/);
-  const suffix = (m?.[1] || '').trim();
-  if (suffix) return suffix;
-  return sectionLabel[section] || section;
+function getPublishDateFromRawJson(filePath: string | null): string | null {
+  if (!filePath || !existsSync(filePath)) return null;
+  try {
+    const raw = JSON.parse(readFileSync(filePath, 'utf-8'));
+    const date = raw?.PublishDate;
+    return typeof date === 'string' && date.trim() ? date.trim() : null;
+  } catch {
+    return null;
+  }
 }
 
 function buildFilings(name: string) {
   const dir = dirByName.get(name);
-  if (!dir) return { filings: [], defaultOrdinaryPdf: null as string | null, defaultOrdinaryJson: null as string | null };
+  if (!dir) return { filings: [] as { label: string; publishDate: string | null; pdf: string | null; json: string | null }[] };
 
   const personRoot = path.join(DATA_ROOT, dir);
-  const sections = (existsSync(personRoot) ? readdirSync(personRoot, { withFileTypes: true }) : []).filter(d => d.isDirectory());
-  const filings: { section: string; label: string; base: string; pdf: string | null; json: string | null }[] = [];
+  const filingDirs = (existsSync(personRoot) ? readdirSync(personRoot, { withFileTypes: true }) : [])
+    .filter(d => d.isDirectory() && /^\d{2}$/.test(d.name));
+  const filings: { code: string; periodNum: number; label: string; publishDate: string | null; pdf: string | null; json: string | null }[] = [];
 
-  for (const s of sections) {
-    const section = s.name;
-    const files = safeReaddir(path.join(personRoot, section));
-    const baseMap = new Map<string, { pdf: string | null; extractedJson: string | null; rawJson: string | null }>();
-    for (const file of files) {
-      const isPdf = file.endsWith('.pdf');
-      const isExtractedJson = file.endsWith('.extracted.json');
-      const isRawJson = file.endsWith('.json') && !isExtractedJson;
-      if (!isPdf && !isExtractedJson && !isRawJson) continue;
+  for (const fd of filingDirs) {
+    const code = fd.name;
+    const filingRoot = path.join(personRoot, code);
+    const metadataFsPath = path.join(filingRoot, 'metadata.json');
+    const originalFsPath = path.join(filingRoot, 'original.pdf');
+    const extractedFsPath = path.join(filingRoot, 'extracted.json');
 
-      const base = isExtractedJson ? file.slice(0, -'.extracted.json'.length) : file.replace(/\.(pdf|json)$/, '');
-      if (!baseMap.has(base)) baseMap.set(base, { pdf: null, extractedJson: null, rawJson: null });
-      const entry = baseMap.get(base)!;
-      const rel = `/data/${dir}/${section}/${file}`;
-      if (isPdf) entry.pdf = rel;
-      if (isExtractedJson) entry.extractedJson = rel;
-      if (isRawJson) entry.rawJson = rel;
+    let periodNum = 0;
+    let publishDate: string | null = null;
+    let publishType = '';
+    if (existsSync(metadataFsPath)) {
+      try {
+        const meta = JSON.parse(readFileSync(metadataFsPath, 'utf-8'));
+        publishDate = typeof meta?.PublishDate === 'string' ? meta.PublishDate : null;
+        publishType = typeof meta?.PublishType === 'string' ? meta.PublishType.trim() : '';
+        periodNum = Number(String(meta?.Period || '').replace(/[^\d]/g, '')) || 0;
+      } catch {
+        // ignore malformed metadata
+      }
     }
-    for (const [base, entry] of baseMap.entries()) {
-      filings.push({
-        section,
-        base,
-        label: parseFilingLabel(base, section),
-        pdf: entry.pdf,
-        json: entry.extractedJson || entry.rawJson,
-      });
-    }
+
+    filings.push({
+      code,
+      periodNum,
+      label: publishType || code,
+      publishDate: publishDate || getPublishDateFromRawJson(metadataFsPath),
+      pdf: existsSync(originalFsPath) ? `/data/${dir}/${code}/original.pdf` : null,
+      json: existsSync(extractedFsPath) ? `/data/${dir}/${code}/extracted.json` : null,
+    });
   }
 
-  filings.sort((a, b) => b.base.localeCompare(a.base, 'zh-TW'));
-
-  const ordinary = filings.filter(f => f.section === 'ordinary');
-  const defaultOrdinary = ordinary[0] || null;
+  filings.sort((a, b) => b.periodNum - a.periodNum || b.code.localeCompare(a.code, 'zh-TW'));
 
   return {
-    filings: filings.map(f => ({ label: f.label, pdf: f.pdf, json: f.json })),
-    defaultOrdinaryPdf: defaultOrdinary?.pdf || null,
-    defaultOrdinaryJson: defaultOrdinary?.json || null,
+    filings: filings.map(f => ({ label: f.label, publishDate: f.publishDate, pdf: f.pdf, json: f.json })),
   };
 }
 
@@ -126,11 +117,10 @@ const members: DownloadMemberWithType[] = Object.entries(peopleMap).map(([name, 
     name,
     type: info.type,
     party: l?.party || info.party || null,
+    area: info.area || null,
     date: l?.date || null,
     hasData: !!l,
-    defaultOrdinaryPdf: filingInfo.defaultOrdinaryPdf,
-    defaultOrdinaryJson: filingInfo.defaultOrdinaryJson,
-    consolidatedJson: consolidatedByName.get(name)?.path || null,
+    consolidatedJson: consolidatedByName.get(name) || null,
     filings: filingInfo.filings,
   };
 });
@@ -165,9 +155,9 @@ function buildTypeSection(label: string, typeMembers: DownloadMemberWithType[]):
 const legislatorMembers = members.filter(m => m.type === 'legislator');
 const mayorMembers = members.filter(m => m.type === 'mayor');
 
-const typeSections: TypeSection[] = [];
-if (legislatorMembers.length > 0) typeSections.push(buildTypeSection('立法委員', legislatorMembers));
-if (mayorMembers.length > 0) typeSections.push(buildTypeSection('縣市首長', mayorMembers));
+const typeSections: Array<{ key: 'legislator' | 'mayor'; section: TypeSection }> = [];
+if (legislatorMembers.length > 0) typeSections.push({ key: 'legislator', section: buildTypeSection('立法委員', legislatorMembers) });
+if (mayorMembers.length > 0) typeSections.push({ key: 'mayor', section: buildTypeSection('縣市首長', mayorMembers) });
 
 const partyColors: Record<string, string> = {
   '民主進步黨': 'var(--color-dpp)',
@@ -177,200 +167,137 @@ const partyColors: Record<string, string> = {
 };
 ---
 
-<Layout title="📥 資料下載">
-  <section class="header">
-    <div class="page-headline">
-      <h1>📦 資料下載</h1>
-      <InfoPopover>
-        <p>此頁提供原始 PDF、擷取後 JSON 與整合 JSON；若有衝突，以監察院原始 PDF 為準。</p>
-        <p>名單依人物類型（立法委員／縣市首長）與政黨分組。</p>
-      </InfoPopover>
-    </div>
-    <p class="subtitle">下載財產申報 PDF 原檔及結構化 JSON</p>
-  </section>
+<Layout title="📥 資料下載" fullBleed={true} bodyClass="blueprint-theme page-accent-gray">
+  <div class="blueprint-page min-h-dvh">
+    <section class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto w-full max-w-6xl px-5 pb-10 pt-6 md:px-8 md:pb-12 md:pt-8">
+        <PageHeader title="📦 資料下載" subtitle="下載財產申報 PDF 原檔及結構化 JSON">
+          <p>此頁提供原始 PDF、解析後 JSON 與整合 JSON；若有衝突，以監察院原始 PDF 為準。</p>
+          <p>名單依人物類型（立法委員／縣市首長）與政黨分組。</p>
+        </PageHeader>
 
-  <div class="search-box">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-    <input type="text" id="search-input" placeholder="搜尋姓名..." />
-  </div>
+        <div class="mb-5">
+          <a class="dl-btn inline-flex items-center gap-1.5 px-3.5 py-2 text-[13px] font-semibold" href="/data/people-mapping.json" target="_blank" rel="noopener noreferrer">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            政治人物資訊表 JSON
+          </a>
+        </div>
 
-  <div class="bulk-download">
-    <a class="dl-btn bulk-btn" href="/data/people-mapping.json" target="_blank" rel="noopener noreferrer">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-      人物對照表 JSON
-    </a>
-  </div>
+        <div class="mb-2 flex flex-wrap items-center gap-3">
+          <SegmentedToggle
+            id="type-toggle"
+            className="w-[220px] max-w-full"
+            equalWidth={true}
+            variant="view"
+            active={typeSections[0]?.key || 'legislator'}
+            dataKey="type"
+            items={typeSections.map((entry) => ({
+              value: entry.key,
+              label: entry.section.label,
+              emoji: entry.key === 'legislator' ? '🏛️' : '🏙️',
+            }))}
+          />
+        </div>
 
-  <div id="party-list">
-    {typeSections.map(section => (
-      <div class="type-section">
-        <h2 class="type-header">{section.label}</h2>
-        {[...section.partyGroups.entries()].map(([party, partyMembers]) => (
-          <div class="party-section" data-party={party}>
-            <div class="party-header" data-collapsible>
-              <div class="party-indicator" style={`background: ${partyColors[party] || 'var(--color-independent)'};`}></div>
-              <span class="party-name" style={`color: ${partyColors[party] || 'var(--color-independent)'};`}>{party}</span>
-              <span class="party-count">{partyMembers.length} 人</span>
-              <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-            </div>
-            <div class="party-members">
-              {partyMembers.map(l => (
-                <div class="member-row" data-name={l.name}>
-                  <div class="member-info">
-                    <div class="member-details">
-                      <PersonMeta name={l.name} party={l.party} />
-                    </div>
-                    {l.date ? <span class="member-date">{`申報日 ${l.date.replace(/-/g, '/')}`}</span> : null}
+        <div class="mb-5 flex gap-3">
+          <SearchBar inputId="search-input" clearId="search-clear" inputClass="text-sm" placeholder="搜尋姓名或選區/縣市..." />
+        </div>
+
+        <div id="party-list">
+          {typeSections.map((entry, i) => (
+            <section id={`${entry.key}-panel`} class={`download-panel ${i === 0 ? 'active' : ''}`}>
+              <div class="mb-2">
+                {[...entry.section.partyGroups.entries()].map(([party, partyMembers]) => (
+                  <div class="party-section" data-party={party}>
+                  <div class="flex cursor-pointer items-center gap-2 py-2.5" data-collapsible>
+                    <div class="h-4 w-1 shrink-0 rounded-none" style={`background: ${partyColors[party] || 'var(--color-independent)'};`}></div>
+                    <span class="flex-1 text-[15px] font-bold" style={`color: ${partyColors[party] || 'var(--color-independent)'};`}>{party}</span>
+                    <span class="text-[13px] text-[var(--color-text-muted)]">{partyMembers.length.toLocaleString('en-US')} 人</span>
+                    <svg class="chevron text-[var(--color-text-muted)] transition-transform duration-200" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
                   </div>
-                  <div class="member-actions">
-                    {l.defaultOrdinaryPdf ? (
-                      <a class="dl-btn icon-btn" href={l.defaultOrdinaryPdf} target="_blank" rel="noopener noreferrer" aria-label="下載一般 PDF">PDF</a>
-                    ) : (
-                      <span class="dl-btn icon-btn disabled" aria-disabled="true">PDF</span>
-                    )}
-                    {l.defaultOrdinaryJson ? (
-                      <a class="dl-btn icon-btn" href={l.defaultOrdinaryJson} target="_blank" rel="noopener noreferrer" aria-label="下載一般 JSON">{'{ }'}</a>
-                    ) : (
-                      <span class="dl-btn icon-btn disabled" aria-disabled="true">{'{ }'}</span>
-                    )}
-                    <button class="dl-btn more-btn" data-expand-more>更多</button>
-                  </div>
-                </div>
-                <div class="member-more">
-                  {l.filings.map(f => (
-                    <div class="filing-row">
-                      <span class="filing-label">{f.label}</span>
-                      <div class="filing-actions">
-                        {f.pdf ? (
-                          <a class="dl-btn icon-btn small" href={f.pdf} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} PDF`}>PDF</a>
-                        ) : (
-                          <span class="dl-btn icon-btn small disabled" aria-disabled="true">PDF</span>
-                        )}
-                        {f.json ? (
-                          <a class="dl-btn icon-btn small" href={f.json} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} JSON`}>{'{ }'}</a>
-                        ) : (
-                          <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
-                        )}
+                  <div class="party-members">
+                    {partyMembers.map(l => (
+                      <div class="bp-crosshair member-card stock-card" data-name={l.name} data-area={l.area || ''}>
+                        <div class="member-row flex items-center py-3.5">
+                          <div class="flex flex-1 items-center justify-between gap-2 min-w-0">
+                            <div class="min-w-0 flex-1">
+                              <PersonMeta name={l.name} party={l.party} />
+                            </div>
+                          </div>
+                          <div class="ml-2 flex items-center gap-2">
+                            {l.consolidatedJson ? (
+                              <a class="dl-btn file-btn px-2.5 py-[5px] text-xs" href={l.consolidatedJson} target="_blank" rel="noopener noreferrer" aria-label="下載 JSON">
+                                <svg class="dl-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                                <span>JSON</span>
+                              </a>
+                            ) : (
+                              <span class="dl-btn file-btn px-2.5 py-[5px] text-xs disabled" aria-disabled="true">
+                                <svg class="dl-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                                <span>JSON</span>
+                              </span>
+                            )}
+                            <button class="more-toggle px-2.5 py-[5px] text-xs" data-expand-more>
+                              <span>更多</span>
+                              <svg class="more-chevron transition-transform duration-200" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                            </button>
+                          </div>
+                        </div>
+                        <div class="member-more">
+                          {l.filings.map(f => (
+                            <div class="filing-row">
+                              <div class="min-w-0">
+                                <span class="block text-xs text-[var(--color-text-secondary)]">{f.label}</span>
+                                <span class="block text-[11px] text-[var(--color-text-muted)]">
+                                  申報日 {(f.publishDate || (l.date ? l.date.replace(/-/g, '/') : null) || '—')}
+                                </span>
+                              </div>
+                              <div class="flex gap-1.5">
+                                {f.pdf ? (
+                                  <a class="dl-btn file-btn px-2 py-[4px] text-xs" href={f.pdf} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} PDF`}>
+                                    <svg class="dl-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                                    <span>PDF</span>
+                                  </a>
+                                ) : (
+                                  <span class="dl-btn file-btn px-2 py-[4px] text-xs disabled" aria-disabled="true">
+                                    <svg class="dl-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                                    <span>PDF</span>
+                                  </span>
+                                )}
+                                {f.json ? (
+                                  <a class="dl-btn file-btn px-2 py-[4px] text-xs" href={f.json} target="_blank" rel="noopener noreferrer" aria-label={`下載 ${f.label} JSON`}>
+                                    <svg class="dl-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                                    <span>JSON</span>
+                                  </a>
+                                ) : (
+                                  <span class="dl-btn file-btn px-2 py-[4px] text-xs disabled" aria-disabled="true">
+                                    <svg class="dl-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                                    <span>JSON</span>
+                                  </span>
+                                )}
+                              </div>
+                            </div>
+                          ))}
+                        </div>
                       </div>
-                    </div>
-                  ))}
-                  <div class="filing-row consolidated-row">
-                    <span class="filing-label">整合資料</span>
-                    <div class="filing-actions">
-                      {l.consolidatedJson ? (
-                        <a class="dl-btn icon-btn small" href={l.consolidatedJson} target="_blank" rel="noopener noreferrer" aria-label="下載整合 JSON">{'{ }'}</a>
-                      ) : (
-                        <span class="dl-btn icon-btn small disabled" aria-disabled="true">{'{ }'}</span>
-                      )}
-                    </div>
+                    ))}
                   </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        ))}
+                  </div>
+                ))}
+              </div>
+            </section>
+          ))}
+        </div>
       </div>
-    ))}
+    </section>
   </div>
 </Layout>
 
 <style>
-  .header { margin-bottom: var(--section-gap); }
-  h1 { font-size: 26px; font-weight: 900; letter-spacing: -0.02em; }
-  .subtitle { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
-
-  .search-box {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 12px 16px;
-    border: 1px solid var(--color-border);
-    border-radius: 10px;
-    margin-bottom: 20px;
-    background: var(--color-surface);
-  }
-  .search-box input {
-    flex: 1;
-    font-size: 14px;
-    color: var(--color-text);
-  }
-  .search-box input::placeholder { color: var(--color-text-muted); }
-
-  .bulk-download {
-    margin-bottom: 20px;
-  }
-  .bulk-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 8px 14px;
-    font-size: 13px;
-    font-weight: 600;
-  }
-
-  .type-section {
-    margin-bottom: 8px;
-  }
-  .type-header {
-    font-size: 18px;
-    font-weight: 800;
-    letter-spacing: -0.01em;
-    padding: 12px 0 4px;
-    border-bottom: 2px solid var(--color-text);
-    margin-bottom: 8px;
-  }
-
-  #party-list {
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-  }
-
-  .party-header {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 10px 0;
-    cursor: pointer;
-  }
-  .party-indicator { width: 4px; height: 16px; border-radius: 2px; flex-shrink: 0; }
-  .party-name { font-size: 15px; font-weight: 700; flex: 1; }
-  .party-count { font-size: 13px; color: var(--color-text-muted); }
-  .chevron { color: var(--color-text-muted); transition: transform 0.2s; }
-  .party-section.collapsed .chevron { transform: rotate(-90deg); }
-  .party-section.collapsed .party-members { display: none; }
-
-  .member-row {
-    display: flex;
-    align-items: flex-start;
-    padding: 14px 0;
-    border-bottom: 1px solid var(--color-border-light);
-  }
-  .member-row:last-child { border-bottom: none; }
-
-  .member-info {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 8px;
-    flex: 1;
-    min-width: 0;
-  }
-  .member-details { min-width: 0; flex: 1; }
-  .member-details :global(.person-meta) { max-width: 180px; }
-  .member-date {
-    font-size: 11px;
-    color: var(--color-text-muted);
-    white-space: nowrap;
-    flex-shrink: 0;
-    padding-top: 2px;
-  }
-
-  .member-actions { display: flex; gap: 8px; }
+  /* Shared button atoms */
   .dl-btn {
     padding: 5px 12px;
     border: 1px solid var(--color-border);
-    border-radius: 6px;
+    border-radius: 0;
     font-size: 12px;
     font-weight: 500;
     color: var(--color-text);
@@ -378,59 +305,116 @@ const partyColors: Record<string, string> = {
     transition: background 0.15s;
   }
   .dl-btn:hover { background: var(--color-bg); }
-
-  .member-row.hidden { display: none; }
-
-  .icon-btn {
-    width: 34px;
-    height: 28px;
+  .dl-btn.disabled { opacity: 0.35; pointer-events: none; }
+  .file-btn {
     display: inline-flex;
     align-items: center;
-    justify-content: center;
-    font-size: 12px;
-    font-family: var(--font-mono);
-    padding: 0;
+    gap: 6px;
   }
-  .icon-btn.small { width: 30px; height: 24px; font-size: 11px; }
-  .dl-btn.disabled { opacity: 0.35; pointer-events: none; }
-  .more-btn { padding: 5px 10px; }
+  .dl-icon {
+    flex-shrink: 0;
+    opacity: 0.85;
+  }
+  .download-panel { display: none; }
+  .download-panel.active { display: block; }
 
+  /* JS-toggled state classes */
+  .member-card {
+    overflow: hidden;
+  }
+  .party-members {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .member-row {
+    padding: 12px 14px;
+  }
+  .member-card.hidden { display: none; }
+  .more-toggle {
+    border: 1px dashed color-mix(in srgb, var(--page-accent, var(--accent-blue)) 55%, var(--color-border));
+    background: color-mix(in srgb, var(--page-accent, var(--accent-blue)) 10%, transparent);
+    color: var(--color-text-secondary);
+    font-family: var(--font-mono);
+    letter-spacing: 0.05em;
+    border-radius: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    transition: all 0.15s;
+  }
+  .more-toggle:hover {
+    background: color-mix(in srgb, var(--page-accent, var(--accent-blue)) 16%, transparent);
+    color: var(--color-text);
+  }
+  .member-card.expanded .more-chevron { transform: rotate(180deg); }
   .member-more {
     display: none;
-    margin: 0 0 10px 24px;
-    padding: 8px 10px;
-    border: 1px solid var(--color-border-light);
-    border-radius: 8px;
-    background: #fafafa;
+    margin: 0;
+    padding: 0 12px 10px 14px;
+    background: rgba(26, 26, 28, 0.36);
+    border-top: 1px solid var(--color-border-light);
   }
-  .member-row.expanded + .member-more { display: block; }
+  .member-card.expanded .member-more { display: block; }
   .filing-row {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 10px;
-    padding: 6px 0;
+    padding: 8px 0;
     border-bottom: 1px solid var(--color-border-light);
   }
   .filing-row:last-child { border-bottom: none; }
-  .filing-label { font-size: 12px; color: var(--color-text-secondary); }
-  .filing-actions { display: flex; gap: 6px; }
-  .consolidated-row .filing-label { font-weight: 700; color: var(--color-text); }
+  .party-section.collapsed .chevron { transform: rotate(-90deg); }
+  .party-section.collapsed .party-members { display: none; }
 </style>
 
 <script>
+  // Type toggle
+  const typeToggle = document.getElementById('type-toggle');
+  const panels = Array.from(document.querySelectorAll('.download-panel'));
+  if (typeToggle) {
+    typeToggle.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.toggle-btn') as HTMLButtonElement | null;
+      if (!btn) return;
+      const nextType = btn.getAttribute('data-type');
+      if (!nextType) return;
+
+      typeToggle.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      panels.forEach(panel => {
+        panel.classList.toggle('active', panel.id === `${nextType}-panel`);
+      });
+    });
+  }
+
   // Search
   const searchInput = document.getElementById('search-input') as HTMLInputElement;
-  const rows = document.querySelectorAll('.member-row');
+  const searchClear = document.getElementById('search-clear') as HTMLButtonElement | null;
+  const cards = document.querySelectorAll('.member-card');
 
-  searchInput.addEventListener('input', () => {
-    const query = searchInput.value.trim();
-    rows.forEach(row => {
-      const name = row.getAttribute('data-name') || '';
-      const hidden = query !== '' && !name.includes(query);
-      row.classList.toggle('hidden', hidden);
-      if (hidden) row.classList.remove('expanded');
+  function normalizeSearchText(value: string) {
+    return value.toLowerCase().replace(/台/g, '臺');
+  }
+
+  function applySearchFilter() {
+    const query = normalizeSearchText(searchInput.value.trim());
+    cards.forEach(card => {
+      const name = normalizeSearchText(card.getAttribute('data-name') || '');
+      const area = normalizeSearchText(card.getAttribute('data-area') || '');
+      const hidden = query !== '' && !name.includes(query) && !area.includes(query);
+      card.classList.toggle('hidden', hidden);
+      if (hidden) card.classList.remove('expanded');
     });
+    searchClear?.classList.toggle('hidden', query.length === 0);
+  }
+
+  searchInput.addEventListener('input', applySearchFilter);
+  searchClear?.addEventListener('click', () => {
+    searchInput.value = '';
+    applySearchFilter();
+    searchInput.focus();
   });
 
   // Collapse
@@ -444,9 +428,9 @@ const partyColors: Record<string, string> = {
   document.querySelectorAll('[data-expand-more]').forEach(btn => {
     btn.addEventListener('click', (e) => {
       e.stopPropagation();
-      const row = (e.currentTarget as HTMLElement).closest('.member-row');
-      if (!row) return;
-      row.classList.toggle('expanded');
+      const card = (e.currentTarget as HTMLElement).closest('.member-card');
+      if (!card) return;
+      card.classList.toggle('expanded');
     });
   });
 </script>

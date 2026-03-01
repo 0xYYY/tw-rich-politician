@@ -70,7 +70,8 @@
       "mcp__paper__get_tree_summary",
       "Bash(node --input-type=module -e 'import fs from \"\"fs\"\"; const m = JSON.parse\\(fs.readFileSync\\(\"\"data/party-mapping.json\"\",\"\"utf8\"\"\\)\\); console.log\\(\"\"李貞秀:\"\", m[\"\"李貞秀\"\"]\\);')",
       "Bash(node --input-type=module -e ':*)",
-      "mcp__paper__get_computed_styles"
+      "mcp__paper__get_computed_styles",
+      "Bash(git remote:*)"
     ]
   }
 }

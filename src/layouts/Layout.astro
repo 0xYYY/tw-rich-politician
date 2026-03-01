@@ -1,12 +1,15 @@
 ---
+import '../styles/shadcn.css';
 import '../styles/global.css';
 
 interface Props {
   title: string;
   showNav?: boolean;
+  fullBleed?: boolean;
+  bodyClass?: string;
 }
 
-const { title, showNav = true } = Astro.props;
+const { title, showNav = true, fullBleed = false, bodyClass = 'blueprint-theme' } = Astro.props;
 ---
 <!DOCTYPE html>
 <html lang="zh-TW">
@@ -16,89 +19,43 @@ const { title, showNav = true } = Astro.props;
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <title>{title}</title>
 </head>
-<body class={showNav ? 'has-nav' : ''}>
+<body
+  class:list={[
+    fullBleed ? 'min-h-dvh w-full' : 'mx-auto min-h-dvh w-full max-w-[430px]',
+    showNav && 'has-nav',
+    bodyClass,
+  ]}
+>
   {showNav && (
-    <nav class="top-nav">
-      <div class="nav-tabs">
-        <a href="/" class="nav-tab" data-page="/"><span class="tab-icon">🧭</span><span class="tab-label">首頁</span></a>
-        <a href="/deposits" class="nav-tab" data-page="/deposits"><span class="tab-icon">💧</span><span class="tab-label">流動資產</span></a>
-        <a href="/stocks" class="nav-tab" data-page="/stocks"><span class="tab-icon">📈</span><span class="tab-label">股票</span></a>
-        <a href="/real-estate" class="nav-tab" data-page="/real-estate"><span class="tab-icon">🏠</span><span class="tab-label">不動產</span></a>
-        <a href="/download" class="nav-tab" data-page="/download"><span class="tab-icon">📦</span><span class="tab-label">下載</span></a>
+    <nav class="site-nav fixed left-1/2 top-2.5 z-[100] w-[calc(100%-18px)] max-w-[412px] -translate-x-1/2 rounded-none border border-[var(--border-grid)] p-1.5">
+      <div class="flex w-full gap-1">
+        <a href="/" class="nav-tab bp-body flex min-w-0 flex-1 flex-col items-center justify-center gap-0 rounded-none px-1 py-2 text-[11px] font-medium text-[var(--text-secondary)] transition-[color,background,transform] duration-200" data-page="/"><span class="tab-icon">🧭</span><span class="tab-label overflow-hidden text-ellipsis whitespace-nowrap tracking-[0.01em]">首頁</span></a>
+        <a href="/deposits" class="nav-tab bp-body flex min-w-0 flex-1 flex-col items-center justify-center gap-0 rounded-none px-1 py-2 text-[11px] font-medium text-[var(--text-secondary)] transition-[color,background,transform] duration-200" data-page="/deposits"><span class="tab-icon">💰</span><span class="tab-label overflow-hidden text-ellipsis whitespace-nowrap tracking-[0.01em]">存款排名</span></a>
+        <a href="/stocks" class="nav-tab bp-body flex min-w-0 flex-1 flex-col items-center justify-center gap-0 rounded-none px-1 py-2 text-[11px] font-medium text-[var(--text-secondary)] transition-[color,background,transform] duration-200" data-page="/stocks"><span class="tab-icon">📈</span><span class="tab-label overflow-hidden text-ellipsis whitespace-nowrap tracking-[0.01em]">股票持股</span></a>
+        <a href="/real-estate" class="nav-tab bp-body flex min-w-0 flex-1 flex-col items-center justify-center gap-0 rounded-none px-1 py-2 text-[11px] font-medium text-[var(--text-secondary)] transition-[color,background,transform] duration-200" data-page="/real-estate"><span class="tab-icon">🏠</span><span class="tab-label overflow-hidden text-ellipsis whitespace-nowrap tracking-[0.01em]">不動產</span></a>
+        <a href="/download" class="nav-tab bp-body flex min-w-0 flex-1 flex-col items-center justify-center gap-0 rounded-none px-1 py-2 text-[11px] font-medium text-[var(--text-secondary)] transition-[color,background,transform] duration-200" data-page="/download"><span class="tab-icon">📦</span><span class="tab-label overflow-hidden text-ellipsis whitespace-nowrap tracking-[0.01em]">資料下載</span></a>
       </div>
     </nav>
   )}
-  <main>
+  <main
+    class:list={[
+      fullBleed ? 'px-0 pb-0' : 'px-[var(--page-padding)] pb-10',
+      showNav ? 'pt-[66px]' : fullBleed ? 'pt-0' : 'pt-[var(--page-padding)]',
+    ]}
+  >
     <slot />
   </main>
 </body>
 </html>
 
-<style>
-  main {
-    padding: var(--page-padding);
-    padding-bottom: 40px;
-  }
-
-  .has-nav main {
-    padding-top: 76px;
-  }
-
-  .top-nav {
-    position: fixed;
-    top: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 18px);
-    max-width: 412px;
-    padding: 6px;
-    background: rgba(255, 255, 255, 0.72);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(20, 24, 36, 0.08);
-    border-radius: 16px;
-    box-shadow: 0 10px 22px rgba(11, 19, 32, 0.11);
-    z-index: 100;
-  }
-
-  .nav-tabs {
-    display: flex;
-    gap: 4px;
-    width: 100%;
-  }
-
-  .nav-tab {
-    flex: 1;
-    min-width: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1px;
-    padding: 6px 4px;
-    font-size: 10px;
-    font-weight: 600;
-    color: rgba(30, 38, 52, 0.62);
-    border-radius: 10px;
-    transition: color 0.18s, background 0.18s, transform 0.18s;
-  }
-  .tab-icon {
-    font-size: 13px;
-    line-height: 1;
-  }
-  .tab-label {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .nav-tab.active {
-    color: var(--color-text);
-    background: rgba(255, 255, 255, 0.92);
-    box-shadow: inset 0 0 0 1px rgba(27, 35, 49, 0.08);
-    transform: translateY(-1px);
-  }
-</style>
-
 <script define:vars={{ currentPath: Astro.url.pathname }}>
+  const nav = document.querySelector('.site-nav');
+  const updateNavScrollState = () => {
+    nav?.classList.toggle('is-scrolled', window.scrollY > 6);
+  };
+  updateNavScrollState();
+  window.addEventListener('scroll', updateNavScrollState, { passive: true });
+
   document.querySelectorAll('.nav-tab').forEach(el => {
     const page = el.getAttribute('data-page');
     if ((page === '/' && currentPath === '/') || (page !== '/' && currentPath.startsWith(page))) {

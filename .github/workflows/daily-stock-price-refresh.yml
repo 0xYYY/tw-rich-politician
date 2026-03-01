@@ -1,0 +1,50 @@
+name: Daily Stock Price Refresh
+
+on:
+  schedule:
+    # 00:00 UTC == 08:00 UTC+8
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: daily-stock-price-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ensure consolidated data exists
+        run: |
+          if ! find data -mindepth 2 -maxdepth 2 -name consolidated.json | grep -q .; then
+            echo "No data/*/consolidated.json found."
+            echo "This workflow only refreshes latest stock prices and expects consolidated data to already exist."
+            exit 1
+          fi
+
+      - name: Refresh latest stock prices only
+        run: npm run update-latest-prices
+
+      - name: Build site (includes syncing data into public assets)
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=tw-rich-politician

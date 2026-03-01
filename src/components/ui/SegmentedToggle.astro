@@ -1,0 +1,122 @@
+---
+interface ToggleItem {
+  value: string;
+  label: string;
+  emoji?: string;
+  ariaLabel?: string;
+}
+
+interface Props {
+  id?: string;
+  items: ToggleItem[];
+  active: string;
+  dataKey?: string;
+  variant?: 'view' | 'sort';
+  className?: string;
+  equalWidth?: boolean;
+}
+
+const {
+  id,
+  items = [],
+  active,
+  dataKey = 'value',
+  variant = 'view',
+  className = '',
+  equalWidth = false,
+} = Astro.props;
+---
+
+<div
+  id={id}
+  class={`segmented-toggle segmented-toggle--${variant} ${equalWidth ? 'segmented-toggle--equal' : ''} ${className}`.trim()}
+>
+  {items.map((item) => (
+    <button
+      type="button"
+      class={`toggle-btn ${variant}-btn ${item.value === active ? 'active' : ''}`.trim()}
+      data-set={dataKey}
+      data-value={item.value}
+      {...{ [`data-${dataKey}`]: item.value }}
+      aria-label={item.ariaLabel || item.label}
+    >
+      {item.emoji && <span class="toggle-emoji" aria-hidden="true">{item.emoji}</span>}
+      <span>{item.label}</span>
+    </button>
+  ))}
+</div>
+
+<style>
+  .segmented-toggle {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 0;
+    gap: 0;
+  }
+  .segmented-toggle--view {
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    padding: 3px;
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--page-accent, var(--accent-blue)) 18%, transparent);
+  }
+  .segmented-toggle--sort {
+    border: 0;
+    background: transparent;
+    padding: 0;
+    gap: 6px;
+  }
+  .segmented-toggle.hidden {
+    display: none !important;
+  }
+  .segmented-toggle--equal {
+    display: flex;
+  }
+  .segmented-toggle--equal .toggle-btn {
+    flex: 1 1 0;
+    justify-content: center;
+  }
+  .toggle-btn {
+    border: 0;
+    border-radius: 0;
+    transition: all 0.18s;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .view-btn {
+    padding: 7px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    letter-spacing: 0.01em;
+    min-height: 30px;
+  }
+  .view-btn.active {
+    background: color-mix(in srgb, var(--page-accent, var(--accent-blue)) 24%, transparent);
+    color: var(--color-text);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--page-accent, var(--accent-blue)) 62%, var(--color-border));
+  }
+  .sort-btn {
+    padding: 5px 10px;
+    border: 1px solid var(--color-border);
+    background: rgba(255, 255, 255, 0.01);
+    color: var(--color-text-secondary);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    font-family: var(--font-mono);
+    border-radius: 0;
+    min-height: 28px;
+  }
+  .sort-btn.active {
+    border-color: color-mix(in srgb, var(--page-accent, var(--accent-blue)) 50%, var(--color-border));
+    background: color-mix(in srgb, var(--page-accent, var(--accent-blue)) 14%, transparent);
+    color: var(--color-text);
+    box-shadow: none;
+  }
+  .toggle-emoji {
+    font-size: 14px;
+    line-height: 1;
+  }
+</style>
