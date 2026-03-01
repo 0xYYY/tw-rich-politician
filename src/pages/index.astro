@@ -14,9 +14,7 @@ const totalStocks = people.reduce((sum, p) => sum + p.stocks.length, 0);
   <section class="hero">
     <p class="hero-label">2025 監察院廉政專刊</p>
     <h1>政治人物<br/>財產公開</h1>
-    <p class="hero-desc">
-      {legislatorCount} 位立法委員、{mayorCount} 位縣市首長的財產申報資料，整理為可搜尋、可比較的格式
-    </p>
+    <p class="hero-desc">{legislatorCount} 位立法委員、{mayorCount} 位縣市首長的財產申報資料，整理為可搜尋、可比較的格式</p>
   </section>
 
   <section class="cards">
@@ -58,7 +56,8 @@ const totalStocks = people.reduce((sum, p) => sum + p.stocks.length, 0);
     <h2>資料說明與注意事項</h2>
     <ul>
       <li><strong>資料來源</strong>：所有資料來自監察院廉政專刊公開之財產申報資料，經 PDF 自動擷取轉為結構化格式。</li>
-      <li><strong>自動擷取的局限</strong>：部分 PDF 格式不一致或含手寫修改，可能導致擷取錯誤或遺漏。若發現錯誤，歡迎回報。</li>
+      <li><strong>申報範圍</strong>：各頁統計均包含申報人、配偶與未成年子女資料。</li>
+      <li><strong>自動擷取的局限</strong>：PDF 解析、欄位擷取與整併可能出現誤差；請以監察院原始 PDF 為最終依據。</li>
       <li><strong>申報時點</strong>：財產申報為特定時點之靜態資料，不代表目前持有狀況。</li>
       <li><strong>股票估值</strong>：股票持股頁面之市值與損益假設自申報日起持有至今，僅供參考。</li>
       <li><strong>信託財產</strong>：部分人員有信託申報，信託財產已盡可能合併但可能有重複或遺漏。</li>

@@ -46,6 +46,8 @@ export interface InsuranceAsset {
 export interface PersonData {
   name: string;
   date: string;
+  type?: "legislator" | "mayor" | null;
+  area?: string | null;
   party: string | null;
   deposits: Deposit[];
   depositsTotal: number;
@@ -60,25 +62,65 @@ export interface PersonData {
 export type Legislator = PersonData;
 
 export interface PersonInfo {
-  type: 'legislator' | 'mayor';
+  type: "legislator" | "mayor";
   party: string;
   area: string;
 }
 
 // Load all consolidated JSON files at build time (both numbered and plain dirs)
-const numberedModules = import.meta.glob<PersonData>('../../data/consolidated/[0-9]*.json', { eager: true, import: 'default' });
-const plainModules = import.meta.glob<PersonData>('../../data/consolidated/[!0-9_]*.json', { eager: true, import: 'default' });
+const numberedModules = import.meta.glob<PersonData>("../../data/consolidated/[0-9]*.json", {
+  eager: true,
+  import: "default",
+});
+const plainModules = import.meta.glob<PersonData>("../../data/consolidated/[!0-9_]*.json", {
+  eager: true,
+  import: "default",
+});
 const modules = { ...numberedModules, ...plainModules };
 
 // Load people mapping
-const peopleMappingModules = import.meta.glob<Record<string, PersonInfo>>('../../data/people-mapping.json', { eager: true, import: 'default' });
+const peopleMappingModules = import.meta.glob<Record<string, PersonInfo>>(
+  "../../data/people-mapping.json",
+  { eager: true, import: "default" },
+);
 const peopleMap: Record<string, PersonInfo> = Object.values(peopleMappingModules)[0] || {};
 
 let _cache: PersonData[] | null = null;
 
+function getStockDataCompletenessScore(person: PersonData): number {
+  const stocks = person.stocks || [];
+  const latestCount = stocks.reduce((sum, s) => sum + (s.latestPrice != null ? 1 : 0), 0);
+  const disclosureCount = stocks.reduce((sum, s) => sum + (s.priceAtDisclosure != null ? 1 : 0), 0);
+  // Prefer records with more priced stocks; use stock count as a weak tie-breaker.
+  return latestCount * 10 + disclosureCount * 3 + stocks.length;
+}
+
 export function getAllPeople(): PersonData[] {
   if (_cache) return _cache;
-  _cache = Object.values(modules).filter(l => l && l.name in peopleMap);
+  const bestByName = new Map<string, PersonData>();
+  for (const person of Object.values(modules)) {
+    if (!person || !(person.name in peopleMap)) continue;
+    const existing = bestByName.get(person.name);
+    if (!existing) {
+      bestByName.set(person.name, person);
+      continue;
+    }
+    if (person.date > existing.date) {
+      bestByName.set(person.name, person);
+      continue;
+    }
+    if (person.date === existing.date) {
+      const personScore = getStockDataCompletenessScore(person);
+      const existingScore = getStockDataCompletenessScore(existing);
+      if (personScore > existingScore) bestByName.set(person.name, person);
+    }
+  }
+  _cache = Array.from(bestByName.values()).map((person) => ({
+    ...person,
+    type: peopleMap[person.name]?.type || person.type || null,
+    area: peopleMap[person.name]?.area || person.area || null,
+    party: peopleMap[person.name]?.party || person.party || null,
+  }));
   return _cache;
 }
 
@@ -106,37 +148,50 @@ export function getPersonInfo(name: string): PersonInfo | null {
 
 export function getPartyColor(party: string | null): string {
   switch (party) {
-    case '民主進步黨': return 'var(--color-dpp)';
-    case '中國國民黨': return 'var(--color-kmt)';
-    case '台灣民眾黨': return 'var(--color-tpp)';
-    default: return 'var(--color-independent)';
+    case "民主進步黨":
+      return "var(--color-dpp)";
+    case "中國國民黨":
+      return "var(--color-kmt)";
+    case "台灣民眾黨":
+      return "var(--color-tpp)";
+    default:
+      return "var(--color-independent)";
   }
 }
 
 export function getPartyShortName(party: string | null): string {
   switch (party) {
-    case '民主進步黨': return '民';
-    case '中國國民黨': return '國';
-    case '台灣民眾黨': return '眾';
-    case '無黨籍': return '無';
-    default: return '無';
+    case "民主進步黨":
+      return "民";
+    case "中國國民黨":
+      return "國";
+    case "台灣民眾黨":
+      return "眾";
+    case "無黨籍":
+      return "無";
+    default:
+      return "無";
   }
 }
 
 export function getPartyBgColor(party: string | null): string {
   switch (party) {
-    case '民主進步黨': return '#1B9431';
-    case '中國國民黨': return '#2D6CC0';
-    case '台灣民眾黨': return '#28C8C8';
-    default: return '#888';
+    case "民主進步黨":
+      return "#1B9431";
+    case "中國國民黨":
+      return "#2D6CC0";
+    case "台灣民眾黨":
+      return "#28C8C8";
+    default:
+      return "#888";
   }
 }
 
 export function getTierColor(ping: number): string {
-  if (ping >= 100) return 'var(--color-tier-4)';
-  if (ping >= 60) return 'var(--color-tier-3)';
-  if (ping >= 30) return 'var(--color-tier-2)';
-  return 'var(--color-tier-1)';
+  if (ping >= 100) return "var(--color-tier-4)";
+  if (ping >= 60) return "var(--color-tier-3)";
+  if (ping >= 30) return "var(--color-tier-2)";
+  return "var(--color-tier-1)";
 }
 
 export function formatAmount(amount: number): string {
@@ -146,7 +201,7 @@ export function formatAmount(amount: number): string {
 }
 
 export function formatPing(ping: number): string {
-  if (ping >= 1000) return ping.toLocaleString('en-US', { maximumFractionDigits: 0 });
+  if (ping >= 1000) return ping.toLocaleString("en-US", { maximumFractionDigits: 0 });
   if (ping >= 100) return ping.toFixed(0);
   if (ping >= 10) return ping.toFixed(1);
   return ping.toFixed(2);
@@ -167,9 +222,9 @@ export interface RealEstateRanking {
   buildings: Building[];
 }
 
-export function getRealEstateRankings(sortBy: 'ping' | 'count' = 'ping'): RealEstateRanking[] {
+export function getRealEstateRankings(sortBy: "ping" | "count" = "ping"): RealEstateRanking[] {
   const people = getAllPeople();
-  const rankings: RealEstateRanking[] = people.map(l => ({
+  const rankings: RealEstateRanking[] = people.map((l) => ({
     name: l.name,
     party: l.party,
     totalPing: l.buildings.reduce((sum, b) => sum + b.effectiveAreaPing, 0),
@@ -177,7 +232,7 @@ export function getRealEstateRankings(sortBy: 'ping' | 'count' = 'ping'): RealEs
     buildings: l.buildings,
   }));
 
-  if (sortBy === 'ping') {
+  if (sortBy === "ping") {
     rankings.sort((a, b) => b.totalPing - a.totalPing);
   } else {
     rankings.sort((a, b) => b.propertyCount - a.propertyCount || b.totalPing - a.totalPing);
@@ -197,12 +252,12 @@ export interface DepositRankingEntry {
 
 export function getDepositRankings(): DepositRankingEntry[] {
   const people = getAllPeople();
-  const personMap = new Map(people.map(l => [l.name, l]));
+  const personMap = new Map(people.map((l) => [l.name, l]));
 
   const normalizeCurrency = (currency?: string): string => {
-    const c = (currency || '').trim();
-    if (!c) return '新臺幣';
-    if (c === '新台幣') return '新臺幣';
+    const c = (currency || "").trim();
+    if (!c) return "新臺幣";
+    if (c === "新台幣") return "新臺幣";
     return c;
   };
 
@@ -211,15 +266,15 @@ export function getDepositRankings(): DepositRankingEntry[] {
     const l = personMap.get(name);
     const byCurrency = new Map<string, number>();
 
-    for (const d of (l?.deposits || [])) {
+    for (const d of l?.deposits || []) {
       const c = normalizeCurrency(d.currency);
       byCurrency.set(c, (byCurrency.get(c) || 0) + (d.amount || 0));
     }
-    for (const b of (l?.bonds || [])) {
+    for (const b of l?.bonds || []) {
       const c = normalizeCurrency(b.currency);
       byCurrency.set(c, (byCurrency.get(c) || 0) + (b.declaredValue || 0));
     }
-    for (const f of (l?.fundCertificates || [])) {
+    for (const f of l?.fundCertificates || []) {
       const c = normalizeCurrency(f.currency);
       byCurrency.set(c, (byCurrency.get(c) || 0) + (f.declaredValue || 0));
     }
@@ -243,7 +298,7 @@ export function getDepositRankings(): DepositRankingEntry[] {
   entries.sort((a, b) => {
     if (a.hasData && !b.hasData) return -1;
     if (!a.hasData && b.hasData) return 1;
-    if (!a.hasData && !b.hasData) return a.name.localeCompare(b.name, 'zh-TW');
+    if (!a.hasData && !b.hasData) return a.name.localeCompare(b.name, "zh-TW");
     return b.depositsTotal - a.depositsTotal;
   });
 

@@ -1,14 +1,22 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getRealEstateRankings, getPartyColor, formatPing, parseCity, getTierColor, getPersonInfo, getPartyShortName, getPartyBgColor } from '../lib/data';
+import { getRealEstateRankings, formatPing, parseCity, getTierColor } from '../lib/data';
 import type { RealEstateRanking } from '../lib/data';
+import PersonMeta from '../components/PersonMeta.astro';
+import InfoPopover from '../components/InfoPopover.astro';
 
 const rankings = getRealEstateRankings('ping');
 ---
 
-<Layout title="🏠 不動產排行榜">
+<Layout title="🏘️ 不動產排行榜">
   <section class="header">
-    <h1>🏠 不動產排行榜</h1>
+    <div class="page-headline">
+      <h1>🏠 不動產排行榜</h1>
+      <InfoPopover>
+        <p>坪數為依申報資料推算之持分後坪數，不代表市價與實際可使用面積。</p>
+        <p>資料含申報人、配偶與未成年子女名下項目，僅供跨人比較。</p>
+      </InfoPopover>
+    </div>
     <p class="subtitle">含本人及配偶、未成年子女申報之建物</p>
   </section>
 
@@ -30,19 +38,7 @@ const rankings = getRealEstateRankings('ping');
         <div class="rank-header" data-expandable>
           <span class={`rank-num ${i < 5 ? 'top' : ''}`}>{i + 1}</span>
           <div class="rank-info">
-            <div class="rank-name-row">
-              <span class="rank-name">{r.name}</span>
-              {(() => {
-                const info = getPersonInfo(r.name);
-                if (!info) return null;
-                return (
-                  <span class="person-badge" style={`background: ${getPartyBgColor(r.party)}`} title={`${info.type === 'mayor' ? '縣市首長' : '立法委員'} · ${info.area}`}>
-                    {info.type === 'mayor' ? '長' : getPartyShortName(r.party)}
-                  </span>
-                );
-              })()}
-            </div>
-            <span class="rank-party">{r.party || '無黨籍'}</span>
+            <PersonMeta name={r.name} party={r.party} />
           </div>
           <div class="rank-stats">
             <span class="stat-primary">
@@ -96,22 +92,25 @@ const rankings = getRealEstateRankings('ping');
 
   .sort-toggle {
     display: flex;
-    border: 1px solid var(--color-border);
-    border-radius: 8px;
-    overflow: hidden;
+    padding: 3px;
+    border: 1px solid rgba(16, 30, 46, 0.16);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.72);
     margin-bottom: 16px;
   }
   .toggle-btn {
     flex: 1;
-    padding: 10px 16px;
+    padding: 9px 14px;
     font-size: 13px;
     font-weight: 600;
-    color: var(--color-text-muted);
-    transition: all 0.15s;
+    color: #566274;
+    transition: all 0.18s;
+    border-radius: 999px;
   }
   .toggle-btn.active {
-    background: var(--color-text);
-    color: var(--color-bg);
+    background: linear-gradient(135deg, #7a5a12, #b78518);
+    color: #fff;
+    box-shadow: 0 4px 10px rgba(122, 90, 18, 0.26);
   }
 
   #ranking-list {
@@ -147,19 +146,7 @@ const rankings = getRealEstateRankings('ping');
   .rank-num.top { color: var(--color-tier-4); }
 
   .rank-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
-  .rank-name-row { display: flex; align-items: center; gap: 5px; }
-  .rank-name { font-size: 15px; font-weight: 700; }
-  .person-badge {
-    font-size: 9px;
-    font-weight: 700;
-    color: #fff;
-    padding: 1px 3px;
-    border-radius: 3px;
-    line-height: 1.2;
-    flex-shrink: 0;
-    cursor: help;
-  }
-  .rank-party { font-size: 12px; color: var(--color-text-muted); }
+  .rank-info :global(.person-meta) { max-width: 170px; }
 
   .rank-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
   .stat-primary { font-family: var(--font-mono); font-size: 16px; font-weight: 700; }

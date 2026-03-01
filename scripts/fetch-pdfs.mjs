@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile, mkdir, readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 
@@ -8,6 +8,7 @@ const BASE_URL = "https://priso.cy.gov.tw";
 const QUERY_URL = `${BASE_URL}/api/Query/QueryData`;
 const FILE_URL = `${BASE_URL}/api/Query/getFile`;
 const OUTPUT_DIR = path.resolve(import.meta.dirname, "../data");
+const PEOPLE_MAP_PATH = path.resolve(import.meta.dirname, "../data/people-mapping.json");
 const PAGE_SIZE = 20;
 const CONCURRENCY = 10;
 const DELAY_MS = 200;
@@ -93,6 +94,11 @@ function getSubdir(publishType) {
   return "ordinary";
 }
 
+function publishTypeKey(publishType) {
+  const m = String(publishType || "").match(/^(\d{2})/);
+  return m ? m[1] : String(publishType || "").trim();
+}
+
 async function downloadRecord(record) {
   const subdir = getSubdir(record.PublishType);
   const dir = path.join(OUTPUT_DIR, record.Name, subdir);
@@ -145,30 +151,27 @@ function filterAndCheck(records) {
   return { matching, seenOlder };
 }
 
-// For each person + filing category (ordinary/correction/change/trust),
-// keep only the latest year's records (prefer 114 over 113)
+// For each person + publishType (01/02/04/09/...), keep only the latest record.
+// This keeps all filing kinds while removing older duplicates.
 function dedup(records) {
   const byKey = new Map();
   for (const r of records) {
-    const type = getSubdir(r.PublishType);
-    const key = `${r.Name}__${type}`;
-    if (!byKey.has(key)) byKey.set(key, []);
-    byKey.get(key).push(r);
-  }
-
-  const result = [];
-  for (const [, recs] of byKey) {
-    const has114 = recs.some(r => r.PublishDate.startsWith("民國114年"));
-    if (has114) {
-      result.push(...recs.filter(r => r.PublishDate.startsWith("民國114年")));
-    } else {
-      result.push(...recs);
+    const key = `${r.Name}__${publishTypeKey(r.PublishType)}`;
+    const existing = byKey.get(key);
+    if (!existing) {
+      byKey.set(key, r);
+      continue;
+    }
+    const a = Number(String(existing.Period || "").replace(/[^\d]/g, "")) || 0;
+    const b = Number(String(r.Period || "").replace(/[^\d]/g, "")) || 0;
+    if (b > a) {
+      byKey.set(key, r);
     }
   }
-  return result;
+  return [...byKey.values()];
 }
 
-async function collectAllRecords(searchValue, titleFilter) {
+async function collectAllRecords(searchValue, titleFilter, allowedNames) {
   const allRecords = [];
   for (let page = 1; ; page++) {
     if (page > 1) await sleep(DELAY_MS);
@@ -176,10 +179,8 @@ async function collectAllRecords(searchValue, titleFilter) {
     const result = await queryPage(page, searchValue);
     let pageRecords = result.Data;
 
-    // Filter by title if specified (e.g. only "市長", not "副市長")
-    if (titleFilter) {
-      pageRecords = pageRecords.filter(r => titleFilter(r));
-    }
+    if (titleFilter) pageRecords = pageRecords.filter(r => titleFilter(r));
+    if (allowedNames) pageRecords = pageRecords.filter(r => allowedNames.has(r.Name));
 
     const { matching, seenOlder } = filterAndCheck(pageRecords);
     allRecords.push(...matching);
@@ -210,15 +211,34 @@ async function downloadAll(records) {
 
 async function main() {
   await mkdir(OUTPUT_DIR, { recursive: true });
+  const peopleMap = JSON.parse(await readFile(PEOPLE_MAP_PATH, "utf8"));
+  const legislatorNames = new Set(
+    Object.entries(peopleMap)
+      .filter(([, info]) => info.type === "legislator")
+      .map(([name]) => name),
+  );
+  const mayorNames = new Set(
+    Object.entries(peopleMap)
+      .filter(([, info]) => info.type === "mayor")
+      .map(([name]) => name),
+  );
 
   // Fetch legislators
   console.log(`Fetching 立法委員 records for ${YEAR_PREFIXES.join(" + ")}...`);
-  const legislatorRecords = await collectAllRecords("立法委員", null);
+  const legislatorRecords = await collectAllRecords(
+    "立法委員",
+    (r) => r.Title === "立法委員",
+    legislatorNames,
+  );
   console.log(`  Found ${legislatorRecords.length} raw legislator records`);
 
   // Fetch mayors (市長 only, not 副市長)
   console.log(`Fetching 市長 records for ${YEAR_PREFIXES.join(" + ")}...`);
-  const mayorRecords = await collectAllRecords("市長", (r) => r.Title === "市長");
+  const mayorRecords = await collectAllRecords(
+    "市長",
+    (r) => r.Title === "市長",
+    mayorNames,
+  );
   console.log(`  Found ${mayorRecords.length} raw mayor records (filtered out 副市長)`);
 
   // Combine and dedup

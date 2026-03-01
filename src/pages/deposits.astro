@@ -1,15 +1,23 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getDepositRankings, formatAmount, getPartyColor, getPersonInfo, getPartyShortName, getPartyBgColor } from '../lib/data';
+import { getDepositRankings, formatAmount, getPartyColor } from '../lib/data';
+import PersonMeta from '../components/PersonMeta.astro';
+import InfoPopover from '../components/InfoPopover.astro';
 
 const rankings = getDepositRankings();
 const maxDeposit = rankings.find(r => r.hasData)?.depositsTotal || 1;
 const TOP_N = 5;
 ---
 
-<Layout title="💰 存款排名">
+<Layout title="💧 流動資產排名">
   <section class="header">
-    <h1>💰 存款排名</h1>
+    <div class="page-headline">
+      <h1>💧 流動資產排名</h1>
+      <InfoPopover>
+        <p>本頁將存款、債券、基金受益憑證合併計算，保險僅顯示筆數，不納入金額。</p>
+        <p>外幣折算以申報時點揭露基礎為主，不代表即時匯率結果。</p>
+      </InfoPopover>
+    </div>
     <p class="subtitle">輸入你的存款金額，看看你排第幾</p>
   </section>
 
@@ -40,16 +48,7 @@ const TOP_N = 5;
           >
             <span class="rank-num">{i + 1}</span>
             <span class="rank-name-wrap">
-              <span class="rank-name" style={`color: ${getPartyColor(l.party)}`}>{l.name}</span>
-              {(() => {
-                const info = getPersonInfo(l.name);
-                if (!info) return null;
-                return (
-                  <span class="person-badge" style={`background: ${getPartyBgColor(l.party)}`} title={`${info.type === 'mayor' ? '縣市首長' : '立法委員'} · ${info.area}`}>
-                    {info.type === 'mayor' ? '長' : getPartyShortName(l.party)}
-                  </span>
-                );
-              })()}
+              <PersonMeta name={l.name} party={l.party} />
             </span>
             <span class="rank-amount-text">{l.hasData ? formatAmount(l.depositsTotal) : '無資料'}</span>
             {l.hasData && l.depositsTotal > 0 ? (
@@ -140,24 +139,8 @@ const TOP_N = 5;
   .rank-name-wrap {
     display: flex;
     align-items: center;
-    gap: 4px;
-    width: 72px;
+    width: 112px;
     flex-shrink: 0;
-  }
-  .rank-name {
-    font-size: 14px;
-    font-weight: 700;
-    white-space: nowrap;
-  }
-  .person-badge {
-    font-size: 9px;
-    font-weight: 700;
-    color: #fff;
-    padding: 1px 3px;
-    border-radius: 3px;
-    line-height: 1.2;
-    flex-shrink: 0;
-    cursor: help;
   }
   .rank-amount-text {
     font-family: var(--font-mono);
