@@ -1,0 +1,221 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PageHeader from '../components/ui/PageHeader.astro';
+import InfoPopover from '../components/ui/info-popover';
+import {
+  formatAmount,
+  formatPing,
+  getAllPeople,
+  getPartyColor,
+  getPartyNameTextColor,
+} from '../lib/data';
+
+const people = getAllPeople();
+
+const PARTY_DEFS = [
+  { key: '民主進步黨', label: '民進黨' },
+  { key: '中國國民黨', label: '國民黨' },
+  { key: '台灣民眾黨', label: '民眾黨' },
+] as const;
+
+type PartyMetric = {
+  key: string;
+  label: string;
+  color: string;
+  textColor: string;
+  avg: number;
+  count: number;
+};
+
+function averageByParty(valueOf: (person: (typeof people)[number]) => number): PartyMetric[] {
+  return PARTY_DEFS.map((party) => {
+    const values = people
+      .filter((p) => p.party === party.key)
+      .map((p) => valueOf(p))
+      .filter((v) => Number.isFinite(v) && v > 0);
+    const total = values.reduce((sum, v) => sum + v, 0);
+    return {
+      key: party.key,
+      label: party.label,
+      color: getPartyColor(party.key),
+      textColor: getPartyNameTextColor(party.key),
+      avg: values.length > 0 ? total / values.length : 0,
+      count: values.length,
+    };
+  });
+}
+
+function getDepositTotal(person: (typeof people)[number]): number {
+  const deposits = (person.deposits || []).reduce((sum, d) => sum + (d.amount || 0), 0);
+  const bonds = (person.bonds || []).reduce((sum, b) => sum + (b.declaredValue || 0), 0);
+  const funds = (person.fundCertificates || []).reduce((sum, f) => sum + (f.declaredValue || 0), 0);
+  return deposits + bonds + funds;
+}
+
+function getStockHoldingValue(person: (typeof people)[number]): number {
+  return (person.stocks || []).reduce((sum, s) => {
+    if ((s.shares || 0) <= 0) return sum;
+    if (s.latestPrice == null || !Number.isFinite(s.latestPrice)) return sum;
+    return sum + s.latestPrice * s.shares;
+  }, 0);
+}
+
+function getRealEstatePing(person: (typeof people)[number]): number {
+  return (person.buildings || []).reduce((sum, b) => sum + (b.effectiveAreaPing || 0), 0);
+}
+
+const metricGroups = [
+  {
+    id: 'deposit',
+    title: '平均存款',
+    unitHint: '新台幣（含存款、債券、基金）',
+    rows: averageByParty(getDepositTotal),
+    format: (value: number) => formatAmount(value),
+  },
+  {
+    id: 'stock',
+    title: '平均股票持有',
+    unitHint: '新台幣（以最新價格估算）',
+    rows: averageByParty(getStockHoldingValue),
+    format: (value: number) => formatAmount(value),
+  },
+  {
+    id: 'real-estate',
+    title: '平均不動產',
+    unitHint: '持分後坪數',
+    rows: averageByParty(getRealEstatePing),
+    format: (value: number) => `${formatPing(value)} 坪`,
+  },
+].map((group) => {
+  const rows = group.rows.filter((r) => r.count > 0 && r.avg > 0);
+  const maxAvg = Math.max(...rows.map((r) => r.avg), 0);
+  const baseAvg = rows.length > 0 ? Math.min(...rows.map((r) => r.avg)) : 0;
+  return { ...group, rows, maxAvg, baseAvg };
+});
+---
+
+<Layout title="📊 分析比較" fullBleed={true} bodyClass="blueprint-theme page-accent-gray">
+  <div class="blueprint-page min-h-dvh">
+    <section class="border-b border-[var(--border-grid)]">
+      <div class="mx-auto w-full max-w-6xl px-5 pb-10 pt-6 md:px-8 md:pb-12 md:pt-8">
+        <PageHeader title="📊 分析比較" showInfo={false}>
+          <p>本頁計算皆包含本人、配偶及未成年子女之申報資料。</p>
+        </PageHeader>
+
+        <section>
+          <div class="mb-5 border-b border-[var(--border-grid)] pb-4">
+            <div class="flex items-start gap-3">
+              <div>
+                <h2 class="bp-heading text-xl font-semibold text-[var(--text-primary)]">政黨比一比</h2>
+                <p class="bp-body mt-2 text-sm text-[var(--text-secondary)]">以下為三個政黨在三種資產上的平均值比較。</p>
+              </div>
+              <InfoPopover client:load label="了解更多" className="ml-auto mt-0.5 shrink-0">
+                <p>三種資產在計算平均時，都不納入無資料與 0 值資料。</p>
+              </InfoPopover>
+            </div>
+          </div>
+
+          <div class="grid gap-4 md:grid-cols-3">
+            {metricGroups.map((group) => (
+              <section class="metric-card border border-[var(--border-grid)] p-4">
+                <div class="flex items-baseline justify-between gap-2">
+                  <h3 class="bp-heading text-base font-semibold text-[var(--text-primary)]">{group.title}</h3>
+                  <p class="bp-body text-xs text-[var(--text-muted)]">{group.unitHint}</p>
+                </div>
+
+                <div class="mt-4 flex flex-col gap-3">
+                  {group.rows.map((row) => {
+                    const width = group.maxAvg > 0 && row.count > 0 ? (row.avg / group.maxAvg) * 100 : 0;
+                    const multiple = group.baseAvg > 0 ? row.avg / group.baseAvg : 0;
+                    return (
+                      <div class="party-row" style={`--party-color:${row.color};--party-text:${row.textColor};`}>
+                        <span class="party-label">{row.label} ({row.count.toLocaleString('en-US')})</span>
+                        <div class="bar-track">
+                          <div class="bar-fill" style={`width:${width}%;`} />
+                        </div>
+                        <p class="party-value bp-body">
+                          <span class="party-value-main">{group.format(row.avg)}</span>
+                          <span class="party-value-multiple"> ({multiple.toFixed(1)}x)</span>
+                        </p>
+                      </div>
+                    );
+                  })}
+                </div>
+              </section>
+            ))}
+          </div>
+        </section>
+      </div>
+    </section>
+  </div>
+</Layout>
+
+<style>
+  .metric-card {
+    background:
+      radial-gradient(circle at 1px 1px, rgba(169, 177, 214, 0.07) 0.55px, transparent 0.75px) 0 0 / 8px 8px,
+      rgba(26, 26, 28, 0.42);
+  }
+
+  .party-label {
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+    color: var(--party-text, var(--text-primary));
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.1;
+  }
+
+  .party-row {
+    display: grid;
+    grid-template-columns: 78px minmax(0, 1fr) 98px;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .bar-track {
+    position: relative;
+    width: 100%;
+    height: 12px;
+    border: 1px solid color-mix(in srgb, var(--party-color) 55%, var(--border-grid));
+    background-color: rgba(255, 255, 255, 0.02);
+    background-image: linear-gradient(
+      to right,
+      color-mix(in srgb, var(--color-border-light) 45%, transparent) 1px,
+      transparent 1px
+    );
+    background-size: 14px 100%;
+    background-repeat: repeat-x;
+    overflow: hidden;
+  }
+
+  .bar-fill {
+    height: 100%;
+    min-width: 1px;
+    background: color-mix(in srgb, var(--party-color) 52%, var(--bg-base));
+    border-right: 1px solid color-mix(in srgb, var(--party-color) 62%, var(--border-grid));
+  }
+
+  .party-value {
+    min-width: 98px;
+    width: 98px;
+    padding-left: 0;
+    text-align: right;
+    justify-self: end;
+    white-space: nowrap;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+
+  .party-value-main {
+    color: var(--text-secondary);
+  }
+
+  .party-value-multiple {
+    color: var(--text-muted);
+  }
+</style>

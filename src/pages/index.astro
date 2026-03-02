@@ -22,6 +22,7 @@ const fmtInt = (value: number) => value.toLocaleString('en-US');
           <span class="bp-heading text-sm font-semibold text-[var(--text-primary)]">監察院廉政專刊</span>
         </div>
         <nav class="bp-body hidden items-center gap-5 text-sm text-[var(--text-secondary)] md:flex">
+          <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/analysis">📊 分析比較</a>
           <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/deposits">💰 存款排名</a>
           <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/stocks">📈 股票持股</a>
           <a class="flex items-center gap-1.5 transition-colors hover:text-[var(--text-primary)]" href="/real-estate">🏠 不動產</a>
@@ -72,7 +73,16 @@ const fmtInt = (value: number) => value.toLocaleString('en-US');
           <p class="bp-body hidden text-sm text-[var(--text-secondary)] md:block">點擊卡片進入各主題</p>
         </div>
 
-        <div class="feature-grid grid gap-6 md:grid-cols-3">
+        <div class="feature-grid grid gap-6 md:grid-cols-4">
+          <a class="feature-card bp-crosshair block border border-[var(--border-grid)] p-8 transition-[border-color,transform,box-shadow] hover:-translate-y-0.5 hover:border-[color:#7f85a3] hover:shadow-[0_10px_24px_-16px_color-mix(in_srgb,#7f85a3_70%,transparent)]" href="/analysis">
+            <div class="bp-graphic mb-7" data-accent="gray" role="img" aria-label="分析比較示意圖">
+              <span class="bp-graphic-icon">📊</span>
+            </div>
+            <h3 class="bp-heading text-xl font-semibold text-[var(--text-primary)]">分析比較</h3>
+            <p class="bp-body mt-3 text-sm text-[var(--text-secondary)]">以統計視角比較各黨資產平均值。</p>
+            <span class="feature-link bp-mono mt-7 inline-flex text-[var(--text-secondary)] transition-colors">查看頁面</span>
+          </a>
+
           <a class="feature-card bp-crosshair block border border-[var(--border-grid)] p-8 transition-[border-color,transform,box-shadow] hover:-translate-y-0.5 hover:border-[color:var(--accent-orange)] hover:shadow-[0_10px_24px_-16px_color-mix(in_srgb,var(--accent-orange)_70%,transparent)]" href="/deposits">
             <div class="bp-graphic mb-7" data-accent="orange" role="img" aria-label="存款排名示意圖">
               <span class="bp-graphic-icon">💰</span>
@@ -102,10 +112,11 @@ const fmtInt = (value: number) => value.toLocaleString('en-US');
         </div>
 
         <div class="connector-wrap relative mt-7 hidden h-24 md:block">
-          <div class="absolute left-[16.666%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
-          <div class="absolute left-1/2 top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
-          <div class="absolute left-[83.333%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
-          <div class="absolute left-[16.666%] top-12 h-px w-[66.666%] bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[12.5%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[37.5%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[62.5%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[87.5%] top-0 h-12 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
+          <div class="absolute left-[12.5%] top-12 h-px w-[75%] bg-[var(--border-grid)]"></div>
           <div class="absolute left-1/2 top-12 h-2 w-px -translate-x-1/2 bg-[var(--border-grid)]"></div>
           <div class="absolute inset-x-0 top-14 flex justify-center">
             <a class="download-node bp-crosshair border border-[var(--border-grid)] bg-[var(--bg-card)] px-4 py-2" href="/download">
@@ -176,10 +187,10 @@ const fmtInt = (value: number) => value.toLocaleString('en-US');
               <ol class="bp-body list-decimal space-y-2 pl-5 text-sm text-[var(--text-secondary)]">
                 <li><strong class="text-[var(--text-primary)]">顏色</strong>：代表政黨。
                   <span class="ml-1 inline-flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-dpp);color:color-mix(in srgb, var(--color-dpp) 45%, black)">民進黨</span>
-                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-kmt);color:color-mix(in srgb, var(--color-kmt) 45%, black)">國民黨</span>
-                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-tpp);color:color-mix(in srgb, var(--color-tpp) 45%, black)">民眾黨</span>
-                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-independent);color:color-mix(in srgb, var(--color-independent) 45%, black)">無黨籍</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-dpp);color:#103d1d">民進黨</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-kmt);color:#dbe3ff">國民黨</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-tpp);color:#083d3a">民眾黨</span>
+                    <span class="px-1.5 py-0.5 text-[11px]" style="background:var(--color-independent);color:#1f2436">無黨籍</span>
                   </span>
                 </li>
                 <li><strong class="text-[var(--text-primary)]">圖示</strong>：🏛️ 代表立法委員；🏙️ 代表縣市首長。</li>
@@ -269,6 +280,9 @@ const fmtInt = (value: number) => value.toLocaleString('en-US');
   .bp-graphic[data-accent="purple"]::after {
     background: linear-gradient(var(--bg-base), var(--bg-base)) padding-box, linear-gradient(130deg, transparent, var(--accent-purple), transparent) border-box;
   }
+  .bp-graphic[data-accent="gray"]::after {
+    background: linear-gradient(var(--bg-base), var(--bg-base)) padding-box, linear-gradient(130deg, transparent, #7f85a3, transparent) border-box;
+  }
 
   .bp-graphic[data-accent="orange"] {
     box-shadow: inset 0 -40px 48px -48px color-mix(in srgb, var(--accent-orange) 60%, transparent);
@@ -280,6 +294,9 @@ const fmtInt = (value: number) => value.toLocaleString('en-US');
 
   .bp-graphic[data-accent="purple"] {
     box-shadow: inset 0 -40px 48px -48px color-mix(in srgb, var(--accent-purple) 60%, transparent);
+  }
+  .bp-graphic[data-accent="gray"] {
+    box-shadow: inset 0 -40px 48px -48px color-mix(in srgb, #7f85a3 55%, transparent);
   }
 
   .feature-card:hover .feature-link {
