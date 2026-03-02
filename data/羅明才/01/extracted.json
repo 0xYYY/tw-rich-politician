@@ -1,0 +1,679 @@
+{
+  "name": "羅明才",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃靜秋"
+    }
+  ],
+  "land": [
+    {
+      "location": "1★新北市新店區行政段",
+      "area": 1660.54,
+      "share": "10000 分之 198",
+      "owner": "黃靜秋",
+      "date": "112年07月24日",
+      "reason": "買賣",
+      "price": "32,500,000 (土地 1 筆、建 物2筆合購價)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "1★新北市新店區行政段",
+      "area": 237.64,
+      "share": "全部",
+      "owner": "黃靜秋",
+      "date": "112年07月24日",
+      "reason": "買賣",
+      "price": "32,500,000 (土地 1 筆、建 物2筆合購價, 含陽台 25.57 平方公尺,花 台5.27平方公 尺)"
+    },
+    {
+      "location": "1★新北市新店區行政段",
+      "area": 5575.89,
+      "share": "100000 分 之 2359",
+      "owner": "黃靜秋",
+      "date": "112年07月24日",
+      "reason": "買賣",
+      "price": "32,500,000 (土地 1 筆、建 物2筆合購價, 共同使用部 分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "AUDI",
+      "cc": 2773,
+      "owner": "黃靜秋",
+      "date": "113年03月28日",
+      "reason": "買賣",
+      "price": 150000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 25131277,
+    "items": [
+      {
+        "institution": "第一銀行仁和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 1515
+      },
+      {
+        "institution": "第一銀行仁和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 1197
+      },
+      {
+        "institution": "第一銀行三重埔分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 1679
+      },
+      {
+        "institution": "台北富邦銀行仁愛分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅明才 (福全國際貿 易股份有限公 司籌備處)",
+        "foreignAmount": 0,
+        "amount": 1958
+      },
+      {
+        "institution": "國泰世華銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 1105
+      },
+      {
+        "institution": "臺灣企銀新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 297
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 241
+      },
+      {
+        "institution": "玉山銀行北新分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "羅明才 (福華天廈管 理委員會)",
+        "foreignAmount": 0,
+        "amount": 1400000
+      },
+      {
+        "institution": "玉山銀行北新分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "羅明才 (福華天廈管 理委員會)",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "玉山銀行北新分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "羅明才 (福華天廈管 理委員會)",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "玉山銀行北新分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅明才 (福華天廈管 理委員會)",
+        "foreignAmount": 0,
+        "amount": 106185
+      },
+      {
+        "institution": "玉山銀行北新分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 8630775
+      },
+      {
+        "institution": "星展襄陽分行",
+        "type": "活期存款",
+        "currency": "新加坡幣",
+        "owner": "羅明才",
+        "foreignAmount": 214,
+        "amount": 5238
+      },
+      {
+        "institution": "星展襄陽分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 638
+      },
+      {
+        "institution": "台新國際銀行新店分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "羅明才",
+        "foreignAmount": 17275,
+        "amount": 552303
+      },
+      {
+        "institution": "台新國際銀行新店分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅明才",
+        "foreignAmount": 0,
+        "amount": 124867
+      },
+      {
+        "institution": "土地銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 18
+      },
+      {
+        "institution": "合庫商業銀行板橋分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 2571173
+      },
+      {
+        "institution": "合庫商業銀行仁愛分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 1236
+      },
+      {
+        "institution": "合庫商業銀行北新分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃靜秋",
+        "foreignAmount": 1208,
+        "amount": 38643
+      },
+      {
+        "institution": "合庫商業銀行北新分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 583
+      },
+      {
+        "institution": "合庫商業銀行北新分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 703
+      },
+      {
+        "institution": "第一銀行華江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 177
+      },
+      {
+        "institution": "第一銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 8
+      },
+      {
+        "institution": "華南銀行華江分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "華南銀行華江分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 103400
+      },
+      {
+        "institution": "彰化銀行北屯分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "彰化銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 48
+      },
+      {
+        "institution": "台北富邦銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 23668
+      },
+      {
+        "institution": "國泰世華銀行板橋分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 1768
+      },
+      {
+        "institution": "臺灣企銀中和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 113
+      },
+      {
+        "institution": "板信銀行新店分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 311737
+      },
+      {
+        "institution": "板信銀行新店分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "黃靜秋",
+        "foreignAmount": 918,
+        "amount": 29354
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 147
+      },
+      {
+        "institution": "元大銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 121436
+      },
+      {
+        "institution": "永豐銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 6193
+      },
+      {
+        "institution": "玉山銀行北新分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 1246095
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "黃靜秋",
+        "foreignAmount": 124236,
+        "amount": 3971836
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 3282904
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "綜合存款",
+        "currency": "英鎊",
+        "owner": "黃靜秋",
+        "foreignAmount": 4,
+        "amount": 190
+      },
+      {
+        "institution": "中信銀行板橋分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 490253
+      },
+      {
+        "institution": "中信銀行重慶分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "新北市汐止區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃靜秋",
+        "foreignAmount": 0,
+        "amount": 1588
+      }
+    ]
+  },
+  "stocks": {
+    "total": 3849650,
+    "items": [
+      {
+        "name": "台泥",
+        "owner": "羅明才",
+        "shares": 100000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1000000
+      },
+      {
+        "name": "台塑",
+        "owner": "羅明才",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "統一",
+        "owner": "黃靜秋",
+        "shares": 2945,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 29450
+      },
+      {
+        "name": "統一",
+        "owner": "黃靜秋",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "台塑",
+        "owner": "黃靜秋",
+        "shares": 50000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 500000
+      },
+      {
+        "name": "華隆",
+        "owner": "黃靜秋",
+        "shares": 56,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 560
+      },
+      {
+        "name": "富邦金丙特",
+        "owner": "黃靜秋",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "富邦金",
+        "owner": "黃靜秋",
+        "shares": 107824,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1078240
+      },
+      {
+        "name": "國泰金",
+        "owner": "黃靜秋",
+        "shares": 1176,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11760
+      },
+      {
+        "name": "兆豐金",
+        "owner": "黃靜秋",
+        "shares": 1058,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10580
+      },
+      {
+        "name": "台新金",
+        "owner": "黃靜秋",
+        "shares": 88712,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 887120
+      },
+      {
+        "name": "台新金",
+        "owner": "黃靜秋",
+        "shares": 6622,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 66220
+      },
+      {
+        "name": "台新金",
+        "owner": "黃靜秋",
+        "shares": 3454,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 34540
+      },
+      {
+        "name": "長億實業",
+        "owner": "黃靜秋",
+        "shares": 1118,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11180
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "台新策略優選總 回報非投資等級 債券基金 N（美 元）（月配息）（基 金之配息來源可 能為本金）",
+        "owner": "羅明才",
+        "institution": "台 新 國 際 銀 行 新店分行",
+        "units": 10000,
+        "unitValue": 8.6546,
+        "foreignCurrency": "美元",
+        "totalValue": 2766875
+      },
+      {
+        "name": "摩根環球非投資 等級債 A 美累計",
+        "owner": "黃靜秋",
+        "institution": "合 庫 商 業 銀 行 信託部",
+        "units": 2.517,
+        "unitValue": 222.34,
+        "foreignCurrency": "美元",
+        "totalValue": 17860
+      },
+      {
+        "name": "JPM 中國基金美 元",
+        "owner": "黃靜秋",
+        "institution": "合 庫 商 業 銀 行 信託部",
+        "units": 277.531,
+        "unitValue": 63.72,
+        "foreignCurrency": "美元",
+        "totalValue": 564376
+      },
+      {
+        "name": "富坦全球科技基 金美元",
+        "owner": "黃靜秋",
+        "institution": "合 庫 商 業 銀 行 信託部",
+        "units": 1878.842,
+        "unitValue": 48.66,
+        "foreignCurrency": "美元",
+        "totalValue": 2917720
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "金豐盛利率變動 型美元終身壽險",
+        "policyNumber": "",
+        "holder": "羅明才",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 08 月 20 日/165 年 08 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美晶外 幣利率變動型終 身壽險(美元)",
+        "policyNumber": "",
+        "holder": "羅明才",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 12 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "養老壽險",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "年金型保險",
+        "period": "81 年 07 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "養老壽險",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "年金型保險",
+        "period": "84 年 09 月 23 日/114 年 09 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "教育終身壽險",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 09 月 21 日/188 年 09 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "教育終身壽險",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 11 月 14 日/191 年 11 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "新享富傳家利率 變動型美元終身 壽險",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 06 月 08 日/164 年 06 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾愛一生 313",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 07 月 17 日/185 年 07 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽富利美 外幣利率變動型 終身壽險(美元)",
+        "policyNumber": "",
+        "holder": "黃靜秋",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 11 月 28 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：玉山商 業銀行北新分行)",
+        "quantity": "1",
+        "owner": "黃靜秋",
+        "value": 2806
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 26000000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "黃靜秋",
+        "creditor": "台新國際商業銀行忠孝分行 台北市大安區忠孝東路",
+        "amount": 26000000,
+        "date": "112年07月28日",
+        "reason": "自用住宅房 屋貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 950000,
+    "items": []
+  }
+}

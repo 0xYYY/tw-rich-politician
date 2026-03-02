@@ -1,0 +1,359 @@
+{
+  "name": "王惠美",
+  "org": "彰化縣政府",
+  "title": "縣長",
+  "date": "114年03月19日",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "周明亞"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "宏洲",
+        "owner": "王惠美",
+        "shares": 24000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 240000
+      },
+      {
+        "name": "新麥",
+        "owner": "王惠美",
+        "shares": 1000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "合機",
+        "owner": "王惠美",
+        "shares": 25000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 250000
+      },
+      {
+        "name": "豐興",
+        "owner": "王惠美",
+        "shares": 16000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160000
+      },
+      {
+        "name": "六暉-KY",
+        "owner": "王惠美",
+        "shares": 20149,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 201490
+      },
+      {
+        "name": "為升",
+        "owner": "王惠美",
+        "shares": 11049,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 110490
+      },
+      {
+        "name": "鴻海",
+        "owner": "王惠美",
+        "shares": 3000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "英業達",
+        "owner": "王惠美",
+        "shares": 22000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 220000
+      },
+      {
+        "name": "廣達",
+        "owner": "王惠美",
+        "shares": 1000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中工",
+        "owner": "王惠美",
+        "shares": 17000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 170000
+      },
+      {
+        "name": "元大金",
+        "owner": "王惠美",
+        "shares": 20400,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 204000
+      },
+      {
+        "name": "第一金",
+        "owner": "王惠美",
+        "shares": 10317,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 103170
+      },
+      {
+        "name": "夆典",
+        "owner": "王惠美",
+        "shares": 16320,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 163200
+      },
+      {
+        "name": "景岳",
+        "owner": "王惠美",
+        "shares": 8000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "緯創",
+        "owner": "王惠美",
+        "shares": 20000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "先進光電",
+        "owner": "王惠美",
+        "shares": 3000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "明泰",
+        "owner": "王惠美",
+        "shares": 9000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 90000
+      },
+      {
+        "name": "洋華",
+        "owner": "王惠美",
+        "shares": 13000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 130000
+      },
+      {
+        "name": "善德生技",
+        "owner": "王惠美",
+        "shares": 168400,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1684000
+      },
+      {
+        "name": "全訊",
+        "owner": "王惠美",
+        "shares": 1100,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11000
+      },
+      {
+        "name": "寶島科",
+        "owner": "王惠美",
+        "shares": 21000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 210000
+      },
+      {
+        "name": "聖暉",
+        "owner": "王惠美",
+        "shares": 1000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中租-KY",
+        "owner": "王惠美",
+        "shares": 10180,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 101800
+      },
+      {
+        "name": "合庫金",
+        "owner": "王惠美",
+        "shares": 31050,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 310500
+      },
+      {
+        "name": "高僑",
+        "owner": "王惠美",
+        "shares": 40000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 400000
+      },
+      {
+        "name": "國璽幹細胞",
+        "owner": "王惠美",
+        "shares": 3000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "上洋",
+        "owner": "王惠美",
+        "shares": 1000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "秀育",
+        "owner": "王惠美",
+        "shares": 13000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 130000
+      },
+      {
+        "name": "衛司特",
+        "owner": "王惠美",
+        "shares": 5000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "百和興業-KY",
+        "owner": "王惠美",
+        "shares": 10000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "百和",
+        "owner": "王惠美",
+        "shares": 9000,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年03月10日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 90000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

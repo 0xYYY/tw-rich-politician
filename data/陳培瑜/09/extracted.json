@@ -1,0 +1,143 @@
+{
+  "name": "陳培瑜",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月24日",
+  "type": "前次申報日期民國112年04月22日起，本次定期申報日113年12月24日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王得泰"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "王○安"
+    }
+  ],
+  "land": [
+    {
+      "location": "★臺北市中正區永昌段二小段",
+      "area": 97,
+      "share": "5 分之 1",
+      "owner": "陳培瑜",
+      "date": "112年08月11日",
+      "reason": "買賣",
+      "price": "19,000,000 (土地與建物一 起)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "★臺北市中正區永昌段二小段",
+      "area": 79.67,
+      "share": "全部",
+      "owner": "陳培瑜",
+      "date": "112年08月11日",
+      "reason": "買賣",
+      "price": "19,000,000 (土地與建物一 起)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "★聯電",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 1000,
+        "pricePerShare": "55.70",
+        "changeDate": "113年07月09日",
+        "changeReason": "買",
+        "totalValue": 55700
+      },
+      {
+        "name": "★聯電",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 1000,
+        "pricePerShare": "55.90",
+        "changeDate": "113年07月09日",
+        "changeReason": "買",
+        "totalValue": 55900
+      },
+      {
+        "name": "★聯電",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 1000,
+        "pricePerShare": "54.30",
+        "changeDate": "113年07月10日",
+        "changeReason": "買",
+        "totalValue": 54300
+      },
+      {
+        "name": "★聯電",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 1000,
+        "pricePerShare": "53.30",
+        "changeDate": "113年07月15日",
+        "changeReason": "買",
+        "totalValue": 53300
+      },
+      {
+        "name": "★北基",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 1000,
+        "pricePerShare": "76.50",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 76500
+      },
+      {
+        "name": "★北基",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 1000,
+        "pricePerShare": "76.40",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 76400
+      },
+      {
+        "name": "★北基",
+        "broker": "中國信託",
+        "owner": "陳培瑜",
+        "shares": 259,
+        "pricePerShare": "62.10",
+        "changeDate": "113年10月31日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 16083
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

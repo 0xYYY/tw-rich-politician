@@ -1,0 +1,367 @@
+{
+  "name": "傅崐萁",
+  "date": "2024-12-31",
+  "type": "legislator",
+  "area": "花蓮縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6653453
+    },
+    {
+      "currency": "美元",
+      "amount": 181416
+    },
+    {
+      "currency": "人民幣",
+      "amount": 301973
+    }
+  ],
+  "depositsTotal": 7136846,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "傅崐萁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "超優勢變額萬能 壽險",
+      "holder": "徐榛蔚",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "好事年年終身保 險",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美多美元",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰喬壽還本終 身壽險（繳費二 十年）",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦新終身壽險 （甲型）",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦新終身壽險 （甲型）",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "嘉新食化",
+      "cleanName": "嘉新食化",
+      "ticker": null,
+      "shares": 428,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "東和「交付臺灣銀行信託」",
+      "cleanName": "東和",
+      "ticker": "1414",
+      "shares": 2261,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 24.7,
+      "latestPrice": 19.85
+    },
+    {
+      "name": "台火「交付臺灣銀行信託」",
+      "cleanName": "台火",
+      "ticker": "9902",
+      "shares": 159,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 16.7
+    },
+    {
+      "name": "得力「交付臺灣銀行信託」",
+      "cleanName": "得力",
+      "ticker": "1464",
+      "shares": 35950,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 16.65,
+      "latestPrice": 11
+    },
+    {
+      "name": "東元「交付臺灣銀行信託」",
+      "cleanName": "東元",
+      "ticker": "1504",
+      "shares": 20000,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 52.2,
+      "latestPrice": 82.9
+    },
+    {
+      "name": "亞崴「交付臺灣銀行信託」",
+      "cleanName": "亞崴",
+      "ticker": "1530",
+      "shares": 1274,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 31.6,
+      "latestPrice": 28.7
+    },
+    {
+      "name": "聲寶「交付臺灣銀行信託」",
+      "cleanName": "聲寶",
+      "ticker": "1604",
+      "shares": 7328,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 28.05,
+      "latestPrice": 24.35
+    },
+    {
+      "name": "五鼎「交付臺灣銀行信託」",
+      "cleanName": "五鼎",
+      "ticker": "1733",
+      "shares": 2983,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 30.1,
+      "latestPrice": 30.25
+    },
+    {
+      "name": "華紙「交付臺灣銀行信託」",
+      "cleanName": "華紙",
+      "ticker": "1905",
+      "shares": 9289,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 16.55,
+      "latestPrice": 12.55
+    },
+    {
+      "name": "聯電「交付臺灣銀行信託」",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 875,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 43.05,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "仁寶「交付臺灣銀行信託」",
+      "cleanName": "仁寶",
+      "ticker": "2324",
+      "shares": 392,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 37.65,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "國巨「交付臺灣銀行信託」",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 1346,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 541,
+      "latestPrice": 298
+    },
+    {
+      "name": "大同「交付臺灣銀行信託」",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 4213,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 47.9,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "富邦金「交付臺灣銀行信 託」",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 4418,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 90.3,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "開發金「交付臺灣銀行信 託」",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 5544,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 17.2,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "玉山金「交付臺灣銀行信 託」",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 30101,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 26.95,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "兆豐金「交付臺灣銀行信 託」",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 7711,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 38.7,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "台新金「交付臺灣銀行信 託」",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 48176,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 17.4,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "新光金「交付臺灣銀行信 託」",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 6558,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 11.8,
+      "latestPrice": null
+    },
+    {
+      "name": "中信金「交付臺灣銀行信 託」",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 271,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 39.1,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "智原「交付臺灣銀行信託」",
+      "cleanName": "智原",
+      "ticker": "3035",
+      "shares": 638,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 241,
+      "latestPrice": 168
+    },
+    {
+      "name": "全台「交付臺灣銀行信託」",
+      "cleanName": "全台",
+      "ticker": "3038",
+      "shares": 204,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 28.55,
+      "latestPrice": 23.25
+    },
+    {
+      "name": "豐謙「交付臺灣銀行信託」",
+      "cleanName": "豐謙",
+      "ticker": "5523",
+      "shares": 1595,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 27.85,
+      "latestPrice": 30.55
+    },
+    {
+      "name": "寶雅「交付臺灣銀行信託」",
+      "cleanName": "寶雅",
+      "ticker": "5904",
+      "shares": 4482,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 496.5,
+      "latestPrice": 506
+    },
+    {
+      "name": "偉盟",
+      "cleanName": "偉盟",
+      "ticker": null,
+      "shares": 137,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "成霖「交付臺灣銀行信託」",
+      "cleanName": "成霖",
+      "ticker": "9934",
+      "shares": 6857,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 13.65,
+      "latestPrice": 9.93
+    },
+    {
+      "name": "信義「交付臺灣銀行信託」",
+      "cleanName": "信義",
+      "ticker": "9940",
+      "shares": 3823,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 28.7,
+      "latestPrice": 22.05
+    },
+    {
+      "name": "1★台新金已「交付臺灣銀 行信託」",
+      "cleanName": "台新金已",
+      "ticker": "2887",
+      "shares": 832,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": 17.4,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "合勤「交付臺灣銀行信託」",
+      "cleanName": "合勤",
+      "ticker": "2391",
+      "shares": 912,
+      "owner": "傅崐萁",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市大安區復興段二小段",
+      "owner": "傅崐萁",
+      "date": "2018-04-10",
+      "effectiveAreaPing": 54.4,
+      "entryCount": 2,
+      "price": "○○○○○建 號504.03平方 公尺、權利範 圍 504 分之 21 (超過五年)"
+    },
+    {
+      "location": "花蓮縣吉安鄉福吉段",
+      "owner": "徐榛蔚",
+      "date": "2011-04-11",
+      "effectiveAreaPing": 161.75,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

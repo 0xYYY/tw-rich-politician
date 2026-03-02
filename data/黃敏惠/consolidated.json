@@ -1,0 +1,95 @@
+{
+  "name": "黃敏惠",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "嘉義市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2954226
+    },
+    {
+      "currency": "人民幣",
+      "amount": 318676
+    },
+    {
+      "currency": "日圓",
+      "amount": 10332
+    },
+    {
+      "currency": "港幣",
+      "amount": 69
+    },
+    {
+      "currency": "歐元",
+      "amount": 44
+    },
+    {
+      "currency": "紐西蘭幣",
+      "amount": 17
+    },
+    {
+      "currency": "美元",
+      "amount": 7862
+    },
+    {
+      "currency": "離岸人民幣",
+      "amount": 8
+    }
+  ],
+  "depositsTotal": 3291238,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山康樂限期繳 費終身壽險",
+      "holder": "蔡宗佑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "新二十年限期繳 費特別增值分紅 終身壽險",
+      "holder": "蔡宗佑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺銀人壽保險股 份有限公司",
+      "name": "鴻福還本終身壽 險",
+      "holder": "蔡宗佑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險股 份有限公司",
+      "name": "台灣人壽臻美利 美元利率變動型 終身壽險",
+      "holder": "蔡宗佑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險股 份有限公司",
+      "name": "真鑫安保險甲型",
+      "holder": "蔡宗佑",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市士林區三玉段一小段",
+      "owner": "黃敏惠",
+      "date": "1984-11-22",
+      "effectiveAreaPing": 61.88,
+      "entryCount": 3,
+      "price": "含平台 15.68 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市士林區三玉段一小段",
+      "owner": "蔡宗佑",
+      "date": "1984-11-22",
+      "effectiveAreaPing": 7.92,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

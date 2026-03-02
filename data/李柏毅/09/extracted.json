@@ -1,0 +1,1777 @@
+{
+  "name": "李柏毅",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "葉瑋玲"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○晉"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○允"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "中天",
+        "broker": "元大證券高雄分公 司",
+        "owner": "李柏毅",
+        "shares": 99,
+        "pricePerShare": "41.20",
+        "changeDate": "113年09月16日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 4078
+      },
+      {
+        "name": "三福化",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "156",
+        "changeDate": "113年02月27日",
+        "changeReason": "賣",
+        "totalValue": 468000
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 8000,
+        "pricePerShare": "39.75",
+        "changeDate": "112年12月18日",
+        "changeReason": "買",
+        "totalValue": 318000
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "39.75",
+        "changeDate": "112年12月18日",
+        "changeReason": "買",
+        "totalValue": 79500
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "38.90",
+        "changeDate": "112年12月19日",
+        "changeReason": "買",
+        "totalValue": 194500
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "39.35",
+        "changeDate": "112年12月19日",
+        "changeReason": "買",
+        "totalValue": 196750
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "39.50",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 197500
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 198500
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 198500
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 79400
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 39700
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 39700
+      },
+      {
+        "name": "大成鋼",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 39700
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 8000,
+        "pricePerShare": "66",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 528000
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "66",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 330000
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 4000,
+        "pricePerShare": "66.10",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 264400
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 4000,
+        "pricePerShare": "65.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 262800
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "66",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 198000
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "66",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 132000
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "66",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 66000
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "66",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 66000
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "65.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 65700
+      },
+      {
+        "name": "北基",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "66.10",
+        "changeDate": "113年10月01日",
+        "changeReason": "買",
+        "totalValue": 66100
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "176.50",
+        "changeDate": "113年08月05日",
+        "changeReason": "賣",
+        "totalValue": 176500
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "176.50",
+        "changeDate": "113年08月05日",
+        "changeReason": "賣",
+        "totalValue": 176500
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "176.50",
+        "changeDate": "113年08月05日",
+        "changeReason": "賣",
+        "totalValue": 176500
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "182",
+        "changeDate": "113年08月19日",
+        "changeReason": "賣",
+        "totalValue": 182000
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "182",
+        "changeDate": "113年08月19日",
+        "changeReason": "賣",
+        "totalValue": 182000
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "181.50",
+        "changeDate": "113年08月21日",
+        "changeReason": "賣",
+        "totalValue": 181500
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "181.50",
+        "changeDate": "113年08月21日",
+        "changeReason": "賣",
+        "totalValue": 181500
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "188",
+        "changeDate": "113年09月03日",
+        "changeReason": "賣",
+        "totalValue": 376000
+      },
+      {
+        "name": "可寧衛",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "188",
+        "changeDate": "113年09月03日",
+        "changeReason": "賣",
+        "totalValue": 188000
+      },
+      {
+        "name": "台積電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "630",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 630000
+      },
+      {
+        "name": "台積電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "629",
+        "changeDate": "113年01月24日",
+        "changeReason": "賣",
+        "totalValue": 629000
+      },
+      {
+        "name": "台積電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "645",
+        "changeDate": "113年02月05日",
+        "changeReason": "賣",
+        "totalValue": 1290000
+      },
+      {
+        "name": "台積電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "945",
+        "changeDate": "113年07月22日",
+        "changeReason": "買",
+        "totalValue": 945000
+      },
+      {
+        "name": "台積電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "929",
+        "changeDate": "113年07月30日",
+        "changeReason": "買",
+        "totalValue": 929000
+      },
+      {
+        "name": "台積電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "845",
+        "changeDate": "113年08月05日",
+        "changeReason": "買",
+        "totalValue": 845000
+      },
+      {
+        "name": "巨虹",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "106",
+        "changeDate": "113年01月30日",
+        "changeReason": "賣",
+        "totalValue": 530000
+      },
+      {
+        "name": "巨虹",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "100",
+        "changeDate": "113年02月05日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "巨虹",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年02月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "巨虹",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年02月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "巨虹",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年02月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "49.80",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 498000
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "52.80",
+        "changeDate": "113年06月24日",
+        "changeReason": "買",
+        "totalValue": 52800
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "52.80",
+        "changeDate": "113年06月24日",
+        "changeReason": "買",
+        "totalValue": 52800
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "52.30",
+        "changeDate": "113年06月25日",
+        "changeReason": "買",
+        "totalValue": 52300
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "52.30",
+        "changeDate": "113年06月25日",
+        "changeReason": "買",
+        "totalValue": 52300
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "52.30",
+        "changeDate": "113年06月25日",
+        "changeReason": "買",
+        "totalValue": 52300
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "46.50",
+        "changeDate": "113年08月06日",
+        "changeReason": "買",
+        "totalValue": 46500
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "46.50",
+        "changeDate": "113年08月06日",
+        "changeReason": "買",
+        "totalValue": 46500
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "46.50",
+        "changeDate": "113年08月06日",
+        "changeReason": "買",
+        "totalValue": 46500
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "46.50",
+        "changeDate": "113年08月06日",
+        "changeReason": "買",
+        "totalValue": 46500
+      },
+      {
+        "name": "永崴投控",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "46.50",
+        "changeDate": "113年08月06日",
+        "changeReason": "買",
+        "totalValue": 46500
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 256000
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 256000
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 4000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 102400
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 76800
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 25600
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 25600
+      },
+      {
+        "name": "玉山金",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "25.60",
+        "changeDate": "112年11月21日",
+        "changeReason": "賣",
+        "totalValue": 25600
+      },
+      {
+        "name": "安克",
+        "broker": "凱基證券高雄分公 司",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "23.65",
+        "changeDate": "113年07月29日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 23650
+      },
+      {
+        "name": "安克",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "21.30",
+        "changeDate": "113年08月05日",
+        "changeReason": "賣",
+        "totalValue": 21300
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "38.50",
+        "changeDate": "113年03月14日",
+        "changeReason": "買",
+        "totalValue": 385000
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "38.10",
+        "changeDate": "113年03月14日",
+        "changeReason": "買",
+        "totalValue": 76200
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "38.10",
+        "changeDate": "113年03月14日",
+        "changeReason": "買",
+        "totalValue": 38100
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "38.10",
+        "changeDate": "113年03月14日",
+        "changeReason": "買",
+        "totalValue": 38100
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "38.15",
+        "changeDate": "113年03月14日",
+        "changeReason": "買",
+        "totalValue": 38150
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 40500
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "40.10",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 40100
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.90",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 39900
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "40",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 40000
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "50",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 250000
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "50",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 150000
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "50",
+        "changeDate": "113年05月20日",
+        "changeReason": "賣",
+        "totalValue": 50000
+      },
+      {
+        "name": "佳凌",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "50.80",
+        "changeDate": "113年06月26日",
+        "changeReason": "賣",
+        "totalValue": 508000
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "62.50",
+        "changeDate": "113年08月05日",
+        "changeReason": "賣",
+        "totalValue": 625000
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "61.80",
+        "changeDate": "113年09月09日",
+        "changeReason": "賣",
+        "totalValue": 123600
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "61.80",
+        "changeDate": "113年09月09日",
+        "changeReason": "賣",
+        "totalValue": 61800
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "61.80",
+        "changeDate": "113年09月09日",
+        "changeReason": "賣",
+        "totalValue": 61800
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "61.80",
+        "changeDate": "113年09月09日",
+        "changeReason": "賣",
+        "totalValue": 61800
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "和大",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "長榮",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "153",
+        "changeDate": "112年12月22日",
+        "changeReason": "賣",
+        "totalValue": 306000
+      },
+      {
+        "name": "長榮",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "153",
+        "changeDate": "112年12月22日",
+        "changeReason": "賣",
+        "totalValue": 153000
+      },
+      {
+        "name": "長榮",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "155",
+        "changeDate": "113年01月03日",
+        "changeReason": "賣",
+        "totalValue": 310000
+      },
+      {
+        "name": "長榮",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "155",
+        "changeDate": "113年01月03日",
+        "changeReason": "賣",
+        "totalValue": 155000
+      },
+      {
+        "name": "長榮",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 800,
+        "pricePerShare": "154",
+        "changeDate": "113年01月03日",
+        "changeReason": "賣",
+        "totalValue": 123200
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 8000,
+        "pricePerShare": "39.45",
+        "changeDate": "113年02月21日",
+        "changeReason": "買",
+        "totalValue": 315600
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 7000,
+        "pricePerShare": "38.90",
+        "changeDate": "113年02月21日",
+        "changeReason": "買",
+        "totalValue": 272300
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "39.30",
+        "changeDate": "113年02月21日",
+        "changeReason": "買",
+        "totalValue": 117900
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "38.90",
+        "changeDate": "113年02月21日",
+        "changeReason": "買",
+        "totalValue": 116700
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "39.30",
+        "changeDate": "113年02月21日",
+        "changeReason": "買",
+        "totalValue": 78600
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "39.45",
+        "changeDate": "113年02月21日",
+        "changeReason": "買",
+        "totalValue": 78900
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年02月22日",
+        "changeReason": "賣",
+        "totalValue": 198500
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 4000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年02月22日",
+        "changeReason": "賣",
+        "totalValue": 158800
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "39.25",
+        "changeDate": "113年02月22日",
+        "changeReason": "賣",
+        "totalValue": 117750
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.70",
+        "changeDate": "113年02月22日",
+        "changeReason": "賣",
+        "totalValue": 39700
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.25",
+        "changeDate": "113年02月22日",
+        "changeReason": "賣",
+        "totalValue": 39250
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "39.25",
+        "changeDate": "113年02月22日",
+        "changeReason": "賣",
+        "totalValue": 39250
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "40",
+        "changeDate": "113年02月23日",
+        "changeReason": "賣",
+        "totalValue": 400000
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "38.80",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 388000
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "38",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 114000
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "38.25",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 38250
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "38.25",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 38250
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "38.25",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 38250
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "37.30",
+        "changeDate": "113年03月06日",
+        "changeReason": "買",
+        "totalValue": 37300
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "36.20",
+        "changeDate": "113年03月07日",
+        "changeReason": "買",
+        "totalValue": 36200
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "36.20",
+        "changeDate": "113年03月07日",
+        "changeReason": "買",
+        "totalValue": 36200
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "36.20",
+        "changeDate": "113年03月07日",
+        "changeReason": "買",
+        "totalValue": 36200
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 15000,
+        "pricePerShare": "29.15",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 437250
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "29.15",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 58300
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "29.15",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 29150
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "29.15",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 29150
+      },
+      {
+        "name": "建通",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "29.15",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 29150
+      },
+      {
+        "name": "國統",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 4000,
+        "pricePerShare": "66.70",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 266800
+      },
+      {
+        "name": "國統",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "66.60",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 133200
+      },
+      {
+        "name": "國統",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "66.60",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 133200
+      },
+      {
+        "name": "國統",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "66.70",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 66700
+      },
+      {
+        "name": "國統",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "66.60",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 66600
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "184",
+        "changeDate": "113年07月15日",
+        "changeReason": "買",
+        "totalValue": 920000
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "179",
+        "changeDate": "113年07月15日",
+        "changeReason": "買",
+        "totalValue": 179000
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "182",
+        "changeDate": "113年07月15日",
+        "changeReason": "買",
+        "totalValue": 182000
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "178",
+        "changeDate": "113年07月16日",
+        "changeReason": "買",
+        "totalValue": 178000
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "136",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 136000
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "136",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 136000
+      },
+      {
+        "name": "森崴能源",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "136",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 136000
+      },
+      {
+        "name": "華友聯",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "165",
+        "changeDate": "113年08月21日",
+        "changeReason": "買",
+        "totalValue": 165000
+      },
+      {
+        "name": "華友聯",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "165",
+        "changeDate": "113年08月21日",
+        "changeReason": "買",
+        "totalValue": 165000
+      },
+      {
+        "name": "華友聯",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "164",
+        "changeDate": "113年08月21日",
+        "changeReason": "買",
+        "totalValue": 164000
+      },
+      {
+        "name": "華友聯",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "149",
+        "changeDate": "113年09月09日",
+        "changeReason": "買",
+        "totalValue": 149000
+      },
+      {
+        "name": "華友聯",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "150",
+        "changeDate": "113年09月09日",
+        "changeReason": "買",
+        "totalValue": 150000
+      },
+      {
+        "name": "華友聯",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "142.50",
+        "changeDate": "113年09月20日",
+        "changeReason": "買",
+        "totalValue": 142500
+      },
+      {
+        "name": "億光",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "79",
+        "changeDate": "113年07月15日",
+        "changeReason": "買",
+        "totalValue": 395000
+      },
+      {
+        "name": "億光",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "80",
+        "changeDate": "113年07月16日",
+        "changeReason": "買",
+        "totalValue": 400000
+      },
+      {
+        "name": "億光",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 9000,
+        "pricePerShare": "78.20",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 703800
+      },
+      {
+        "name": "億光",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "78.20",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 78200
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "117.50",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 235000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "120",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 240000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 239000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "119",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 119000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "118",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 118000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "117.50",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 117500
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "118.50",
+        "changeDate": "113年04月03日",
+        "changeReason": "買",
+        "totalValue": 118500
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "111",
+        "changeDate": "113年04月08日",
+        "changeReason": "買",
+        "totalValue": 111000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "107",
+        "changeDate": "113年04月16日",
+        "changeReason": "買",
+        "totalValue": 107000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "74.80",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 374000
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "pricePerShare": "74.80",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 224400
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "74.80",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 74800
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "74.80",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 74800
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "74.80",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 74800
+      },
+      {
+        "name": "聯茂",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "74.80",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 74800
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "49.75",
+        "changeDate": "112年12月22日",
+        "changeReason": "賣",
+        "totalValue": 248750
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "49.70",
+        "changeDate": "112年12月22日",
+        "changeReason": "賣",
+        "totalValue": 248500
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "pricePerShare": "48.90",
+        "changeDate": "113年01月17日",
+        "changeReason": "買",
+        "totalValue": 489000
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 4000,
+        "pricePerShare": "50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 50000
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 50000
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 50000
+      },
+      {
+        "name": "聯電",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 50000
+      },
+      {
+        "name": "鴻準",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "pricePerShare": "73",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 365000
+      },
+      {
+        "name": "鴻準",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "71.90",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 143800
+      },
+      {
+        "name": "鴻準",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 2000,
+        "pricePerShare": "71.80",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 143600
+      },
+      {
+        "name": "鴻準",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "72.20",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 72200
+      },
+      {
+        "name": "鴻準",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 1000,
+        "pricePerShare": "72.20",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 72200
+      },
+      {
+        "name": "鴻準",
+        "broker": "凱基-高雄",
+        "owner": "葉瑋玲",
+        "shares": 11000,
+        "pricePerShare": "77",
+        "changeDate": "113年05月31日",
+        "changeReason": "賣",
+        "totalValue": 847000
+      },
+      {
+        "name": "正達",
+        "broker": "凱基證券高雄分公 司",
+        "owner": "李○晉",
+        "shares": 1000,
+        "pricePerShare": "29.80",
+        "changeDate": "113年06月24日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 29800
+      },
+      {
+        "name": "正達",
+        "broker": "凱基-高雄",
+        "owner": "李○晉",
+        "shares": 1000,
+        "pricePerShare": "30.90",
+        "changeDate": "113年07月17日",
+        "changeReason": "賣",
+        "totalValue": 30900
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

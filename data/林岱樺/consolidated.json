@@ -1,0 +1,34 @@
+{
+  "name": "林岱樺",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 7974864
+    },
+    {
+      "currency": "美元",
+      "amount": 28254
+    },
+    {
+      "currency": "歐元",
+      "amount": 93
+    }
+  ],
+  "depositsTotal": 8003211,
+  "insurance": [
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽全心全 意終身還本保險",
+      "holder": "林岱樺",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

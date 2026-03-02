@@ -1,0 +1,118 @@
+{
+  "name": "吳沛憶",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 100000
+  },
+  "deposits": {
+    "total": 1730818,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳沛憶",
+        "foreignAmount": 0,
+        "amount": 23351
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳沛憶",
+        "foreignAmount": 0,
+        "amount": 1111183
+      },
+      {
+        "institution": "彰化銀行長安東路分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳沛憶",
+        "foreignAmount": 0,
+        "amount": 205
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳沛憶",
+        "foreignAmount": 0,
+        "amount": 595834
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "加拿大幣",
+        "owner": "吳沛憶",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳沛憶",
+        "foreignAmount": 0,
+        "amount": 240
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "儲蓄型壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "吳沛憶",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 30 日/109 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "儲蓄型壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "吳沛憶",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 30 日/109 年 12 月 30 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "活期存款 (金融機構：臺灣土 地銀行股份有限公司);備註: 個人信託",
+        "quantity": "1",
+        "owner": "吳沛憶",
+        "value": 732658
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "name": "徐榛蔚",
+  "date": "2024-12-31",
+  "type": "mayor",
+  "area": "花蓮縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6653453
+    },
+    {
+      "currency": "美元",
+      "amount": 181416
+    },
+    {
+      "currency": "人民幣",
+      "amount": 301973
+    }
+  ],
+  "depositsTotal": 7136846,
+  "insurance": [
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "超優勢變額萬能 壽險",
+      "holder": "徐榛蔚",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "好事年年終身保 險",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美多美元",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰喬壽還本終 身壽險(繳費二 十年)",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦新終身壽險 (甲型)",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦新終身壽險 (甲型)",
+      "holder": "徐榛蔚",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "傅崐萁",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "偉盟 (未交付信託原因：下 櫃)",
+      "cleanName": "偉盟",
+      "ticker": null,
+      "shares": 137,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "嘉新食化 (未交付信託原 因：下市)",
+      "cleanName": "嘉新食化 (未交付信託原 因：下市)",
+      "ticker": null,
+      "shares": 428,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "得力",
+      "cleanName": "得力",
+      "ticker": "1464",
+      "shares": 35950,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 16.65,
+      "latestPrice": 11
+    },
+    {
+      "name": "東元",
+      "cleanName": "東元",
+      "ticker": "1504",
+      "shares": 20000,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 52.2,
+      "latestPrice": 82.9
+    },
+    {
+      "name": "亞崴",
+      "cleanName": "亞崴",
+      "ticker": "1530",
+      "shares": 1274,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 31.6,
+      "latestPrice": 28.7
+    },
+    {
+      "name": "聲寶",
+      "cleanName": "聲寶",
+      "ticker": "1604",
+      "shares": 7328,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 28.05,
+      "latestPrice": 24.35
+    },
+    {
+      "name": "五鼎",
+      "cleanName": "五鼎",
+      "ticker": "1733",
+      "shares": 2983,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 30.1,
+      "latestPrice": 30.25
+    },
+    {
+      "name": "華紙",
+      "cleanName": "華紙",
+      "ticker": "1905",
+      "shares": 9289,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 16.55,
+      "latestPrice": 12.55
+    },
+    {
+      "name": "2★聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 875,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 43.05,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "2★仁寶",
+      "cleanName": "仁寶",
+      "ticker": "2324",
+      "shares": 392,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 37.65,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "2★國巨",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 1346,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 541,
+      "latestPrice": 298
+    },
+    {
+      "name": "2★大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 4213,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 47.9,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "2★富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 4418,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 90.3,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "2★開發金",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 5544,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 17.2,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "2★玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 30101,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 26.95,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "2★兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 7711,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 38.7,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "2★台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 48176,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 17.4,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "2★新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 6558,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 11.8,
+      "latestPrice": null
+    },
+    {
+      "name": "2★中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 271,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 39.1,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "2★智原",
+      "cleanName": "智原",
+      "ticker": "3035",
+      "shares": 638,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 241,
+      "latestPrice": 168
+    },
+    {
+      "name": "2★全台",
+      "cleanName": "全台",
+      "ticker": "3038",
+      "shares": 204,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 28.55,
+      "latestPrice": 23.25
+    },
+    {
+      "name": "2★豐謙",
+      "cleanName": "豐謙",
+      "ticker": "5523",
+      "shares": 1595,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 27.85,
+      "latestPrice": 30.55
+    },
+    {
+      "name": "2★寶雅",
+      "cleanName": "寶雅",
+      "ticker": "5904",
+      "shares": 4482,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 496.5,
+      "latestPrice": 506
+    },
+    {
+      "name": "2★成霖",
+      "cleanName": "成霖",
+      "ticker": "9934",
+      "shares": 6857,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 13.65,
+      "latestPrice": 9.93
+    },
+    {
+      "name": "2★信義",
+      "cleanName": "信義",
+      "ticker": "9940",
+      "shares": 3823,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 28.7,
+      "latestPrice": 22.05
+    },
+    {
+      "name": "2★台新金己",
+      "cleanName": "台新金己",
+      "ticker": "2887",
+      "shares": 832,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "2★合勤",
+      "cleanName": "合勤",
+      "ticker": "2391",
+      "shares": 912,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "東和",
+      "cleanName": "東和",
+      "ticker": "1414",
+      "shares": 2261,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 24.7,
+      "latestPrice": 19.85
+    },
+    {
+      "name": "台火",
+      "cleanName": "台火",
+      "ticker": "9902",
+      "shares": 159,
+      "owner": "徐榛蔚",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 16.7
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "花蓮縣吉安鄉福吉段",
+      "owner": "徐榛蔚",
+      "date": "2011-04-11",
+      "effectiveAreaPing": 161.75,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市大安區復興段二小段 (1.含附屬建物用途：陽台，面積 33.39 平方公尺； 2.共有部份：復興段二小段 ， 504.03 平方公尺，權利範圍 504 分 之 21)",
+      "owner": "傅崐萁",
+      "date": "2018-04-10",
+      "effectiveAreaPing": 54.4,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市大安區復興段二小段 (1.建物坐落地號：復興段二小段○ ○○○； 2.此為共有部分的建號)",
+      "owner": "傅崐萁",
+      "date": "2018-04-10",
+      "effectiveAreaPing": 0,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市大安區復興段二小段",
+      "owner": "傅崐萁",
+      "date": "2018-04-10",
+      "effectiveAreaPing": 11.33,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市大安區復興段二小段",
+      "owner": "傅崐萁",
+      "date": "2014-02-13",
+      "effectiveAreaPing": 0.75,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

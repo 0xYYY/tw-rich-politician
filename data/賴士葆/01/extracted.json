@@ -1,0 +1,439 @@
+{
+  "name": "賴士葆",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林良娥"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市大安區瑞安段二小段",
+      "area": 2623,
+      "share": "10000 分之 202",
+      "owner": "賴士葆",
+      "date": "83年09月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區華城二段",
+      "area": 470.31,
+      "share": "全部",
+      "owner": "林良娥",
+      "date": "92年07月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區瑞安段二小段",
+      "area": 151.28,
+      "share": "全部",
+      "owner": "賴士葆",
+      "date": "83年09月02日",
+      "reason": "買賣",
+      "price": "含陽台 15.82 平方公尺,花 台3.74平方公 尺,雨遮 0.91 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市大安區瑞安段二小段",
+      "area": 74.81,
+      "share": "14 分之 1",
+      "owner": "賴士葆",
+      "date": "83年09月02日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大安區瑞安段二小段",
+      "area": 4370.2,
+      "share": "56 分之 1",
+      "owner": "賴士葆",
+      "date": "83年09月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "三陽",
+      "cc": 1497,
+      "owner": "林良娥",
+      "date": "113年08月07日",
+      "reason": "買賣",
+      "price": 1470000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 10843708,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴士葆",
+        "foreignAmount": 0,
+        "amount": 260954
+      },
+      {
+        "institution": "合庫商業銀行中權分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "賴士葆",
+        "foreignAmount": 0,
+        "amount": 1935
+      },
+      {
+        "institution": "台北富邦銀行南門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴士葆",
+        "foreignAmount": 0,
+        "amount": 1223104
+      },
+      {
+        "institution": "三信銀行林森分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴士葆",
+        "foreignAmount": 0,
+        "amount": 5293
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴士葆",
+        "foreignAmount": 0,
+        "amount": 23402
+      },
+      {
+        "institution": "台新國際銀行北師分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "賴士葆",
+        "foreignAmount": 0,
+        "amount": 11785
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 832
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "林良娥",
+        "foreignAmount": 96000,
+        "amount": 3070248
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 2990000
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "林良娥",
+        "foreignAmount": 24511,
+        "amount": 783912
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 554072
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "人民幣",
+        "owner": "林良娥",
+        "foreignAmount": 4258,
+        "amount": 19088
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 2677
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 8117
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 115
+      },
+      {
+        "institution": "元大銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 1888162
+      },
+      {
+        "institution": "台新國際銀行天母分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林良娥",
+        "foreignAmount": 0,
+        "amount": 11
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2676340,
+    "items": [
+      {
+        "name": "臺化",
+        "owner": "賴士葆",
+        "shares": 855,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8550
+      },
+      {
+        "name": "臺化",
+        "owner": "賴士葆",
+        "shares": 171,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1710
+      },
+      {
+        "name": "裕隆",
+        "owner": "賴士葆",
+        "shares": 424,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4240
+      },
+      {
+        "name": "裕隆",
+        "owner": "賴士葆",
+        "shares": 19,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 190
+      },
+      {
+        "name": "台塑",
+        "owner": "林良娥",
+        "shares": 21,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 210
+      },
+      {
+        "name": "臺化",
+        "owner": "林良娥",
+        "shares": 184,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1840
+      },
+      {
+        "name": "中華電",
+        "owner": "林良娥",
+        "shares": 50000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 500000
+      },
+      {
+        "name": "精技",
+        "owner": "林良娥",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "國賓",
+        "owner": "林良娥",
+        "shares": 368,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3680
+      },
+      {
+        "name": "富邦金丙特",
+        "owner": "林良娥",
+        "shares": 278,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2780
+      },
+      {
+        "name": "富邦金",
+        "owner": "林良娥",
+        "shares": 29699,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 296990
+      },
+      {
+        "name": "台新金",
+        "owner": "林良娥",
+        "shares": 410,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4100
+      },
+      {
+        "name": "國票金",
+        "owner": "林良娥",
+        "shares": 943,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9430
+      },
+      {
+        "name": "中信金",
+        "owner": "林良娥",
+        "shares": 103,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1030
+      },
+      {
+        "name": "台灣大",
+        "owner": "林良娥",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "弘憶股",
+        "owner": "林良娥",
+        "shares": 85243,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 852430
+      },
+      {
+        "name": "炎洲",
+        "owner": "林良娥",
+        "shares": 21,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 210
+      },
+      {
+        "name": "晶達",
+        "owner": "林良娥",
+        "shares": 11000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 110000
+      },
+      {
+        "name": "合庫金",
+        "owner": "林良娥",
+        "shares": 691,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6910
+      },
+      {
+        "name": "泰銘",
+        "owner": "林良娥",
+        "shares": 37204,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 372040
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽富利人 生變額年金保險",
+        "policyNumber": "○○○○○○○ ○○200",
+        "holder": "賴士葆",
+        "contractType": "投資型壽險",
+        "period": "110 年 01 月 07 日/151 年 01 月 06 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽外幣計 價富利人生變額 年金保險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "林良娥",
+        "contractType": "投資型壽險",
+        "period": "110 年 01 月 07 日/154 年 01 月 06 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "林良娥",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 09 日/153 年 04 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美富紅 運外幣分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○200",
+        "holder": "林良娥",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 06 月 01 日/153 年 05 月 31 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

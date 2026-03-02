@@ -1,0 +1,1082 @@
+{
+  "name": "黃秀芳",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "鄧堯銓"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 2694,
+      "owner": "黃秀芳",
+      "date": "109年02月19日",
+      "reason": "買賣",
+      "price": 200000
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "黃秀芳",
+      "date": "110年09月14日",
+      "reason": "買賣",
+      "price": 1180000
+    },
+    {
+      "brand": "日產",
+      "cc": 2488,
+      "owner": "鄧堯銓",
+      "date": "105年02月24日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 10496117,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 500
+      },
+      {
+        "institution": "第一銀行和美分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 837
+      },
+      {
+        "institution": "華南銀行和美分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "華南銀行和美分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "華南銀行和美分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "華南銀行和美分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 212136
+      },
+      {
+        "institution": "華南銀行和美分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 416540
+      },
+      {
+        "institution": "彰化銀行彰化分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "彰化銀行彰化分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "彰化銀行彰化分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 224203
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 700000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 340000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 150000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃秀芳",
+        "foreignAmount": 0,
+        "amount": 1008800
+      },
+      {
+        "institution": "華南銀行彰化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 178026
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "鄧堯銓",
+        "foreignAmount": 14320,
+        "amount": 457724
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "鄧堯銓",
+        "foreignAmount": 11520,
+        "amount": 368225
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 609302
+      },
+      {
+        "institution": "彰化銀行南台中分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "鄧堯銓",
+        "foreignAmount": 461,
+        "amount": 14738
+      },
+      {
+        "institution": "國泰世華銀行台中分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "國泰世華銀行台中分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "國泰世華銀行台中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 125026
+      },
+      {
+        "institution": "國泰世華銀行東台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 220113
+      },
+      {
+        "institution": "三信銀行南門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 2623
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄧堯銓",
+        "foreignAmount": 0,
+        "amount": 267323
+      }
+    ]
+  },
+  "stocks": {
+    "total": 778800,
+    "items": [
+      {
+        "name": "宏碁",
+        "owner": "黃秀芳",
+        "shares": 4545,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 45450
+      },
+      {
+        "name": "臺企銀",
+        "owner": "黃秀芳",
+        "shares": 3798,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 37980
+      },
+      {
+        "name": "建碁",
+        "owner": "黃秀芳",
+        "shares": 12,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120
+      },
+      {
+        "name": "建碁",
+        "owner": "黃秀芳",
+        "shares": 6,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60
+      },
+      {
+        "name": "緯創",
+        "owner": "黃秀芳",
+        "shares": 795,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7950
+      },
+      {
+        "name": "台泥",
+        "owner": "鄧堯銓",
+        "shares": 5169,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 51690
+      },
+      {
+        "name": "黑松",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "遠東新",
+        "owner": "鄧堯銓",
+        "shares": 8630,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 86300
+      },
+      {
+        "name": "裕隆",
+        "owner": "鄧堯銓",
+        "shares": 842,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8420
+      },
+      {
+        "name": "宏碁",
+        "owner": "鄧堯銓",
+        "shares": 132,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1320
+      },
+      {
+        "name": "藍天",
+        "owner": "鄧堯銓",
+        "shares": 619,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6190
+      },
+      {
+        "name": "冠德",
+        "owner": "鄧堯銓",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "三商壽",
+        "owner": "鄧堯銓",
+        "shares": 6736,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 67360
+      },
+      {
+        "name": "富邦金",
+        "owner": "鄧堯銓",
+        "shares": 3854,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 38540
+      },
+      {
+        "name": "國泰金",
+        "owner": "鄧堯銓",
+        "shares": 7133,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 71330
+      },
+      {
+        "name": "玉山金",
+        "owner": "鄧堯銓",
+        "shares": 2331,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 23310
+      },
+      {
+        "name": "兆豐金",
+        "owner": "鄧堯銓",
+        "shares": 3539,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 35390
+      },
+      {
+        "name": "兆豐金",
+        "owner": "鄧堯銓",
+        "shares": 876,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8760
+      },
+      {
+        "name": "文曄甲特",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "夆典",
+        "owner": "鄧堯銓",
+        "shares": 1040,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10400
+      },
+      {
+        "name": "夆典",
+        "owner": "鄧堯銓",
+        "shares": 1020,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10200
+      },
+      {
+        "name": "華晶科",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "緯創",
+        "owner": "鄧堯銓",
+        "shares": 194,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1940
+      },
+      {
+        "name": "富采",
+        "owner": "鄧堯銓",
+        "shares": 275,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2750
+      },
+      {
+        "name": "群益證",
+        "owner": "鄧堯銓",
+        "shares": 11000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 110000
+      },
+      {
+        "name": "志超",
+        "owner": "鄧堯銓",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "光隆",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中鼎",
+        "owner": "鄧堯銓",
+        "shares": 1334,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 13340
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "駿利亨德森資產 管理基金-駿利 亨德森環球科技 創新基金 A2 美 元",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 452.485,
+        "unitValue": 31.91,
+        "foreignCurrency": "美元",
+        "totalValue": 461211
+      },
+      {
+        "name": "柏瑞環球基金柏瑞印度股票基 金 A",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 80.42,
+        "unitValue": 93.6991,
+        "foreignCurrency": "美元",
+        "totalValue": 240696
+      },
+      {
+        "name": "摩根基金-拉丁 美 洲 基 金 -JPM 拉丁美洲(美元) -A 股(累計)",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 531.072,
+        "unitValue": 28.23,
+        "foreignCurrency": "美元",
+        "totalValue": 478887
+      },
+      {
+        "name": "富達基金-全球 債券基金(A 股累 計美元)",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 421.66,
+        "unitValue": 13.11,
+        "foreignCurrency": "美元",
+        "totalValue": 176577
+      },
+      {
+        "name": "荷寶資本成長基 金-荷寶環球消 費新趨勢股票 M 美元",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 52.8706,
+        "unitValue": 368.38,
+        "foreignCurrency": "美元",
+        "totalValue": 622127
+      },
+      {
+        "name": "安本基金-印度 股票基金 X 累積 美元",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 547.067,
+        "unitValue": 26.9077,
+        "foreignCurrency": "美元",
+        "totalValue": 470204
+      },
+      {
+        "name": "貝萊德全球智慧 數據股票入息基 金 A6 美元(穩定 配息)",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 423.09,
+        "unitValue": 8.87,
+        "foreignCurrency": "美元",
+        "totalValue": 119874
+      },
+      {
+        "name": "【好享退-國泰 2039】國泰泰享 退系列 2039 目標 日期組合基金 P",
+        "owner": "黃秀芳",
+        "institution": "基富通證券",
+        "units": 18326.2,
+        "unitValue": 17.5304,
+        "foreignCurrency": "",
+        "totalValue": 321266
+      },
+      {
+        "name": "安本新興市場債 券基金 A 月配息 美元",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 263.482,
+        "unitValue": 13.4983,
+        "foreignCurrency": "美元",
+        "totalValue": 113618
+      },
+      {
+        "name": "晉達環球入息導 向基金 C 收益 2 股份美月配息",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 182.414,
+        "unitValue": 15.37,
+        "foreignCurrency": "美元",
+        "totalValue": 89567
+      },
+      {
+        "name": "富達新興市場基 金",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 7.55,
+        "unitValue": 30.01,
+        "foreignCurrency": "美元",
+        "totalValue": 7238
+      },
+      {
+        "name": "富達基金-美元 非投資等級債券 基金美元月配息",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 920.24,
+        "unitValue": 10.57,
+        "foreignCurrency": "美元",
+        "totalValue": 310737
+      },
+      {
+        "name": "霸菱東歐基金 美元",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 1.062,
+        "unitValue": 41.5,
+        "foreignCurrency": "美元",
+        "totalValue": 1408
+      },
+      {
+        "name": "坦伯頓全球美國 政府基金美月配",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 2065.079,
+        "unitValue": 7.09,
+        "foreignCurrency": "美元",
+        "totalValue": 467734
+      },
+      {
+        "name": "坦伯頓全球新興 國家固定美季配",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 1027.016,
+        "unitValue": 6.81,
+        "foreignCurrency": "美元",
+        "totalValue": 223430
+      },
+      {
+        "name": "坦伯頓全球新興 國家固定美季配",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 336.744,
+        "unitValue": 6.81,
+        "foreignCurrency": "美元",
+        "totalValue": 73259
+      },
+      {
+        "name": "坦伯頓全球新興 國家固定美季配",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 253.726,
+        "unitValue": 6.81,
+        "foreignCurrency": "美元",
+        "totalValue": 55199
+      },
+      {
+        "name": "坦伯頓全球全球 債券-歐元配息",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 422.632,
+        "unitValue": 9.76,
+        "foreignCurrency": "歐元",
+        "totalValue": 142762
+      },
+      {
+        "name": "聯博全球非投資 等級債券基金 AT",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 2015.491,
+        "unitValue": 3.15,
+        "foreignCurrency": "美元",
+        "totalValue": 202819
+      },
+      {
+        "name": "聯博全球非投資 等級債券基金 AT",
+        "owner": "黃秀芳",
+        "institution": "彰 化 銀 行 彰 化 分行",
+        "units": 817.896,
+        "unitValue": 3.15,
+        "foreignCurrency": "美元",
+        "totalValue": 82305
+      },
+      {
+        "name": "富達基金-日本 價值基金(A 股日 圓)",
+        "owner": "鄧堯銓",
+        "institution": "中租投顧",
+        "units": 6.78,
+        "unitValue": 66847,
+        "foreignCurrency": "日圓",
+        "totalValue": 95811
+      },
+      {
+        "name": "百達-俄羅斯股 票-R 歐元 [暫停 交易]",
+        "owner": "鄧堯銓",
+        "institution": "中租投顧",
+        "units": 1.88,
+        "unitValue": 47.27,
+        "foreignCurrency": "歐元",
+        "totalValue": 3099
+      },
+      {
+        "name": "安本基金-印度 債券基金 A 月中 配息(美元)",
+        "owner": "鄧堯銓",
+        "institution": "中租投顧",
+        "units": 1044.958,
+        "unitValue": 7.7789,
+        "foreignCurrency": "美元",
+        "totalValue": 260014
+      },
+      {
+        "name": "中國信託高評級 策略收益債券基 金-台幣 B",
+        "owner": "鄧堯銓",
+        "institution": "中租投顧",
+        "units": 10003.2,
+        "unitValue": 9.874,
+        "foreignCurrency": "",
+        "totalValue": 98772
+      },
+      {
+        "name": "安聯新興債券收 益組合基金-B 類 型(月配息)-新 臺幣",
+        "owner": "鄧堯銓",
+        "institution": "中租投顧",
+        "units": 12235.1,
+        "unitValue": 8.1843,
+        "foreignCurrency": "",
+        "totalValue": 100136
+      },
+      {
+        "name": "國泰美國優質債 券 基 金 B( 新 台 幣)",
+        "owner": "鄧堯銓",
+        "institution": "中租投顧",
+        "units": 10154.55,
+        "unitValue": 9.6243,
+        "foreignCurrency": "",
+        "totalValue": 97730
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "鄧堯銓",
+        "institution": "元 富 證 券 大 裕 分公司",
+        "units": 269,
+        "unitValue": 22.73,
+        "foreignCurrency": "",
+        "totalValue": 6114
+      },
+      {
+        "name": "元大台灣 50",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 93,
+        "unitValue": 190.5,
+        "foreignCurrency": "",
+        "totalValue": 17716
+      },
+      {
+        "name": "元大高股息",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 15117,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 563561
+      },
+      {
+        "name": "元大美債 20 年",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 20000,
+        "unitValue": 28.8143,
+        "foreignCurrency": "",
+        "totalValue": 576286
+      },
+      {
+        "name": "元大投資級公司 債",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 8711,
+        "unitValue": 34.5929,
+        "foreignCurrency": "",
+        "totalValue": 301338
+      },
+      {
+        "name": "元大 AAA 至 A 公 司債",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 8423,
+        "unitValue": 33.7341,
+        "foreignCurrency": "",
+        "totalValue": 284142
+      },
+      {
+        "name": "國泰智能電動車",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 7901,
+        "unitValue": 22.85,
+        "foreignCurrency": "",
+        "totalValue": 180537
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 2035,
+        "unitValue": 23.05,
+        "foreignCurrency": "",
+        "totalValue": 46906
+      },
+      {
+        "name": "元大台灣價值高 息",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 10000,
+        "unitValue": 9.54,
+        "foreignCurrency": "",
+        "totalValue": 95400
+      },
+      {
+        "name": "土銀富邦 R1",
+        "owner": "鄧堯銓",
+        "institution": "國 泰 證 券 台 中 分公司",
+        "units": 4000,
+        "unitValue": 13.73,
+        "foreignCurrency": "",
+        "totalValue": 54920
+      },
+      {
+        "name": "PIMCO 多元收益 債券基金-E 級類 別(收息股份)",
+        "owner": "鄧堯銓",
+        "institution": "基富通證券",
+        "units": 256.373,
+        "unitValue": 11.94,
+        "foreignCurrency": "美元",
+        "totalValue": 97779
+      },
+      {
+        "name": "富蘭克林坦伯頓 全球投資系列 新興國家固定收 益 基 金 美 元 A (Mdis)股",
+        "owner": "鄧堯銓",
+        "institution": "基富通證券",
+        "units": 473.658,
+        "unitValue": 3.98,
+        "foreignCurrency": "美元",
+        "totalValue": 60217
+      },
+      {
+        "name": "聯博-全球非投 資等級債券基金 AA(穩定月配)級 別美元",
+        "owner": "鄧堯銓",
+        "institution": "基富通證券",
+        "units": 277.021,
+        "unitValue": 8.02,
+        "foreignCurrency": "美元",
+        "totalValue": 70967
+      },
+      {
+        "name": "貝萊德全球智慧 數據股票入息基 金 A6 美元(穩定 配息)",
+        "owner": "鄧堯銓",
+        "institution": "基富通證券",
+        "units": 910.13,
+        "unitValue": 8.87,
+        "foreignCurrency": "美元",
+        "totalValue": 257867
+      },
+      {
+        "name": "安本基金-印度 債券基金 X 月配 息 美元",
+        "owner": "鄧堯銓",
+        "institution": "基富通證券",
+        "units": 680.62,
+        "unitValue": 8.0076,
+        "foreignCurrency": "美元",
+        "totalValue": 174091
+      },
+      {
+        "name": "景順印度債券基 金 A-穩定月配息 股 美元",
+        "owner": "鄧堯銓",
+        "institution": "基富通證券",
+        "units": 1887.628,
+        "unitValue": 5.9873,
+        "foreignCurrency": "美元",
+        "totalValue": 361008
+      },
+      {
+        "name": "安本新興市場債 券基金 A 月配息 美元",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 473.455,
+        "unitValue": 13.4983,
+        "foreignCurrency": "美元",
+        "totalValue": 204162
+      },
+      {
+        "name": "富達基金-美元 非投資等級債券 基金美元月配息",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 134.78,
+        "unitValue": 10.57,
+        "foreignCurrency": "美元",
+        "totalValue": 45511
+      },
+      {
+        "name": "富達基金-美元 非投資等級債券 基金",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 252.75,
+        "unitValue": 11.29,
+        "foreignCurrency": "美元",
+        "totalValue": 91159
+      },
+      {
+        "name": "景順永續性環球 非投資等級債券 基金 A 固定月配 息股美元",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 110.19,
+        "unitValue": 10.12,
+        "foreignCurrency": "美元",
+        "totalValue": 35624
+      },
+      {
+        "name": "景順永續性環球 非投資等級債券 基金 A 固定月配 息股美元",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 83.83,
+        "unitValue": 10.12,
+        "foreignCurrency": "美元",
+        "totalValue": 27102
+      },
+      {
+        "name": "景順永續性環球 非投資等級債券 基金 A 固定月配 息股美元",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 42.93,
+        "unitValue": 10.12,
+        "foreignCurrency": "美元",
+        "totalValue": 13879
+      },
+      {
+        "name": "坦伯頓全球新興 國家固定美季配",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 562.469,
+        "unitValue": 6.81,
+        "foreignCurrency": "美元",
+        "totalValue": 122366
+      },
+      {
+        "name": "坦伯頓全球新興 國家固收美月配",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 479.307,
+        "unitValue": 3.98,
+        "foreignCurrency": "美元",
+        "totalValue": 60942
+      },
+      {
+        "name": "坦伯頓全球新興 國家固收美月配",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 436.85,
+        "unitValue": 3.98,
+        "foreignCurrency": "美元",
+        "totalValue": 55543
+      },
+      {
+        "name": "坦伯頓全球新興 國家固收美月配",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 207.813,
+        "unitValue": 3.98,
+        "foreignCurrency": "美元",
+        "totalValue": 26422
+      },
+      {
+        "name": "聯博全球非投資 等級債券基金 AT",
+        "owner": "鄧堯銓",
+        "institution": "彰 化 銀 行 南 台 中分行",
+        "units": 1133.369,
+        "unitValue": 3.15,
+        "foreignCurrency": "美元",
+        "totalValue": 114051
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中 華 郵 政 股 份 有限公司",
+        "name": "郵政簡易人壽常 鴻增額保險（6 年 付費）",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃秀芳",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 24 日/132 年 02 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿美滿利變美元",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "黃秀芳",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 03 月 11 日/166 年 03 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾情終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "黃秀芳",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 04 月 21 日/160 年 04 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "全福 101 終身",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "鄧堯銓",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 11 月 22 日/190 年 11 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "全福 101 終身",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "鄧堯銓",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 11 月 22 日/159 年 11 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○200",
+        "holder": "鄧堯銓",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 03 月 31 日/205 年 03 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "鄧堯銓",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 03 月 31 日/201 年 03 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽美富旺 外幣利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "鄧堯銓",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 12 月 25 日/167 年 12 月 25 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

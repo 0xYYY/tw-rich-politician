@@ -1,0 +1,165 @@
+{
+  "name": "廖偉翔",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 9423671,
+    "items": [
+      {
+        "institution": "土地銀行大里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 677
+      },
+      {
+        "institution": "國泰世華銀行西台中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 22487
+      },
+      {
+        "institution": "國泰世華銀行營業部",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "廖偉翔",
+        "foreignAmount": 1,
+        "amount": 31
+      },
+      {
+        "institution": "國泰世華銀行西屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 9372973
+      },
+      {
+        "institution": "國泰世華銀行西屯分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 1475
+      },
+      {
+        "institution": "兆豐國際商業銀行北台中 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 1299
+      },
+      {
+        "institution": "臺灣新光銀行南屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 86
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 1420
+      },
+      {
+        "institution": "永豐銀行西屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 653
+      },
+      {
+        "institution": "中信銀行南屯分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "廖偉翔",
+        "foreignAmount": 0,
+        "amount": 22570
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2294680,
+    "items": [
+      {
+        "name": "聯合再生",
+        "owner": "廖偉翔",
+        "shares": 156,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1560
+      },
+      {
+        "name": "創意能源股份有限公司(未 上市股票)",
+        "owner": "廖偉翔",
+        "shares": 229312,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2293120
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "AEROFANTURE 及圖",
+        "quantity": "1",
+        "owner": "廖偉翔",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 9262500,
+    "items": [
+      {
+        "investor": "廖偉翔",
+        "company": "東海生命事業股份有限公司",
+        "address": "台中市南屯區文心路一段 186 號 17 樓之 4",
+        "amount": 6000000,
+        "date": "104年03月05日",
+        "reason": "買賣"
+      },
+      {
+        "investor": "廖偉翔",
+        "company": "東海生命事業股份有限公司",
+        "address": "台中市南屯區文心路一段 186 號 17 樓之 4",
+        "amount": 3262500,
+        "date": "109年10月27日",
+        "reason": "遺產繼承"
+      }
+    ]
+  }
+}

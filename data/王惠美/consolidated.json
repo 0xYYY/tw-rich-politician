@@ -1,0 +1,995 @@
+{
+  "name": "王惠美",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "彰化縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 2413987
+    },
+    {
+      "currency": "日圓",
+      "amount": 671598
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 1116214
+    }
+  ],
+  "depositsTotal": 4201800,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊還 本終身保險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊還 本終身保險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊還 本終身保險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "王惠美",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "王惠美",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "王惠美",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽吉祥如 意終身壽險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽新百齡 終身壽險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽吉美得 美元利率變動型 終身壽險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽金得利 利率變動型增額 終身壽險",
+      "holder": "王惠美",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "周明亞",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山康樂限期繳 費終身壽險",
+      "holder": "周明亞",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽吉祥如 意終身壽險",
+      "holder": "周明亞",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)",
+      "cleanName": "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)",
+      "ticker": "2892",
+      "shares": 646,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)",
+      "cleanName": "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)",
+      "ticker": "2892",
+      "shares": 361,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "寶華 (未交付信託原因：非 國內上市、上櫃股票)",
+      "cleanName": "寶華",
+      "ticker": null,
+      "shares": 154,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "易宏 (未交付信託原因：非 國內上市、上櫃股票)",
+      "cleanName": "易宏",
+      "ticker": null,
+      "shares": 133,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "寶華 (未交付信託原因：非 國內上市、上櫃股票)",
+      "cleanName": "寶華",
+      "ticker": null,
+      "shares": 30,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "六暉-KY",
+      "cleanName": "六暉-KY",
+      "ticker": "2115",
+      "shares": 20149,
+      "owner": "王惠美",
+      "priceAtDisclosure": 31.8,
+      "latestPrice": 24.4
+    },
+    {
+      "name": "為升",
+      "cleanName": "為升",
+      "ticker": "2231",
+      "shares": 10049,
+      "owner": "王惠美",
+      "priceAtDisclosure": 98.8,
+      "latestPrice": 95.4
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 2000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "英業達",
+      "cleanName": "英業達",
+      "ticker": "2356",
+      "shares": 22000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 45.7,
+      "latestPrice": 46.25
+    },
+    {
+      "name": "廣達",
+      "cleanName": "廣達",
+      "ticker": "2382",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 305,
+      "latestPrice": 291.5
+    },
+    {
+      "name": "中工",
+      "cleanName": "中工",
+      "ticker": "2515",
+      "shares": 17000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 11.1,
+      "latestPrice": 17.4
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 20400,
+      "owner": "王惠美",
+      "priceAtDisclosure": 32.1,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "夆典",
+      "cleanName": "夆典",
+      "ticker": "3052",
+      "shares": 16320,
+      "owner": "王惠美",
+      "priceAtDisclosure": 11.75,
+      "latestPrice": 11.6
+    },
+    {
+      "name": "景岳",
+      "cleanName": "景岳",
+      "ticker": "3164",
+      "shares": 8000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 21.75,
+      "latestPrice": 17.8
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 20000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 115,
+      "latestPrice": 136
+    },
+    {
+      "name": "洋華",
+      "cleanName": "洋華",
+      "ticker": "3622",
+      "shares": 13000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 64.6,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "全訊",
+      "cleanName": "全訊",
+      "ticker": "5222",
+      "shares": 1100,
+      "owner": "王惠美",
+      "priceAtDisclosure": 136,
+      "latestPrice": 144
+    },
+    {
+      "name": "寶島科",
+      "cleanName": "寶島科",
+      "ticker": "5312",
+      "shares": 25000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 101,
+      "latestPrice": 99.8
+    },
+    {
+      "name": "合庫金",
+      "cleanName": "合庫金",
+      "ticker": "5880",
+      "shares": 31050,
+      "owner": "王惠美",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 24
+    },
+    {
+      "name": "高僑",
+      "cleanName": "高僑",
+      "ticker": "6234",
+      "shares": 40000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 26.9,
+      "latestPrice": 27.8
+    },
+    {
+      "name": "嘉基",
+      "cleanName": "嘉基",
+      "ticker": "6715",
+      "shares": 35,
+      "owner": "王惠美",
+      "priceAtDisclosure": 172.5,
+      "latestPrice": 174.5
+    },
+    {
+      "name": "上洋",
+      "cleanName": "上洋",
+      "ticker": "6728",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 127,
+      "latestPrice": 134
+    },
+    {
+      "name": "百和興業-KY",
+      "cleanName": "百和興業-KY",
+      "ticker": "8404",
+      "shares": 7000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 30.45,
+      "latestPrice": 23.2
+    },
+    {
+      "name": "F-中租",
+      "cleanName": "F-中租",
+      "ticker": "5871",
+      "shares": 9180,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台灣百和",
+      "cleanName": "台灣百和",
+      "ticker": "9938",
+      "shares": 9000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "先進光",
+      "cleanName": "先進光",
+      "ticker": "3362",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 225.5,
+      "latestPrice": 109
+    },
+    {
+      "name": "合晶",
+      "cleanName": "合晶",
+      "ticker": "6182",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 30.1,
+      "latestPrice": 36.25
+    },
+    {
+      "name": "合機公司",
+      "cleanName": "合機公司",
+      "ticker": "1618",
+      "shares": 25000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "明泰科技",
+      "cleanName": "明泰科技",
+      "ticker": "3380",
+      "shares": 10000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "第一金控",
+      "cleanName": "第一金控",
+      "ticker": "2892",
+      "shares": 10317,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "善德生技",
+      "cleanName": "善德生技",
+      "ticker": null,
+      "shares": 168400,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "新麥企業",
+      "cleanName": "新麥企業",
+      "ticker": "1580",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "聖暉*",
+      "cleanName": "聖暉*",
+      "ticker": "5536",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 355,
+      "latestPrice": 723
+    },
+    {
+      "name": "衛司特",
+      "cleanName": "衛司特",
+      "ticker": "6894",
+      "shares": 5000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 199,
+      "latestPrice": 280.5
+    },
+    {
+      "name": "豐興鋼鐵",
+      "cleanName": "豐興鋼鐵",
+      "ticker": "2015",
+      "shares": 15000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "新麥",
+      "cleanName": "新麥",
+      "ticker": "1580",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 143,
+      "latestPrice": 132
+    },
+    {
+      "name": "合機",
+      "cleanName": "合機",
+      "ticker": "1618",
+      "shares": 25000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 41.2,
+      "latestPrice": 46.7
+    },
+    {
+      "name": "豐興",
+      "cleanName": "豐興",
+      "ticker": "2015",
+      "shares": 16000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 85.1,
+      "latestPrice": 67.7
+    },
+    {
+      "name": "六暉-KY",
+      "cleanName": "六暉-KY",
+      "ticker": "2115",
+      "shares": 20149,
+      "owner": "王惠美",
+      "priceAtDisclosure": 31.8,
+      "latestPrice": 24.4
+    },
+    {
+      "name": "為升",
+      "cleanName": "為升",
+      "ticker": "2231",
+      "shares": 11049,
+      "owner": "王惠美",
+      "priceAtDisclosure": 98.8,
+      "latestPrice": 95.4
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "英業達",
+      "cleanName": "英業達",
+      "ticker": "2356",
+      "shares": 22000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 45.7,
+      "latestPrice": 46.25
+    },
+    {
+      "name": "廣達",
+      "cleanName": "廣達",
+      "ticker": "2382",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 305,
+      "latestPrice": 291.5
+    },
+    {
+      "name": "中工",
+      "cleanName": "中工",
+      "ticker": "2515",
+      "shares": 17000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 11.1,
+      "latestPrice": 17.4
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 20400,
+      "owner": "王惠美",
+      "priceAtDisclosure": 32.1,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 10317,
+      "owner": "王惠美",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "夆典",
+      "cleanName": "夆典",
+      "ticker": "3052",
+      "shares": 16320,
+      "owner": "王惠美",
+      "priceAtDisclosure": 11.75,
+      "latestPrice": 11.6
+    },
+    {
+      "name": "景岳",
+      "cleanName": "景岳",
+      "ticker": "3164",
+      "shares": 8000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 21.75,
+      "latestPrice": 17.8
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 20000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 115,
+      "latestPrice": 136
+    },
+    {
+      "name": "先進光",
+      "cleanName": "先進光",
+      "ticker": "3362",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 225.5,
+      "latestPrice": 109
+    },
+    {
+      "name": "明泰",
+      "cleanName": "明泰",
+      "ticker": "3380",
+      "shares": 9000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 35.3,
+      "latestPrice": 31.25
+    },
+    {
+      "name": "洋華",
+      "cleanName": "洋華",
+      "ticker": "3622",
+      "shares": 13000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 64.6,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "善德生技",
+      "cleanName": "善德生技",
+      "ticker": null,
+      "shares": 168400,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "全訊",
+      "cleanName": "全訊",
+      "ticker": "5222",
+      "shares": 1100,
+      "owner": "王惠美",
+      "priceAtDisclosure": 136,
+      "latestPrice": 144
+    },
+    {
+      "name": "寶島科",
+      "cleanName": "寶島科",
+      "ticker": "5312",
+      "shares": 21000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 101,
+      "latestPrice": 99.8
+    },
+    {
+      "name": "聖暉",
+      "cleanName": "聖暉",
+      "ticker": "5536",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "中租-KY",
+      "cleanName": "中租-KY",
+      "ticker": "5871",
+      "shares": 10180,
+      "owner": "王惠美",
+      "priceAtDisclosure": 148,
+      "latestPrice": 104
+    },
+    {
+      "name": "合庫金",
+      "cleanName": "合庫金",
+      "ticker": "5880",
+      "shares": 31050,
+      "owner": "王惠美",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 24
+    },
+    {
+      "name": "高僑",
+      "cleanName": "高僑",
+      "ticker": "6234",
+      "shares": 40000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 26.9,
+      "latestPrice": 27.8
+    },
+    {
+      "name": "國璽幹細胞",
+      "cleanName": "國璽幹細胞",
+      "ticker": null,
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "上洋",
+      "cleanName": "上洋",
+      "ticker": "6728",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 127,
+      "latestPrice": 134
+    },
+    {
+      "name": "秀育",
+      "cleanName": "秀育",
+      "ticker": null,
+      "shares": 13000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "衛司特",
+      "cleanName": "衛司特",
+      "ticker": "6894",
+      "shares": 5000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 199,
+      "latestPrice": 280.5
+    },
+    {
+      "name": "百和興業-KY",
+      "cleanName": "百和興業-KY",
+      "ticker": "8404",
+      "shares": 10000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 30.45,
+      "latestPrice": 23.2
+    },
+    {
+      "name": "百和",
+      "cleanName": "百和",
+      "ticker": "9938",
+      "shares": 9000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 80.1,
+      "latestPrice": 51.5
+    },
+    {
+      "name": "宏洲",
+      "cleanName": "宏洲",
+      "ticker": "1413",
+      "shares": 24000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 9.67,
+      "latestPrice": 10
+    },
+    {
+      "name": "宏洲",
+      "cleanName": "宏洲",
+      "ticker": "1413",
+      "shares": 24000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 9.67,
+      "latestPrice": 10
+    },
+    {
+      "name": "新麥",
+      "cleanName": "新麥",
+      "ticker": "1580",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 143,
+      "latestPrice": 132
+    },
+    {
+      "name": "合機",
+      "cleanName": "合機",
+      "ticker": "1618",
+      "shares": 25000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 41.2,
+      "latestPrice": 46.7
+    },
+    {
+      "name": "豐興",
+      "cleanName": "豐興",
+      "ticker": "2015",
+      "shares": 16000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 85.1,
+      "latestPrice": 67.7
+    },
+    {
+      "name": "為升",
+      "cleanName": "為升",
+      "ticker": "2231",
+      "shares": 11049,
+      "owner": "王惠美",
+      "priceAtDisclosure": 98.8,
+      "latestPrice": 95.4
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 10317,
+      "owner": "王惠美",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "先進光電",
+      "cleanName": "先進光電",
+      "ticker": "3362",
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "明泰",
+      "cleanName": "明泰",
+      "ticker": "3380",
+      "shares": 9000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 35.3,
+      "latestPrice": 31.25
+    },
+    {
+      "name": "寶島科",
+      "cleanName": "寶島科",
+      "ticker": "5312",
+      "shares": 21000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 101,
+      "latestPrice": 99.8
+    },
+    {
+      "name": "聖暉",
+      "cleanName": "聖暉",
+      "ticker": "5536",
+      "shares": 1000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "中租-KY",
+      "cleanName": "中租-KY",
+      "ticker": "5871",
+      "shares": 10180,
+      "owner": "王惠美",
+      "priceAtDisclosure": 148,
+      "latestPrice": 104
+    },
+    {
+      "name": "國璽幹細胞",
+      "cleanName": "國璽幹細胞",
+      "ticker": null,
+      "shares": 3000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "秀育",
+      "cleanName": "秀育",
+      "ticker": null,
+      "shares": 13000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "百和興業-KY",
+      "cleanName": "百和興業-KY",
+      "ticker": "8404",
+      "shares": 10000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 30.45,
+      "latestPrice": 23.2
+    },
+    {
+      "name": "百和",
+      "cleanName": "百和",
+      "ticker": "9938",
+      "shares": 9000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 80.1,
+      "latestPrice": 51.5
+    },
+    {
+      "name": "宏洲",
+      "cleanName": "宏洲",
+      "ticker": "1413",
+      "shares": 33000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 9.67,
+      "latestPrice": 10
+    },
+    {
+      "name": "潤隆",
+      "cleanName": "潤隆",
+      "ticker": "1808",
+      "shares": 62000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 46.75,
+      "latestPrice": 30.1
+    },
+    {
+      "name": "六暉-KY",
+      "cleanName": "六暉-KY",
+      "ticker": "2115",
+      "shares": 22149,
+      "owner": "王惠美",
+      "priceAtDisclosure": 31.8,
+      "latestPrice": 24.4
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 5000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "中工",
+      "cleanName": "中工",
+      "ticker": "2515",
+      "shares": 10000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 11.1,
+      "latestPrice": 17.4
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 18000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 115,
+      "latestPrice": 136
+    },
+    {
+      "name": "善德生技",
+      "cleanName": "善德生技",
+      "ticker": null,
+      "shares": 211400,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "寶島科",
+      "cleanName": "寶島科",
+      "ticker": "5312",
+      "shares": 27000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 101,
+      "latestPrice": 99.8
+    },
+    {
+      "name": "中租-KY",
+      "cleanName": "中租-KY",
+      "ticker": "5871",
+      "shares": 12180,
+      "owner": "王惠美",
+      "priceAtDisclosure": 148,
+      "latestPrice": 104
+    },
+    {
+      "name": "國璽幹細胞",
+      "cleanName": "國璽幹細胞",
+      "ticker": null,
+      "shares": 14000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "秀育",
+      "cleanName": "秀育",
+      "ticker": null,
+      "shares": 17000,
+      "owner": "王惠美",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "百和興業-KY",
+      "cleanName": "百和興業-KY",
+      "ticker": "8404",
+      "shares": 20000,
+      "owner": "王惠美",
+      "priceAtDisclosure": 30.45,
+      "latestPrice": 23.2
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "大華優利高填息 30",
+      "owner": "王惠美",
+      "institution": "元 大 證 券 鹿 港 分公司",
+      "units": 8000,
+      "unitValue": 24.03,
+      "currency": "",
+      "declaredValue": 192240,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣價值高 息",
+      "owner": "王惠美",
+      "institution": "元 大 證 券 鹿 港 分公司",
+      "units": 15000,
+      "unitValue": 9.54,
+      "currency": "",
+      "declaredValue": 143100,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "彰化縣鹿港鎮鹿德段",
+      "owner": "王惠美",
+      "date": "1997-08-05",
+      "effectiveAreaPing": 57.21,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

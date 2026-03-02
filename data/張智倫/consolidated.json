@@ -1,0 +1,254 @@
+{
+  "name": "張智倫",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 35313379
+    },
+    {
+      "currency": "日圓",
+      "amount": 96605
+    },
+    {
+      "currency": "美元",
+      "amount": 1438927
+    },
+    {
+      "currency": "歐元",
+      "amount": 4
+    }
+  ],
+  "depositsTotal": 36848917,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "利變型年金（甲 型）",
+      "holder": "張智倫",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "利變型年金（甲 型）",
+      "holder": "張智倫",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "利變型年金（甲 型）",
+      "holder": "張智倫",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "悠富人生美元還 本終身保險(104)",
+      "holder": "彭涵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美年添鑫美元終 身保險",
+      "holder": "彭涵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂事年年終身保 險",
+      "holder": "彭涵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂事年年終身保 險",
+      "holder": "彭涵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽好美滿 外幣利率變動型 終身壽險(美元)",
+      "holder": "彭涵",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "鈊象",
+      "cleanName": "鈊象",
+      "ticker": "3293",
+      "shares": 2000,
+      "owner": "張智倫",
+      "priceAtDisclosure": 1105,
+      "latestPrice": 695
+    },
+    {
+      "name": "麗豐-KY",
+      "cleanName": "麗豐-KY",
+      "ticker": "4137",
+      "shares": 2000,
+      "owner": "張智倫",
+      "priceAtDisclosure": 194.5,
+      "latestPrice": 109.5
+    },
+    {
+      "name": "綠茵",
+      "cleanName": "綠茵",
+      "ticker": "6846",
+      "shares": 5750,
+      "owner": "張智倫",
+      "priceAtDisclosure": 80.9,
+      "latestPrice": 71.2
+    },
+    {
+      "name": "基鴻建設股份有限公司",
+      "cleanName": "基鴻建設股份有限公司",
+      "ticker": null,
+      "shares": 1078000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "漢恩建設股份有限公司",
+      "cleanName": "漢恩建設股份有限公司",
+      "ticker": null,
+      "shares": 400000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "漢傑營造工程股份有限公 司",
+      "cleanName": "漢傑營造工程股份有限公 司",
+      "ticker": null,
+      "shares": 300000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "漢堡開發建設股份有限公 司",
+      "cleanName": "漢堡開發建設股份有限公 司",
+      "ticker": null,
+      "shares": 664800,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "漢親建設股份有限公司",
+      "cleanName": "漢親建設股份有限公司",
+      "ticker": null,
+      "shares": 110000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "漢寶開發建設股份有限公 司",
+      "cleanName": "漢寶開發建設股份有限公 司",
+      "ticker": null,
+      "shares": 100000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "繁盛投資股份有限公司",
+      "cleanName": "繁盛投資股份有限公司",
+      "ticker": null,
+      "shares": 450000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "元熙科技股份有限公司",
+      "cleanName": "元熙科技股份有限公司",
+      "ticker": null,
+      "shares": 300000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "漢恩建設股份有限公司",
+      "cleanName": "漢恩建設股份有限公司",
+      "ticker": null,
+      "shares": 80000,
+      "owner": "張智倫",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市中和區大智段",
+      "owner": "張智倫",
+      "date": "2020-06-09",
+      "effectiveAreaPing": 3.89,
+      "entryCount": 1,
+      "price": "5,700,000(與 第 29 筆土地合 購)"
+    },
+    {
+      "location": "新北市中和區台貿段",
+      "owner": "張智倫",
+      "date": "2020-05-25",
+      "effectiveAreaPing": 0.24,
+      "entryCount": 1,
+      "price": "3,000"
+    },
+    {
+      "location": "新北市中和區員山段",
+      "owner": "張智倫",
+      "date": "2002-08-21",
+      "effectiveAreaPing": 59.42,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市中和區連城段",
+      "owner": "張智倫",
+      "date": "2019-03-27",
+      "effectiveAreaPing": 133.15,
+      "entryCount": 2,
+      "price": "13,228,131(含 陽台 22.38 平 方公尺,雨遮 14.05 平方公 尺,合建分屋 與第 5 筆建物 一起登記)"
+    },
+    {
+      "location": "新北市新莊區雙鳳段",
+      "owner": "張智倫",
+      "date": "2020-05-26",
+      "effectiveAreaPing": 14.79,
+      "entryCount": 3,
+      "price": "25,217"
+    },
+    {
+      "location": "臺北市信義區永吉段二小段",
+      "owner": "張智倫",
+      "date": "2012-11-21",
+      "effectiveAreaPing": 37.09,
+      "entryCount": 2,
+      "price": "含陽台 8.4 平 方公尺(超過五 年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "owner": "彭涵",
+      "date": "2021-04-29",
+      "effectiveAreaPing": 100.33,
+      "entryCount": 7,
+      "price": "6,722,085(含 陽台 152.97 平 方公尺,與第 11-17 筆建物 合購)"
+    },
+    {
+      "location": "新北市中和區連城段",
+      "owner": "張○儒",
+      "date": "2022-05-18",
+      "effectiveAreaPing": 107.59,
+      "entryCount": 4,
+      "price": "4,807,600(含 陽台 8.83 平方 公尺,雨遮 3.51 平方公 尺,與第 20 筆 建物合購)"
+    }
+  ]
+}

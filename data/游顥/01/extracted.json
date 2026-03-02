@@ -1,0 +1,382 @@
+{
+  "name": "游顥",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃姿倩"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [
+    {
+      "brand": "日產",
+      "cc": 1498,
+      "owner": "黃姿倩",
+      "date": "111年09月14日",
+      "reason": "買賣",
+      "price": 278000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1345921,
+    "items": [
+      {
+        "institution": "臺灣銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 98
+      },
+      {
+        "institution": "臺灣銀行信安分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "華南銀行敦化分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 5762
+      },
+      {
+        "institution": "台北富邦銀行敦和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 186
+      },
+      {
+        "institution": "台北富邦銀行台北 101 分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 830
+      },
+      {
+        "institution": "國泰世華銀行大安分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 27
+      },
+      {
+        "institution": "國泰世華銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 20007
+      },
+      {
+        "institution": "臺灣企銀台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 20
+      },
+      {
+        "institution": "京城商業銀行民雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 45
+      },
+      {
+        "institution": "台中市第二信用合作社中 和分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 233
+      },
+      {
+        "institution": "南投縣集集鎮農會信用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 2199
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 982112
+      },
+      {
+        "institution": "元大銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 725
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "游顥",
+        "foreignAmount": 0,
+        "amount": 811
+      },
+      {
+        "institution": "臺灣銀行南投分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃姿倩",
+        "foreignAmount": 0,
+        "amount": 568
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃姿倩",
+        "foreignAmount": 0,
+        "amount": 623
+      },
+      {
+        "institution": "台中銀行竹山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃姿倩",
+        "foreignAmount": 0,
+        "amount": 312668
+      },
+      {
+        "institution": "台中銀行竹山分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "黃姿倩",
+        "foreignAmount": 24,
+        "amount": 785
+      },
+      {
+        "institution": "南投縣竹山鎮農會信用部 中央分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃姿倩",
+        "foreignAmount": 0,
+        "amount": 2000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃姿倩",
+        "foreignAmount": 0,
+        "amount": 16095
+      },
+      {
+        "institution": "中信銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃姿倩",
+        "foreignAmount": 0,
+        "amount": 126
+      }
+    ]
+  },
+  "stocks": {
+    "total": 305750,
+    "items": [
+      {
+        "name": "中石化",
+        "owner": "游顥",
+        "shares": 369,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3690
+      },
+      {
+        "name": "彰銀",
+        "owner": "游顥",
+        "shares": 142,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1420
+      },
+      {
+        "name": "麗嬰房",
+        "owner": "游顥",
+        "shares": 64,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 640
+      },
+      {
+        "name": "亞基科",
+        "owner": "游顥",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽非常安 心醫療終身健康 保險",
+        "policyNumber": "",
+        "holder": "游顥",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 06 月 28 日/172 年 06 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽傳家樂 (253)終身還本壽 險",
+        "policyNumber": "",
+        "holder": "游顥",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 01 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽安心卡 重大傷病定期保 險",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 14 日/164 年 07 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽長扶雙 享 A 型失能照護 終身保險",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 12 月 13 日/189 年 12 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽長扶雙 享 A 型失能照護 終身保險",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 12 月 13 日/189 年 12 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽美樂雙 喜外幣利率變動 型終身壽險（定期 給付型）",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 07 月 05 日/189 年 07 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽美樂雙 喜外幣利率變動 型終身壽險（定期 給付型）",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 07 月 05 日/189 年 07 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽健康滿 分終身健康保險",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 14 日/179 年 07 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽醫起健 康醫療終身健康 保險",
+        "policyNumber": "",
+        "holder": "黃姿倩",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 03 月 08 日/180 年 03 月 08 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 1327014,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "游顥",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 406424,
+        "date": "110年06月11日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "游顥",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 318326,
+        "date": "111年04月07日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "游顥",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 203328,
+        "date": "111年04月07日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "游顥",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 159742,
+        "date": "110年06月11日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "游顥(海富企業社)",
+        "creditor": "元大商業銀行大昌分行 高雄市三民區覺民路",
+        "amount": 239194,
+        "date": "110年07月16日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

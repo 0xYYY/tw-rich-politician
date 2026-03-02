@@ -1,0 +1,426 @@
+{
+  "name": "賴瑞隆",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳怡元"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "賴○聿(1)"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "賴○聿(2)"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 3171,
+      "share": "10000 分之 103",
+      "owner": "陳怡元",
+      "date": "107年10月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 1829,
+      "share": "10000 分之 103",
+      "owner": "陳怡元",
+      "date": "107年10月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 300,
+      "share": "10000 分之 252",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(與 第 3 至第 8 筆 土地，及第 1 至 2 筆建物以 上房地總價額 合計)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 72,
+      "share": "10000 分之 252",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(與 第 3 至第 8 筆 土地，及第 1 至 2 筆建物以 上房地總價額 合計)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 42,
+      "share": "10000 分之 252",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(與 第 3 至第 8 筆 土地，及第 1 至 2 筆建物以 上房地總價額 合計)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 697,
+      "share": "10000 分之 252",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(與 第 3 至第 8 筆 土地，及第 1 至 2 筆建物以 上房地總價額 合計)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 105,
+      "share": "10000 分之 252",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(與 第 3 至第 8 筆 土地，及第 1 至 2 筆建物以 上房地總價額 合計)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 4,
+      "share": "10000 分之 252",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(與 第 3 至第 8 筆 土地，及第 1 至 2 筆建物以 上房地總價額 合計)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 49.24,
+      "share": "全部",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(房 地總價額)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 210.6,
+      "share": "40 分之 1",
+      "owner": "陳怡元",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "5,000,000(共 同使用部分)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 186.7,
+      "share": "全部",
+      "owner": "陳怡元",
+      "date": "107年10月12日",
+      "reason": "買賣",
+      "price": "含陽台 19.22 平方公尺(超 過五年)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "area": 13569.59,
+      "share": "100000 分 之 1003",
+      "owner": "陳怡元",
+      "date": "107年10月12日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 1987,
+      "owner": "賴瑞隆",
+      "date": "105年06月28日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 3456,
+      "owner": "陳怡元",
+      "date": "108年06月20日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7518681,
+    "items": [
+      {
+        "institution": "臺灣銀行苓雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴瑞隆",
+        "foreignAmount": 0,
+        "amount": 6604560
+      },
+      {
+        "institution": "華南銀行大稻埕分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴瑞隆",
+        "foreignAmount": 0,
+        "amount": 742
+      },
+      {
+        "institution": "國泰世華銀行古亭分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "賴瑞隆",
+        "foreignAmount": 0,
+        "amount": 84
+      },
+      {
+        "institution": "國泰世華銀行西門分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "賴瑞隆",
+        "foreignAmount": 0,
+        "amount": 116
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴瑞隆",
+        "foreignAmount": 0,
+        "amount": 5200
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "賴瑞隆",
+        "foreignAmount": 0,
+        "amount": 733960
+      },
+      {
+        "institution": "合庫商業銀行前金分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳怡元",
+        "foreignAmount": 87,
+        "amount": 2796
+      },
+      {
+        "institution": "合庫商業銀行前金分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 36595
+      },
+      {
+        "institution": "華南銀行東苓分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 31180
+      },
+      {
+        "institution": "彰化銀行內湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 738
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 49805
+      },
+      {
+        "institution": "玉山銀行高雄分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 13
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 565
+      },
+      {
+        "institution": "台新國際銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 4278
+      },
+      {
+        "institution": "中信銀行東高雄分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳怡元",
+        "foreignAmount": 5,
+        "amount": 171
+      },
+      {
+        "institution": "中信銀行東高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 5652
+      },
+      {
+        "institution": "中信銀行東高雄分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳怡元",
+        "foreignAmount": 0,
+        "amount": 25
+      },
+      {
+        "institution": "中信銀行高雄分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "賴○聿 (1)",
+        "foreignAmount": 0,
+        "amount": 22200
+      },
+      {
+        "institution": "中信銀行高雄分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "賴○聿 (2)",
+        "foreignAmount": 0,
+        "amount": 20000
+      }
+    ]
+  },
+  "stocks": {
+    "total": 60808,
+    "items": [
+      {
+        "name": "中鋼構",
+        "owner": "陳怡元",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "Intel",
+        "owner": "陳怡元",
+        "shares": 55,
+        "faceValue": 23,
+        "foreignCurrency": "美元",
+        "totalValue": 40808
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大高股息",
+        "owner": "陳怡元",
+        "institution": "中 國 信 託 證 券 高雄分公司",
+        "units": 4000,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 149120
+      },
+      {
+        "name": "元大台灣高息低 波",
+        "owner": "陳怡元",
+        "institution": "中 國 信 託 證 券 高雄分公司",
+        "units": 94000,
+        "unitValue": 56.39,
+        "foreignCurrency": "",
+        "totalValue": 5300660
+      },
+      {
+        "name": "群益台灣精選高 息",
+        "owner": "陳怡元",
+        "institution": "中 國 信 託 證 券 高雄分公司",
+        "units": 50000,
+        "unitValue": 23.26,
+        "foreignCurrency": "",
+        "totalValue": 1163000
+      },
+      {
+        "name": "元大高股息",
+        "owner": "陳怡元",
+        "institution": "合 作 金 庫 證 券 鳳山分公司",
+        "units": 2000,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 74560
+      },
+      {
+        "name": "國泰 10Y+金融債",
+        "owner": "陳怡元",
+        "institution": "合 作 金 庫 證 券 鳳山分公司",
+        "units": 75000,
+        "unitValue": 16.6099,
+        "foreignCurrency": "",
+        "totalValue": 1245742
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "凱基人壽保險股 份有限公司",
+        "name": "凱基人壽多美金 美元利率變動型 終身壽險-定期 給付型",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳怡元",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 01 月 04 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 18536999,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳怡元",
+        "creditor": "華南商業銀行東苓分行 高雄市中正一路",
+        "amount": 15316727,
+        "date": "107年10月16日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳怡元",
+        "creditor": "華南商業銀行東苓分行 高雄市中正一路",
+        "amount": 3220272,
+        "date": "111年10月27日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

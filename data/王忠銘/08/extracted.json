@@ -1,0 +1,119 @@
+{
+  "name": "王忠銘",
+  "org": "連江縣政府",
+  "title": "縣長",
+  "date": "",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳順娥"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台聚",
+        "owner": "10",
+        "shares": 7852,
+        "trustee": "王忠銘",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "台中銀",
+        "owner": "10",
+        "shares": 3058,
+        "trustee": "王忠銘",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "中信金",
+        "owner": "10",
+        "shares": 16614,
+        "trustee": "王忠銘",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "大同",
+        "owner": "10",
+        "shares": 505,
+        "trustee": "陳順娥",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "彰銀",
+        "owner": "10",
+        "shares": 2260,
+        "trustee": "陳順娥",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "中信金",
+        "owner": "10",
+        "shares": 27338,
+        "trustee": "陳順娥",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "第一金",
+        "owner": "10",
+        "shares": 2313,
+        "trustee": "陳順娥",
+        "transferDate": "出售",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

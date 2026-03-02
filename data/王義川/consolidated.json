@@ -1,0 +1,154 @@
+{
+  "name": "王義川",
+  "date": "2024-12-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 542637
+    },
+    {
+      "currency": "美元",
+      "amount": 6197
+    },
+    {
+      "currency": "日圓",
+      "amount": 133
+    },
+    {
+      "currency": "人民幣",
+      "amount": 31
+    }
+  ],
+  "depositsTotal": 548999,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山年年春還本 終身保險",
+      "holder": "王義川",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "華新",
+      "cleanName": "華新",
+      "ticker": "1605",
+      "shares": 2510,
+      "owner": "王義川",
+      "priceAtDisclosure": 24.65,
+      "latestPrice": 36.75
+    },
+    {
+      "name": "光寶科",
+      "cleanName": "光寶科",
+      "ticker": "2301",
+      "shares": 535,
+      "owner": "王義川",
+      "priceAtDisclosure": 100.5,
+      "latestPrice": 173
+    },
+    {
+      "name": "國巨",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 35,
+      "owner": "王義川",
+      "priceAtDisclosure": 520,
+      "latestPrice": 298
+    },
+    {
+      "name": "精英",
+      "cleanName": "精英",
+      "ticker": "2331",
+      "shares": 992,
+      "owner": "王義川",
+      "priceAtDisclosure": 21.4,
+      "latestPrice": 27.6
+    },
+    {
+      "name": "旺宏",
+      "cleanName": "旺宏",
+      "ticker": "2337",
+      "shares": 355,
+      "owner": "王義川",
+      "priceAtDisclosure": 20.3,
+      "latestPrice": 110
+    },
+    {
+      "name": "錸德",
+      "cleanName": "錸德",
+      "ticker": "2349",
+      "shares": 101,
+      "owner": "王義川",
+      "priceAtDisclosure": 14.05,
+      "latestPrice": 14.55
+    },
+    {
+      "name": "云辰",
+      "cleanName": "云辰",
+      "ticker": "2390",
+      "shares": 996,
+      "owner": "王義川",
+      "priceAtDisclosure": 11.55,
+      "latestPrice": 10.35
+    },
+    {
+      "name": "友達",
+      "cleanName": "友達",
+      "ticker": "2409",
+      "shares": 346,
+      "owner": "王義川",
+      "priceAtDisclosure": 15.5,
+      "latestPrice": 16.6
+    },
+    {
+      "name": "華映",
+      "cleanName": "華映",
+      "ticker": "2475",
+      "shares": 127,
+      "owner": "王義川",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "耀文電子",
+      "cleanName": "耀文電子",
+      "ticker": null,
+      "shares": 146,
+      "owner": "王義川",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市中壢區青溪段",
+      "owner": "王義川",
+      "date": "2021-08-05",
+      "effectiveAreaPing": 51.16,
+      "entryCount": 2,
+      "price": "3,834,000 (與第2筆建物 合購，含陽台 4.23 平方公 尺,雨遮1.4平 方公尺)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "owner": "王義川",
+      "date": "1999-05-05",
+      "effectiveAreaPing": 42.74,
+      "entryCount": 5,
+      "price": "含陽台 13.38 平方公尺(超 過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "owner": "王義川",
+      "date": "2021-05-13",
+      "effectiveAreaPing": 44.63,
+      "entryCount": 4,
+      "price": "1,998,421(與 第 5 筆土地合 購)"
+    }
+  ]
+}

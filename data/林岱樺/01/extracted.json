@@ -1,0 +1,118 @@
+{
+  "name": "林岱樺",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8003211,
+    "items": [
+      {
+        "institution": "合庫商業銀行鳳山分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林岱樺",
+        "foreignAmount": 0,
+        "amount": 7366342
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林岱樺",
+        "foreignAmount": 0,
+        "amount": 109
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林岱樺",
+        "foreignAmount": 0,
+        "amount": 599863
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林岱樺",
+        "foreignAmount": 0,
+        "amount": 5220
+      },
+      {
+        "institution": "凱基銀行鳳山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林岱樺",
+        "foreignAmount": 0,
+        "amount": 3244
+      },
+      {
+        "institution": "台新國際銀行鳳山分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "林岱樺",
+        "foreignAmount": 882,
+        "amount": 28254
+      },
+      {
+        "institution": "台新國際銀行鳳山分行",
+        "type": "綜合存款",
+        "currency": "歐元",
+        "owner": "林岱樺",
+        "foreignAmount": 2,
+        "amount": 93
+      },
+      {
+        "institution": "台新國際銀行鳳山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林岱樺",
+        "foreignAmount": 0,
+        "amount": 86
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "新光人壽保險股 份有限公司",
+        "name": "新光人壽全心全 意終身還本保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "林岱樺",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 11 月 22 日/161 年 11 月 22 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

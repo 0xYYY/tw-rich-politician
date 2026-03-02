@@ -1,0 +1,253 @@
+{
+  "name": "葉元之",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "未成年子女",
+      "name": "葉○瑜"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "葉○熙"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "裕民",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 90,
+        "pricePerShare": "45.35",
+        "changeDate": "112年11月20日",
+        "changeReason": "賣",
+        "totalValue": 4081
+      },
+      {
+        "name": "裕民",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 30,
+        "pricePerShare": "45.35",
+        "changeDate": "112年11月20日",
+        "changeReason": "賣",
+        "totalValue": 1360
+      },
+      {
+        "name": "裕民",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 30,
+        "pricePerShare": "45.35",
+        "changeDate": "112年11月20日",
+        "changeReason": "賣",
+        "totalValue": 1360
+      },
+      {
+        "name": "裕民",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 21,
+        "pricePerShare": "45.35",
+        "changeDate": "112年11月20日",
+        "changeReason": "賣",
+        "totalValue": 952
+      },
+      {
+        "name": "裕民",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 10,
+        "pricePerShare": "45.35",
+        "changeDate": "112年11月20日",
+        "changeReason": "賣",
+        "totalValue": 453
+      },
+      {
+        "name": "康和證",
+        "broker": "統一證券城中分公 司",
+        "owner": "葉元之",
+        "shares": 605,
+        "pricePerShare": "14",
+        "changeDate": "113年10月16日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 8470
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 2000,
+        "pricePerShare": "342",
+        "changeDate": "112年11月03日",
+        "changeReason": "買",
+        "totalValue": 684000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "342",
+        "changeDate": "112年11月03日",
+        "changeReason": "買",
+        "totalValue": 342000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "342",
+        "changeDate": "112年11月03日",
+        "changeReason": "買",
+        "totalValue": 342000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "342",
+        "changeDate": "112年11月03日",
+        "changeReason": "買",
+        "totalValue": 342000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "362",
+        "changeDate": "112年11月16日",
+        "changeReason": "買",
+        "totalValue": 362000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "362",
+        "changeDate": "112年11月16日",
+        "changeReason": "買",
+        "totalValue": 362000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "362",
+        "changeDate": "112年11月16日",
+        "changeReason": "買",
+        "totalValue": 362000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "362",
+        "changeDate": "112年11月16日",
+        "changeReason": "買",
+        "totalValue": 362000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "362",
+        "changeDate": "112年11月16日",
+        "changeReason": "買",
+        "totalValue": 362000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "359",
+        "changeDate": "112年11月20日",
+        "changeReason": "買",
+        "totalValue": 359000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "359",
+        "changeDate": "112年11月20日",
+        "changeReason": "買",
+        "totalValue": 359000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "359",
+        "changeDate": "112年11月20日",
+        "changeReason": "買",
+        "totalValue": 359000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "359",
+        "changeDate": "112年11月20日",
+        "changeReason": "買",
+        "totalValue": 359000
+      },
+      {
+        "name": "新普",
+        "broker": "永豐金-敦南",
+        "owner": "葉元之",
+        "shares": 1000,
+        "pricePerShare": "359",
+        "changeDate": "112年11月20日",
+        "changeReason": "買",
+        "totalValue": 359000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

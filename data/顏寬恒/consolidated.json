@@ -1,0 +1,726 @@
+{
+  "name": "顏寬恒",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 47901843
+    },
+    {
+      "currency": "美元",
+      "amount": 2860053
+    },
+    {
+      "currency": "日圓",
+      "amount": 0
+    },
+    {
+      "currency": "英鎊",
+      "amount": 5738
+    },
+    {
+      "currency": "歐元",
+      "amount": 52
+    },
+    {
+      "currency": "離岸人民幣",
+      "amount": 1
+    }
+  ],
+  "depositsTotal": 50767688,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全美金元寶還本 終身壽險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "三倍醫靠住院醫 療定期",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "真安順手術醫療 終身",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新安家保本定期 保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新安家保本定期 保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽迎向陽 光終身壽險（乙 型）",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "宏福終身壽險乙 型",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "滿鑽 325 利率變 動型養老保險",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽富貴超 多利終身還本保 險 JQ1",
+      "holder": "顏寬恒",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費珍愛 女人終身保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽福康滿 利終身壽險(定 期給付型)",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽福康滿 利終身壽險(定 期給付型)",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增利久 久外幣增額終身 壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增美滿 外幣增額終身分 紅壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽鴻利發 還本終身分紅保 險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "七美福利變美元",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安心保住院醫療 終身保險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安順手術醫療終 身",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美盛美元",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新呵護久久失能 照護",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新鍾情終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿利年年利變",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿利年年利變",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿利年年利變",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂事年年終身保 險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鑫想事成終身保 險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽富足一 生終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽增美利 外幣增額終身壽 險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽舞動人 生變額萬能壽險 （乙型）",
+      "holder": "陳麗淩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽舞動人 生變額萬能壽險 （乙型）",
+      "holder": "陳麗淩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽舞動人 生變額萬能壽險 （乙型）",
+      "holder": "陳麗淩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽吉美得 美元利率變動型 終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽長期看 護終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽美達利 美元利率變動型 終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽美滿傳 承美元利率變動 型終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽健康安 心終身醫療保險 A 型",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽富利美 美元利率變動型 終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽增好鑫 利率變動型增額 終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽增好鑫 利率變動型增額 終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽鑫美利 外幣終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽鑫美利 外幣終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽鑫美利 外幣終身壽險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "美滿 325 美元利 率變動型養老保 險",
+      "holder": "陳麗淩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "新纖",
+      "cleanName": "新纖",
+      "ticker": "1409",
+      "shares": 398,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 16,
+      "latestPrice": 15.55
+    },
+    {
+      "name": "濱川",
+      "cleanName": "濱川",
+      "ticker": "1569",
+      "shares": 30000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 24.5,
+      "latestPrice": 56.8
+    },
+    {
+      "name": "寶齡富錦",
+      "cleanName": "寶齡富錦",
+      "ticker": "1760",
+      "shares": 629,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 101.5,
+      "latestPrice": 62.5
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 174,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "友訊",
+      "cleanName": "友訊",
+      "ticker": "2332",
+      "shares": 138000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 18.55,
+      "latestPrice": 15.75
+    },
+    {
+      "name": "圓剛",
+      "cleanName": "圓剛",
+      "ticker": "2417",
+      "shares": 48000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 46.55,
+      "latestPrice": 37.25
+    },
+    {
+      "name": "晶豪科",
+      "cleanName": "晶豪科",
+      "ticker": "3006",
+      "shares": 110000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 84.3,
+      "latestPrice": 156.5
+    },
+    {
+      "name": "協禧",
+      "cleanName": "協禧",
+      "ticker": "3071",
+      "shares": 100000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 37.95,
+      "latestPrice": 24.75
+    },
+    {
+      "name": "正達",
+      "cleanName": "正達",
+      "ticker": "3149",
+      "shares": 480937,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 25.35,
+      "latestPrice": 52.6
+    },
+    {
+      "name": "精材",
+      "cleanName": "精材",
+      "ticker": "3374",
+      "shares": 402007,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 123.5,
+      "latestPrice": 193.5
+    },
+    {
+      "name": "聯鈞",
+      "cleanName": "聯鈞",
+      "ticker": "3450",
+      "shares": 305,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 68.8,
+      "latestPrice": 309.5
+    },
+    {
+      "name": "聯勝",
+      "cleanName": "聯勝",
+      "ticker": null,
+      "shares": 11953,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "健喬",
+      "cleanName": "健喬",
+      "ticker": "4114",
+      "shares": 283,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 38.6,
+      "latestPrice": 32.35
+    },
+    {
+      "name": "晟德",
+      "cleanName": "晟德",
+      "ticker": "4123",
+      "shares": 13851,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 42.85,
+      "latestPrice": 43.8
+    },
+    {
+      "name": "智微",
+      "cleanName": "智微",
+      "ticker": null,
+      "shares": 393797,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "佐臻",
+      "cleanName": "佐臻",
+      "ticker": null,
+      "shares": 116000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "全訊",
+      "cleanName": "全訊",
+      "ticker": "5222",
+      "shares": 124806,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 173,
+      "latestPrice": 144
+    },
+    {
+      "name": "廣明",
+      "cleanName": "廣明",
+      "ticker": "6188",
+      "shares": 100000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 79.1,
+      "latestPrice": 100.5
+    },
+    {
+      "name": "精誠",
+      "cleanName": "精誠",
+      "ticker": "6214",
+      "shares": 430,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 116,
+      "latestPrice": 115
+    },
+    {
+      "name": "北極星藥業－KY",
+      "cleanName": "北極星藥業-KY",
+      "ticker": "6550",
+      "shares": 10000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 61.2,
+      "latestPrice": 33.3
+    },
+    {
+      "name": "榮炭",
+      "cleanName": "榮炭",
+      "ticker": null,
+      "shares": 105000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "昱厚生技",
+      "cleanName": "昱厚生技",
+      "ticker": null,
+      "shares": 697485,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "力積電",
+      "cleanName": "力積電",
+      "ticker": "6770",
+      "shares": 217390,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 26.3,
+      "latestPrice": 76.7
+    },
+    {
+      "name": "長佳智能",
+      "cleanName": "長佳智能",
+      "ticker": "6841",
+      "shares": 20000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 89.1,
+      "latestPrice": 64.6
+    },
+    {
+      "name": "台泥循環",
+      "cleanName": "台泥循環",
+      "ticker": null,
+      "shares": 618934,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "太電",
+      "cleanName": "太電",
+      "ticker": "1602",
+      "shares": 2478,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "精碟",
+      "cleanName": "精碟",
+      "ticker": null,
+      "shares": 1000,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "精誠",
+      "cleanName": "精誠",
+      "ticker": "6214",
+      "shares": 900,
+      "owner": "顏寬恒",
+      "priceAtDisclosure": 116,
+      "latestPrice": 115
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市西屯區惠泰段",
+      "owner": "顏寬恒",
+      "date": "2011-11-24",
+      "effectiveAreaPing": 242.29,
+      "entryCount": 1,
+      "price": "含陽台 39.4 平 方公尺,露台 15.21 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "owner": "顏寬恒",
+      "date": "2003-09-01",
+      "effectiveAreaPing": 91.63,
+      "entryCount": 3,
+      "price": "含陽台 29.53 平方公尺(超過 五年)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "owner": "顏寬恒",
+      "date": "2004-03-16",
+      "effectiveAreaPing": 62.04,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區明秀段",
+      "owner": "顏寬恒",
+      "date": "2023-10-19",
+      "effectiveAreaPing": 185.45,
+      "entryCount": 1,
+      "price": "1,030,800"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "owner": "顏寬恒",
+      "date": "2005-08-02",
+      "effectiveAreaPing": 103.05,
+      "entryCount": 3,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市梧棲區梧棲段",
+      "owner": "顏寬恒",
+      "date": "2007-01-31",
+      "effectiveAreaPing": 234.84,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "owner": "陳麗淩",
+      "date": "2003-09-01",
+      "effectiveAreaPing": 91.63,
+      "entryCount": 3,
+      "price": "含陽台 29.53 平方公尺(超過 五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "owner": "陳麗淩",
+      "date": "2023-03-24",
+      "effectiveAreaPing": 328.19,
+      "entryCount": 4,
+      "price": "85,280,000(房 地總價額)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "owner": "陳麗淩",
+      "date": "1998-05-19",
+      "effectiveAreaPing": 60.67,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "高金素梅",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "山地原住民",
+  "party": "無黨籍",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 675194
+    }
+  ],
+  "depositsTotal": 675194,
+  "insurance": [
+    {
+      "company": "三商美邦人壽保 險股份有限公司",
+      "name": "世紀富利變額年 金保險",
+      "holder": "高金素梅",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山康寶終身壽 險",
+      "holder": "高金素梅",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市和平區崑崙段",
+      "owner": "高金素梅",
+      "date": "2021-03-03",
+      "effectiveAreaPing": 321.63,
+      "entryCount": 1,
+      "price": "3,881,900 (附屬建物陽 台201.71平方 公尺。)"
+    },
+    {
+      "location": "臺北市士林區華岡段三小段",
+      "owner": "高金素梅",
+      "date": "2022-07-08",
+      "effectiveAreaPing": 135.54,
+      "entryCount": 5,
+      "price": "65,000,000 (一、房地總價 額。 二、與第 4 筆 土地及第 2-6 筆建物合購。 三、附屬建物 陽台 20.98 平 方公尺，雨遮 9.63 平 方 公 尺，合計 30.61 平方公尺。)"
+    },
+    {
+      "location": "臺中市和平區南勢里東關路",
+      "owner": "高金素梅",
+      "date": "2020-12-25",
+      "effectiveAreaPing": 102.25,
+      "entryCount": 1,
+      "price": "615,200"
+    }
+  ]
+}

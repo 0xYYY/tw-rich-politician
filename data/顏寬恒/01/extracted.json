@@ -1,0 +1,2081 @@
+{
+  "name": "顏寬恒",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳麗淩"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市西屯區惠泰段",
+      "area": 527.79,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "100年11月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 792.23,
+      "share": "10000 分之 590",
+      "owner": "顏寬恒",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 91.89,
+      "share": "2 分之 1",
+      "owner": "顏寬恒",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區三鹿段",
+      "area": 3147.75,
+      "share": "60 分之 33",
+      "owner": "顏寬恒",
+      "date": "105年06月28日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區三鹿段",
+      "area": 9405.29,
+      "share": "37644 分之 4765",
+      "owner": "顏寬恒",
+      "date": "100年11月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區三鹿段",
+      "area": 446.22,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "95年06月09日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 8053.22,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "5,435,923.5"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 274.86,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "185,530.5"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 3663.35,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "111年01月20日",
+      "reason": "判決共有 物分割",
+      "price": "2,472,761.25"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 435.38,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "293,881.5"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 553.22,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "373,423.5"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 194.83,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "131,510.25"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 693.85,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "468,348.75"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 26567.08,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "17,932,779"
+    },
+    {
+      "location": "臺中市沙鹿區中清段",
+      "area": 73,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "49,275"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "area": 153.58,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "93年03月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "area": 31.12,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "93年03月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 1256.25,
+      "share": "72 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 707.34,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 89.24,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 1320.54,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 605.35,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 2953.97,
+      "share": "48 分之 11",
+      "owner": "顏寬恒",
+      "date": "97年03月13日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 90.56,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 41.59,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 2281.49,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "99年12月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 465.1,
+      "share": "24 分之 5",
+      "owner": "顏寬恒",
+      "date": "97年03月13日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 85.81,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "96年10月26日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 2340.93,
+      "share": "2 分之 1",
+      "owner": "顏寬恒",
+      "date": "99年12月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 1095.24,
+      "share": "24 分之 5",
+      "owner": "顏寬恒",
+      "date": "97年03月13日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 72.48,
+      "share": "10000 分之 7369",
+      "owner": "顏寬恒",
+      "date": "110年04月12日",
+      "reason": "調解共有 物分割",
+      "price": "678,313.5"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 13.66,
+      "share": "10000 分之 7369",
+      "owner": "顏寬恒",
+      "date": "110年04月12日",
+      "reason": "調解共有 物分割",
+      "price": "127,838.89"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 582.4,
+      "share": "10000 分之 7369",
+      "owner": "顏寬恒",
+      "date": "110年04月12日",
+      "reason": "調解共有 物分割",
+      "price": "5,450,466.11"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 619.19,
+      "share": "10000 分之 7369",
+      "owner": "顏寬恒",
+      "date": "110年04月12日",
+      "reason": "調解共有 物分割",
+      "price": "5,794,770.11"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 8.03,
+      "share": "10000 分之 7369",
+      "owner": "顏寬恒",
+      "date": "110年04月12日",
+      "reason": "調解共有 物分割",
+      "price": "75,149.8"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 137.4,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "95年06月09日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 104.61,
+      "share": "14040 分之 3662",
+      "owner": "顏寬恒",
+      "date": "95年03月31日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區明秀段",
+      "area": 512.71,
+      "share": "5 分之 4",
+      "owner": "顏寬恒",
+      "date": "99年12月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區明德段",
+      "area": 10153.77,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "111年01月20日",
+      "reason": "判決共有 物分割",
+      "price": "45,691,965"
+    },
+    {
+      "location": "臺中市沙鹿區明德段",
+      "area": 6991.82,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "111年01月20日",
+      "reason": "判決共有 物分割",
+      "price": "47,194,785"
+    },
+    {
+      "location": "臺中市沙鹿區明德段",
+      "area": 756,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "111年01月20日",
+      "reason": "判決共有 物分割",
+      "price": "510,300"
+    },
+    {
+      "location": "臺中市沙鹿區明德段",
+      "area": 6038.18,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "4,075,771.5"
+    },
+    {
+      "location": "臺中市沙鹿區明德段",
+      "area": 144.84,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "97,767"
+    },
+    {
+      "location": "臺中市沙鹿區明德段",
+      "area": 17.02,
+      "share": "8000 分 之 1200",
+      "owner": "顏寬恒",
+      "date": "110年05月26日",
+      "reason": "信託",
+      "price": "11,488.5"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 259.7,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "93年02月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 1322.73,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "93年02月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 465.12,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "99年07月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 272.35,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "98年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 73.19,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "98年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 53.25,
+      "share": "36 分之 3",
+      "owner": "顏寬恒",
+      "date": "98年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區保成段",
+      "area": 834.12,
+      "share": "6 分之 1",
+      "owner": "顏寬恒",
+      "date": "98年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區國昌段",
+      "area": 1212.39,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "101年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區國昌段",
+      "area": 305.88,
+      "share": "12 分之 1",
+      "owner": "顏寬恒",
+      "date": "101年05月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 72.39,
+      "share": "1000000 分 之 25204",
+      "owner": "顏寬恒",
+      "date": "104年03月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 150.11,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "94年08月02日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 648.75,
+      "share": "1000000 分 之 25204",
+      "owner": "顏寬恒",
+      "date": "104年03月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 177.54,
+      "share": "1000000 分 之 25204",
+      "owner": "顏寬恒",
+      "date": "104年03月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 110.55,
+      "share": "200000 分 之 3406",
+      "owner": "顏寬恒",
+      "date": "104年03月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市南屯區鎮南段",
+      "area": 244,
+      "share": "10000 分之 1720",
+      "owner": "顏寬恒",
+      "date": "101年11月21日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市梧棲區梧棲段",
+      "area": 1040,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "96年04月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市清水區銀聯段",
+      "area": 282,
+      "share": "10 分之 5",
+      "owner": "顏寬恒",
+      "date": "101年03月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市龍井區中社段",
+      "area": 191.49,
+      "share": "100 分之 10",
+      "owner": "顏寬恒",
+      "date": "101年06月19日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市龍井區遊園北段",
+      "area": 4911.55,
+      "share": "91200 分之 9184",
+      "owner": "顏寬恒",
+      "date": "97年04月18日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市龍井區遊園北段",
+      "area": 1195.92,
+      "share": "91200 分之 9184",
+      "owner": "顏寬恒",
+      "date": "97年04月18日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 4619.68,
+      "share": "100000 分 之 684",
+      "owner": "陳麗淩",
+      "date": "112年03月24日",
+      "reason": "買賣",
+      "price": "85,280,000(房 地總價額)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 792.23,
+      "share": "10000 分之 590",
+      "owner": "陳麗淩",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 91.89,
+      "share": "2 分之 1",
+      "owner": "陳麗淩",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "area": 64.88,
+      "share": "全部",
+      "owner": "陳麗淩",
+      "date": "87年05月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "area": 89.75,
+      "share": "全部",
+      "owner": "陳麗淩",
+      "date": "87年05月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 2953.97,
+      "share": "72 分之 13",
+      "owner": "陳麗淩",
+      "date": "95年12月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 465.1,
+      "share": "72 分之 13",
+      "owner": "陳麗淩",
+      "date": "95年12月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區自強段",
+      "area": 1095.24,
+      "share": "72 分之 13",
+      "owner": "陳麗淩",
+      "date": "95年12月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區國昌段",
+      "area": 477.22,
+      "share": "全部",
+      "owner": "陳麗淩",
+      "date": "108年09月24日",
+      "reason": "買賣",
+      "price": "858,996"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市西屯區惠泰段",
+      "area": 800.97,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "100年11月24日",
+      "reason": "買賣",
+      "price": "含陽台 39.4 平 方公尺,露台 15.21 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 388.29,
+      "share": "2 分之 1",
+      "owner": "顏寬恒",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "含陽台 29.53 平方公尺(超過 五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 335.25,
+      "share": "10000 分之 1343",
+      "owner": "顏寬恒",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 484,
+      "share": "10000 分之 1317",
+      "owner": "顏寬恒",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "area": 205.1,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "93年03月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區明秀段",
+      "area": 613.05,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "112年10月19日",
+      "reason": "第一次登 記",
+      "price": "1,030,800"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 1415.9,
+      "share": "100000 分 之 1254",
+      "owner": "顏寬恒",
+      "date": "94年08月02日",
+      "reason": "拍賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 109.45,
+      "share": "100000 分 之 1066",
+      "owner": "顏寬恒",
+      "date": "94年08月02日",
+      "reason": "拍賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市沙鹿區護安段",
+      "area": 321.76,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "94年08月02日",
+      "reason": "拍賣",
+      "price": "含陽台 22.4 平 方公尺,平台 4.66 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺中市梧棲區梧棲段",
+      "area": 458.64,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "96年01月31日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市梧棲區梧棲段",
+      "area": 317.7,
+      "share": "全部",
+      "owner": "顏寬恒",
+      "date": "96年01月31日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 388.29,
+      "share": "2 分之 1",
+      "owner": "陳麗淩",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "含陽台 29.53 平方公尺(超過 五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 335.25,
+      "share": "10000 分之 1343",
+      "owner": "陳麗淩",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 484,
+      "share": "10000 分之 1317",
+      "owner": "陳麗淩",
+      "date": "92年09月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 1103.49,
+      "share": "147 分之 1",
+      "owner": "陳麗淩",
+      "date": "112年03月24日",
+      "reason": "買賣",
+      "price": "85,280,000(房 地總價額)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 273.87,
+      "share": "全部",
+      "owner": "陳麗淩",
+      "date": "112年03月24日",
+      "reason": "買賣",
+      "price": "85,280,000(含 陽台 21.68 平 方公尺)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 32258.4,
+      "share": "100000 分 之 1860",
+      "owner": "陳麗淩",
+      "date": "112年03月24日",
+      "reason": "買賣",
+      "price": "85,280,000(共 同使用部分)"
+    },
+    {
+      "location": "臺中市西屯區惠順段",
+      "area": 32258.4,
+      "share": "100000 分 之 631",
+      "owner": "陳麗淩",
+      "date": "112年03月24日",
+      "reason": "買賣",
+      "price": "85,280,000(共 同使用部分)"
+    },
+    {
+      "location": "臺中市沙鹿區正義段",
+      "area": 200.56,
+      "share": "全部",
+      "owner": "陳麗淩",
+      "date": "87年05月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "cc": 1170,
+      "owner": "顏寬恒",
+      "date": "95年08月14日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 50767688,
+    "items": [
+      {
+        "institution": "土地銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 1123259
+      },
+      {
+        "institution": "土地銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 417373
+      },
+      {
+        "institution": "土地銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 1177342
+      },
+      {
+        "institution": "合庫商業銀行沙鹿分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 1992473
+      },
+      {
+        "institution": "華南銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "顏寬恒",
+        "foreignAmount": 199,
+        "amount": 6366
+      },
+      {
+        "institution": "國泰世華銀行新生分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 113
+      },
+      {
+        "institution": "國泰世華銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 1018747
+      },
+      {
+        "institution": "國泰世華銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 886
+      },
+      {
+        "institution": "台中銀行大甲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 33556
+      },
+      {
+        "institution": "台中銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 644
+      },
+      {
+        "institution": "台中銀行台中港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 26540
+      },
+      {
+        "institution": "台中市第二信用合作社太 平分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 10935
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 329
+      },
+      {
+        "institution": "聯邦銀行文林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 114
+      },
+      {
+        "institution": "永豐銀行延平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 807
+      },
+      {
+        "institution": "安泰銀行延平分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 113
+      },
+      {
+        "institution": "中信銀行南屯分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "顏寬恒",
+        "foreignAmount": 86626,
+        "amount": 2736795
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 26979134
+      },
+      {
+        "institution": "臺中市沙鹿區農會信用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 10373486
+      },
+      {
+        "institution": "臺中市龍井區農會信用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "顏寬恒",
+        "foreignAmount": 0,
+        "amount": 65093
+      },
+      {
+        "institution": "土地銀行沙鹿分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "土地銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 98
+      },
+      {
+        "institution": "合庫商業銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 21587
+      },
+      {
+        "institution": "合庫商業銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 651
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 63
+      },
+      {
+        "institution": "華南銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "陳麗淩",
+        "foreignAmount": 455,
+        "amount": 14557
+      },
+      {
+        "institution": "華南銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "華南銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "國泰世華銀行新生分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 313
+      },
+      {
+        "institution": "國泰世華銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 1328
+      },
+      {
+        "institution": "臺灣企銀松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 2641
+      },
+      {
+        "institution": "臺灣企銀沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 18
+      },
+      {
+        "institution": "台中銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 113
+      },
+      {
+        "institution": "台中銀行台中港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 230512
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 297
+      },
+      {
+        "institution": "聯邦銀行文林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 114
+      },
+      {
+        "institution": "元大銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 776
+      },
+      {
+        "institution": "星展文心分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 664998
+      },
+      {
+        "institution": "星展文心分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "陳麗淩",
+        "foreignAmount": 2,
+        "amount": 0
+      },
+      {
+        "institution": "安泰銀行延平分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 113
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳麗淩",
+        "foreignAmount": 3239,
+        "amount": 102335
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "陳麗淩",
+        "foreignAmount": 142,
+        "amount": 5738
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "陳麗淩",
+        "foreignAmount": 1,
+        "amount": 52
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期存款",
+        "currency": "離岸人民幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 1754912
+      },
+      {
+        "institution": "臺中市沙鹿區農會信用部 北勢分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳麗淩",
+        "foreignAmount": 0,
+        "amount": 2263
+      }
+    ]
+  },
+  "stocks": {
+    "total": 37447570,
+    "items": [
+      {
+        "name": "新纖",
+        "owner": "顏寬恒",
+        "shares": 398,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3980
+      },
+      {
+        "name": "濱川",
+        "owner": "顏寬恒",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "寶齡富錦",
+        "owner": "顏寬恒",
+        "shares": 629,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6290
+      },
+      {
+        "name": "鴻海",
+        "owner": "顏寬恒",
+        "shares": 174,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1740
+      },
+      {
+        "name": "友訊",
+        "owner": "顏寬恒",
+        "shares": 138000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1380000
+      },
+      {
+        "name": "圓剛",
+        "owner": "顏寬恒",
+        "shares": 48000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 480000
+      },
+      {
+        "name": "晶豪科",
+        "owner": "顏寬恒",
+        "shares": 110000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1100000
+      },
+      {
+        "name": "協禧",
+        "owner": "顏寬恒",
+        "shares": 100000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1000000
+      },
+      {
+        "name": "正達",
+        "owner": "顏寬恒",
+        "shares": 480937,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4809370
+      },
+      {
+        "name": "精材",
+        "owner": "顏寬恒",
+        "shares": 402007,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4020070
+      },
+      {
+        "name": "聯鈞",
+        "owner": "顏寬恒",
+        "shares": 305,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3050
+      },
+      {
+        "name": "聯勝",
+        "owner": "顏寬恒",
+        "shares": 11953,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 119530
+      },
+      {
+        "name": "健喬",
+        "owner": "顏寬恒",
+        "shares": 283,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2830
+      },
+      {
+        "name": "晟德",
+        "owner": "顏寬恒",
+        "shares": 13851,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 138510
+      },
+      {
+        "name": "智微",
+        "owner": "顏寬恒",
+        "shares": 393797,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3937970
+      },
+      {
+        "name": "佐臻",
+        "owner": "顏寬恒",
+        "shares": 116000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1160000
+      },
+      {
+        "name": "全訊",
+        "owner": "顏寬恒",
+        "shares": 124806,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1248060
+      },
+      {
+        "name": "廣明",
+        "owner": "顏寬恒",
+        "shares": 100000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1000000
+      },
+      {
+        "name": "精誠",
+        "owner": "顏寬恒",
+        "shares": 430,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4300
+      },
+      {
+        "name": "北極星藥業－KY",
+        "owner": "顏寬恒",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "榮炭",
+        "owner": "顏寬恒",
+        "shares": 105000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1050000
+      },
+      {
+        "name": "昱厚生技",
+        "owner": "顏寬恒",
+        "shares": 697485,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6974850
+      },
+      {
+        "name": "力積電",
+        "owner": "顏寬恒",
+        "shares": 217390,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2173900
+      },
+      {
+        "name": "長佳智能",
+        "owner": "顏寬恒",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "台泥循環",
+        "owner": "顏寬恒",
+        "shares": 618934,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6189340
+      },
+      {
+        "name": "太電",
+        "owner": "陳麗淩",
+        "shares": 2478,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 24780
+      },
+      {
+        "name": "精碟",
+        "owner": "陳麗淩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "精誠",
+        "owner": "陳麗淩",
+        "shares": 900,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全美金元寶還本 終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 03 月 27 日/171 年 03 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 01 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 01 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 01 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "三倍醫靠住院醫 療定期",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 07 月 29 日/156 年 07 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "真安順手術醫療 終身",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 01 月 14 日/166 年 01 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 10 月 06 日/165 年 10 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 11 月 06 日/185 年 11 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新安家保本定期 保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 10 月 18 日/142 年 10 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新安家保本定期 保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 05 月 23 日/163 年 05 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 03 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 03 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 03 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 03 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 03 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽迎向陽 光終身壽險（乙 型）",
+        "policyNumber": "○○○○○○○ ○○15",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 01 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "宏福終身壽險乙 型",
+        "policyNumber": "○○○○○○○ ○○801",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 07 日/190 年 08 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "滿鑽 325 利率變 動型養老保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 03 月 08 日/130 年 03 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽富貴超 多利終身還本保 險 JQ1",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "顏寬恒",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 10 月 31 日/177 年 10 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費珍愛 女人終身保險",
+        "policyNumber": "○○○○○○○ ○○723",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 12 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽福康滿 利終身壽險(定 期給付型)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 11 月 15 日/164 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽福康滿 利終身壽險(定 期給付型)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 11 月 15 日/164 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 07 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 06 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 06 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增利久 久外幣增額終身 壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 05 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增美滿 外幣增額終身分 紅壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 03 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽鴻利發 還本終身分紅保 險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 01 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "七美福利變美元",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 04 月 08 日/170 年 04 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安心保住院醫療 終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 08 月 05 日/185 年 08 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安順手術醫療終 身",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 08 月 05 日/185 年 08 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美盛美元",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 28 日/175 年 09 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新呵護久久失能 照護",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 08 月 23 日/165 年 08 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新鍾情終身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 07 月 15 日/185 年 07 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿利年年利變",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 05 日/170 年 06 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿利年年利變",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 05 日/170 年 06 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿利年年利變",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 05 日/170 年 06 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "樂事年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 29 日/170 年 12 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鑫想事成終身保 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 01 月 14 日/171 年 01 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽富足一 生終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 04 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽增美利 外幣增額終身壽 險",
+        "policyNumber": "○○○○○○○ ○○301",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 16 日/176 年 09 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽舞動人 生變額萬能壽險 （乙型）",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "投資型壽險",
+        "period": "97 年 01 月 21 日/194 年 01 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽舞動人 生變額萬能壽險 （乙型）",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳麗淩",
+        "contractType": "投資型壽險",
+        "period": "97 年 01 月 21 日/195 年 01 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽舞動人 生變額萬能壽險 （乙型）",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳麗淩",
+        "contractType": "投資型壽險",
+        "period": "97 年 01 月 21 日/197 年 01 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽吉美得 美元利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 06 月 21 日/176 年 06 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽長期看 護終身壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 02 月 25 日/163 年 02 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽美達利 美元利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 04 月 13 日/176 年 04 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽美滿傳 承美元利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 06 月 18 日/214 年 06 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽健康安 心終身醫療保險 A 型",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 02 月 25 日/167 年 02 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽富利美 美元利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 03 月 20 日/214 年 03 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽增好鑫 利率變動型增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 15 日/156 年 01 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽增好鑫 利率變動型增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 02 月 06 日/177 年 02 月 06 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽鑫美利 外幣終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/194 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽鑫美利 外幣終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/193 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽鑫美利 外幣終身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/196 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "美滿 325 美元利 率變動型養老保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳麗淩",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 08 月 01 日/130 年 08 月 01 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 81400000,
+    "items": [
+      {
+        "type": "私人借款",
+        "creditor": "顏寬恒",
+        "debtor": "林○福 台中市沙鹿區星輝路",
+        "amount": 21400000,
+        "date": "111年01月14日",
+        "reason": "私人借款"
+      },
+      {
+        "type": "私人債權",
+        "creditor": "顏寬恒",
+        "debtor": "顏○通 台中市沙鹿區保順路",
+        "amount": 60000000,
+        "date": "110年05月26日",
+        "reason": "私人借款"
+      }
+    ]
+  },
+  "debts": {
+    "total": 173774758,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "顏寬恒",
+        "creditor": "台中商業銀行大甲分行 台中市大甲區蔣公路",
+        "amount": 70000000,
+        "date": "113年02月27日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "顏寬恒",
+        "creditor": "台中商業銀行大甲分行 台中市大甲區蔣公路",
+        "amount": 70000000,
+        "date": "111年10月21日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "顏寬恒",
+        "creditor": "臺灣土地銀行沙鹿分行 臺中市沙鹿區居仁里中山路",
+        "amount": 662158,
+        "date": "94年09月06日",
+        "reason": "購買住宅貸 款(自用)"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳麗淩",
+        "creditor": "中國信託商業銀行市政分行 臺中市西屯區惠中路",
+        "amount": 33112600,
+        "date": "112年05月23日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 5000,
+    "items": [
+      {
+        "investor": "顏寬恒",
+        "company": "台中市第二信用合作社",
+        "address": "台中市中區中山路 202 號",
+        "amount": 5000,
+        "date": "100年11月10日",
+        "reason": "買賣"
+      }
+    ]
+  }
+}

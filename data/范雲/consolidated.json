@@ -1,0 +1,67 @@
+{
+  "name": "范雲",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1678177
+    },
+    {
+      "currency": "人民幣",
+      "amount": 277777
+    },
+    {
+      "currency": "美元",
+      "amount": 133375
+    },
+    {
+      "currency": "歐元",
+      "amount": 42482
+    },
+    {
+      "currency": "澳幣",
+      "amount": 82
+    },
+    {
+      "currency": "英鎊",
+      "amount": 0
+    }
+  ],
+  "depositsTotal": 2131894,
+  "insurance": [],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大高股息",
+      "owner": "范雲",
+      "institution": "玉山證券",
+      "units": 8000,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 298240,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市淡水區中正段",
+      "owner": "范雲",
+      "date": "1992-07-04",
+      "effectiveAreaPing": 31.8,
+      "entryCount": 2,
+      "price": "含陽台6.38平 方公尺,花台 2.18 平方公 尺,雨遮 2.02 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市大安區龍泉段一小段",
+      "owner": "范雲",
+      "date": "2016-06-23",
+      "effectiveAreaPing": 22.21,
+      "entryCount": 1,
+      "price": "含陽台4.67平 方公尺(超過 五年)"
+    }
+  ]
+}

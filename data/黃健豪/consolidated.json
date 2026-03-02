@@ -1,0 +1,177 @@
+{
+  "name": "黃健豪",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1201492
+    },
+    {
+      "currency": "港幣",
+      "amount": 87
+    },
+    {
+      "currency": "美元",
+      "amount": 76376
+    },
+    {
+      "currency": "澳幣",
+      "amount": 78
+    }
+  ],
+  "depositsTotal": 1278035,
+  "insurance": [
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "元 大 人 壽 永 傳 經典終身壽險",
+      "holder": "葉季青",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 新 平 準終身壽險",
+      "holder": "葉季青",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 1099,
+      "owner": "黃健豪",
+      "priceAtDisclosure": null,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 1000,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 22.7,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "台中銀",
+      "cleanName": "台中銀",
+      "ticker": "2812",
+      "shares": 61,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 17.95,
+      "latestPrice": 21.1
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 2873,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 26.85,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 95,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "群創",
+      "cleanName": "群創",
+      "ticker": "3481",
+      "shares": 757,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 26.8
+    },
+    {
+      "name": "群創",
+      "cleanName": "群創",
+      "ticker": "3481",
+      "shares": 755,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 26.8
+    },
+    {
+      "name": "敦泰",
+      "cleanName": "敦泰",
+      "ticker": "3545",
+      "shares": 1000,
+      "owner": "黃健豪",
+      "priceAtDisclosure": 84.8,
+      "latestPrice": 52.6
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "復華富時不動產",
+      "owner": "黃健豪",
+      "institution": "元 大 證 券 竹 科 分公司",
+      "units": 1000,
+      "unitValue": 9.33,
+      "currency": "",
+      "declaredValue": 9330,
+      "source": "fund"
+    },
+    {
+      "name": "復華中國 5G",
+      "owner": "黃健豪",
+      "institution": "玉 山 證 券 台 中 分公司",
+      "units": 2000,
+      "unitValue": 12.65,
+      "currency": "",
+      "declaredValue": 25300,
+      "source": "fund"
+    },
+    {
+      "name": "安聯(盧森堡)收 益成長基金 AM美元-穩定月配 權/息",
+      "owner": "黃健豪",
+      "institution": "國泰世華銀行",
+      "units": 3518.124,
+      "unitValue": 8.2617,
+      "currency": "美元",
+      "declaredValue": 927776,
+      "source": "fund"
+    },
+    {
+      "name": "安聯(盧森堡)收 益成長基金 AM美元-穩定月配 權/息",
+      "owner": "黃健豪",
+      "institution": "國泰世華銀行",
+      "units": 3518.124,
+      "unitValue": 8.2617,
+      "currency": "美元",
+      "declaredValue": 927776,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50",
+      "owner": "黃健豪",
+      "institution": "元 大 證 券 台 中 分公司",
+      "units": 635,
+      "unitValue": 190.5,
+      "currency": "",
+      "declaredValue": 120967,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市士林區福順段一小段",
+      "owner": "葉季青",
+      "date": "2020-12-29",
+      "effectiveAreaPing": 28.13,
+      "entryCount": 2,
+      "price": "363,000(含陽 台22.2平方公 尺)"
+    }
+  ]
+}

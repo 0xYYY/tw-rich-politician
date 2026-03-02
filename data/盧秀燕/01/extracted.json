@@ -1,0 +1,392 @@
+{
+  "name": "盧秀燕",
+  "org": "臺中市政府",
+  "title": "市長",
+  "date": "113年12月13日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "廖述嘉"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [
+    {
+      "brand": "LEXUS ES300H",
+      "cc": 2494,
+      "owner": "廖述嘉",
+      "date": "103年04月30日",
+      "reason": "買入",
+      "price": 1900000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8622270,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "外匯存款",
+        "currency": "日圓",
+        "owner": "盧秀燕",
+        "foreignAmount": 2668389,
+        "amount": 567566
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "外匯存款",
+        "currency": "美元",
+        "owner": "盧秀燕",
+        "foreignAmount": 11267,
+        "amount": 366239
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "外匯存款",
+        "currency": "美元",
+        "owner": "盧秀燕",
+        "foreignAmount": 103,
+        "amount": 3369
+      },
+      {
+        "institution": "中國信託商業銀行-市政分 行",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "盧秀燕",
+        "foreignAmount": 116,
+        "amount": 3804
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "盧秀燕",
+        "foreignAmount": 0,
+        "amount": 72380
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "盧秀燕",
+        "foreignAmount": 0,
+        "amount": 1163383
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "盧秀燕",
+        "foreignAmount": 0,
+        "amount": 467094
+      },
+      {
+        "institution": "台中健行路郵局(台中 55 支)",
+        "type": "中華郵政存簿儲金",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 116198
+      },
+      {
+        "institution": "臺灣銀行信託部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 305174
+      },
+      {
+        "institution": "第一商業銀行台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 45864
+      },
+      {
+        "institution": "台北富邦商業銀行台中分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 48
+      },
+      {
+        "institution": "台北富邦商業銀行台中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 624660
+      },
+      {
+        "institution": "台北富邦商業銀行台中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "廖述嘉",
+        "foreignAmount": 18323,
+        "amount": 594931
+      },
+      {
+        "institution": "台北富邦商業銀行台中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "南非幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 143,
+        "amount": 254
+      },
+      {
+        "institution": "台北富邦商業銀行安和分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 5129
+      },
+      {
+        "institution": "三信商業銀行進化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 30815
+      },
+      {
+        "institution": "元大商業銀行文心分部",
+        "type": "外匯存款",
+        "currency": "美元",
+        "owner": "廖述嘉",
+        "foreignAmount": 31002,
+        "amount": 1006275
+      },
+      {
+        "institution": "元大商業銀行文心分部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 1736301
+      },
+      {
+        "institution": "永豐商業銀行濟南路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 568395
+      },
+      {
+        "institution": "玉山商業銀行大墩分行",
+        "type": "外匯存款",
+        "currency": "人民幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 193072,
+        "amount": 861798
+      },
+      {
+        "institution": "玉山銀行大墩分行",
+        "type": "外匯存款",
+        "currency": "美元",
+        "owner": "廖述嘉",
+        "foreignAmount": 89,
+        "amount": 2906
+      },
+      {
+        "institution": "玉山銀行大墩分行",
+        "type": "外匯存款",
+        "currency": "日圓",
+        "owner": "廖述嘉",
+        "foreignAmount": 9000,
+        "amount": 1914
+      },
+      {
+        "institution": "玉山銀行文心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖述嘉",
+        "foreignAmount": 0,
+        "amount": 77769
+      }
+    ]
+  },
+  "stocks": {
+    "total": 80000,
+    "items": [
+      {
+        "name": "富邦綜合證券股份有限公 司/勝華 (未交付信託原 因：已下市無需信託)",
+        "owner": "廖述嘉",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "貝萊德世界科技 基金",
+        "owner": "廖述嘉",
+        "institution": "玉 山 銀 行 大 墩 分行",
+        "units": 141.61,
+        "unitValue": 98.45,
+        "foreignCurrency": "美元",
+        "totalValue": 453391
+      },
+      {
+        "name": "摩根中國基金",
+        "owner": "廖述嘉",
+        "institution": "玉 山 銀 行 大 墩 分行",
+        "units": 119.464,
+        "unitValue": 40.32,
+        "foreignCurrency": "美元",
+        "totalValue": 156646
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中華郵政",
+        "name": "郵 政 快 樂 兒 童 增 值 還 本 終 身 壽險",
+        "policyNumber": "",
+        "holder": "盧秀燕",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 06 月 29 日/終身",
+        "note": "繳費 10 年，已 到期無需繳費。"
+      },
+      {
+        "company": "中華郵政",
+        "name": "郵 政 快 樂 兒 童 增 值 還 本 終 身 壽險",
+        "policyNumber": "",
+        "holder": "盧秀燕",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 06 月 29 日/終身",
+        "note": "繳費 10 年，已 到期無需繳費。"
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "得 意 人 生 終 身 保險",
+        "policyNumber": "",
+        "holder": "盧秀燕",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": "已到期無需繳 費，"
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "得 意 人 生 終 身 保險",
+        "policyNumber": "",
+        "holder": "盧秀燕",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": "已到期無需繳 費"
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "滿 意 人 生 終 身 保險",
+        "policyNumber": "",
+        "holder": "盧秀燕",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": "已到期無需繳 費。"
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "滿 意 人 生 終 身 保險",
+        "policyNumber": "",
+        "holder": "盧秀燕",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": "已到期無需繳 費。"
+      },
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "雙 利 雙 收 變 額 萬能壽險",
+        "policyNumber": "",
+        "holder": "廖述嘉",
+        "contractType": "投資型壽險",
+        "period": "103 年 09 月 11 日/164 年 09 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽",
+        "name": "添 美 樂 年 年 美 元終身保險",
+        "policyNumber": "",
+        "holder": "廖述嘉",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 21 日/197 年 06 月 21 日",
+        "note": "六年期已繳費 期滿"
+      },
+      {
+        "company": "國泰人壽",
+        "name": "萬 美 利 利 率 變 動 型 美 元 終 身 壽險",
+        "policyNumber": "",
+        "holder": "廖述嘉",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 08 月 12 日/158 年 08 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "收 成 滿 益 變 額 年金",
+        "policyNumber": "",
+        "holder": "廖述嘉",
+        "contractType": "投資型壽險",
+        "period": "110 年 07 月 29 日/116 年 07 月 29 日",
+        "note": "六年期"
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "美 利 好 運 利 變 壽險",
+        "policyNumber": "",
+        "holder": "廖述嘉",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 01 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 美 利 外 幣 利 變壽險",
+        "policyNumber": "",
+        "holder": "廖述嘉",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 06 月 27 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(3000 公克)",
+        "quantity": "1",
+        "owner": "盧秀燕",
+        "value": 8370000
+      },
+      {
+        "type": "黃金存摺(6 公克)",
+        "quantity": "1",
+        "owner": "廖述嘉",
+        "value": 16740
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "蔣萬安",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "臺北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 26249720
+    },
+    {
+      "currency": "美元",
+      "amount": 9928051
+    }
+  ],
+  "depositsTotal": 36177773,
+  "insurance": [
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽新美滿 旺旺美元利率變 動型增額終身壽 險 ZY1",
+      "holder": "蔣萬安",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽吉祥如 意終身壽險",
+      "holder": "石舫亘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽傳富新 終 身 壽 險 (110) FI5",
+      "holder": "石舫亘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽傳富新 終 身 壽 險 (110) FI5",
+      "holder": "石舫亘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽傳富新 終 身 壽 險 (110) FI5",
+      "holder": "石舫亘",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "新 光金 (未 交付 信託 原 因：有價證券未達新台幣一 百萬之零股)",
+      "cleanName": "新 光金 (未 交付 信託 原 因：有價證券未達新台幣一 百萬之零股)",
+      "ticker": "2887",
+      "shares": 99,
+      "owner": "蔣萬安",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "宜蘭縣羅東鎮中華段",
+      "owner": "石舫亘",
+      "date": "2023-05-25",
+      "effectiveAreaPing": 345.66,
+      "entryCount": 3,
+      "price": null
+    }
+  ]
+}

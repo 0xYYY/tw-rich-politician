@@ -1,0 +1,96 @@
+{
+  "name": "許淑華",
+  "org": "南投縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8172283,
+    "items": [
+      {
+        "institution": "第一銀行草屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許淑華",
+        "foreignAmount": 0,
+        "amount": 510635
+      },
+      {
+        "institution": "南投縣南投市農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許淑華",
+        "foreignAmount": 0,
+        "amount": 3567505
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許淑華",
+        "foreignAmount": 0,
+        "amount": 4094143
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 金 富多終身保險",
+        "policyNumber": "○○○○○○○ ○○303",
+        "holder": "許淑華",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 07 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 鑫 滿 利 足 利 率 變 動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○62",
+        "holder": "許淑華",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 12 日/175 年 03 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南 山 新 年 年 春 還本終身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "許淑華",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 10 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

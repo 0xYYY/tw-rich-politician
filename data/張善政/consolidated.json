@@ -1,0 +1,331 @@
+{
+  "name": "張善政",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 24480586
+    },
+    {
+      "currency": "美元",
+      "amount": 4255180
+    },
+    {
+      "currency": "澳幣",
+      "amount": 4700943
+    },
+    {
+      "currency": "紐西蘭幣",
+      "amount": 13
+    },
+    {
+      "currency": "日圓",
+      "amount": 157145
+    }
+  ],
+  "depositsTotal": 33593872,
+  "insurance": [
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽金享退 休變額年金保險",
+      "holder": "張善政",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽心安心 照護終身保險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽好福氣 失能照護終身保 險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽外幣計 價富利人生變額 年金保險(V1)",
+      "holder": "張善政",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽優利人 生變額年金保險",
+      "holder": "張善政",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽 GO 美利 外幣利率變動型 增額還本終身保 險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美利富 外幣增額終身壽 險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽富利高 升終身壽險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽智富盈 家外幣利率變動 型終身壽險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽豐盛傳 家利率變動型終 身壽險",
+      "holder": "張善政",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽健康御 守醫療帳戶終身 保險",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增美樂 外幣增額終身保 險",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽雙利年 年利率變動型還 本終身保險(定 期給付型)",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金澳利 外幣利率變動型 增 額 終 身 壽 險 (V1)",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金澳利 外幣利率變動型 增 額 終 身 壽 險 (V1)",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美鑽 點零外幣利率變 動型增額還本終 身保險",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽鑫澳利 外幣利率變動型 終身壽險",
+      "holder": "張琦雅",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "碩網 (未交付信託原因：非 國內上市、上櫃股票)",
+      "cleanName": "碩網",
+      "ticker": "7547",
+      "shares": 20000,
+      "owner": "張善政",
+      "priceAtDisclosure": null,
+      "latestPrice": 55.8
+    },
+    {
+      "name": "Goog (未交付信託原因：國 外股票)",
+      "cleanName": "Goog",
+      "ticker": "GOOG",
+      "shares": 3080,
+      "owner": "張善政",
+      "priceAtDisclosure": 5500.63,
+      "latestPrice": 9769.56
+    },
+    {
+      "name": "Googl (未交付信託原因： 國外股票)",
+      "cleanName": "Googl",
+      "ticker": "GOOGL",
+      "shares": 3080,
+      "owner": "張善政",
+      "priceAtDisclosure": 5457.3,
+      "latestPrice": 9779.91
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 530322,
+      "owner": "張善政",
+      "priceAtDisclosure": 40.05,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 221,
+      "owner": "張善政",
+      "priceAtDisclosure": 41.7,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "燁興",
+      "cleanName": "燁興",
+      "ticker": "2007",
+      "shares": 793,
+      "owner": "張善政",
+      "priceAtDisclosure": 10.9,
+      "latestPrice": 8.55
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 328,
+      "owner": "張善政",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 6444,
+      "owner": "張善政",
+      "priceAtDisclosure": 40.05,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "資通",
+      "cleanName": "資通",
+      "ticker": "2471",
+      "shares": 3000,
+      "owner": "張善政",
+      "priceAtDisclosure": 48.75,
+      "latestPrice": 51.4
+    },
+    {
+      "name": "可成",
+      "cleanName": "可成",
+      "ticker": "2474",
+      "shares": 1000,
+      "owner": "張善政",
+      "priceAtDisclosure": 231.5,
+      "latestPrice": 191.5
+    },
+    {
+      "name": "敦陽科",
+      "cleanName": "敦陽科",
+      "ticker": "2480",
+      "shares": 1600,
+      "owner": "張善政",
+      "priceAtDisclosure": 129.5,
+      "latestPrice": 147
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 3690,
+      "owner": "張善政",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "茂達電子",
+      "cleanName": "茂達電子",
+      "ticker": "6138",
+      "shares": 87,
+      "owner": "張善政",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "中保",
+      "cleanName": "中保",
+      "ticker": "9917",
+      "shares": 3408,
+      "owner": "張善政",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "華碩電腦",
+      "cleanName": "華碩電腦",
+      "ticker": "2357",
+      "shares": 2000,
+      "owner": "張善政",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市新店區蘭溪段",
+      "owner": "張善政",
+      "date": "1985-08-26",
+      "effectiveAreaPing": 73.96,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市中壢區中寮段",
+      "owner": "張善政",
+      "date": "2023-04-27",
+      "effectiveAreaPing": 21.38,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "新北市永和區中信段",
+      "owner": "張琦雅",
+      "date": "2023-04-27",
+      "effectiveAreaPing": 159.96,
+      "entryCount": 23,
+      "price": null
+    },
+    {
+      "location": "臺北市大同區市府段三小段",
+      "owner": "張琦雅",
+      "date": "2023-04-27",
+      "effectiveAreaPing": 6.1,
+      "entryCount": 119,
+      "price": null
+    },
+    {
+      "location": "臺北市中山區中山段四小段",
+      "owner": "張琦雅",
+      "date": "2023-04-27",
+      "effectiveAreaPing": 16.1,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "新北市三芝區土地公埔段八連溪頭 小段",
+      "owner": "張善政",
+      "date": "2023-04-27",
+      "effectiveAreaPing": 0.07,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市信義區吳興段二小段",
+      "owner": "張琦雅",
+      "date": "2023-05-25",
+      "effectiveAreaPing": 28.99,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

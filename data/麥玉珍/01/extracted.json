@@ -1,0 +1,158 @@
+{
+  "name": "麥玉珍",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "未成年子女",
+      "name": "麥○漩"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 2146820,
+    "items": [
+      {
+        "institution": "合庫商業銀行衛道分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 23372
+      },
+      {
+        "institution": "台中銀行秀水分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 1505518
+      },
+      {
+        "institution": "台中市第二信用合作社西 屯分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 15304
+      },
+      {
+        "institution": "彰化縣秀水鄉農會信用部 金興分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 131
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 335340
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 117064
+      },
+      {
+        "institution": "凱基銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 1855
+      },
+      {
+        "institution": "中信銀行彰化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "麥玉珍",
+        "foreignAmount": 0,
+        "amount": 88852
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "麥○漩",
+        "foreignAmount": 0,
+        "amount": 59384
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 新 珍 愛 女 人 終 身 保險",
+        "policyNumber": "○○○○○○○ ○○699",
+        "holder": "麥玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "漾 安 心 住 院 醫 療終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "麥玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 11 月 16 日/161 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "漾 順 心 手 術 醫 療終身",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "麥玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 11 月 16 日/161 年 11 月 15 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 240000,
+    "items": [
+      {
+        "investor": "麥玉珍",
+        "company": "東協藝文企業社",
+        "address": "臺中市北區邱厝里英才路 66 號 2 樓",
+        "amount": 240000,
+        "date": "109年01月20日",
+        "reason": "創立"
+      }
+    ]
+  }
+}

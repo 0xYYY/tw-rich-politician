@@ -1,0 +1,494 @@
+{
+  "name": "張麗善",
+  "org": "雲林縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張永成"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣虎尾鎮明正段(自用房屋 之坐落基地)",
+      "area": 82.87,
+      "share": "全部",
+      "owner": "張麗善",
+      "date": "86年11月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮新墾地段(耕地， 特定區域農牧用地)",
+      "area": 5599.1,
+      "share": "全部",
+      "owner": "張麗善",
+      "date": "101年07月25日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮新墾地段(耕地， 特定區域農牧用地)",
+      "area": 5035.51,
+      "share": "全部",
+      "owner": "張永成",
+      "date": "106年02月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣虎尾鎮明正段(未交付信 託原因：自用房屋)",
+      "area": 182.78,
+      "share": "全部",
+      "owner": "張麗善",
+      "date": "86年11月20日",
+      "reason": "買賣",
+      "price": "含陽台10.7平 方公尺(超過 五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "cc": 1170,
+      "owner": "張永成",
+      "date": "104年08月20日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 22999851,
+    "items": [
+      {
+        "institution": "臺灣銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 15243206
+      },
+      {
+        "institution": "臺灣銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 342
+      },
+      {
+        "institution": "土地銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "張麗善",
+        "foreignAmount": 1707,
+        "amount": 54509
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 5886
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張麗善 (雲林縣日頭 花姊妹協會)",
+        "foreignAmount": 0,
+        "amount": 384787
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 157
+      },
+      {
+        "institution": "合庫商業銀行斗六分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 1074
+      },
+      {
+        "institution": "合庫商業銀行虎尾分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "張麗善",
+        "foreignAmount": 16231,
+        "amount": 518832
+      },
+      {
+        "institution": "合庫商業銀行虎尾分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 296354
+      },
+      {
+        "institution": "合庫商業銀行虎尾分行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "第一銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 10635
+      },
+      {
+        "institution": "華南銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 92
+      },
+      {
+        "institution": "彰化銀行虎尾分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 2191575
+      },
+      {
+        "institution": "彰化銀行北港分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 1258
+      },
+      {
+        "institution": "彰化銀行北港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 456
+      },
+      {
+        "institution": "京城商業銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 16235
+      },
+      {
+        "institution": "京城商業銀行太保分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 428
+      },
+      {
+        "institution": "板信銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "雲林縣虎尾鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 11038
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 745082
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張麗善",
+        "foreignAmount": 0,
+        "amount": 15718
+      },
+      {
+        "institution": "臺灣銀行德芳分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 936033
+      },
+      {
+        "institution": "土地銀行嘉義分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 1297
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 641706
+      },
+      {
+        "institution": "第一銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 1027
+      },
+      {
+        "institution": "華南銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 243
+      },
+      {
+        "institution": "全國農業金庫營業部",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 778251
+      },
+      {
+        "institution": "中華民國農會中壢辦事處 信用部",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 498401
+      },
+      {
+        "institution": "雲林縣虎尾鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 597391
+      },
+      {
+        "institution": "雲林縣斗南鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 81
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 230
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 102
+      },
+      {
+        "institution": "元大銀行大里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張永成",
+        "foreignAmount": 0,
+        "amount": 47325
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "元大人壽保險 股份有限公司",
+        "name": "元大人壽金美承富 美元利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險 股份有限公司",
+        "name": "元大人壽金美承富 美元利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險 股份有限公司",
+        "name": "元大人壽金美承富 美元利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險 股份有限公司",
+        "name": "元大人壽金美承富 美元利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險 股份有限公司",
+        "name": "南山人壽美年發外 幣增額還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽保險 股份有限公司",
+        "name": "中國人壽富利世代 終身保險乙型 (96A)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 08 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "安泰還本終身壽險 (85)(繳費 15 年)",
+        "policyNumber": "○○○○○○○ ○○601",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 03 月 31 日/186 年 03 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "安泰還本終身壽險 (85)(繳費 15 年)",
+        "policyNumber": "○○○○○○○ ○○701",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 03 月 31 日/188 年 03 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "安泰還本終身壽險 (85)(繳費 15 年)",
+        "policyNumber": "○○○○○○○ ○○901",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 03 月 31 日/187 年 03 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "富邦人壽五五得利 終身壽險",
+        "policyNumber": "○○○○○○○ ○○804",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 31 日/163 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "富邦人壽安康久久 殘廢照護終身壽險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 06 月 28 日/153 年 06 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽保險 股份有限公司",
+        "name": "新光人壽美旺福外 幣利率變動型終身 壽險(定期給付型)",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "張麗善",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 07 月 09 日/162 年 07 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "安泰喬壽還本終身 壽險(繳費 20 年)",
+        "policyNumber": "○○○○○○○ ○○101",
+        "holder": "張永成",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 10 月 23 日/132 年 10 月 23 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "張麗善",
+        "value": 324990
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 1000000,
+    "items": [
+      {
+        "investor": "張永成",
+        "company": "政衛醫院管理顧問有限公司",
+        "address": "雲林縣虎尾鎮公安里林森路 一段 396 巷 22 號 1 樓",
+        "amount": 1000000,
+        "date": "105年01月10日",
+        "reason": "原始股東"
+      }
+    ]
+  }
+}

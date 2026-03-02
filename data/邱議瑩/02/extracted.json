@@ -1,0 +1,58 @@
+{
+  "name": "邱議瑩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "111年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李永得"
+    }
+  ],
+  "land": [
+    {
+      "location": "1★高雄市美濃區福安段",
+      "area": 1825.64,
+      "share": "6 分之 1",
+      "owner": "李永得",
+      "date": "104年03月06日",
+      "reason": "信託",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

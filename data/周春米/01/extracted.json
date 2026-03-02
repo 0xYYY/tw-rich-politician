@@ -1,0 +1,326 @@
+{
+  "name": "周春米",
+  "org": "屏東縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "邱明弘"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣屏東巿公園段三小段(自 用房屋之坐落基地)",
+      "area": 2261,
+      "share": "100000 分 之 1584",
+      "owner": "邱明弘",
+      "date": "104年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣屏東巿公園段三小段(未 交付信託原因：自用房屋)",
+      "area": 188.91,
+      "share": "全部",
+      "owner": "邱明弘",
+      "date": "104年12月17日",
+      "reason": "買賣",
+      "price": "含陽台 15.48 平方公尺(超 過五年)"
+    },
+    {
+      "location": "屏東縣屏東巿公園段三小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 6431.69,
+      "share": "100000 分 之 1567",
+      "owner": "邱明弘",
+      "date": "104年12月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "Mercedes-Benz",
+      "cc": 1991,
+      "owner": "周春米",
+      "date": "106年10月23日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6298569,
+    "items": [
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 1803396
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 342
+      },
+      {
+        "institution": "土地銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 145308
+      },
+      {
+        "institution": "土地銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 18322
+      },
+      {
+        "institution": "土地銀行敦化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 4871
+      },
+      {
+        "institution": "彰化銀行屏東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 13109
+      },
+      {
+        "institution": "彰化銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 901
+      },
+      {
+        "institution": "國泰世華銀行東高雄分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 537316
+      },
+      {
+        "institution": "國泰世華銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 247043
+      },
+      {
+        "institution": "兆豐國際商業銀行忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 645
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 1274
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 1098
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周春米",
+        "foreignAmount": 0,
+        "amount": 135
+      },
+      {
+        "institution": "臺灣銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 1314
+      },
+      {
+        "institution": "土地銀行敦化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 82
+      },
+      {
+        "institution": "國泰世華銀行松山分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 58
+      },
+      {
+        "institution": "國泰世華銀行敦南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 57
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 3352940
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 170330
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱明弘",
+        "foreignAmount": 0,
+        "amount": 28
+      }
+    ]
+  },
+  "stocks": {
+    "total": 32220,
+    "items": [
+      {
+        "name": "台開 (未交付信託原因：下 市)",
+        "owner": "周春米",
+        "shares": 2567,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 25670
+      },
+      {
+        "name": "長谷 (未交付信託原因：下 市)",
+        "owner": "周春米",
+        "shares": 655,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6550
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽卓越變 額萬能壽險",
+        "policyNumber": "",
+        "holder": "周春米",
+        "contractType": "投資型壽險",
+        "period": "94 年 10 月 26 日/150 年 10 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "",
+        "holder": "周春米",
+        "contractType": "儲蓄型壽險",
+        "period": "85 年 08 月 16 日/150 年 08 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽迎向陽 光終身壽險(丙 型)",
+        "policyNumber": "",
+        "holder": "周春米",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽卓越變 額萬能壽險",
+        "policyNumber": "",
+        "holder": "邱明弘",
+        "contractType": "投資型壽險",
+        "period": "94 年 10 月 26 日/149 年 10 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "",
+        "holder": "邱明弘",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 07 月 29 日/149 年 07 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽迎向陽 光終身壽險(丙 型)",
+        "policyNumber": "",
+        "holder": "邱明弘",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 12 月 12 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "周春米",
+        "value": 73194
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

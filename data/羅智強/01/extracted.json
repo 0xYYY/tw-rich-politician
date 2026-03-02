@@ -1,0 +1,602 @@
+{
+  "name": "羅智強",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃雪玲"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○扉"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "area": 489,
+      "share": "10000 分之 44",
+      "owner": "黃雪玲",
+      "date": "98年04月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "area": 20390,
+      "share": "10000 分之 44",
+      "owner": "黃雪玲",
+      "date": "98年04月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "area": 124.85,
+      "share": "全部",
+      "owner": "黃雪玲",
+      "date": "98年04月30日",
+      "reason": "買賣",
+      "price": "含陽台 15.45 平方公尺,花 台3.47平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "area": 6785.68,
+      "share": "10000 分之 52",
+      "owner": "黃雪玲",
+      "date": "98年04月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "area": 8593.09,
+      "share": "392 分之 2",
+      "owner": "黃雪玲",
+      "date": "98年04月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "area": 1583.19,
+      "share": "279 分之 2",
+      "owner": "黃雪玲",
+      "date": "98年04月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "SUZUKI",
+      "cc": 1328,
+      "owner": "黃雪玲",
+      "date": "106年06月15日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 12475729,
+    "items": [
+      {
+        "institution": "臺灣銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 32649
+      },
+      {
+        "institution": "臺灣銀行公館分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 21250
+      },
+      {
+        "institution": "臺灣銀行武昌分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 18
+      },
+      {
+        "institution": "土地銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 11
+      },
+      {
+        "institution": "土地銀行大里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 46
+      },
+      {
+        "institution": "合庫商業銀行基隆分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "第一銀行木柵分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 326
+      },
+      {
+        "institution": "台北富邦銀行木柵分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 905839
+      },
+      {
+        "institution": "基隆市第二信用合作社安 樂分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 54
+      },
+      {
+        "institution": "基隆市第二信用合作社復 興分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 101
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 33
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 3161870
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 1652
+      },
+      {
+        "institution": "永豐銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 247
+      },
+      {
+        "institution": "玉山銀行民權分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 49753
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 181
+      },
+      {
+        "institution": "中信銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 779
+      },
+      {
+        "institution": "中信銀行木柵分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅智強",
+        "foreignAmount": 0,
+        "amount": 1020
+      },
+      {
+        "institution": "上海銀行儲蓄部分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 27
+      },
+      {
+        "institution": "台北富邦銀行新莊分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 19400,
+        "amount": 613174
+      },
+      {
+        "institution": "台北富邦銀行新莊分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 10000,
+        "amount": 316069
+      },
+      {
+        "institution": "台北富邦銀行新莊分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 10000,
+        "amount": 316069
+      },
+      {
+        "institution": "台北富邦銀行板橋分行",
+        "type": "活期儲蓄存款",
+        "currency": "歐元",
+        "owner": "黃雪玲",
+        "foreignAmount": 19061,
+        "amount": 655623
+      },
+      {
+        "institution": "台北富邦銀行板橋分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 248845
+      },
+      {
+        "institution": "台北富邦銀行板橋分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 1546,
+        "amount": 48888
+      },
+      {
+        "institution": "國泰世華銀行高雄分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 100920
+      },
+      {
+        "institution": "國泰世華銀行文山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 627677
+      },
+      {
+        "institution": "渣打國際商銀信義分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "聯邦銀行北高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 55
+      },
+      {
+        "institution": "永豐銀行北高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 35
+      },
+      {
+        "institution": "中信銀行三民分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 506116
+      },
+      {
+        "institution": "中信銀行三民分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 263716
+      },
+      {
+        "institution": "中信銀行三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 1148462
+      },
+      {
+        "institution": "中信銀行木柵分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 810980
+      },
+      {
+        "institution": "中信銀行木柵分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 102449
+      },
+      {
+        "institution": "中信銀行東門分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 10000,
+        "amount": 315930
+      },
+      {
+        "institution": "中信銀行東門分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 5096,
+        "amount": 160998
+      },
+      {
+        "institution": "中信銀行東門分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "黃雪玲",
+        "foreignAmount": 7430672,
+        "amount": 1579761
+      },
+      {
+        "institution": "中信銀行東門分行",
+        "type": "活期存款",
+        "currency": "離岸人民幣",
+        "owner": "黃雪玲",
+        "foreignAmount": 20115,
+        "amount": 88203
+      },
+      {
+        "institution": "中信銀行東門分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃雪玲",
+        "foreignAmount": 368,
+        "amount": 11635
+      },
+      {
+        "institution": "中信銀行東門分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "黃雪玲",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "中信銀行木柵分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅○扉",
+        "foreignAmount": 0,
+        "amount": 384152
+      }
+    ]
+  },
+  "stocks": {
+    "total": 10130,
+    "items": [
+      {
+        "name": "全家",
+        "owner": "黃雪玲",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "全家餐飲",
+        "owner": "黃雪玲",
+        "shares": 13,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 130
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大高股息",
+        "owner": "黃雪玲",
+        "institution": "國 泰 證 券 館 前 分公司",
+        "units": 4269,
+        "unitValue": 39.2,
+        "foreignCurrency": "",
+        "totalValue": 167344
+      },
+      {
+        "name": "元大投資級公司 債",
+        "owner": "黃雪玲",
+        "institution": "國 泰 證 券 館 前 分公司",
+        "units": 7000,
+        "unitValue": 34.9941,
+        "foreignCurrency": "",
+        "totalValue": 244958
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "黃雪玲",
+        "institution": "國 泰 證 券 館 前 分公司",
+        "units": 7724,
+        "unitValue": 22.48,
+        "foreignCurrency": "",
+        "totalValue": 173635
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 祥 安終身壽險",
+        "policyNumber": "○○○○○○○ ○○816",
+        "holder": "羅智強",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 02 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 新 祥安終身壽險",
+        "policyNumber": "○○○○○○○ ○○775",
+        "holder": "黃雪玲",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 03 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南 山 人 壽 增 鑫 利 外 幣 增 額 終 身壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "黃雪玲",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南 山 人 壽 增 鑫 利 外 幣 增 額 終 身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃雪玲",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 美 利 大 順 外 幣 利 率 變 動 型 終 身 壽 險",
+        "policyNumber": "○○○○○○○ ○○600",
+        "holder": "黃雪玲",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 08 月 07 日/170 年 08 月 06 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+        "policyNumber": "○○○○○○○ ○○200",
+        "holder": "黃雪玲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 06 日/192 年 12 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+        "policyNumber": "○○○○○○○ ○○300",
+        "holder": "黃雪玲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 06 日/198 年 12 月 05 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "小提琴",
+        "quantity": "1",
+        "owner": "黃雪玲",
+        "value": 800000
+      },
+      {
+        "type": "小提琴",
+        "quantity": "1",
+        "owner": "黃雪玲",
+        "value": 580000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 1532898,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "黃雪玲",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 1532898,
+        "date": "106年11月23日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 500000,
+    "items": [
+      {
+        "investor": "黃雪玲",
+        "company": "小強出版社",
+        "address": "新北市新莊區立信三街 12 巷 14 號 12 樓",
+        "amount": 500000,
+        "date": "107年11月06日",
+        "reason": "獨資"
+      }
+    ]
+  }
+}

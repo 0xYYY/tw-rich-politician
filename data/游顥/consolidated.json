@@ -1,0 +1,115 @@
+{
+  "name": "游顥",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "南投縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1345109
+    },
+    {
+      "currency": "美元",
+      "amount": 812
+    }
+  ],
+  "depositsTotal": 1345921,
+  "insurance": [
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽非常安 心醫療終身健康 保險",
+      "holder": "游顥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽傳家樂 (253)終身還本壽 險",
+      "holder": "游顥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽安心卡 重大傷病定期保 險",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽長扶雙 享 A 型失能照護 終身保險",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽長扶雙 享 A 型失能照護 終身保險",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽美樂雙 喜外幣利率變動 型終身壽險（定期 給付型）",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽美樂雙 喜外幣利率變動 型終身壽險（定期 給付型）",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康滿 分終身健康保險",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽醫起健 康醫療終身健康 保險",
+      "holder": "黃姿倩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中石化",
+      "cleanName": "中石化",
+      "ticker": "1314",
+      "shares": 369,
+      "owner": "游顥",
+      "priceAtDisclosure": 8.19,
+      "latestPrice": 8.31
+    },
+    {
+      "name": "彰銀",
+      "cleanName": "彰銀",
+      "ticker": "2801",
+      "shares": 142,
+      "owner": "游顥",
+      "priceAtDisclosure": 17.6,
+      "latestPrice": 21.6
+    },
+    {
+      "name": "麗嬰房",
+      "cleanName": "麗嬰房",
+      "ticker": "2911",
+      "shares": 64,
+      "owner": "游顥",
+      "priceAtDisclosure": 9.62,
+      "latestPrice": 5.1
+    },
+    {
+      "name": "亞基科",
+      "cleanName": "亞基科",
+      "ticker": null,
+      "shares": 30000,
+      "owner": "游顥",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

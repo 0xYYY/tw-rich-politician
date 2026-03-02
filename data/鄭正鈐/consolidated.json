@@ -1,0 +1,258 @@
+{
+  "name": "鄭正鈐",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新竹市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 677608
+    },
+    {
+      "currency": "美元",
+      "amount": 46559
+    }
+  ],
+  "depositsTotal": 724167,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽快活人 生變額年金保險",
+      "holder": "鄭正鈐",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "好運年年終身保 險",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安心保住院醫療 終身保",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安順手術醫療終 身",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "雙囍年年",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽金寶貝 終身還本壽險",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "全心保本防癌保 險",
+      "holder": "鄭正鈐",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "大東",
+      "cleanName": "大東",
+      "ticker": "1441",
+      "shares": 75,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 15.65,
+      "latestPrice": 10.1
+    },
+    {
+      "name": "中興電",
+      "cleanName": "中興電",
+      "ticker": "1513",
+      "shares": 962,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 160.5,
+      "latestPrice": 175.5
+    },
+    {
+      "name": "金像電",
+      "cleanName": "金像電",
+      "ticker": "2368",
+      "shares": 303,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 188,
+      "latestPrice": 826
+    },
+    {
+      "name": "天蔥",
+      "cleanName": "天蔥",
+      "ticker": "2740",
+      "shares": 627,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": null,
+      "latestPrice": 43.2
+    },
+    {
+      "name": "聯邦銀",
+      "cleanName": "聯邦銀",
+      "ticker": "2838",
+      "shares": 15061,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 15.35,
+      "latestPrice": 20.25
+    },
+    {
+      "name": "聯邦銀",
+      "cleanName": "聯邦銀",
+      "ticker": "2838",
+      "shares": 14555,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 15.35,
+      "latestPrice": 20.25
+    },
+    {
+      "name": "安泰銀",
+      "cleanName": "安泰銀",
+      "ticker": "2849",
+      "shares": 191,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 14.7,
+      "latestPrice": 14
+    },
+    {
+      "name": "安泰銀",
+      "cleanName": "安泰銀",
+      "ticker": "2849",
+      "shares": 32,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 14.7,
+      "latestPrice": 14
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 618,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 26.85,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 15,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 26.85,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 2470,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 32.1,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 2101,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 543,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "旭品",
+      "cleanName": "旭品",
+      "ticker": "3325",
+      "shares": 1000,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 25.3,
+      "latestPrice": 15.05
+    },
+    {
+      "name": "富采",
+      "cleanName": "富采",
+      "ticker": "3714",
+      "shares": 44,
+      "owner": "鄭正鈐",
+      "priceAtDisclosure": 47.05,
+      "latestPrice": 38.1
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "凱基金",
+      "owner": "鄭正鈐",
+      "shares": 1066,
+      "declaredValue": 10660,
+      "source": "stock"
+    },
+    {
+      "name": "凱基金",
+      "owner": "鄭正鈐",
+      "shares": 20,
+      "declaredValue": 200,
+      "source": "stock"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹市翠湖段",
+      "owner": "鄭正鈐",
+      "date": "2012-01-05",
+      "effectiveAreaPing": 77.36,
+      "entryCount": 1,
+      "price": "含陽台 16.78 平方公尺,雨 遮 19.83 平方 公尺(超過五 年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "owner": "鄭正鈐",
+      "date": "2016-05-24",
+      "effectiveAreaPing": 80.69,
+      "entryCount": 5,
+      "price": "含陽台8.28平 方公尺,雨遮 11.21 平方公 尺(超過五年)"
+    }
+  ]
+}

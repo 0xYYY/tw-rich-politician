@@ -1,0 +1,145 @@
+{
+  "name": "蔡其昌",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 59365963
+    },
+    {
+      "currency": "美元",
+      "amount": 553
+    }
+  ],
+  "depositsTotal": 59366516,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "黃玉廷",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "黃玉廷",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "元大人壽祝扶年 年殘廢照護終身 保險",
+      "holder": "黃玉廷",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美盛美元",
+      "holder": "黃玉廷",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽新終身 壽險(106) FI2",
+      "holder": "黃玉廷",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "凱基金",
+      "owner": "蔡其昌",
+      "shares": 127,
+      "declaredValue": 1270,
+      "source": "stock"
+    },
+    {
+      "name": "東大",
+      "owner": "蔡其昌",
+      "institution": "復 華 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 727537.3,
+      "unitValue": 32.53,
+      "currency": "",
+      "declaredValue": 23666788,
+      "source": "fund"
+    },
+    {
+      "name": "摩根龍揚台累",
+      "owner": "蔡其昌",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 432.9,
+      "unitValue": 40.02,
+      "currency": "",
+      "declaredValue": 17324,
+      "source": "fund"
+    },
+    {
+      "name": "摩根大歐洲台累",
+      "owner": "蔡其昌",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 687.8,
+      "unitValue": 24.41,
+      "currency": "",
+      "declaredValue": 16789,
+      "source": "fund"
+    },
+    {
+      "name": "全球大趨勢",
+      "owner": "蔡其昌",
+      "institution": "復 華 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 1807.5,
+      "unitValue": 37.91,
+      "currency": "",
+      "declaredValue": 68522,
+      "source": "fund"
+    },
+    {
+      "name": "全球短期收益",
+      "owner": "蔡其昌",
+      "institution": "復 華 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 15141.7,
+      "unitValue": 12.63,
+      "currency": "",
+      "declaredValue": 191239,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市南屯區惠義段",
+      "owner": "蔡其昌",
+      "date": "2024-04-22",
+      "effectiveAreaPing": 48.85,
+      "entryCount": 1,
+      "price": "1,443,500 (含陽台 22.98 平方公尺,雨 遮 10.01 平方 公尺)"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "owner": "蔡其昌",
+      "date": "2024-04-22",
+      "effectiveAreaPing": 6.78,
+      "entryCount": 1,
+      "price": "33,000"
+    },
+    {
+      "location": "臺中市梧棲區三民段",
+      "owner": "黃玉廷",
+      "date": "2011-06-13",
+      "effectiveAreaPing": 53.16,
+      "entryCount": 1,
+      "price": "含陽台9.74平 方公尺,雨遮 14.79 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市清水區五權段",
+      "owner": "黃玉廷",
+      "date": "2024-04-22",
+      "effectiveAreaPing": 58.39,
+      "entryCount": 1,
+      "price": "568,500(含陽 台 13.87 平方 公尺)"
+    }
+  ]
+}

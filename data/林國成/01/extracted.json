@@ -1,0 +1,425 @@
+{
+  "name": "林國成",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 16,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 86,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 8,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 234,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 1,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 7,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 37,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 16,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 175,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "area": 146,
+      "share": "40 分之 1",
+      "owner": "林國成",
+      "date": "71年09月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 115.52,
+      "share": "全部",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "含陽台 31.41 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "area": 370.53,
+      "share": "10000 分之 353",
+      "owner": "林國成",
+      "date": "107年02月13日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 2494,
+      "owner": "林國成",
+      "date": "106年06月08日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "cc": 3498,
+      "owner": "林國成",
+      "date": "112年02月18日",
+      "reason": "買賣",
+      "price": 300000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1569175,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "第一銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 2095
+      },
+      {
+        "institution": "彰化銀行松江分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 7950
+      },
+      {
+        "institution": "彰化銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 28112
+      },
+      {
+        "institution": "台北富邦銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 602
+      },
+      {
+        "institution": "台北富邦銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 475138
+      },
+      {
+        "institution": "台北富邦銀行建國分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "台北富邦銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 579436
+      },
+      {
+        "institution": "國泰世華銀行新生分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 30800
+      },
+      {
+        "institution": "國泰世華銀行新生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 43
+      },
+      {
+        "institution": "國泰世華銀行新生分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 18
+      },
+      {
+        "institution": "國泰世華銀行大同分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 21477
+      },
+      {
+        "institution": "兆豐國際商業銀行城中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 1892
+      },
+      {
+        "institution": "臺灣企銀建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 389877
+      },
+      {
+        "institution": "臺灣企銀建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 10855
+      },
+      {
+        "institution": "臺灣企銀建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 4592
+      },
+      {
+        "institution": "華泰銀行中山分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 335
+      },
+      {
+        "institution": "台北市第五信用合作社吉 林分社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 5753
+      },
+      {
+        "institution": "陽信銀行吉林分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林國成 (台北市女子 燙髮業職業工 會林國成)",
+        "foreignAmount": 0,
+        "amount": 1064
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 409
+      },
+      {
+        "institution": "安泰銀行建國分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林國成",
+        "foreignAmount": 0,
+        "amount": 8626
+      }
+    ]
+  },
+  "stocks": {
+    "total": 35620,
+    "items": [
+      {
+        "name": "信大",
+        "owner": "林國成",
+        "shares": 262,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2620
+      },
+      {
+        "name": "中工",
+        "owner": "林國成",
+        "shares": 150,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1500
+      },
+      {
+        "name": "達欣工",
+        "owner": "林國成",
+        "shares": 500,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5000
+      },
+      {
+        "name": "欣欣",
+        "owner": "林國成",
+        "shares": 426,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4260
+      },
+      {
+        "name": "敏成健康",
+        "owner": "林國成",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "遠傳",
+        "owner": "林國成",
+        "shares": 1224,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12240
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 防 癌 終身健康保險",
+        "policyNumber": "",
+        "holder": "林國成",
+        "contractType": "儲蓄型壽險",
+        "period": "96 年 07 月 19 日/156 年 07 月 19 日",
+        "note": "保險係引 用上年度 資 料 , 本 次介接沒 提供"
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠 雄 人 壽 新 終 身壽險",
+        "policyNumber": "",
+        "holder": "林國成",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 05 月 21 日/119 年 05 月 21 日",
+        "note": "保險係引 用上年度 資 料 , 本 次介接沒 提供"
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 12031874,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林國成",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 12031874,
+        "date": "107年03月02日",
+        "reason": "房貸分期長 擔"
+      }
+    ]
+  },
+  "investments": {
+    "total": 5000,
+    "items": [
+      {
+        "investor": "林國成",
+        "company": "台北市第五信用合作社",
+        "address": "台北市吉林路 312 號",
+        "amount": 5000,
+        "date": "96年09月07日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

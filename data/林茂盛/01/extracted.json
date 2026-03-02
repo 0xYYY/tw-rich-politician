@@ -1,0 +1,208 @@
+{
+  "name": "林茂盛",
+  "org": "宜蘭縣政府",
+  "title": "副縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王淑卿"
+    }
+  ],
+  "land": [
+    {
+      "location": "基隆市七堵區鶯歌石段石厝坑 小段(耕地，特定區域農牧用地)",
+      "area": 150,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "99年12月17日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市七堵區鶯歌石段石厝坑 小段(耕地，特定區域農牧用地)",
+      "area": 291,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "99年12月17日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市七堵區鶯歌石段石厝坑 小段(耕地，特定區域農牧用地)",
+      "area": 199,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "99年12月17日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市七堵區鶯歌石段石厝坑 小段(耕地，特定區域農牧用地)",
+      "area": 942,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "99年12月17日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市七堵區鶯歌石段石厝坑 小段(耕地，特定區域農牧用地)",
+      "area": 165,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "99年12月17日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市七堵區鶯歌石段石厝坑 小段(耕地，特定區域農牧用地)",
+      "area": 281,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "99年12月17日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市南港區玉成段五小段(自 用房屋之坐落基地)",
+      "area": 1308,
+      "share": "1000 分 之 226",
+      "owner": "王淑卿",
+      "date": "90年08月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市南港區玉成段五小段(未 交付信託原因：自用房屋)",
+      "area": 87.57,
+      "share": "全部",
+      "owner": "王淑卿",
+      "date": "90年08月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1473572,
+    "items": [
+      {
+        "institution": "合作金庫商業銀行忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王淑卿",
+        "foreignAmount": 0,
+        "amount": 53982
+      },
+      {
+        "institution": "第一商業銀行延吉分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王淑卿",
+        "foreignAmount": 0,
+        "amount": 1319880
+      },
+      {
+        "institution": "華南商業銀行忠孝東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王淑卿",
+        "foreignAmount": 0,
+        "amount": 52984
+      },
+      {
+        "institution": "中華郵政公司基隆安樂路 郵局(基隆 21 支局)",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王淑卿",
+        "foreignAmount": 0,
+        "amount": 33043
+      },
+      {
+        "institution": "聯邦商業銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王淑卿",
+        "foreignAmount": 0,
+        "amount": 13683
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "王淑卿",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 01 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "王淑卿",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "幸福一生還本終 身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "王淑卿",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 07 月 10 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 4068486,
+    "items": [
+      {
+        "type": "房屋貸款",
+        "debtor": "林茂盛",
+        "creditor": "國泰人壽保險股份有限公司 台北市大安區仁愛路",
+        "amount": 3540231,
+        "date": "102年09月27日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "房屋貸款",
+        "debtor": "王淑卿",
+        "creditor": "新光人壽保險公司 台北市忠孝西路",
+        "amount": 528255,
+        "date": "90年08月30日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

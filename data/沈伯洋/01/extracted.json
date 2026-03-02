@@ -1,0 +1,251 @@
+{
+  "name": "沈伯洋",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年04月26日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "曾心慧"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "沈○巧"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市萬里區下萬里加投段萬 里加投小段",
+      "area": 11388,
+      "share": "290000 分 之 1",
+      "owner": "沈伯洋",
+      "date": "111年11月03日",
+      "reason": "買賣",
+      "price": "260,820(親人 靈骨塔位的土 地持份：29 萬 分之一）"
+    },
+    {
+      "location": "(日本)北區田端新町一丁目○ ○○番地",
+      "area": 400.06,
+      "share": "95876 分之 1674",
+      "owner": "曾心慧",
+      "date": "110年09月03日",
+      "reason": "買賣",
+      "price": "2,639,460(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "(日本)田端新町一丁目○○○ 番",
+      "area": 14.91,
+      "share": "全部",
+      "owner": "曾心慧",
+      "date": "110年09月03日",
+      "reason": "買賣",
+      "price": "2,639,460(房 地總價額)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "Tesla",
+      "cc": 3710,
+      "owner": "曾心慧",
+      "date": "112年11月15日",
+      "reason": "買賣",
+      "price": 2149200
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 2739317,
+    "items": [
+      {
+        "institution": "國泰世華銀行東門分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "沈伯洋",
+        "foreignAmount": 699,
+        "amount": 22113
+      },
+      {
+        "institution": "國泰世華銀行東門分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "沈伯洋",
+        "foreignAmount": 9,
+        "amount": 1
+      },
+      {
+        "institution": "國泰世華銀行東門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈伯洋",
+        "foreignAmount": 0,
+        "amount": 690001
+      },
+      {
+        "institution": "國泰世華銀行東門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈伯洋",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈伯洋",
+        "foreignAmount": 0,
+        "amount": 504787
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "沈伯洋",
+        "foreignAmount": 0,
+        "amount": 7500
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾心慧",
+        "foreignAmount": 0,
+        "amount": 380996
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾心慧",
+        "foreignAmount": 0,
+        "amount": 222955
+      },
+      {
+        "institution": "國泰世華銀行東門分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "曾心慧",
+        "foreignAmount": 664562,
+        "amount": 139558
+      },
+      {
+        "institution": "國泰世華銀行東門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾心慧",
+        "foreignAmount": 0,
+        "amount": 88516
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾心慧",
+        "foreignAmount": 0,
+        "amount": 441781
+      },
+      {
+        "institution": "玉山銀行東門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "曾心慧",
+        "foreignAmount": 0,
+        "amount": 144331
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾心慧",
+        "foreignAmount": 0,
+        "amount": 96772
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大高股息",
+        "owner": "曾心慧",
+        "institution": "國 泰 綜 合 證 券 股份有限公司",
+        "units": 5000,
+        "unitValue": 37.69,
+        "foreignCurrency": "",
+        "totalValue": 188450
+      },
+      {
+        "name": "元大台灣價值高 息",
+        "owner": "曾心慧",
+        "institution": "國 泰 綜 合 證 券 股份有限公司",
+        "units": 10000,
+        "unitValue": 9.49,
+        "foreignCurrency": "",
+        "totalValue": 94900
+      },
+      {
+        "name": "元大台灣 50",
+        "owner": "曾心慧",
+        "institution": "國 泰 證 券 忠 孝 分公司",
+        "units": 4000,
+        "unitValue": 152.96,
+        "foreignCurrency": "",
+        "totalValue": 611840
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山人壽活力洋 溢 2 重大疾病終 身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "曾心慧",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 09 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山人壽新康順 終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "曾心慧",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 09 月 06 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 952350,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "曾心慧",
+        "creditor": "台新國際商業銀行忠孝分行 台北市大安區忠孝東路",
+        "amount": 952350,
+        "date": "112年11月01日",
+        "reason": "購置汽車貸 款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

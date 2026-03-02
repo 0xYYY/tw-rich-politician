@@ -1,0 +1,701 @@
+{
+  "name": "涂權吉",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "鍾淑娓"
+    }
+  ],
+  "land": [
+    {
+      "location": "桃園市楊梅區楊梅段",
+      "area": 254,
+      "share": "6 分之 1",
+      "owner": "涂權吉",
+      "date": "110年07月15日",
+      "reason": "分割繼承",
+      "price": "2,221,442"
+    },
+    {
+      "location": "桃園市楊梅區楊梅段",
+      "area": 255,
+      "share": "6 分之 1",
+      "owner": "涂權吉",
+      "date": "110年07月15日",
+      "reason": "分割繼承",
+      "price": "2,233,418"
+    },
+    {
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": 41906,
+      "share": "410000 分 之 2",
+      "owner": "涂權吉",
+      "date": "105年07月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市楊梅區頭重溪段",
+      "area": 111,
+      "share": "全部",
+      "owner": "鍾淑娓",
+      "date": "106年12月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市楊梅區楊梅段",
+      "area": 1152.17,
+      "share": "6 分之 1",
+      "owner": "涂權吉",
+      "date": "110年07月15日",
+      "reason": "分割繼承",
+      "price": "389,000"
+    },
+    {
+      "location": "桃園市楊梅區頭重溪段",
+      "area": 284.99,
+      "share": "全部",
+      "owner": "鍾淑娓",
+      "date": "106年12月25日",
+      "reason": "買賣",
+      "price": "含陽台 11.28 平方公尺,雨 遮 16.38 平方 公尺(超過五 年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "HONDA",
+      "cc": 2356,
+      "owner": "鍾淑娓",
+      "date": "108年07月31日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "MINI",
+      "cc": 1499,
+      "owner": "鍾淑娓",
+      "date": "112年02月17日",
+      "reason": "買賣",
+      "price": 1090000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8923523,
+    "items": [
+      {
+        "institution": "臺灣銀行平鎮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 5349625
+      },
+      {
+        "institution": "華南銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 685
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 27891
+      },
+      {
+        "institution": "上海銀行楊梅分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "涂權吉",
+        "foreignAmount": 1369,
+        "amount": 43784
+      },
+      {
+        "institution": "上海銀行楊梅分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "涂權吉",
+        "foreignAmount": 124006,
+        "amount": 26016
+      },
+      {
+        "institution": "上海銀行楊梅分行",
+        "type": "活期存款",
+        "currency": "港幣",
+        "owner": "涂權吉",
+        "foreignAmount": 1929,
+        "amount": 7929
+      },
+      {
+        "institution": "上海銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 41227
+      },
+      {
+        "institution": "臺灣企銀楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 328706
+      },
+      {
+        "institution": "渣打國際商銀埔心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 312808
+      },
+      {
+        "institution": "渣打國際商銀埔心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 24
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 254
+      },
+      {
+        "institution": "中信銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "涂權吉",
+        "foreignAmount": 0,
+        "amount": 115
+      },
+      {
+        "institution": "臺灣銀行平鎮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 1244108
+      },
+      {
+        "institution": "土地銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 938
+      },
+      {
+        "institution": "華南銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 584354
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓 (力大企業社 鍾淑娓)",
+        "foreignAmount": 0,
+        "amount": 324
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 68874
+      },
+      {
+        "institution": "彰化銀行楊梅分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 91182
+      },
+      {
+        "institution": "上海銀行楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 21624
+      },
+      {
+        "institution": "上海銀行楊梅分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "國泰世華銀行中壢分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "鍾淑娓",
+        "foreignAmount": 41,
+        "amount": 1331
+      },
+      {
+        "institution": "國泰世華銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 4413
+      },
+      {
+        "institution": "臺灣企銀楊梅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "渣打國際商銀埔心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 279396
+      },
+      {
+        "institution": "新竹第一信用合作社楊梅 分社",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 65048
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 58219
+      },
+      {
+        "institution": "楊梅區農會本會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "玉山銀行楊梅分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓 (力大企業社 鍾淑娓)",
+        "foreignAmount": 0,
+        "amount": 107196
+      },
+      {
+        "institution": "玉山銀行楊梅分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 5189
+      },
+      {
+        "institution": "中信銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾淑娓",
+        "foreignAmount": 0,
+        "amount": 100
+      }
+    ]
+  },
+  "stocks": {
+    "total": 563200,
+    "items": [
+      {
+        "name": "茂矽",
+        "owner": "涂權吉",
+        "shares": 1111,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11110
+      },
+      {
+        "name": "榮運",
+        "owner": "涂權吉",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "長榮航",
+        "owner": "涂權吉",
+        "shares": 2571,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 25710
+      },
+      {
+        "name": "漢翔",
+        "owner": "涂權吉",
+        "shares": 370,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3700
+      },
+      {
+        "name": "耀勝",
+        "owner": "涂權吉",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      },
+      {
+        "name": "泰宗",
+        "owner": "涂權吉",
+        "shares": 16206,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 162060
+      },
+      {
+        "name": "宇瞻",
+        "owner": "涂權吉",
+        "shares": 386,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3860
+      },
+      {
+        "name": "鴻海",
+        "owner": "鍾淑娓",
+        "shares": 6096,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60960
+      },
+      {
+        "name": "佳能",
+        "owner": "鍾淑娓",
+        "shares": 37,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 370
+      },
+      {
+        "name": "榮運",
+        "owner": "鍾淑娓",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "原相",
+        "owner": "鍾淑娓",
+        "shares": 9,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 90
+      },
+      {
+        "name": "穎漢",
+        "owner": "鍾淑娓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "華星光",
+        "owner": "鍾淑娓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "立凱－KY",
+        "owner": "鍾淑娓",
+        "shares": 819,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8190
+      },
+      {
+        "name": "四維航",
+        "owner": "鍾淑娓",
+        "shares": 784,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7840
+      },
+      {
+        "name": "聚和",
+        "owner": "鍾淑娓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "伍豐",
+        "owner": "鍾淑娓",
+        "shares": 601,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6010
+      },
+      {
+        "name": "宇瞻",
+        "owner": "鍾淑娓",
+        "shares": 330,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3300
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽財星高 照變額萬能壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "涂權吉",
+        "contractType": "投資型壽險",
+        "period": "96 年 08 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "保本 101 終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "涂權吉",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 21 日/158 年 09 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "達康 101 終身",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "涂權吉",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 01 月 19 日/159 年 01 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽富足一 生終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "涂權吉",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽健康久 久終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "涂權吉",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 06 月 01 日/159 年 06 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀丙型",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "鍾淑娓",
+        "contractType": "投資型壽險",
+        "period": "93 年 08 月 27 日/158 年 08 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富利雙享變額壽 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "鍾淑娓",
+        "contractType": "投資型壽險",
+        "period": "103 年 03 月 03 日/118 年 03 月 03 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿美滿利變美元",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 11 月 03 日/164 年 11 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "樂事年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 11 月 20 日/199 年 11 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾情終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 09 月 25 日/193 年 09 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽全民小 額終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 09 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽享富增 利利率變動型終 身壽險(定期給 付型 )",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽安富久 久失能照護終身 壽險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 09 月 29 日/163 年 09 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽年年如 意終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "鍾淑娓",
+        "contractType": "儲蓄型壽險",
+        "period": "80 年 03 月 21 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 4782915,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "鍾淑娓",
+        "creditor": "新竹第一信用合作社楊梅分 社",
+        "amount": 4782915,
+        "date": "112年09月07日",
+        "reason": "購屋貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 2002000,
+    "items": [
+      {
+        "investor": "鍾淑娓",
+        "company": "詠盛開發股份有限公司",
+        "address": "桃園市楊梅區楊湖路 1 段 365 號",
+        "amount": 2000000,
+        "date": "111年08月22日",
+        "reason": "投資"
+      },
+      {
+        "investor": "鍾淑娓",
+        "company": "新竹第一信用合作社",
+        "address": "新竹市大同路 130 號",
+        "amount": 2000,
+        "date": "111年10月20日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

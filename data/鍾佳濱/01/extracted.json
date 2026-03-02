@@ -1,0 +1,1066 @@
+{
+  "name": "鍾佳濱",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "楊茹憶"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣屏東巿北平段",
+      "area": 4.9,
+      "share": "10000 分之 244",
+      "owner": "鍾佳濱",
+      "date": "104年11月17日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣屏東巿北平段",
+      "area": 994.16,
+      "share": "10000 分之 244",
+      "owner": "鍾佳濱",
+      "date": "104年11月17日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣屏東巿北平段",
+      "area": 223.67,
+      "share": "10000 分之 244",
+      "owner": "鍾佳濱",
+      "date": "104年11月17日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市三民區三塊厝段四小段 (交付玉山銀行信託部信託)",
+      "area": 68,
+      "share": "全部",
+      "owner": "鍾佳濱",
+      "date": "97年06月03日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣屏東巿北平段",
+      "area": 98.36,
+      "share": "全部",
+      "owner": "鍾佳濱",
+      "date": "104年11月17日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣屏東巿北平段",
+      "area": 156.2,
+      "share": "全部",
+      "owner": "鍾佳濱",
+      "date": "104年11月17日",
+      "reason": "分割繼承",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市三民區三塊厝段四小段 (交付玉山銀行信託部信託)",
+      "area": 95.86,
+      "share": "全部",
+      "owner": "鍾佳濱",
+      "date": "97年06月03日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "芳村區芳村大道(○○○○圖○ 幅)",
+      "area": 85.67,
+      "share": "全部",
+      "owner": "鍾佳濱",
+      "date": "88年03月29日",
+      "reason": "受贈",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "三陽",
+      "cc": 2199,
+      "owner": "鍾佳濱",
+      "date": "105年03月23日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "福特六和",
+      "cc": 1999,
+      "owner": "楊茹憶",
+      "date": "110年03月10日",
+      "reason": "買賣",
+      "price": 50000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 20800970,
+    "items": [
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 486165
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 41822
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 5156853
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 80
+      },
+      {
+        "institution": "玉山銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "玉山銀行屏東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "玉山銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鍾佳濱",
+        "foreignAmount": 0,
+        "amount": 36053
+      },
+      {
+        "institution": "臺灣銀行仁武分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行仁武分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 44370
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 4734
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 139433
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 200640
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "南非幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 90168,
+        "amount": 163276
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 150000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 150000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "南非幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 42016,
+        "amount": 76084
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "楊茹憶",
+        "foreignAmount": 1974,
+        "amount": 63142
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "南非幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 33075,
+        "amount": 59893
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "楊茹憶",
+        "foreignAmount": 1591,
+        "amount": 50886
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "南非幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 20528,
+        "amount": 37172
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "楊茹憶",
+        "foreignAmount": 1039,
+        "amount": 33232
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "澳幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 1326,
+        "amount": 27819
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "墨西哥披索",
+        "owner": "楊茹憶",
+        "foreignAmount": 15222,
+        "amount": 24258
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "南非幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 10419,
+        "amount": 18868
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 10020
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 993300
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 400000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 400000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "楊茹憶",
+        "foreignAmount": 901713,
+        "amount": 188728
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "楊茹憶",
+        "foreignAmount": 808,
+        "amount": 25842
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "楊茹憶",
+        "foreignAmount": 493,
+        "amount": 17154
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 419,
+        "amount": 8802
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 3222,
+        "amount": 5835
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "墨西哥披索",
+        "owner": "楊茹憶",
+        "foreignAmount": 1040,
+        "amount": 1658
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "玉山銀行七賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 346874
+      },
+      {
+        "institution": "安泰銀行景美分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶 (楊茹憶吳○ 娟)",
+        "foreignAmount": 0,
+        "amount": 21
+      },
+      {
+        "institution": "中信銀行三民分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "中信銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊茹憶",
+        "foreignAmount": 0,
+        "amount": 37932
+      }
+    ]
+  },
+  "stocks": {
+    "total": 35650,
+    "items": [
+      {
+        "name": "華隆",
+        "owner": "楊茹憶",
+        "shares": 268,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2680
+      },
+      {
+        "name": "宏總",
+        "owner": "楊茹憶",
+        "shares": 3200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 32000
+      },
+      {
+        "name": "誠洲",
+        "owner": "楊茹憶",
+        "shares": 97,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 970
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "統一黑馬基金",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 279.85,
+        "unitValue": 223.17,
+        "foreignCurrency": "",
+        "totalValue": 62454
+      },
+      {
+        "name": "野村優質基金",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 418.6,
+        "unitValue": 148.19,
+        "foreignCurrency": "",
+        "totalValue": 62032
+      },
+      {
+        "name": "野村成長基金",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 471.1,
+        "unitValue": 121.55,
+        "foreignCurrency": "",
+        "totalValue": 57262
+      },
+      {
+        "name": "野村中小基金",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 341.9,
+        "unitValue": 181.33,
+        "foreignCurrency": "",
+        "totalValue": 61996
+      },
+      {
+        "name": "貝萊德世界科技 基金美元",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 17.84,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 51034
+      },
+      {
+        "name": "貝萊德世界科技 基金 HEDGED A2 澳幣",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 136.86,
+        "unitValue": 12.24,
+        "foreignCurrency": "澳幣",
+        "totalValue": 35133
+      },
+      {
+        "name": "瀚亞日本動力股 票基金 AJ 日圓",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 147.271,
+        "unitValue": 2438,
+        "foreignCurrency": "日圓",
+        "totalValue": 75148
+      },
+      {
+        "name": "野村愛爾蘭日本 策略價值基金（T 日圓類股）",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 49.0467,
+        "unitValue": 17997.9357,
+        "foreignCurrency": "日圓",
+        "totalValue": 184757
+      },
+      {
+        "name": "安聯收益成長基 金-AM 穩定月收 類股（美元）",
+        "owner": "楊茹憶",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 943.336,
+        "unitValue": 8.2617,
+        "foreignCurrency": "美元",
+        "totalValue": 249245
+      },
+      {
+        "name": "富邦台 50",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 1551,
+        "unitValue": 111.26,
+        "foreignCurrency": "",
+        "totalValue": 172564
+      },
+      {
+        "name": "元大 S&P500",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 170,
+        "unitValue": 57.04,
+        "foreignCurrency": "",
+        "totalValue": 9696
+      },
+      {
+        "name": "元大美債 20 年",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 20000,
+        "unitValue": 28.8143,
+        "foreignCurrency": "",
+        "totalValue": 576286
+      },
+      {
+        "name": "國泰 20 年美債",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 6000,
+        "unitValue": 29.9927,
+        "foreignCurrency": "",
+        "totalValue": 179956
+      },
+      {
+        "name": "元大台灣高息低 波",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 3000,
+        "unitValue": 56.39,
+        "foreignCurrency": "",
+        "totalValue": 169170
+      },
+      {
+        "name": "國泰投資級公司 債",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 6000,
+        "unitValue": 36.7042,
+        "foreignCurrency": "",
+        "totalValue": 220225
+      },
+      {
+        "name": "富邦臺灣中小",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 1830,
+        "unitValue": 53.74,
+        "foreignCurrency": "",
+        "totalValue": 98344
+      },
+      {
+        "name": "期元大道瓊白銀",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 1200,
+        "unitValue": 29.06,
+        "foreignCurrency": "",
+        "totalValue": 34872
+      },
+      {
+        "name": "元大 AAA 至 A 公 司債",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 29000,
+        "unitValue": 33.7341,
+        "foreignCurrency": "",
+        "totalValue": 978288
+      },
+      {
+        "name": "中信美國公債 20 年",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 30000,
+        "unitValue": 29.3914,
+        "foreignCurrency": "",
+        "totalValue": 881742
+      },
+      {
+        "name": "國泰費城半導體",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 5000,
+        "unitValue": 44.95,
+        "foreignCurrency": "",
+        "totalValue": 224750
+      },
+      {
+        "name": "元大臺灣 ESG 永 續",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 2000,
+        "unitValue": 45.56,
+        "foreignCurrency": "",
+        "totalValue": 91120
+      },
+      {
+        "name": "台新全球 AI",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 2000,
+        "unitValue": 46.92,
+        "foreignCurrency": "",
+        "totalValue": 93840
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 13000,
+        "unitValue": 22.73,
+        "foreignCurrency": "",
+        "totalValue": 295490
+      },
+      {
+        "name": "富邦越南",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 2000,
+        "unitValue": 11.62,
+        "foreignCurrency": "",
+        "totalValue": 23240
+      },
+      {
+        "name": "富邦未來車",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 1000,
+        "unitValue": 28.96,
+        "foreignCurrency": "",
+        "totalValue": 28960
+      },
+      {
+        "name": "國泰基因免疫革 命",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 1000,
+        "unitValue": 7.34,
+        "foreignCurrency": "",
+        "totalValue": 7340
+      },
+      {
+        "name": "中信電池及儲能",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 1000,
+        "unitValue": 10.21,
+        "foreignCurrency": "",
+        "totalValue": 10210
+      },
+      {
+        "name": "FT 臺灣 SMART",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 3000,
+        "unitValue": 13.61,
+        "foreignCurrency": "",
+        "totalValue": 40830
+      },
+      {
+        "name": "群益台灣精選高 息",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 18000,
+        "unitValue": 23.26,
+        "foreignCurrency": "",
+        "totalValue": 418680
+      },
+      {
+        "name": "國泰台灣領袖 50",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 10000,
+        "unitValue": 21.25,
+        "foreignCurrency": "",
+        "totalValue": 212500
+      },
+      {
+        "name": "群益台 ESG 低碳 50",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 7000,
+        "unitValue": 21.37,
+        "foreignCurrency": "",
+        "totalValue": 149590
+      },
+      {
+        "name": "復華 S&P500 成長",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 2000,
+        "unitValue": 23.08,
+        "foreignCurrency": "",
+        "totalValue": 46160
+      },
+      {
+        "name": "統一美債 20 年",
+        "owner": "楊茹憶",
+        "institution": "玉 山 證 券 高 雄 分公司",
+        "units": 4000,
+        "unitValue": 14.3586,
+        "foreignCurrency": "",
+        "totalValue": 57434
+      },
+      {
+        "name": "統一黑馬基金",
+        "owner": "楊茹憶",
+        "institution": "高 雄 銀 行 九 如 分行",
+        "units": 83.78,
+        "unitValue": 223.17,
+        "foreignCurrency": "",
+        "totalValue": 18697
+      },
+      {
+        "name": "統一黑馬基金",
+        "owner": "楊茹憶",
+        "institution": "高 雄 銀 行 九 如 分行",
+        "units": 54.78,
+        "unitValue": 223.17,
+        "foreignCurrency": "",
+        "totalValue": 12225
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽富貴長 紅終身保險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 11 月 24 日/158 年 11 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 06 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽快樂兒 童外幣增額還本 終身保險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 05 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽佳多鑽 利率變動型終身 保險（定期給付 型）",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 10 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽佳美滿 美元利率變動型 終身壽險（定期 給付型）",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 05 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽金鑽久 久利率變動型增 額終身壽險（定 期給付型）",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 01 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美滿人 生長期照顧終身 保險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 02 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 02 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 02 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新優利 鑽利率變動型終 身保險（定期給 付型）",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 03 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增利久 久外幣增額終身 壽險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增集利 增額終身壽險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 11 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽鑫利年 年 2 增額終身壽 險（定期給付型）",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 07 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 際 康 健 人 壽 保 險 股 份 有 限 公司",
+        "name": "康健人壽新一生 醫事終身醫療保 險 WLC",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 09 月 24 日/171 年 09 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽三得利 利率變動型終身 壽險",
+        "policyNumber": "",
+        "holder": "楊茹憶",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 03 月 05 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：玉山商 業銀行屏東分行)",
+        "quantity": "1",
+        "owner": "楊茹憶",
+        "value": 2806
+      }
+    ]
+  },
+  "credits": {
+    "total": 5800000,
+    "items": [
+      {
+        "type": "現金",
+        "creditor": "楊茹憶",
+        "debtor": "楊○光 臺北市萬華區大理街",
+        "amount": 5800000,
+        "date": "101年10月24日",
+        "reason": "借支"
+      }
+    ]
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

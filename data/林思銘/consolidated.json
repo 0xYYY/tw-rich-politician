@@ -1,0 +1,201 @@
+{
+  "name": "林思銘",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新竹縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1502556
+    },
+    {
+      "currency": "美元",
+      "amount": 542
+    }
+  ],
+  "depositsTotal": 1503098,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽心安防 癌養老保險",
+      "holder": "林思銘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "法 商 法 國 巴 黎 人 壽 保 險 股 份 有 限 公 司 台 灣 分公司",
+      "name": "法商法國巴黎人 壽健康醫靠終身 健康保險(甲型)",
+      "holder": "陳靜芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金來寶 小額終身壽險",
+      "holder": "陳靜芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金來寶 小額終身壽險",
+      "holder": "陳靜芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "永鑫安終身保險 乙型",
+      "holder": "陳靜芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "百利終身壽險乙 型",
+      "holder": "陳靜芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "富加寶保險",
+      "holder": "陳靜芳",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "臺化",
+      "cleanName": "臺化",
+      "ticker": "1326",
+      "shares": 1000,
+      "owner": "林思銘",
+      "priceAtDisclosure": 38.4,
+      "latestPrice": 51
+    },
+    {
+      "name": "中纖",
+      "cleanName": "中纖",
+      "ticker": "1718",
+      "shares": 341,
+      "owner": "林思銘",
+      "priceAtDisclosure": 7.81,
+      "latestPrice": 7.14
+    },
+    {
+      "name": "中纖",
+      "cleanName": "中纖",
+      "ticker": "1718",
+      "shares": 80,
+      "owner": "林思銘",
+      "priceAtDisclosure": 7.81,
+      "latestPrice": 7.14
+    },
+    {
+      "name": "正新",
+      "cleanName": "正新",
+      "ticker": "2105",
+      "shares": 285,
+      "owner": "林思銘",
+      "priceAtDisclosure": 46.35,
+      "latestPrice": 31.3
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 129,
+      "owner": "林思銘",
+      "priceAtDisclosure": 58.3,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 5,
+      "owner": "林思銘",
+      "priceAtDisclosure": 58.3,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 641,
+      "owner": "林思銘",
+      "priceAtDisclosure": 46.6,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 561,
+      "owner": "林思銘",
+      "priceAtDisclosure": 46.6,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "仲琦",
+      "cleanName": "仲琦",
+      "ticker": "2419",
+      "shares": 802,
+      "owner": "林思銘",
+      "priceAtDisclosure": 31.65,
+      "latestPrice": 29.8
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 200,
+      "owner": "林思銘",
+      "priceAtDisclosure": 11.3,
+      "latestPrice": null
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 15,
+      "owner": "林思銘",
+      "priceAtDisclosure": 11.3,
+      "latestPrice": null
+    },
+    {
+      "name": "永豐金",
+      "cleanName": "永豐金",
+      "ticker": "2890",
+      "shares": 96,
+      "owner": "林思銘",
+      "priceAtDisclosure": 22.75,
+      "latestPrice": null
+    },
+    {
+      "name": "永豐金",
+      "cleanName": "永豐金",
+      "ticker": "2890",
+      "shares": 31,
+      "owner": "林思銘",
+      "priceAtDisclosure": 22.75,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新竹縣竹東鎮東寧段",
+      "owner": "林思銘",
+      "date": "2022-05-04",
+      "effectiveAreaPing": 64.93,
+      "entryCount": 1,
+      "price": "6,000,000(含 陽台5.78平方 公尺)"
+    },
+    {
+      "location": "新竹縣竹東鎮鷄油林段",
+      "owner": "陳靜芳",
+      "date": "2015-01-20",
+      "effectiveAreaPing": 73.49,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    }
+  ]
+}

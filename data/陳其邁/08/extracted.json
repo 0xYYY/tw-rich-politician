@@ -1,0 +1,68 @@
+{
+  "name": "陳其邁",
+  "org": "高雄市政府",
+  "title": "市長",
+  "date": "",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳虹"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市左營區新庄段三小段(部分出租)",
+      "area": 110,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "",
+      "reason": "受託人:出租",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段三小段(部分出租)",
+      "area": 320.11,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "",
+      "reason": "受託人:出租",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

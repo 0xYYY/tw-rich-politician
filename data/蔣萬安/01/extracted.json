@@ -1,0 +1,276 @@
+{
+  "name": "蔣萬安",
+  "org": "臺北市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "石舫亘"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔣○立"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔣○宇"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔣○希"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 36177773,
+    "items": [
+      {
+        "institution": "第一銀行南京東路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔣萬安",
+        "foreignAmount": 0,
+        "amount": 659
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔣萬安",
+        "foreignAmount": 0,
+        "amount": 2934508
+      },
+      {
+        "institution": "兆豐國際商業銀行駐外交 部簡易型分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔣萬安",
+        "foreignAmount": 0,
+        "amount": 194
+      },
+      {
+        "institution": "永豐銀行東門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔣萬安",
+        "foreignAmount": 0,
+        "amount": 22470048
+      },
+      {
+        "institution": "永豐銀行東門分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "蔣萬安",
+        "foreignAmount": 258392,
+        "amount": 8264043
+      },
+      {
+        "institution": "臺灣銀行信義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 307744
+      },
+      {
+        "institution": "臺灣銀行信義分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "石舫亘",
+        "foreignAmount": 606,
+        "amount": 19397
+      },
+      {
+        "institution": "臺灣銀行臺北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 809
+      },
+      {
+        "institution": "土地銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 404
+      },
+      {
+        "institution": "第一銀行八德分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 10499
+      },
+      {
+        "institution": "第一銀行木柵分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 3656
+      },
+      {
+        "institution": "臺灣企銀羅東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 3185
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 513552
+      },
+      {
+        "institution": "玉山銀行羅東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "中信銀行仁愛分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "石舫亘",
+        "foreignAmount": 0,
+        "amount": 3462
+      },
+      {
+        "institution": "BANK OF AMERICA",
+        "type": "其他存款",
+        "currency": "美元",
+        "owner": "石舫亘",
+        "foreignAmount": 50070,
+        "amount": 1627790
+      },
+      {
+        "institution": "BANK OF AMERICA",
+        "type": "其他存款",
+        "currency": "美元",
+        "owner": "石舫亘",
+        "foreignAmount": 517,
+        "amount": 16821
+      }
+    ]
+  },
+  "stocks": {
+    "total": 990,
+    "items": [
+      {
+        "name": "新 光金 (未 交付 信託 原 因：有價證券未達新台幣一 百萬之零股)",
+        "owner": "石舫亘",
+        "shares": 99,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 990
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽新美滿 旺旺美元利率變 動型增額終身壽 險 ZY1",
+        "policyNumber": "",
+        "holder": "蔣萬安",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 10 月 16 日/178 年 10 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽吉祥如 意終身壽險",
+        "policyNumber": "",
+        "holder": "石舫亘",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 04 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽傳富新 終 身 壽 險 (110) FI5",
+        "policyNumber": "",
+        "holder": "石舫亘",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 10 月 12 日/221 年 10 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽傳富新 終 身 壽 險 (110) FI5",
+        "policyNumber": "",
+        "holder": "石舫亘",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 10 月 18 日/211 年 10 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽傳富新 終 身 壽 險 (110) FI5",
+        "policyNumber": "",
+        "holder": "石舫亘",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 05 月 15 日/223 年 05 月 15 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "石舫亘",
+        "value": 154
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3295238,
+    "items": [
+      {
+        "type": "保單質借",
+        "debtor": "石舫亘",
+        "creditor": "新光人壽保險股份有限公司 臺北市中正區忠孝西路",
+        "amount": 3092775,
+        "date": "111年12月20日",
+        "reason": "新光人壽吉 祥如意終身 壽險保單質 借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "石舫亘",
+        "creditor": "新光人壽保險股份有限公司 臺北市中正區忠孝西路",
+        "amount": 202463,
+        "date": "113年04月21日",
+        "reason": "新光人壽防 癌終身壽險 保單質借"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

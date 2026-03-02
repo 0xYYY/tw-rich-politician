@@ -1,0 +1,569 @@
+{
+  "name": "黃仁",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王春梅"
+    }
+  ],
+  "land": [
+    {
+      "location": "花蓮縣豐濱鄉豐濱段",
+      "area": 11395,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "112年09月12日",
+      "reason": "買賣",
+      "price": "2,250,000(房 地總價額)"
+    },
+    {
+      "location": "臺東縣成功鎮富民段",
+      "area": 706.15,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "113年08月13日",
+      "reason": "買賣",
+      "price": "8,360,000(與 第 3 筆土地合 購)"
+    },
+    {
+      "location": "臺東縣成功鎮富民段",
+      "area": 4298.85,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "113年08月13日",
+      "reason": "買賣",
+      "price": "8,360,000(與 第 2 筆土地合 購)"
+    },
+    {
+      "location": "臺東縣成功鎮富民段",
+      "area": 294.12,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "113年10月08日",
+      "reason": "贈與",
+      "price": "220,590"
+    },
+    {
+      "location": "臺東縣長濱鄉八桑灣段",
+      "area": 2580.01,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "共有物分 割",
+      "price": "154,801"
+    },
+    {
+      "location": "臺東縣長濱鄉八桑灣段",
+      "area": 417.01,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "判決共有 物分割",
+      "price": "25,021"
+    },
+    {
+      "location": "臺東縣長濱鄉八桑灣段",
+      "area": 4636.01,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "判決共有 物分割",
+      "price": "278,161"
+    },
+    {
+      "location": "臺東縣長濱鄉中濱段竹湖小段",
+      "area": 8789,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "111年07月29日",
+      "reason": "權力取得",
+      "price": "1,054,680"
+    },
+    {
+      "location": "臺東縣長濱鄉新竹湖段",
+      "area": 3300.42,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "判決共有 物分割",
+      "price": "231,029"
+    },
+    {
+      "location": "臺東縣長濱鄉新竹湖段",
+      "area": 1203.66,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "判決共有 物分割",
+      "price": "87,695"
+    },
+    {
+      "location": "臺東縣長濱鄉新竹湖段",
+      "area": 125.86,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "判決共有 物分割",
+      "price": "52,142"
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 92,
+      "share": "全部",
+      "owner": "王春梅",
+      "date": "113年03月07日",
+      "reason": "買賣",
+      "price": "21,000,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺東縣長濱鄉新竹湖段",
+      "area": 57.64,
+      "share": "7 分之 1",
+      "owner": "黃仁",
+      "date": "111年04月06日",
+      "reason": "判決共有 物分割",
+      "price": "9,528"
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 209.31,
+      "share": "全部",
+      "owner": "王春梅",
+      "date": "113年03月07日",
+      "reason": "買賣",
+      "price": "21,000,000(含 屋頂突出物 12.86 平方公 尺,見其他登記 事項 22.05 平 方公尺)"
+    },
+    {
+      "location": "花蓮縣豐濱鄉豐濱村",
+      "area": 63.6,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "111年07月11日",
+      "reason": "買賣",
+      "price": "2,250,000(房 地總價額)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1496,
+      "owner": "王春梅",
+      "date": "108年09月25日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "國瑞",
+      "cc": 1781,
+      "owner": "王春梅",
+      "date": "111年12月26日",
+      "reason": "買賣",
+      "price": 100000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 481819,
+    "items": [
+      {
+        "institution": "第一銀行敦化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 141
+      },
+      {
+        "institution": "第一銀行大灣分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 287
+      },
+      {
+        "institution": "國泰世華銀行潭子分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 358
+      },
+      {
+        "institution": "臺灣企銀五股分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 286
+      },
+      {
+        "institution": "台中銀行大雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 193089
+      },
+      {
+        "institution": "三信銀行進化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 228
+      },
+      {
+        "institution": "臺東縣新港區漁會信用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 13120
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃仁",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "臺灣銀行大雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 62816
+      },
+      {
+        "institution": "合庫商業銀行台東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 870
+      },
+      {
+        "institution": "國泰世華銀行沙鹿分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 1899
+      },
+      {
+        "institution": "國泰世華銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 207345
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 56
+      },
+      {
+        "institution": "元大銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 173
+      },
+      {
+        "institution": "臺中市沙鹿區農會信用部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 93
+      },
+      {
+        "institution": "臺中市沙鹿區農會信用部",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "王春梅",
+        "foreignAmount": 0,
+        "amount": 996
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○466",
+        "holder": "黃仁",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 04 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費金享 福小額終身壽險",
+        "policyNumber": "○○○○○○○ ○○066",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 04 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山美滿還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山美滿還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 04 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 04 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 04 月 07 日/153 年 04 月 06 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "達康 101 終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 05 月 06 日/153 年 05 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "國 際 康 健 人 壽 保 險 股 份 有 限 公司",
+        "name": "康健人壽新家有 意 保 定 期 保 險 PAE",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王春梅",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 03 月 09 日/116 年 03 月 09 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 23704894,
+    "items": [
+      {
+        "type": "私人債務",
+        "debtor": "黃仁",
+        "creditor": "張○英 台中市沙鹿區永寧路",
+        "amount": 1500000,
+        "date": "107年09月25日",
+        "reason": "私人借款"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃仁",
+        "creditor": "臺東縣新港區漁會信用部 臺東縣成功鎮忠仁里 17 鄰 中山東路",
+        "amount": 2464175,
+        "date": "113年08月16日",
+        "reason": "購置農業生 產用地"
+      },
+      {
+        "type": "私人債務",
+        "debtor": "王春梅",
+        "creditor": "王○鈴 台中市沙鹿區永寧路",
+        "amount": 2000000,
+        "date": "113年02月10日",
+        "reason": "購置台東市 不動產頭款"
+      },
+      {
+        "type": "授信",
+        "debtor": "王春梅",
+        "creditor": "合作金庫商業銀行台東分行 台東縣台東市中華路",
+        "amount": 14200356,
+        "date": "113年03月08日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "王春梅",
+        "creditor": "合作金庫商業銀行台東分行 台東縣台東市中華路",
+        "amount": 92797,
+        "date": "113年03月20日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 103586,
+        "date": "99年02月26日",
+        "reason": "南山新康祥 終身壽險－ B 型保單質 借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 87601,
+        "date": "97年10月02日",
+        "reason": "南山金美滿 還本終身保 險保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 85188,
+        "date": "99年02月26日",
+        "reason": "南山新康祥 終身壽險－ B 型保單質 借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 85175,
+        "date": "97年10月02日",
+        "reason": "南山金美滿 還本終身保 險保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 54763,
+        "date": "97年10月02日",
+        "reason": "南山美滿還 本終身保險 保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 54726,
+        "date": "97年10月02日",
+        "reason": "南山美滿還 本終身保險 保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "國泰人壽保險股份有限公司 台北市大安區仁愛路",
+        "amount": 691380,
+        "date": "94年09月09日",
+        "reason": "美 滿 人 生 312 保單質 借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "國泰人壽保險股份有限公司 台北市大安區仁愛路",
+        "amount": 314078,
+        "date": "95年09月13日",
+        "reason": "美 滿 人 生 312 保單質 借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "國泰人壽保險股份有限公司 台北市大安區仁愛路",
+        "amount": 300375,
+        "date": "107年08月29日",
+        "reason": "美 滿 人 生 312 保單質 借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "王春梅",
+        "creditor": "國泰人壽保險股份有限公司 台北市大安區仁愛路",
+        "amount": 170694,
+        "date": "107年08月29日",
+        "reason": "富貴保本三 福保單質借"
+      },
+      {
+        "type": "私人債務",
+        "debtor": "王春梅",
+        "creditor": "黃○萍 台中市大雅區民權街",
+        "amount": 1500000,
+        "date": "113年06月20日",
+        "reason": "購置台東成 功農地頭款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

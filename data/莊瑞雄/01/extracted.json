@@ -1,0 +1,291 @@
+{
+  "name": "莊瑞雄",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月13日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "屏東縣里港鄉土庫段",
+      "area": 2931,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "96年07月03日",
+      "reason": "受贈",
+      "price": "2,784,450(超 過五年)"
+    },
+    {
+      "location": "屏東縣里港鄉新土庫段",
+      "area": 1117.93,
+      "share": "12 分之 1",
+      "owner": "莊瑞雄",
+      "date": "113年01月05日",
+      "reason": "繼承",
+      "price": "354,011"
+    },
+    {
+      "location": "屏東縣里港鄉新土庫段",
+      "area": 1.47,
+      "share": "12 分之 1",
+      "owner": "莊瑞雄",
+      "date": "113年01月05日",
+      "reason": "繼承",
+      "price": "466"
+    },
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "area": 175.69,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "108年09月02日",
+      "reason": "買賣",
+      "price": "11,160,698"
+    },
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "area": 521.6,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "106年07月06日",
+      "reason": "買賣",
+      "price": "30,284,000(超 過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "area": 21.41,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "108年09月02日",
+      "reason": "買賣",
+      "price": "1,360,069"
+    },
+    {
+      "location": "屏東縣東港鎮新信段",
+      "area": 126.36,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "103年01月06日",
+      "reason": "買賣",
+      "price": "5,928,000(超 過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "area": 396.89,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "108年09月17日",
+      "reason": "新建",
+      "price": "7,000,000"
+    },
+    {
+      "location": "屏東縣東港鎮新信段",
+      "area": 223.44,
+      "share": "全部",
+      "owner": "莊瑞雄",
+      "date": "103年01月06日",
+      "reason": "買賣",
+      "price": "3,952,000(超 過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 735574,
+    "items": [
+      {
+        "institution": "合作金庫商業銀行永和分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 259440
+      },
+      {
+        "institution": "合作金庫商業銀行北士林 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 21
+      },
+      {
+        "institution": "合作金庫商業銀行東港分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 244533
+      },
+      {
+        "institution": "台北富邦商業銀行市府分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 196355
+      },
+      {
+        "institution": "國泰世華商業銀行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 15
+      },
+      {
+        "institution": "國泰世華商業銀行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 400
+      },
+      {
+        "institution": "國泰世華商業銀行光復分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 21715
+      },
+      {
+        "institution": "台新國際商業銀行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 41
+      },
+      {
+        "institution": "上海商業儲蓄銀行台南分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 80
+      },
+      {
+        "institution": "中國信託商業銀行城中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "台北富邦商業銀行八德分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 1498
+      },
+      {
+        "institution": "第一商業銀行埔墘分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 7823
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 200
+      },
+      {
+        "institution": "彰化商業銀行光復分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 221
+      },
+      {
+        "institution": "臺灣中小企業銀行埔墘分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 566
+      },
+      {
+        "institution": "臺灣銀行儲蓄部松山分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "莊瑞雄",
+        "foreignAmount": 0,
+        "amount": 2652
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "美滿人生 202 終 身",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "莊瑞雄",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 12 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "真情 101",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "莊瑞雄",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 04 月 26 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 14443134,
+    "items": [
+      {
+        "type": "擔保貸款",
+        "debtor": "莊瑞雄",
+        "creditor": "合作金庫東港分行 屏東縣東港鎮光復路",
+        "amount": 12400000,
+        "date": "108年10月09日",
+        "reason": "買土地及蓋 房子"
+      },
+      {
+        "type": "房屋貸款",
+        "debtor": "莊瑞雄",
+        "creditor": "合作金庫東港分行 屏東縣東港鎮光復路",
+        "amount": 2043134,
+        "date": "106年08月23日",
+        "reason": "買土地"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

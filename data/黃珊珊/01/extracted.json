@@ -1,0 +1,489 @@
+{
+  "name": "黃珊珊",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [
+    {
+      "location": "新北市汐止區金龍段",
+      "area": 2012.26,
+      "share": "100000 分 之 113",
+      "owner": "黃珊珊",
+      "date": "92年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區金龍段",
+      "area": 23654.55,
+      "share": "100000 分 之 113",
+      "owner": "黃珊珊",
+      "date": "92年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市北投區行義段四小段",
+      "area": 478.97,
+      "share": "10000 分之 210",
+      "owner": "黃珊珊",
+      "date": "111年12月23日",
+      "reason": "塗銷信託",
+      "price": "6,320,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市汐止區金龍段",
+      "area": 178.43,
+      "share": "全部",
+      "owner": "黃珊珊",
+      "date": "92年04月23日",
+      "reason": "買賣",
+      "price": "含陽台 19.32 平方公尺(超 過五年)"
+    },
+    {
+      "location": "新北市汐止區金龍段",
+      "area": 5576.53,
+      "share": "10000 分之 132",
+      "owner": "黃珊珊",
+      "date": "92年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區金龍段",
+      "area": 6179.44,
+      "share": "100000 分 之 121",
+      "owner": "黃珊珊",
+      "date": "92年04月23日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市汐止區金龍段",
+      "area": 3769.14,
+      "share": "100000 分 之 166",
+      "owner": "黃珊珊",
+      "date": "92年04月23日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市北投區行義段四小段",
+      "area": 22.69,
+      "share": "全部",
+      "owner": "黃珊珊",
+      "date": "111年12月23日",
+      "reason": "塗銷信託",
+      "price": "5,000,000(含 陽台 2.8 平方 公尺,雨遮 0.86 平方公 尺)"
+    },
+    {
+      "location": "臺北市北投區行義段四小段",
+      "area": 834.47,
+      "share": "10000 分之 212",
+      "owner": "黃珊珊",
+      "date": "111年12月23日",
+      "reason": "塗銷信託",
+      "price": "5,000,000(共 同使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1987,
+      "owner": "黃珊珊",
+      "date": "108年07月31日",
+      "reason": "買賣",
+      "price": 1540000
+    },
+    {
+      "brand": "日產",
+      "cc": 2488,
+      "owner": "黃珊珊",
+      "date": "112年08月23日",
+      "reason": "買賣",
+      "price": 700000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 782834,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 71
+      },
+      {
+        "institution": "彰化銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 36
+      },
+      {
+        "institution": "彰化銀行台北分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 310889
+      },
+      {
+        "institution": "彰化銀行內湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 1180
+      },
+      {
+        "institution": "台北富邦銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 25
+      },
+      {
+        "institution": "台北富邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "紐西蘭幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 7,
+        "amount": 137
+      },
+      {
+        "institution": "台北富邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 18
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 29588
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 34
+      },
+      {
+        "institution": "國泰世華銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 13385
+      },
+      {
+        "institution": "兆豐國際商業銀行內湖分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 117
+      },
+      {
+        "institution": "臺灣企銀士林分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 411
+      },
+      {
+        "institution": "臺灣企銀東湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "京城商業銀行台北分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃珊珊",
+        "foreignAmount": 1,
+        "amount": 34
+      },
+      {
+        "institution": "京城商業銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 48302
+      },
+      {
+        "institution": "匯豐(台灣)商業銀行台北 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 301357
+      },
+      {
+        "institution": "匯豐(台灣)商業銀行台北 分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 13
+      },
+      {
+        "institution": "匯豐(台灣)商業銀行台北 分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "瑞興商業銀行昆明分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 1435
+      },
+      {
+        "institution": "瑞興商業銀行昆明分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 112
+      },
+      {
+        "institution": "板信商業銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 1485
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 1761
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 397
+      },
+      {
+        "institution": "中國信託商業銀行城中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 44193
+      },
+      {
+        "institution": "中國信託商業銀行仁愛分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃珊珊",
+        "foreignAmount": 103,
+        "amount": 3260
+      },
+      {
+        "institution": "中國信託商業銀行仁愛分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃珊珊",
+        "foreignAmount": 0,
+        "amount": 24569
+      }
+    ]
+  },
+  "stocks": {
+    "total": 300000,
+    "items": [
+      {
+        "name": "聯嘉",
+        "owner": "黃珊珊",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "黃珊珊",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀甲型",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃珊珊",
+        "contractType": "投資型壽險",
+        "period": "94 年 04 月 27 日/157 年 04 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾意終身壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "黃珊珊",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 03 月 15 日/190 年 03 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○802",
+        "holder": "黃珊珊",
+        "contractType": "投資型壽險",
+        "period": "96 年 09 月 05 日/164 年 09 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰喬壽還本終 身壽險（繳費二 十年）",
+        "policyNumber": "○○○○○○○ ○○801",
+        "holder": "黃珊珊",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 06 月 18 日/197 年 06 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽平準終 身壽險",
+        "policyNumber": "○○○○○○○ ○○804",
+        "holder": "黃珊珊",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 01 月 09 日/155 年 01 月 08 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 16328205,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 5000000,
+        "date": "112年11月10日",
+        "reason": "其他週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 2000000,
+        "date": "111年07月19日",
+        "reason": "其他週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 1000000,
+        "date": "111年09月20日",
+        "reason": "其他週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 769717,
+        "date": "106年11月17日",
+        "reason": "無自用住宅 購屋貸款"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 700000,
+        "date": "110年11月29日",
+        "reason": "其他週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 600000,
+        "date": "111年08月18日",
+        "reason": "其他週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 600000,
+        "date": "111年01月04日",
+        "reason": "其他週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃珊珊",
+        "creditor": "彰化商業銀行台北分行 台北市中正區重慶南路",
+        "amount": 5658488,
+        "date": "108年08月28日",
+        "reason": "購 置 / 修 繕 不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

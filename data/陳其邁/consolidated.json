@@ -1,0 +1,60 @@
+{
+  "name": "陳其邁",
+  "date": "2024-12-10",
+  "type": "mayor",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 3414159
+    },
+    {
+      "currency": "日圓",
+      "amount": 73065
+    },
+    {
+      "currency": "美元",
+      "amount": 31054
+    }
+  ],
+  "depositsTotal": 3518280,
+  "insurance": [],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段十三小段",
+      "owner": "吳虹",
+      "date": "2005-03-28",
+      "effectiveAreaPing": 100.42,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市苓雅區苓雅寮段",
+      "owner": "陳其邁",
+      "date": "2019-04-11",
+      "effectiveAreaPing": 47.24,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "高雄市左營區新庄段三小段",
+      "owner": "吳虹",
+      "date": "2019-04-11",
+      "effectiveAreaPing": 130.11,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "高雄市左營區新庄段三小段(部分出租)",
+      "owner": "吳虹",
+      "date": null,
+      "effectiveAreaPing": 130.11,
+      "entryCount": 2,
+      "price": null
+    }
+  ]
+}

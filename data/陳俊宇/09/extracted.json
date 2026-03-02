@@ -1,0 +1,92 @@
+{
+  "name": "陳俊宇",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月12日",
+  "type": "前次申報日期民國112年11月20日起，本次定期申報日113年12月12日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃淨怡"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "陳○翰"
+    }
+  ],
+  "land": [
+    {
+      "location": "宜蘭縣宜蘭市和平段",
+      "area": 321.8,
+      "share": "14 分之 1",
+      "owner": "陳俊宇",
+      "date": "113年06月05日",
+      "reason": "買進",
+      "price": "房地總價 (與第 2 筆土地 合購)"
+    },
+    {
+      "location": "宜蘭縣宜蘭市和平段",
+      "area": 133.62,
+      "share": "全部",
+      "owner": "陳俊宇",
+      "date": "113年06月05日",
+      "reason": "買進",
+      "price": "19,800,000 (房地總價)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "宜蘭縣宜蘭市和平段",
+      "area": 271.72,
+      "share": "全部",
+      "owner": "陳俊宇",
+      "date": "113年06月05日",
+      "reason": "買進",
+      "price": "19,800,000"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "宜進",
+        "broker": "群益金鼎證券宜蘭 分公司",
+        "owner": "陳俊宇",
+        "shares": 33,
+        "pricePerShare": "19.45",
+        "changeDate": "113年10月14日",
+        "changeReason": "劃撥配發",
+        "totalValue": 641
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "name": "徐欣瑩",
+  "date": "2024-04-30",
+  "type": "legislator",
+  "area": "新竹縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 581978
+    },
+    {
+      "currency": "美元",
+      "amount": 126571
+    },
+    {
+      "currency": "港幣",
+      "amount": 17
+    }
+  ],
+  "depositsTotal": 708566,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "增 美 利 外 幣 增 額終身壽險",
+      "holder": "徐欣瑩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "金 美 利 美 元 還 本終身保險",
+      "holder": "徐欣瑩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 3000,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": 24.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 5000,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": 50.7,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "國巨",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 795,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": 625,
+      "latestPrice": 298
+    },
+    {
+      "name": "玉晶光",
+      "cleanName": "玉晶光",
+      "ticker": "3406",
+      "shares": 1000,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": 441,
+      "latestPrice": 442
+    },
+    {
+      "name": "佳凌",
+      "cleanName": "佳凌",
+      "ticker": "4976",
+      "shares": 1000,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": 42.7,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "三鼎生技",
+      "cleanName": "三鼎生技",
+      "ticker": null,
+      "shares": 10000,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "雲云科技股份有限公司",
+      "cleanName": "雲云科技股份有限公司",
+      "ticker": null,
+      "shares": 10290,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "糖話國際股份有限公司",
+      "cleanName": "糖話國際股份有限公司",
+      "ticker": null,
+      "shares": 23814,
+      "owner": "徐欣瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "JP 美科權",
+      "owner": "徐欣瑩",
+      "institution": "臺 灣 銀 行 股 份 有限公司",
+      "units": 110.125,
+      "unitValue": 48.2,
+      "currency": "美元",
+      "declaredValue": 170626,
+      "source": "fund"
+    },
+    {
+      "name": "安聯收益南息",
+      "owner": "徐欣瑩",
+      "institution": "臺 灣 銀 行 股 份 有限公司",
+      "units": 3819.926,
+      "unitValue": 104.09,
+      "currency": "南非幣",
+      "declaredValue": 675152,
+      "source": "fund"
+    },
+    {
+      "name": "安聯收益美息",
+      "owner": "徐欣瑩",
+      "institution": "臺 灣 銀 行 股 份 有限公司",
+      "units": 1613.91,
+      "unitValue": 8.1195,
+      "currency": "美元",
+      "declaredValue": 421232,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹縣竹北市竹仁段",
+      "owner": "徐欣瑩",
+      "date": "2021-04-16",
+      "effectiveAreaPing": 27.6,
+      "entryCount": 2,
+      "price": "3,000,000(房 地總價額)"
+    }
+  ]
+}

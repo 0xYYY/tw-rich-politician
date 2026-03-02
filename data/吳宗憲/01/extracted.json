@@ -1,0 +1,729 @@
+{
+  "name": "吳宗憲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "沈嫚嫻"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "吳○醴"
+    }
+  ],
+  "land": [
+    {
+      "location": "南投縣名間鄉萬丹段",
+      "area": 2895.2,
+      "share": "全部",
+      "owner": "吳宗憲",
+      "date": "102年10月11日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣南投市南鄉段",
+      "area": 18359.58,
+      "share": "150 分之 2",
+      "owner": "吳宗憲",
+      "date": "91年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣南投市南鄉段",
+      "area": 4322.47,
+      "share": "150 分之 2",
+      "owner": "吳宗憲",
+      "date": "91年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣南投市南鄉段",
+      "area": 2428.51,
+      "share": "150 分之 2",
+      "owner": "吳宗憲",
+      "date": "91年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣頭份市義民段",
+      "area": 182.16,
+      "share": "20 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月29日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "苗栗縣頭份市義民段",
+      "area": 182.16,
+      "share": "20 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月29日",
+      "reason": "塗銷信託",
+      "price": "10,536,463(房 地總價額)"
+    },
+    {
+      "location": "苗栗縣頭份市義民段",
+      "area": 23.59,
+      "share": "9 分之 5",
+      "owner": "吳宗憲",
+      "date": "113年05月29日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "苗栗縣頭份市義民段",
+      "area": 41.48,
+      "share": "2 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月29日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺中市西區大益段",
+      "area": 1314,
+      "share": "100000 分 之 1134",
+      "owner": "吳宗憲",
+      "date": "113年05月27日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 5008,
+      "share": "280 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 846,
+      "share": "280 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 131,
+      "share": "280 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 362,
+      "share": "280 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 588,
+      "share": "560 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463(房 地總價額)"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 1222,
+      "share": "200 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 109,
+      "share": "200 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 140,
+      "share": "280 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 141,
+      "share": "280 分之 3",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 361,
+      "share": "140 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 1745,
+      "share": "140 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 4449,
+      "share": "140 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 8,
+      "share": "140 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 54,
+      "share": "140 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    },
+    {
+      "location": "臺北市文山區興隆段一小段",
+      "area": 306,
+      "share": "140 分之 1",
+      "owner": "吳宗憲",
+      "date": "113年05月24日",
+      "reason": "塗銷信託",
+      "price": "10,536,463"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市西區大益段",
+      "area": 100.14,
+      "share": "全部",
+      "owner": "吳宗憲",
+      "date": "113年05月27日",
+      "reason": "塗銷信託",
+      "price": "582,000(含陽 台 17.11 平方 公尺)"
+    },
+    {
+      "location": "臺中市西區大益段",
+      "area": 2980.09,
+      "share": "100000 分 之 1140",
+      "owner": "吳宗憲",
+      "date": "113年05月27日",
+      "reason": "塗銷信託",
+      "price": "582,000"
+    },
+    {
+      "location": "臺中市西區大益段",
+      "area": 892.67,
+      "share": "10000 分之 140",
+      "owner": "吳宗憲",
+      "date": "113年05月27日",
+      "reason": "塗銷信託",
+      "price": "582,000(共同 使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "cc": 1998,
+      "owner": "吳宗憲",
+      "date": "112年03月28日",
+      "reason": "買賣",
+      "price": 3250000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 13436852,
+    "items": [
+      {
+        "institution": "臺灣銀行南投分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 4392243
+      },
+      {
+        "institution": "土地銀行南投分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 6218
+      },
+      {
+        "institution": "第一銀行士林分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 5980128
+      },
+      {
+        "institution": "華南銀行台北南門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 213
+      },
+      {
+        "institution": "彰化銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 168
+      },
+      {
+        "institution": "國泰世華銀行北桃園分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 824404
+      },
+      {
+        "institution": "國泰世華銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 107443
+      },
+      {
+        "institution": "兆豐國際商業銀行榮總分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 6898
+      },
+      {
+        "institution": "渣打國際商銀文心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 840278
+      },
+      {
+        "institution": "元大銀行草屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 26120
+      },
+      {
+        "institution": "永豐銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 1200
+      },
+      {
+        "institution": "星展台灣桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳宗憲",
+        "foreignAmount": 0,
+        "amount": 42469
+      },
+      {
+        "institution": "土地銀行大甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 266
+      },
+      {
+        "institution": "土地銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 828831
+      },
+      {
+        "institution": "合庫商業銀行忠孝分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 111
+      },
+      {
+        "institution": "第一銀行大甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 478
+      },
+      {
+        "institution": "台中銀行大甲分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 739
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 4710
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 4122
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 118745
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 250417
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "沈嫚嫻",
+        "foreignAmount": 0,
+        "amount": 650
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2286230,
+    "items": [
+      {
+        "name": "台塑",
+        "owner": "吳宗憲",
+        "shares": 1797,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 17970
+      },
+      {
+        "name": "南亞",
+        "owner": "吳宗憲",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "中鋼",
+        "owner": "吳宗憲",
+        "shares": 7042,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 70420
+      },
+      {
+        "name": "國泰金",
+        "owner": "吳宗憲",
+        "shares": 1704,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 17040
+      },
+      {
+        "name": "淘帝-KY",
+        "owner": "吳宗憲",
+        "shares": 50000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 500000
+      },
+      {
+        "name": "仕欽",
+        "owner": "吳宗憲",
+        "shares": 1020,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10200
+      },
+      {
+        "name": "裕慶-KY",
+        "owner": "吳宗憲",
+        "shares": 131000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1310000
+      },
+      {
+        "name": "長億實業",
+        "owner": "沈嫚嫻",
+        "shares": 31060,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 310600
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽全心守 護醫療終身保險",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 07 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽活力洋 溢 2 重大疾病終 身保險",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 07 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 05 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 05 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽福氣康 祥終身保險-C 型",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 05 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽福愛 2 小額終身壽險",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 07 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽福愛 2 小額終身壽險",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 07 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽雙喜年 年利率變動型還 本終身保險（定 期給付型）",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 09 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 202 終 身",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 01 月 13 日/160 年 01 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "真情 101",
+        "policyNumber": "",
+        "holder": "吳宗憲",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 01 月 13 日/160 年 01 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽新福滿 人生終身壽險",
+        "policyNumber": "",
+        "holder": "沈嫚嫻",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 07 月 07 日/179 年 07 月 07 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "古董表",
+        "quantity": "1",
+        "owner": "吳宗憲",
+        "value": 500000
+      },
+      {
+        "type": "朱銘-馬",
+        "quantity": "1",
+        "owner": "吳宗憲",
+        "value": 800000
+      },
+      {
+        "type": "李碩卿水墨畫",
+        "quantity": "28",
+        "owner": "吳宗憲",
+        "value": 1800000
+      },
+      {
+        "type": "和闐玉",
+        "quantity": "6",
+        "owner": "吳宗憲",
+        "value": 300000
+      },
+      {
+        "type": "梁奕焚油畫",
+        "quantity": "6",
+        "owner": "吳宗憲",
+        "value": 400000
+      },
+      {
+        "type": "曾茂煌油畫",
+        "quantity": "4",
+        "owner": "吳宗憲",
+        "value": 100000
+      },
+      {
+        "type": "楊英風-如意",
+        "quantity": "1",
+        "owner": "吳宗憲",
+        "value": 350000
+      },
+      {
+        "type": "楊英風-東西門東西門",
+        "quantity": "1",
+        "owner": "吳宗憲",
+        "value": 350000
+      },
+      {
+        "type": "楊英風-鳳翔",
+        "quantity": "1",
+        "owner": "吳宗憲",
+        "value": 350000
+      }
+    ]
+  },
+  "credits": {
+    "total": 1400000,
+    "items": [
+      {
+        "type": "借貸",
+        "creditor": "沈嫚嫻",
+        "debtor": "沈○甄 台中市大甲區雁門路",
+        "amount": 1400000,
+        "date": "109年06月18日",
+        "reason": "借貸"
+      }
+    ]
+  },
+  "debts": {
+    "total": 775000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "吳宗憲",
+        "creditor": "中國信託 台北市南港區經貿 2 路",
+        "amount": 775000,
+        "date": "112年03月23日",
+        "reason": "購車"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

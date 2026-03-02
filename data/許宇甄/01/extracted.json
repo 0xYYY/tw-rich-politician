@@ -1,0 +1,1059 @@
+{
+  "name": "許宇甄",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林啟滄"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣斗六市大潭段大潭小段",
+      "area": 577.92,
+      "share": "57792 分之 2658",
+      "owner": "許宇甄",
+      "date": "93年01月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣斗六市大潭段大潭小段",
+      "area": 89.09,
+      "share": "全部",
+      "owner": "許宇甄",
+      "date": "93年01月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大同區文昌段一小段",
+      "area": 474,
+      "share": "10000 分之 621",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "338,000"
+    },
+    {
+      "location": "臺北市文山區景美段四小段",
+      "area": 1328,
+      "share": "10000 分之 140",
+      "owner": "許宇甄",
+      "date": "99年10月07日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區雙園段三小段",
+      "area": 21,
+      "share": "全部",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "290,000"
+    },
+    {
+      "location": "臺北市萬華區雙園段三小段",
+      "area": 5,
+      "share": "6 分之 5",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "265,600"
+    },
+    {
+      "location": "南投縣草屯鎮光華段",
+      "area": 2391,
+      "share": "全部",
+      "owner": "林啟滄",
+      "date": "83年10月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣草屯鎮龍德段",
+      "area": 274.48,
+      "share": "6 分之 1",
+      "owner": "林啟滄",
+      "date": "101年07月12日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣草屯鎮龍德段",
+      "area": 696.18,
+      "share": "12 分之 1",
+      "owner": "林啟滄",
+      "date": "101年07月12日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣草屯鎮龍德段",
+      "area": 568.38,
+      "share": "24 分之 1",
+      "owner": "林啟滄",
+      "date": "101年07月12日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣斗六市後庄段",
+      "area": 11.61,
+      "share": "100000 分 之 550",
+      "owner": "林啟滄",
+      "date": "85年12月03日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣斗六市後庄段",
+      "area": 15.67,
+      "share": "100000 分 之 550",
+      "owner": "林啟滄",
+      "date": "87年07月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "area": 172.55,
+      "share": "全部",
+      "owner": "林啟滄",
+      "date": "102年06月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "area": 754.41,
+      "share": "14 分之 1",
+      "owner": "林啟滄",
+      "date": "102年06月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣斗六市大潭段大潭小段",
+      "area": 197.35,
+      "share": "全部",
+      "owner": "許宇甄",
+      "date": "93年01月30日",
+      "reason": "買賣",
+      "price": "含陽台 16.85 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市大同區文昌段一小段",
+      "area": 134.62,
+      "share": "10000 分之 313",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "288,250 (共同使用部 分，主建物建 號:○○○○ ○。112 年房屋 評定現值 576,500，持分 1/2。)"
+    },
+    {
+      "location": "臺北市大同區文昌段一小段",
+      "area": 134.62,
+      "share": "10000 分之 659",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "295,850 (共同使用部 分，主建物建 號:○○○○ ○。112 年房屋 評定現值 591,700，持分 1/2。)"
+    },
+    {
+      "location": "臺北市大同區文昌段一小段",
+      "area": 148.99,
+      "share": "6 分之 3",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "288,250 (含防空避難 室 80.27 平方 公尺。共同使 用部分建號○ ○○○○，主 建物建號:○ ○○○○。112 年房屋評定現 值 576,500，持 分 1/2。)"
+    },
+    {
+      "location": "臺北市大同區文昌段一小段",
+      "area": 144.72,
+      "share": "6 分之 3",
+      "owner": "許宇甄",
+      "date": "112年03月22日",
+      "reason": "分割繼承",
+      "price": "295,850 (共同使用部 分建號○○○ ○○，主建物 建號:○○○ ○○。112 年房 屋評定現值 591,700，持分 1/2。)"
+    },
+    {
+      "location": "臺北市文山區景美段四小段",
+      "area": 134.78,
+      "share": "全部",
+      "owner": "許宇甄",
+      "date": "99年10月07日",
+      "reason": "贈與",
+      "price": "含陽台 11.66 平方公尺,花 台2.24平方公 尺,見使用執 照0.36平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市文山區景美段四小段",
+      "area": 672.52,
+      "share": "10000 分之 149",
+      "owner": "許宇甄",
+      "date": "99年10月07日",
+      "reason": "贈與",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市文山區景美段四小段",
+      "area": 964.44,
+      "share": "500 分之 18",
+      "owner": "許宇甄",
+      "date": "99年10月07日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "area": 387.99,
+      "share": "全部",
+      "owner": "林啟滄",
+      "date": "102年06月19日",
+      "reason": "買賣",
+      "price": "含見其他登記 事項 54.44 平 方公尺(超過 五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 33442428,
+    "items": [
+      {
+        "institution": "臺灣銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 544049
+      },
+      {
+        "institution": "臺灣銀行文山分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "許宇甄",
+        "foreignAmount": 500040,
+        "amount": 106508
+      },
+      {
+        "institution": "土地銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 1207
+      },
+      {
+        "institution": "合庫商業銀行斗六分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 130
+      },
+      {
+        "institution": "合庫商業銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 2981663
+      },
+      {
+        "institution": "合庫商業銀行景美分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 75562
+      },
+      {
+        "institution": "合庫商業銀行景美分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 9063
+      },
+      {
+        "institution": "合庫商業銀行景美分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 1343
+      },
+      {
+        "institution": "第一銀行斗六分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 810
+      },
+      {
+        "institution": "第一銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 3434
+      },
+      {
+        "institution": "台北富邦銀行景美分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "許宇甄",
+        "foreignAmount": 2181,
+        "amount": 68958
+      },
+      {
+        "institution": "台北富邦銀行景美分行",
+        "type": "活期儲蓄存款",
+        "currency": "人民幣",
+        "owner": "許宇甄",
+        "foreignAmount": 32602,
+        "amount": 142983
+      },
+      {
+        "institution": "台北富邦銀行景美分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "許宇甄",
+        "foreignAmount": 1246,
+        "amount": 39409
+      },
+      {
+        "institution": "台北富邦銀行景美分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 150
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 8
+      },
+      {
+        "institution": "兆豐國際商業銀行斗六分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "許宇甄",
+        "foreignAmount": 22,
+        "amount": 706
+      },
+      {
+        "institution": "臺灣企銀斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 4695
+      },
+      {
+        "institution": "京城商業銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 1983
+      },
+      {
+        "institution": "臺灣新光銀行城北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 34538
+      },
+      {
+        "institution": "雲林縣大埤鄉農會信用部 嘉興分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 40
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 6367
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "許宇甄",
+        "foreignAmount": 2213,
+        "amount": 70038
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "許宇甄",
+        "foreignAmount": 8856,
+        "amount": 280235
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "許宇甄",
+        "foreignAmount": 37592,
+        "amount": 66095
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "許宇甄",
+        "foreignAmount": 178905,
+        "amount": 38321
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 5455
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 8448
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 2184521
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 400
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "中信銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 74092
+      },
+      {
+        "institution": "連線商業銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許宇甄",
+        "foreignAmount": 0,
+        "amount": 2969
+      },
+      {
+        "institution": "臺灣銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 112
+      },
+      {
+        "institution": "合庫商業銀行斗六分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 539219
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 725896
+      },
+      {
+        "institution": "合庫商業銀行東三重分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "合庫商業銀行東三重分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "合庫商業銀行東三重分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "林啟滄",
+        "foreignAmount": 77000023,
+        "amount": 16416404
+      },
+      {
+        "institution": "合庫商業銀行東三重分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 5724060
+      },
+      {
+        "institution": "合庫商業銀行東三重分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 39
+      },
+      {
+        "institution": "第一銀行南京東路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 631
+      },
+      {
+        "institution": "第一銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 579
+      },
+      {
+        "institution": "華南銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 1345
+      },
+      {
+        "institution": "彰化銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 533
+      },
+      {
+        "institution": "上海銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 384
+      },
+      {
+        "institution": "台北富邦銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 1513
+      },
+      {
+        "institution": "國泰世華銀行民權分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 580
+      },
+      {
+        "institution": "全國農業金庫營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 7913
+      },
+      {
+        "institution": "臺灣企銀虎尾分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 36955
+      },
+      {
+        "institution": "京城商業銀行斗南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 8601
+      },
+      {
+        "institution": "板信銀行三重分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 27850
+      },
+      {
+        "institution": "淡水第一信用合作社三重 分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "雲林縣雲林區漁會信用部 台西分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 6131
+      },
+      {
+        "institution": "雲林縣土庫鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 14356
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 788
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 102
+      },
+      {
+        "institution": "中信銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 2265
+      },
+      {
+        "institution": "草屯鎮農會本會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林啟滄",
+        "foreignAmount": 0,
+        "amount": 1170985
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2880760,
+    "items": [
+      {
+        "name": "聯電",
+        "owner": "許宇甄",
+        "shares": 100,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1000
+      },
+      {
+        "name": "仁寶",
+        "owner": "許宇甄",
+        "shares": 3032,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30320
+      },
+      {
+        "name": "中華電",
+        "owner": "許宇甄",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "啟阜工程",
+        "owner": "許宇甄",
+        "shares": 24500,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 245000
+      },
+      {
+        "name": "啟阜工程",
+        "owner": "許宇甄",
+        "shares": 3500,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 35000
+      },
+      {
+        "name": "工礦",
+        "owner": "許宇甄",
+        "shares": 517,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5170
+      },
+      {
+        "name": "艾姆勒",
+        "owner": "林啟滄",
+        "shares": 60017,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 600170
+      },
+      {
+        "name": "宏碁",
+        "owner": "林啟滄",
+        "shares": 70,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 700
+      },
+      {
+        "name": "鴻運電",
+        "owner": "林啟滄",
+        "shares": 840,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8400
+      },
+      {
+        "name": "宏達電",
+        "owner": "林啟滄",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "啟阜工程",
+        "owner": "林啟滄",
+        "shares": 3500,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 35000
+      },
+      {
+        "name": "長榮",
+        "owner": "林啟滄",
+        "shares": 25000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 250000
+      },
+      {
+        "name": "陽明",
+        "owner": "林啟滄",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "新光金",
+        "owner": "林啟滄",
+        "shares": 110000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1100000
+      },
+      {
+        "name": "大國鋼",
+        "owner": "林啟滄",
+        "shares": 16000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "霸菱全球資源基 金（再投資）（美 元）",
+        "owner": "許宇甄",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 328.256,
+        "unitValue": 24.07,
+        "foreignCurrency": "美元",
+        "totalValue": 249564
+      },
+      {
+        "name": "法巴消費創新股 票基金（累積） （美元）",
+        "owner": "許宇甄",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 22.442,
+        "unitValue": 334.73,
+        "foreignCurrency": "美元",
+        "totalValue": 237274
+      },
+      {
+        "name": "NB 非投等債券基 金月配美元",
+        "owner": "許宇甄",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 558.21,
+        "unitValue": 5.99,
+        "foreignCurrency": "美元",
+        "totalValue": 105469
+      },
+      {
+        "name": "NB 非投等債券基 金月配美元",
+        "owner": "許宇甄",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 558.21,
+        "unitValue": 5.99,
+        "foreignCurrency": "美元",
+        "totalValue": 105469
+      },
+      {
+        "name": "NB 非投等債券基 金月配美元",
+        "owner": "許宇甄",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 558.21,
+        "unitValue": 5.99,
+        "foreignCurrency": "美元",
+        "totalValue": 105469
+      },
+      {
+        "name": "NB 非投等債券基 金月配美元",
+        "owner": "許宇甄",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 558.21,
+        "unitValue": 5.99,
+        "foreignCurrency": "美元",
+        "totalValue": 105469
+      },
+      {
+        "name": "NB 非投等債券基 金月配南非幣",
+        "owner": "許宇甄",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 538.442,
+        "unitValue": 59.21,
+        "foreignCurrency": "南非幣",
+        "totalValue": 51908
+      },
+      {
+        "name": "施羅德新興亞洲 A1",
+        "owner": "許宇甄",
+        "institution": "台 北 富 邦 銀 行 景美分行",
+        "units": 231.38,
+        "unitValue": 42.2087,
+        "foreignCurrency": "美元",
+        "totalValue": 308140
+      },
+      {
+        "name": "貝萊德世界黃金 基金",
+        "owner": "許宇甄",
+        "institution": "台 北 富 邦 銀 行 景美分行",
+        "units": 78.74,
+        "unitValue": 33.04,
+        "foreignCurrency": "美元",
+        "totalValue": 82083
+      },
+      {
+        "name": "貝萊德世界礦業 美元",
+        "owner": "許宇甄",
+        "institution": "台 北 富 邦 銀 行 景美分行",
+        "units": 519.5,
+        "unitValue": 58.91,
+        "foreignCurrency": "美元",
+        "totalValue": 965594
+      },
+      {
+        "name": "匯豐龍騰電子",
+        "owner": "許宇甄",
+        "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 4359.9,
+        "unitValue": 87.31,
+        "foreignCurrency": "",
+        "totalValue": 380662
+      },
+      {
+        "name": "匯豐金磚動力",
+        "owner": "許宇甄",
+        "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 38565,
+        "unitValue": 12.63,
+        "foreignCurrency": "",
+        "totalValue": 487075
+      },
+      {
+        "name": "匯豐全球關鍵",
+        "owner": "許宇甄",
+        "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 45591.6,
+        "unitValue": 9.66,
+        "foreignCurrency": "",
+        "totalValue": 440414
+      },
+      {
+        "name": "匯豐龍騰電子基 金",
+        "owner": "許宇甄",
+        "institution": "臺 灣 銀 行 文 山 分行",
+        "units": 11803.8,
+        "unitValue": 87.31,
+        "foreignCurrency": "",
+        "totalValue": 1030589
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "元大人壽真安心 保本防癌保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "許宇甄",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 06 月 25 日/166 年 06 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "紐約人壽安心保 本防癌保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "許宇甄",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 11 月 09 日/124 年 11 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰喬壽還本終 身壽險（繳費 20 年）",
+        "policyNumber": "○○○○○○○ ○○201",
+        "holder": "許宇甄",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 22 日/192 年 12 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽福氣久 久失能照護終身 壽險",
+        "policyNumber": "○○○○○○○ ○○300",
+        "holder": "許宇甄",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 31 日/157 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽健康久 久終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "許宇甄",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 11 月 04 日/186 年 11 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平準 終身壽險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "林啟滄",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 03 日/164 年 12 月 02 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 15000000,
+    "items": [
+      {
+        "type": "一般借貸",
+        "creditor": "許宇甄",
+        "debtor": "讚成投資股份有限公司 台北市文山區景興路",
+        "amount": 15000000,
+        "date": "112年03月22日",
+        "reason": "繼承"
+      }
+    ]
+  },
+  "debts": {
+    "total": 15000000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林啟滄",
+        "creditor": "雲林縣土庫鎮農會信用部 雲林縣土庫鎮越港里建國路",
+        "amount": 11600000,
+        "date": "112年12月11日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "林啟滄",
+        "creditor": "雲林縣土庫鎮農會信用部 雲林縣土庫鎮越港里建國路",
+        "amount": 3400000,
+        "date": "112年12月11日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

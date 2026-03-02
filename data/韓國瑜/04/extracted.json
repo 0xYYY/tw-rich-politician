@@ -1,0 +1,67 @@
+{
+  "name": "韓國瑜",
+  "org": "立法院",
+  "title": "院長",
+  "date": "113年04月30日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李佳芬"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣斗六市大崙段茄苳腳小段",
+      "area": 1324,
+      "share": "全部",
+      "owner": "李佳芬",
+      "date": "113年04月11日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小段",
+      "area": 770,
+      "share": "全部",
+      "owner": "李佳芬",
+      "date": "113年04月11日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

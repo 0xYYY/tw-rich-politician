@@ -1,0 +1,137 @@
+{
+  "name": "陳俊宇",
+  "date": "2024-12-12",
+  "type": "legislator",
+  "area": "宜蘭縣",
+  "party": "民主進步黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "全球人壽保險股 份有限公司",
+      "name": "全球人壽加倍醫 靠終身醫療健康 保險",
+      "holder": "陳俊宇",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險股 份有限公司",
+      "name": "台灣人壽珍福滿 人生終身壽險",
+      "holder": "陳俊宇",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險股 份有限公司",
+      "name": "台灣人壽傳承富 滿利率變動型終 身壽險",
+      "holder": "陳俊宇",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險股 份有限公司",
+      "name": "台灣人壽傳承富 滿利率變動型終 身壽險",
+      "holder": "陳俊宇",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險股 份有限公司",
+      "name": "台灣人壽傳承富 滿利率變動型終 身壽險",
+      "holder": "陳俊宇",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "鍾意終身壽險",
+      "holder": "黃淨怡",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中日",
+      "cleanName": "中日",
+      "ticker": null,
+      "shares": 1000,
+      "owner": "陳俊宇",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "宜進",
+      "cleanName": "宜進",
+      "ticker": "1457",
+      "shares": 704,
+      "owner": "陳俊宇",
+      "priceAtDisclosure": 20,
+      "latestPrice": 16
+    },
+    {
+      "name": "旺宏",
+      "cleanName": "旺宏",
+      "ticker": "2337",
+      "shares": 30,
+      "owner": "陳俊宇",
+      "priceAtDisclosure": 20.75,
+      "latestPrice": 110
+    },
+    {
+      "name": "茂德科技",
+      "cleanName": "茂德科技",
+      "ticker": null,
+      "shares": 3,
+      "owner": "陳俊宇",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "宜蘭縣宜蘭市和平段",
+      "owner": "陳俊宇",
+      "date": "2024-06-05",
+      "effectiveAreaPing": 82.2,
+      "entryCount": 1,
+      "price": "19,800,000(房 地總價額，含陽 台 39.63 平方 公尺)"
+    },
+    {
+      "location": "宜蘭縣員山鄉隘界二段",
+      "owner": "陳俊宇",
+      "date": "2001-03-08",
+      "effectiveAreaPing": 31.28,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "宜蘭縣員山鄉隘界二段",
+      "owner": "陳俊宇",
+      "date": "1986-10-16",
+      "effectiveAreaPing": 31.28,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "宜蘭縣員山鄉隘界二段",
+      "owner": "陳俊宇",
+      "date": "2012-12-17",
+      "effectiveAreaPing": 101.96,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "宜蘭縣礁溪鄉五峰段",
+      "owner": "陳俊宇",
+      "date": "2022-07-18",
+      "effectiveAreaPing": 19.74,
+      "entryCount": 2,
+      "price": "3,880,000(房 地總價額，含陽 台 1.23 平方公 尺)"
+    },
+    {
+      "location": "宜蘭縣員山鄉外員段",
+      "owner": "黃淨怡",
+      "date": "2020-06-17",
+      "effectiveAreaPing": 80.99,
+      "entryCount": 1,
+      "price": "9,328,000 (房地總價額， 含見其他登記 事項 4.32 平方 公尺)"
+    }
+  ]
+}

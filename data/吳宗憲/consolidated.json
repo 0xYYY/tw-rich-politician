@@ -1,0 +1,168 @@
+{
+  "name": "吳宗憲",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 13436852
+    }
+  ],
+  "depositsTotal": 13436852,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽全心守 護醫療終身保險",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽活力洋 溢 2 重大疾病終 身保險",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽福氣康 祥終身保險-C 型",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽福愛 2 小額終身壽險",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽福愛 2 小額終身壽險",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽雙喜年 年利率變動型還 本終身保險（定 期給付型）",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 202 終 身",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "真情 101",
+      "holder": "吳宗憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽新福滿 人生終身壽險",
+      "holder": "沈嫚嫻",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 1797,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": null,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 5000,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": 41.7,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 7042,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": 22.7,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 1704,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "淘帝-KY",
+      "cleanName": "淘帝-KY",
+      "ticker": "2929",
+      "shares": 50000,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": 12.15,
+      "latestPrice": 7.49
+    },
+    {
+      "name": "仕欽",
+      "cleanName": "仕欽",
+      "ticker": null,
+      "shares": 1020,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "裕慶-KY",
+      "cleanName": "裕慶-KY",
+      "ticker": "6957",
+      "shares": 131000,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": 238.5,
+      "latestPrice": 181
+    },
+    {
+      "name": "長億實業",
+      "cleanName": "長億實業",
+      "ticker": null,
+      "shares": 31060,
+      "owner": "吳宗憲",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市西區大益段",
+      "owner": "吳宗憲",
+      "date": "2024-05-27",
+      "effectiveAreaPing": 44.35,
+      "entryCount": 3,
+      "price": "582,000(含陽 台 17.11 平方 公尺)"
+    }
+  ]
+}

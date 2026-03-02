@@ -1,0 +1,74 @@
+{
+  "name": "陳超明",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "苗栗縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 517040
+    }
+  ],
+  "depositsTotal": 517040,
+  "insurance": [],
+  "stocks": [
+    {
+      "name": "華邦電",
+      "cleanName": "華邦電",
+      "ticker": "2344",
+      "shares": 21,
+      "owner": "陳超明",
+      "priceAtDisclosure": 19.35,
+      "latestPrice": 122.5
+    },
+    {
+      "name": "錸德",
+      "cleanName": "錸德",
+      "ticker": "2349",
+      "shares": 124,
+      "owner": "陳超明",
+      "priceAtDisclosure": 14.45,
+      "latestPrice": 14.55
+    },
+    {
+      "name": "所羅門",
+      "cleanName": "所羅門",
+      "ticker": "2359",
+      "shares": 2842,
+      "owner": "陳超明",
+      "priceAtDisclosure": 144,
+      "latestPrice": 132.5
+    },
+    {
+      "name": "來思達",
+      "cleanName": "來思達",
+      "ticker": "8066",
+      "shares": 557,
+      "owner": "陳超明",
+      "priceAtDisclosure": 28.8,
+      "latestPrice": 20
+    },
+    {
+      "name": "南茂",
+      "cleanName": "南茂",
+      "ticker": "8150",
+      "shares": 4,
+      "owner": "陳超明",
+      "priceAtDisclosure": 36.1,
+      "latestPrice": 71.5
+    },
+    {
+      "name": "統一證",
+      "cleanName": "統一證",
+      "ticker": "2855",
+      "shares": 7359,
+      "owner": "陳超明",
+      "priceAtDisclosure": 26,
+      "latestPrice": 32.25
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

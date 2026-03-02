@@ -1,0 +1,309 @@
+{
+  "name": "陳培瑜",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月24日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王得泰"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "王○安"
+    }
+  ],
+  "land": [
+    {
+      "location": "花蓮縣花蓮市樹人段",
+      "area": 8976,
+      "share": "10000 分之 51",
+      "owner": "陳培瑜",
+      "date": "97年01月03日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區永昌段二小段",
+      "area": 97,
+      "share": "5 分之 1",
+      "owner": "陳培瑜",
+      "date": "112年08月11日",
+      "reason": "買賣",
+      "price": "19,000,000 (土地跟建物 一起)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "花蓮縣花蓮市樹人段",
+      "area": 133.2,
+      "share": "全部",
+      "owner": "陳培瑜",
+      "date": "97年01月03日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區永昌段二小段",
+      "area": 79.67,
+      "share": "全部",
+      "owner": "陳培瑜",
+      "date": "112年08月11日",
+      "reason": "買賣",
+      "price": "19,000,000 (含陽台 7.69 平方公尺；土 地 跟 建 物 一 起)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "SUBARU",
+      "cc": 2498,
+      "owner": "陳培瑜",
+      "date": "107年02月08日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "國瑞",
+      "cc": 1798,
+      "owner": "陳培瑜",
+      "date": "110年02月09日",
+      "reason": "買賣",
+      "price": 746000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 5677266,
+    "items": [
+      {
+        "institution": "臺灣銀行忠孝分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳培瑜",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行忠孝分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳培瑜",
+        "foreignAmount": 0,
+        "amount": 45270
+      },
+      {
+        "institution": "台北富邦銀行花蓮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳培瑜",
+        "foreignAmount": 0,
+        "amount": 88638
+      },
+      {
+        "institution": "星展世貿分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳培瑜",
+        "foreignAmount": 0,
+        "amount": 13505
+      },
+      {
+        "institution": "中信銀行富錦分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳培瑜",
+        "foreignAmount": 373,
+        "amount": 11951
+      },
+      {
+        "institution": "中信銀行富錦分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "陳培瑜",
+        "foreignAmount": 33860,
+        "amount": 7090
+      },
+      {
+        "institution": "中國信託商業銀行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "陳培瑜",
+        "foreignAmount": 6000,
+        "amount": 183432
+      },
+      {
+        "institution": "中國信託商業銀行板橋分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳培瑜",
+        "foreignAmount": 0,
+        "amount": 7253
+      },
+      {
+        "institution": "中國信託商業銀行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳培瑜",
+        "foreignAmount": 0,
+        "amount": 299684
+      },
+      {
+        "institution": "匯豐台灣台北分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王得泰",
+        "foreignAmount": 6000,
+        "amount": 191640
+      },
+      {
+        "institution": "匯豐台灣台北分行",
+        "type": "定期存款",
+        "currency": "澳幣",
+        "owner": "王得泰",
+        "foreignAmount": 3137,
+        "amount": 65598
+      },
+      {
+        "institution": "匯豐台灣台北分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "王得泰",
+        "foreignAmount": 646215,
+        "amount": 135705
+      },
+      {
+        "institution": "HSBC 匯豐銀行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王得泰",
+        "foreignAmount": 0,
+        "amount": 224779
+      },
+      {
+        "institution": "匯豐銀行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "王得泰",
+        "foreignAmount": 0,
+        "amount": 2253777
+      },
+      {
+        "institution": "匯豐銀行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "王得泰",
+        "foreignAmount": 58,
+        "amount": 1854
+      },
+      {
+        "institution": "台北富邦銀行花蓮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王○安",
+        "foreignAmount": 0,
+        "amount": 139286
+      },
+      {
+        "institution": "中信銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王○安",
+        "foreignAmount": 0,
+        "amount": 7804
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "owner": "陳培瑜",
+        "institution": "中國信託證券",
+        "units": 1000,
+        "unitValue": 198.4,
+        "foreignCurrency": "",
+        "totalValue": 198400
+      },
+      {
+        "name": "富邦台 50",
+        "owner": "陳培瑜",
+        "institution": "中國信託證券",
+        "units": 6000,
+        "unitValue": 114.9,
+        "foreignCurrency": "",
+        "totalValue": 689400
+      },
+      {
+        "name": "統一 FANG+",
+        "owner": "陳培瑜",
+        "institution": "中國信託證券",
+        "units": 1000,
+        "unitValue": 107.65,
+        "foreignCurrency": "",
+        "totalValue": 107650
+      },
+      {
+        "name": "富邦台灣半導體",
+        "owner": "陳培瑜",
+        "institution": "中國信託證券",
+        "units": 5000,
+        "unitValue": 17.73,
+        "foreignCurrency": "",
+        "totalValue": 88650
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山人壽 B1 還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "王得泰",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 09 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山人壽 B2 還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王得泰",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 09 月 14 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 2000,
+    "items": [
+      {
+        "investor": "陳培瑜",
+        "company": "花蓮第二信用合作社",
+        "address": "花蓮縣花蓮市光復街 36 號",
+        "amount": 2000,
+        "date": "95年07月18日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

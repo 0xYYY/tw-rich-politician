@@ -1,0 +1,549 @@
+{
+  "name": "陳昭姿",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年02月08日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "郭長豐"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": 298,
+      "share": "16 分之 1",
+      "owner": "郭長豐",
+      "date": "68年05月01日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": 298,
+      "share": "16 分之 1",
+      "owner": "陳昭姿",
+      "date": "107年08月16日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區雙園段三小段",
+      "area": 51,
+      "share": "14 分之 1",
+      "owner": "陳昭姿",
+      "date": "107年08月15日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區雙園段三小段",
+      "area": 2,
+      "share": "14 分之 1",
+      "owner": "陳昭姿",
+      "date": "107年08月15日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區永昌段六小段",
+      "area": 995,
+      "share": "9950 分 之 168",
+      "owner": "陳昭姿",
+      "date": "108年10月28日",
+      "reason": "購買",
+      "price": "15,000,000(房 地合購價)"
+    },
+    {
+      "location": "臺北市中正區永昌段六小段",
+      "area": 995,
+      "share": "9950分之 2",
+      "owner": "郭長豐",
+      "date": "84年09月19日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": 105.92,
+      "share": "2 分之 1",
+      "owner": "郭長豐",
+      "date": "68年06月13日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": 105.92,
+      "share": "2 分之 1",
+      "owner": "陳昭姿",
+      "date": "107年08月16日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區雙園段三小段",
+      "area": 45.56,
+      "share": "7 分之 1",
+      "owner": "陳昭姿",
+      "date": "107年08月15日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區永昌段六小段",
+      "area": 138.12,
+      "share": "全部",
+      "owner": "陳昭姿",
+      "date": "108年11月15日",
+      "reason": "購買",
+      "price": "15,000,000 (房地合購價)"
+    },
+    {
+      "location": "臺北市中正區永昌段六小段 (附屬建物-陽台)",
+      "area": 17.91,
+      "share": "全部",
+      "owner": "陳昭姿",
+      "date": "108年11月15日",
+      "reason": "購買",
+      "price": ""
+    },
+    {
+      "location": "臺北市中正區永昌段六小段 (附屬建物-雨遮)",
+      "area": 1.85,
+      "share": "全部",
+      "owner": "陳昭姿",
+      "date": "108年11月15日",
+      "reason": "購買",
+      "price": ""
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA YARIS",
+      "cc": 1496,
+      "owner": "郭長豐",
+      "date": "109年7月",
+      "reason": "購買",
+      "price": 650000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 49944130,
+    "items": [
+      {
+        "institution": "凱基銀行新莊分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳昭姿",
+        "foreignAmount": 0,
+        "amount": 3069002
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 2442580
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳昭姿",
+        "foreignAmount": 0,
+        "amount": 19693480
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "外匯活存",
+        "currency": "日圓",
+        "owner": "郭長豐",
+        "foreignAmount": 3,
+        "amount": 1
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "外匯活存",
+        "currency": "澳幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "外匯活存",
+        "currency": "南非幣",
+        "owner": "郭長豐",
+        "foreignAmount": 1000624,
+        "amount": 1641023
+      },
+      {
+        "institution": "元大商業銀行新莊分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 393632
+      },
+      {
+        "institution": "元大商業銀行新莊分行",
+        "type": "外匯活存",
+        "currency": "美元",
+        "owner": "郭長豐",
+        "foreignAmount": 32628,
+        "amount": 1020959
+      },
+      {
+        "institution": "元大商業銀行新莊分行",
+        "type": "外匯活存",
+        "currency": "日圓",
+        "owner": "郭長豐",
+        "foreignAmount": 12,
+        "amount": 2
+      },
+      {
+        "institution": "元大商業銀行新莊分行",
+        "type": "外匯活存",
+        "currency": "澳幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "元大商業銀行新莊分行",
+        "type": "外匯活存",
+        "currency": "歐元",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "中華郵政股份有限公司中 研院郵局",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 471420
+      },
+      {
+        "institution": "中華郵政股份有限公司台 北龍口郵局",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳昭姿",
+        "foreignAmount": 0,
+        "amount": 3620276
+      },
+      {
+        "institution": "中國信託商業銀行仁愛分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳昭姿",
+        "foreignAmount": 0,
+        "amount": 7737320
+      },
+      {
+        "institution": "中國信託商業銀行仁愛分 行",
+        "type": "外匯活存",
+        "currency": "美元",
+        "owner": "陳昭姿",
+        "foreignAmount": 3801,
+        "amount": 119807
+      },
+      {
+        "institution": "中國信託商業銀行仁愛分 行",
+        "type": "外匯活存",
+        "currency": "歐元",
+        "owner": "陳昭姿",
+        "foreignAmount": 440,
+        "amount": 14980
+      },
+      {
+        "institution": "台新國際商業銀行",
+        "type": "綜合活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 2532238
+      },
+      {
+        "institution": "第一商業銀行雙園分行",
+        "type": "綜合管理帳戶存摺",
+        "currency": "新臺幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 1889313
+      },
+      {
+        "institution": "第一商業銀行雙園分行",
+        "type": "綜合管理帳戶存摺",
+        "currency": "新臺幣",
+        "owner": "陳昭姿",
+        "foreignAmount": 0,
+        "amount": 4736918
+      },
+      {
+        "institution": "華南商業銀行中華路分行",
+        "type": "新台幣存款存摺",
+        "currency": "新臺幣",
+        "owner": "郭長豐",
+        "foreignAmount": 0,
+        "amount": 561176
+      }
+    ]
+  },
+  "stocks": {
+    "total": 20162114,
+    "items": [
+      {
+        "name": "台玻",
+        "owner": "郭長豐",
+        "shares": 1181,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11810
+      },
+      {
+        "name": "遠百",
+        "owner": "郭長豐",
+        "shares": 3022,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30220
+      },
+      {
+        "name": "聚隆",
+        "owner": "郭長豐",
+        "shares": 13,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 130
+      },
+      {
+        "name": "勝華",
+        "owner": "郭長豐",
+        "shares": 140000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1400000
+      },
+      {
+        "name": "新光金",
+        "owner": "郭長豐",
+        "shares": 860000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8600000
+      },
+      {
+        "name": "天鈺",
+        "owner": "郭長豐",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "佳凌",
+        "owner": "郭長豐",
+        "shares": 75000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 750000
+      },
+      {
+        "name": "凌陽",
+        "owner": "郭長豐",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "NVDA",
+        "owner": "郭長豐",
+        "shares": 100,
+        "faceValue": 700,
+        "foreignCurrency": "美元",
+        "totalValue": 2193397
+      },
+      {
+        "name": "MSFT",
+        "owner": "郭長豐",
+        "shares": 35,
+        "faceValue": 414,
+        "foreignCurrency": "美元",
+        "totalValue": 453446
+      },
+      {
+        "name": "PYPL",
+        "owner": "郭長豐",
+        "shares": 700,
+        "faceValue": 63,
+        "foreignCurrency": "美元",
+        "totalValue": 1385145
+      },
+      {
+        "name": "NVAX",
+        "owner": "郭長豐",
+        "shares": 14200,
+        "faceValue": 3,
+        "foreignCurrency": "美元",
+        "totalValue": 1679522
+      },
+      {
+        "name": "LCID",
+        "owner": "郭長豐",
+        "shares": 30000,
+        "faceValue": 3,
+        "foreignCurrency": "美元",
+        "totalValue": 3172806
+      },
+      {
+        "name": "NOK",
+        "owner": "郭長豐",
+        "shares": 3000,
+        "faceValue": 3,
+        "foreignCurrency": "美元",
+        "totalValue": 333238
+      },
+      {
+        "name": "農林",
+        "owner": "陳昭姿",
+        "shares": 6,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60
+      },
+      {
+        "name": "力新",
+        "owner": "陳昭姿",
+        "shares": 234,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2340
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大多福基金",
+        "owner": "郭長豐",
+        "institution": "元大證券",
+        "units": 28000,
+        "unitValue": 33600,
+        "foreignCurrency": "",
+        "totalValue": 33600
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三商美邦人壽",
+        "name": "美利旺外幣利率 變動型年金保險 (A 型)",
+        "policyNumber": "○○○○○○○ ○○578",
+        "holder": "郭長豐",
+        "contractType": "年金型保險",
+        "period": "100 年 09 月 01日/終身",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "新光千禧寶終身 還本壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "新光千禧傳家寶 終身還本壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "新光千禧金寶貝 終身還本壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 11 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山新年年春還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 11 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 11 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山新年年春還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○4",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 15 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "郭長豐",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 15 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

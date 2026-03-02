@@ -1,0 +1,167 @@
+{
+  "name": "郭國文",
+  "date": "2024-12-30",
+  "type": "legislator",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 4867844
+    }
+  ],
+  "depositsTotal": 4867844,
+  "insurance": [
+    {
+      "company": "中 國 人 壽 保 險 股份有限公司",
+      "name": "保誠百樂福單利 增額終身壽險乙 型",
+      "holder": "郭國文",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "PHB",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "加倍醫靠終身醫 療健康保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "加倍醫靠終身醫 療健康保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "精準守護防癌定 期健康保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠得意人生終 身保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠新新百樂福 單利增額終身壽 險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠滿意人生終 身保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "好 easy 終身醫療 健康保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "美滿人生長期照 顧終身保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "美滿人生長期照 顧終身保險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "福氣康祥終身保 險",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "CLO",
+      "holder": "湯靜雯",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "嘉新食化",
+      "cleanName": "嘉新食化",
+      "ticker": null,
+      "shares": 16,
+      "owner": "郭國文",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "東雲",
+      "cleanName": "東雲",
+      "ticker": null,
+      "shares": 8,
+      "owner": "郭國文",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣價值高 息",
+      "owner": "郭國文",
+      "institution": "元 大 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 60000,
+      "unitValue": 9.44,
+      "currency": "",
+      "declaredValue": 566400,
+      "source": "fund"
+    },
+    {
+      "name": "元大多福基金",
+      "owner": "郭國文",
+      "institution": "元 大 證 券 股 份 有限公司",
+      "units": 810.8,
+      "unitValue": 115.33,
+      "currency": "",
+      "declaredValue": 93509,
+      "source": "fund"
+    },
+    {
+      "name": "元大高科技基金",
+      "owner": "郭國文",
+      "institution": "元 大 證 券 股 份 有限公司",
+      "units": 2282.2,
+      "unitValue": 41.38,
+      "currency": "",
+      "declaredValue": 94437,
+      "source": "fund"
+    },
+    {
+      "name": "元大日本龍頭企 業 基 金 - 新 臺 幣 A 類型",
+      "owner": "郭國文",
+      "institution": "元 大 證 券 股 份 有限公司",
+      "units": 34273.2,
+      "unitValue": 10.61,
+      "currency": "",
+      "declaredValue": 363638,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市永康區兵北段",
+      "owner": "郭國文",
+      "date": "2005-09-13",
+      "effectiveAreaPing": 69.4,
+      "entryCount": 1,
+      "price": "含陽台39.2平 方公尺,雨遮 1.63 平方公尺 (超過五年)"
+    }
+  ]
+}

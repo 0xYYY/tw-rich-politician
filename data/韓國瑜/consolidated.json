@@ -1,0 +1,196 @@
+{
+  "name": "韓國瑜",
+  "date": "2024-04-30",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 4206334
+    },
+    {
+      "currency": "美元",
+      "amount": 2599350
+    },
+    {
+      "currency": "加拿大幣",
+      "amount": 1755175
+    },
+    {
+      "currency": "人民幣",
+      "amount": 153294
+    },
+    {
+      "currency": "南非幣",
+      "amount": 115235
+    },
+    {
+      "currency": "澳幣",
+      "amount": 6519
+    },
+    {
+      "currency": "日圓",
+      "amount": 956
+    }
+  ],
+  "depositsTotal": 8836866,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽添美福 美元利率變動型 終身壽險（定期 給付型）",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增集利 增額終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增集利 增額終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增集利 增額終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山康樂限期繳 費終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "新二十年限期繳 費特別增值分紅 終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽鑫萬利 終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "鑫安保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "強普 (未交付信託原因：未 上市、上櫃股票)",
+      "cleanName": "強普",
+      "ticker": null,
+      "shares": 120769,
+      "owner": "韓國瑜",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "晶隼 (未交付信託原因：未 上市、上櫃股票)",
+      "cleanName": "晶隼",
+      "ticker": null,
+      "shares": 110000,
+      "owner": "韓國瑜",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [
+    {
+      "name": "聯博新興市場債 券基金 EA(穩定 月配)澳幣避險 級別",
+      "owner": "韓國瑜",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 4979.381,
+      "unitValue": 9.56,
+      "currency": "澳幣",
+      "declaredValue": 986569,
+      "source": "fund"
+    },
+    {
+      "name": "聯博新興市場債 券基金 AA 穩定月 配美元",
+      "owner": "韓國瑜",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 1520.174,
+      "unitValue": 8.73,
+      "currency": "美元",
+      "declaredValue": 419553,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "合庫環境及社會 責任多重資產基 金 B 類型(南非 幣)",
+      "owner": "韓國瑜",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 51000,
+      "unitValue": 8.99,
+      "currency": "南非幣",
+      "declaredValue": 772555,
+      "source": "fund"
+    },
+    {
+      "name": "合庫環境及社會 責任多重資產基 金 NB 類型(美元)",
+      "owner": "韓國瑜",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 8000,
+      "unitValue": 9.01,
+      "currency": "美元",
+      "declaredValue": 2278737,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小 段",
+      "owner": "李佳芬",
+      "date": "2022-05-13",
+      "effectiveAreaPing": 143.18,
+      "entryCount": 1,
+      "price": "16,800,000"
+    },
+    {
+      "location": "雲林縣斗六市大崙段茄苳腳小段",
+      "owner": "李佳芬",
+      "date": "2024-04-11",
+      "effectiveAreaPing": 400.51,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小段",
+      "owner": "李佳芬",
+      "date": "2024-04-11",
+      "effectiveAreaPing": 232.93,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

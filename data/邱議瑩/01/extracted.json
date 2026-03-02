@@ -1,0 +1,555 @@
+{
+  "name": "邱議瑩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李永得"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市鳥松區育才段",
+      "area": 14538.71,
+      "share": "20000 分之 94",
+      "owner": "邱議瑩",
+      "date": "109年07月31日",
+      "reason": "買賣",
+      "price": "30,000,000"
+    },
+    {
+      "location": "高雄市美濃區福安段",
+      "area": 1140.65,
+      "share": "12 分之 1",
+      "owner": "李永得",
+      "date": "95年04月10日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市美濃區福安段",
+      "area": 127.66,
+      "share": "12 分之 1",
+      "owner": "李永得",
+      "date": "112年09月18日",
+      "reason": "塗銷信託",
+      "price": "43,617.17"
+    },
+    {
+      "location": "高雄市美濃區福安段",
+      "area": 75.08,
+      "share": "12 分之 1",
+      "owner": "李永得",
+      "date": "112年09月18日",
+      "reason": "塗銷信託",
+      "price": "25,652.33"
+    },
+    {
+      "location": "高雄市美濃區福安段",
+      "area": 1825.64,
+      "share": "6 分之 1",
+      "owner": "李永得",
+      "date": "112年09月18日",
+      "reason": "塗銷信託",
+      "price": "1,247,520.67"
+    },
+    {
+      "location": "高雄市美濃區福安段",
+      "area": 1341.07,
+      "share": "6 分之 1",
+      "owner": "李永得",
+      "date": "112年09月18日",
+      "reason": "塗銷信託",
+      "price": "916,397.83"
+    },
+    {
+      "location": "高雄市美濃區福安段",
+      "area": 1206.03,
+      "share": "6 分之 1",
+      "owner": "李永得",
+      "date": "112年09月18日",
+      "reason": "塗銷信託",
+      "price": "824,120.5"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鳥松區育才段",
+      "area": 212.6,
+      "share": "全部",
+      "owner": "邱議瑩",
+      "date": "109年07月31日",
+      "reason": "買賣",
+      "price": "30,000,000 (合購第1筆土 地，含陽台 20.35 平方公 尺,雨遮 18.04 平方公尺)"
+    },
+    {
+      "location": "高雄市鳥松區育才段",
+      "area": 30801.91,
+      "share": "100000 分 之 470",
+      "owner": "邱議瑩",
+      "date": "109年07月31日",
+      "reason": "買賣",
+      "price": "30,000,000 (合購第1筆土 地，共同使用 部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 3456,
+      "owner": "邱議瑩",
+      "date": "113年02月29日",
+      "reason": "買賣",
+      "price": 700000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 17494580,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "邱議瑩",
+        "foreignAmount": 2078,
+        "amount": 66448
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 5000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 6706965
+      },
+      {
+        "institution": "彰化銀行屏東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 2835
+      },
+      {
+        "institution": "高雄銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 469394
+      },
+      {
+        "institution": "京城商業銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 2207
+      },
+      {
+        "institution": "臺灣新光銀行屏東分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "臺灣新光銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 63798
+      },
+      {
+        "institution": "元大銀行大同分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱議瑩",
+        "foreignAmount": 0,
+        "amount": 62777
+      },
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李永得",
+        "foreignAmount": 0,
+        "amount": 588184
+      },
+      {
+        "institution": "合庫商業銀行五洲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李永得",
+        "foreignAmount": 0,
+        "amount": 2667561
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李永得",
+        "foreignAmount": 0,
+        "amount": 1025362
+      },
+      {
+        "institution": "國泰世華銀行南門分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "李永得",
+        "foreignAmount": 4091055,
+        "amount": 857112
+      },
+      {
+        "institution": "國泰世華銀行南門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李永得",
+        "foreignAmount": 0,
+        "amount": 3328613
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李永得",
+        "foreignAmount": 0,
+        "amount": 505500
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "綜合存款",
+        "currency": "加拿大幣",
+        "owner": "李永得",
+        "foreignAmount": 29245,
+        "amount": 675272
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "綜合存款",
+        "currency": "英鎊",
+        "owner": "李永得",
+        "foreignAmount": 195,
+        "amount": 8118
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "李永得",
+        "foreignAmount": 150,
+        "amount": 4829
+      },
+      {
+        "institution": "National Australia Bank",
+        "type": "活期儲蓄存款",
+        "currency": "澳幣",
+        "owner": "李永得",
+        "foreignAmount": 7306,
+        "amount": 154602
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1233120,
+    "items": [
+      {
+        "name": "台達電",
+        "owner": "邱議瑩",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "台積電",
+        "owner": "邱議瑩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "華通",
+        "owner": "李永得",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "楠梓電",
+        "owner": "李永得",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "精英",
+        "owner": "李永得",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "京鼎",
+        "owner": "李永得",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "世芯-KY",
+        "owner": "李永得",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "寶華",
+        "owner": "李永得",
+        "shares": 195,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1950
+      },
+      {
+        "name": "金橋",
+        "owner": "李永得",
+        "shares": 79000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 790000
+      },
+      {
+        "name": "達發",
+        "owner": "李永得",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "中興商銀",
+        "owner": "李永得",
+        "shares": 117,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1170
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "owner": "邱議瑩",
+        "institution": "元 大 證 券 經 紀 部",
+        "units": 1000,
+        "unitValue": 190.5,
+        "foreignCurrency": "",
+        "totalValue": 190500
+      },
+      {
+        "name": "國泰投資級公司 債",
+        "owner": "邱議瑩",
+        "institution": "元 大 證 券 經 紀 部",
+        "units": 2000,
+        "unitValue": 36.7042,
+        "foreignCurrency": "",
+        "totalValue": 73408
+      },
+      {
+        "name": "元大 AAA 至 A 公 司債",
+        "owner": "邱議瑩",
+        "institution": "元 大 證 券 經 紀 部",
+        "units": 7000,
+        "unitValue": 33.7341,
+        "foreignCurrency": "",
+        "totalValue": 236138
+      },
+      {
+        "name": "國泰 A 級公司債",
+        "owner": "邱議瑩",
+        "institution": "元 大 證 券 經 紀 部",
+        "units": 7000,
+        "unitValue": 36.3786,
+        "foreignCurrency": "",
+        "totalValue": 254650
+      },
+      {
+        "name": "元大台灣 50 反 1",
+        "owner": "李永得",
+        "institution": "國 泰 綜 合 證 券 敦南二分公司",
+        "units": 100000,
+        "unitValue": 3.33,
+        "foreignCurrency": "",
+        "totalValue": 333000
+      },
+      {
+        "name": "群益 ESG 投等債 20+",
+        "owner": "李永得",
+        "institution": "國 泰 綜 合 證 券 敦南二分公司",
+        "units": 50000,
+        "unitValue": 15.5788,
+        "foreignCurrency": "",
+        "totalValue": 778940
+      },
+      {
+        "name": "凱基台灣 AI50",
+        "owner": "李永得",
+        "institution": "國 泰 綜 合 證 券 敦南二分公司",
+        "units": 10000,
+        "unitValue": 9.78,
+        "foreignCurrency": "",
+        "totalValue": 97800
+      },
+      {
+        "name": "富邦台灣半導體",
+        "owner": "李永得",
+        "institution": "富 邦 綜 合 證 券 南京分公司",
+        "units": 60000,
+        "unitValue": 17.47,
+        "foreignCurrency": "",
+        "totalValue": 1048200
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "得意還本終身壽 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "邱議瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 09 月 11 日/159 年 09 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "邱議瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 09 月 11 日/159 年 09 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "雙好還本終身",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "邱議瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 09 月 22 日/159 年 09 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "雙星還本終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "邱議瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 09 月 22 日/159 年 09 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽多利年 年利率變動型年 金保險【甲型】",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "邱議瑩",
+        "contractType": "年金型保險",
+        "period": "103 年 06 月 30 日/170 年 06 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽鑫利年 年利率變動型年 金保險【乙型】",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "邱議瑩",
+        "contractType": "年金型保險",
+        "period": "102 年 04 月 01 日/170 年 04 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金豐華 利率變動型養老 保險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "李永得",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 11 月 16 日/122 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美利富 貴外幣利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "李永得",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 11 月 27 日/155 年 11 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽歲歲長 泰還本終身壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "李永得",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 01 月 18 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 8472708,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "邱議瑩",
+        "creditor": "高雄銀行營業部 高雄市左營區博愛二路",
+        "amount": 8472708,
+        "date": "109年08月04日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 1000000,
+    "items": [
+      {
+        "investor": "1★李永得",
+        "company": "玉山社出版事業股份有限公 司",
+        "address": "台北市大安區仁愛路四段 145 號 3 樓之二",
+        "amount": 1000000,
+        "date": "84年07月08日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "name": "徐富癸",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "屏東縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1945285
+    },
+    {
+      "currency": "美元",
+      "amount": 7
+    }
+  ],
+  "depositsTotal": 1945292,
+  "insurance": [
+    {
+      "company": "南山人壽",
+      "name": "南 山 康 樂 限 期 繳費終身壽險",
+      "holder": "徐富癸",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽",
+      "name": "保 誠 人 壽 百 樂 人生變額壽險",
+      "holder": "徐富癸",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱基人壽",
+      "name": "保 誠 人 壽 悠 遊 人生變額壽險",
+      "holder": "徐富癸",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱基人壽",
+      "name": "保 誠 人 壽 悠 遊 人生變額壽險",
+      "holder": "徐富癸",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "新光人壽",
+      "name": "新 光 人 壽 年 年 如意終身壽險",
+      "holder": "徐富癸",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 金 富貴終身保險",
+      "holder": "張靜玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 祥 安終身壽險",
+      "holder": "張靜玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南 山 人 壽 幸 福 久久 2 外幣增額 終身壽險",
+      "holder": "張靜玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽",
+      "name": "保 誠 人 壽 悠 遊 人生變額壽險",
+      "holder": "張靜玲",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "富 邦 人 壽 金 美 利 外 幣 利 率 變 動 型 增 額 終 身 壽險",
+      "holder": "張靜玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台灣人壽",
+      "name": "台 灣 人 壽 美 鑽 年 年 美 元 利 率 變 動 型 還 本 終 身保險",
+      "holder": "張靜玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台灣人壽",
+      "name": "台 灣 人 壽 鑫 美 利 外 幣 終 身 壽 險",
+      "holder": "張靜玲",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "群益創新科技基 金",
+      "owner": "徐富癸",
+      "institution": "臺 灣 銀 行 屏 東 分行",
+      "units": 982.2,
+      "unitValue": 72.08,
+      "currency": "",
+      "declaredValue": 70796,
+      "source": "fund"
+    },
+    {
+      "name": "群益創新科技基 金",
+      "owner": "徐富癸",
+      "institution": "臺 灣 銀 行 屏 東 分行",
+      "units": 429.1,
+      "unitValue": 72.08,
+      "currency": "",
+      "declaredValue": 30929,
+      "source": "fund"
+    },
+    {
+      "name": "群益中小型股基 金",
+      "owner": "徐富癸",
+      "institution": "臺 灣 銀 行 屏 東 分行",
+      "units": 178.9,
+      "unitValue": 93.35,
+      "currency": "",
+      "declaredValue": 16700,
+      "source": "fund"
+    },
+    {
+      "name": "新光創新科技基 金",
+      "owner": "徐富癸",
+      "institution": "臺 灣 銀 行 屏 東 分行",
+      "units": 865.78,
+      "unitValue": 39.93,
+      "currency": "",
+      "declaredValue": 34570,
+      "source": "fund"
+    },
+    {
+      "name": "摩根新興科技一 般",
+      "owner": "徐富癸",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 100.1,
+      "unitValue": 127.64,
+      "currency": "",
+      "declaredValue": 12776,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣瑞光段",
+      "owner": "張靜玲",
+      "date": "1999-10-15",
+      "effectiveAreaPing": 66.36,
+      "entryCount": 1,
+      "price": "含陽台9.74平 方公尺,屋頂 突出物 10.41 平方公尺(超 過五年)"
+    }
+  ]
+}

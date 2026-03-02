@@ -1,0 +1,62 @@
+{
+  "name": "莊瑞雄",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月13日",
+  "type": "前次申報日期民國112年11月07日起，本次定期申報日113年11月13日止",
+  "family": [],
+  "land": [
+    {
+      "location": "屏東縣里港鄉新土庫段",
+      "area": 1117.93,
+      "share": "12 分之 1",
+      "owner": "莊瑞雄",
+      "date": "113年01月05日",
+      "reason": "繼承",
+      "price": "354,011"
+    },
+    {
+      "location": "屏東縣里港鄉新土庫段",
+      "area": 1.47,
+      "share": "12 分之 1",
+      "owner": "莊瑞雄",
+      "date": "113年01月05日",
+      "reason": "繼承",
+      "price": "466"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

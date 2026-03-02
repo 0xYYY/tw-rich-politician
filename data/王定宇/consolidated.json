@@ -1,0 +1,139 @@
+{
+  "name": "王定宇",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6531785
+    },
+    {
+      "currency": "美元",
+      "amount": 82582
+    }
+  ],
+  "depositsTotal": 6614367,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽活力一 生終身醫療健康 保險",
+      "holder": "王定宇",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽失扶好 照終身保險（H 版）",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽安養久 久終身保險（A 型）",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "雙瑞豐盈外幣變 額萬能壽險",
+      "holder": "李淑吟",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽多美寶 美元利率變動型 終身保險（定期 給付型）",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鑫添鑫終身壽險",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽加倍平 安終身壽險",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽永保安 康終身壽險",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽鑫富雙 喜利率變動型終 身壽險",
+      "holder": "李淑吟",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台玻",
+      "cleanName": "台玻",
+      "ticker": "1802",
+      "shares": 1000,
+      "owner": "王定宇",
+      "priceAtDisclosure": 19.65,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "大成鋼",
+      "cleanName": "大成鋼",
+      "ticker": "2027",
+      "shares": 55630,
+      "owner": "王定宇",
+      "priceAtDisclosure": 32.8,
+      "latestPrice": 37.05
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 1000,
+      "owner": "王定宇",
+      "priceAtDisclosure": 46.6,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "新興",
+      "cleanName": "新興",
+      "ticker": "2605",
+      "shares": 23000,
+      "owner": "王定宇",
+      "priceAtDisclosure": 26.65,
+      "latestPrice": 33.75
+    },
+    {
+      "name": "大國鋼",
+      "cleanName": "大國鋼",
+      "ticker": "8415",
+      "shares": 125000,
+      "owner": "王定宇",
+      "priceAtDisclosure": 34.4,
+      "latestPrice": 33.8
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺南市仁德區公園段",
+      "owner": "李淑吟",
+      "date": "2013-07-10",
+      "effectiveAreaPing": 104.52,
+      "entryCount": 2,
+      "price": "含陽台6.44平 方公尺(超過 五年)"
+    }
+  ]
+}

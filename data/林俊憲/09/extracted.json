@@ -1,0 +1,87 @@
+{
+  "name": "林俊憲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "高婕寧"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○僾"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○秦"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市安平區金城段",
+      "area": 88,
+      "share": "全部",
+      "owner": "高婕寧",
+      "date": "113年04月10日",
+      "reason": "買進",
+      "price": "6,400,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市安平區金城段",
+      "area": 229.86,
+      "share": "全部",
+      "owner": "高婕寧",
+      "date": "113年04月10日",
+      "reason": "買進",
+      "price": "17,600,000"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "環拓科技",
+        "broker": "元大",
+        "owner": "高婕寧",
+        "shares": 165000,
+        "pricePerShare": "10",
+        "changeDate": "113年01月01日",
+        "changeReason": "買進",
+        "totalValue": 1650000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

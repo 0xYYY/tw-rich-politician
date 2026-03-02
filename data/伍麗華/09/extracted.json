@@ -1,0 +1,58 @@
+{
+  "name": "伍麗華",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "高保羅"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣瑪家鄉佳義段",
+      "area": 4790,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "113年05月06日",
+      "reason": "買進",
+      "price": "500,000"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

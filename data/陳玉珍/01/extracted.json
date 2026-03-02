@@ -1,0 +1,366 @@
+{
+  "name": "陳玉珍",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "金門縣金城鎮中一段",
+      "area": 98.49,
+      "share": "全部",
+      "owner": "陳玉珍",
+      "date": "97年05月27日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金城鎮中一段",
+      "area": 18.75,
+      "share": "全部",
+      "owner": "陳玉珍",
+      "date": "97年05月27日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮市港段",
+      "area": 1042.79,
+      "share": "100000 分 之 733",
+      "owner": "陳玉珍",
+      "date": "111年01月03日",
+      "reason": "買賣",
+      "price": "6,400,000(房 地總價額)"
+    },
+    {
+      "location": "金門縣金湖鎮塔后段",
+      "area": 654.2,
+      "share": "全部",
+      "owner": "陳玉珍",
+      "date": "90年06月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮塔后段",
+      "area": 352.57,
+      "share": "全部",
+      "owner": "陳玉珍",
+      "date": "90年06月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "金門縣金湖鎮市港段",
+      "area": 35.19,
+      "share": "全部",
+      "owner": "陳玉珍",
+      "date": "111年01月03日",
+      "reason": "買賣",
+      "price": "6,400,000 (含陽台 4.91 平方公尺,雨 遮0.98平方公 尺，土地建物 共 640 萬)"
+    },
+    {
+      "location": "金門縣金湖鎮市港段",
+      "area": 3419.75,
+      "share": "100000 分 之 1255",
+      "owner": "陳玉珍",
+      "date": "111年01月03日",
+      "reason": "買賣",
+      "price": "6,400,000 (共同使用部 分，土地建物 共 640 萬)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 2540354,
+    "items": [
+      {
+        "institution": "臺灣銀行和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 224293
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 4321
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 461
+      },
+      {
+        "institution": "土地銀行金城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 129
+      },
+      {
+        "institution": "第一銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 12
+      },
+      {
+        "institution": "華南銀行台大分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 152
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 25313
+      },
+      {
+        "institution": "國泰世華銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 2578
+      },
+      {
+        "institution": "兆豐國際商業銀行金門分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 126517
+      },
+      {
+        "institution": "金門縣信用合作社營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 61718
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 5538
+      },
+      {
+        "institution": "永豐銀行金門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 17033
+      },
+      {
+        "institution": "永豐銀行金門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 95
+      },
+      {
+        "institution": "永豐銀行板橋分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 11980
+      },
+      {
+        "institution": "玉山銀行東台南分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳玉珍",
+        "foreignAmount": 17,
+        "amount": 559
+      },
+      {
+        "institution": "玉山銀行東台南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 593367
+      },
+      {
+        "institution": "中信銀行站前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳玉珍",
+        "foreignAmount": 0,
+        "amount": 1466288
+      }
+    ]
+  },
+  "stocks": {
+    "total": 96680,
+    "items": [
+      {
+        "name": "中紡",
+        "owner": "陳玉珍",
+        "shares": 1284,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12840
+      },
+      {
+        "name": "春源",
+        "owner": "陳玉珍",
+        "shares": 222,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2220
+      },
+      {
+        "name": "春源",
+        "owner": "陳玉珍",
+        "shares": 183,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1830
+      },
+      {
+        "name": "所羅門",
+        "owner": "陳玉珍",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "中信金",
+        "owner": "陳玉珍",
+        "shares": 1779,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 17790
+      },
+      {
+        "name": "中信金",
+        "owner": "陳玉珍",
+        "shares": 200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2000
+      },
+      {
+        "name": "嘉彰",
+        "owner": "陳玉珍",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國 華 人 壽 至 尊 保本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "84 年 04 月 27 日/158 年 04 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "宏 泰 人 壽 保 險 股份有限公司",
+        "name": "宏 泰 人 壽 新 樂 活 一 生 失 能 照 護終身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 31 日/173 年 12 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "宏 泰 人 壽 保 險 股份有限公司",
+        "name": "宏 泰 人 壽 新 樂 活 一 生 失 能 照 護終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 31 日/173 年 12 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南 山 人 壽 鑫 利 年 年 外 幣 增 額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 吉 優 利 利 率 變 動 型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "陳玉珍",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 08 月 31 日/173 年 08 月 30 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3694868,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳玉珍",
+        "creditor": "兆豐國際商業銀行金門分行 金門縣金城鎮民生路",
+        "amount": 3694868,
+        "date": "111年01月13日",
+        "reason": "購不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 205000,
+    "items": [
+      {
+        "investor": "陳玉珍",
+        "company": "金門縣信用合作社",
+        "address": "金門縣金城鎮民生路 25 號",
+        "amount": 205000,
+        "date": "91年05月21日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

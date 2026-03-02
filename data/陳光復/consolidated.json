@@ -1,0 +1,452 @@
+{
+  "name": "陳光復",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "澎湖縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 13644295
+    },
+    {
+      "currency": "美元",
+      "amount": 82999
+    },
+    {
+      "currency": "人民幣",
+      "amount": 2
+    },
+    {
+      "currency": "澳幣",
+      "amount": 75210
+    }
+  ],
+  "depositsTotal": 13802507,
+  "insurance": [
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "六六大順變額萬 能壽險",
+      "holder": "陳光復",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "吉利亨通變額萬 能壽險",
+      "holder": "陳光復",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "吉利亨通變額萬 能壽險",
+      "holder": "陳光復",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽新終身 保險",
+      "holder": "陳光復",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "好鑫安保險甲型",
+      "holder": "陳光復",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽美滿致 富增額終身壽險 -10 年期(LI1)",
+      "holder": "陳光復",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "十年繳費金富多 終身保險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "十年繳費新祥安 終身壽險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費美滿美 元增額終身壽險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費美滿美 元增額終身壽險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費祥富增 額終身壽險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽美享樂 退利率變動型美 元還本終身保險 (定額給付型)",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽鑫富雙 享變額年金保險",
+      "holder": "吳淑瑾",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增富年 年增額還本終身 保險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽鴻利年 年 2 增額還本終 身保險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "好事年年終身保 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "保本 111 終身",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "保本 111 終身",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "盈利雙年利變",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新添采終身壽險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿永年年終身保 險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂美年年美元終 身保險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾愛一生 313",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾愛一生 313",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾愛一生 313",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾愛一生 313",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "雙囍年年",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鑫福終身壽險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽新終身 保險",
+      "holder": "吳淑瑾",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中 石化 (未 交付 信託 原 因：年代久遠遺失)",
+      "cleanName": "中 石化 (未 交付 信託 原 因：年代久遠遺失)",
+      "ticker": "1314",
+      "shares": 800,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "佳和 (未交付信託原因：年 代久遠遺失)",
+      "cleanName": "佳和",
+      "ticker": "1449",
+      "shares": 24,
+      "owner": "陳光復",
+      "priceAtDisclosure": 22.6,
+      "latestPrice": 10.85
+    },
+    {
+      "name": "華電 (未交付信託原因：年 代久遠遺失)",
+      "cleanName": "華電",
+      "ticker": "1603",
+      "shares": 1400,
+      "owner": "陳光復",
+      "priceAtDisclosure": 35.15,
+      "latestPrice": 38.7
+    },
+    {
+      "name": "興農 (未交付信託原因：年 代久遠遺失)",
+      "cleanName": "興農",
+      "ticker": "1712",
+      "shares": 22,
+      "owner": "陳光復",
+      "priceAtDisclosure": 42.9,
+      "latestPrice": 45.25
+    },
+    {
+      "name": "興農 (未交付信託原因：年 代久遠遺失)",
+      "cleanName": "興農",
+      "ticker": "1712",
+      "shares": 9,
+      "owner": "陳光復",
+      "priceAtDisclosure": 42.9,
+      "latestPrice": 45.25
+    },
+    {
+      "name": "聚亨 (未交付信託原因：年 代久遠遺失)",
+      "cleanName": "聚亨",
+      "ticker": "2022",
+      "shares": 792,
+      "owner": "陳光復",
+      "priceAtDisclosure": 9.9,
+      "latestPrice": 9.13
+    },
+    {
+      "name": "華 南金 (未 交付 信託 原 因：年代久遠遺失)",
+      "cleanName": "華 南金 (未 交付 信託 原 因：年代久遠遺失)",
+      "ticker": "2880",
+      "shares": 1000,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "華 南金 (未 交付 信託 原 因：年代久遠遺失)",
+      "cleanName": "華 南金 (未 交付 信託 原 因：年代久遠遺失)",
+      "ticker": "2880",
+      "shares": 10,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "國 票金 (未 交付 信託 原 因：年代久遠遺失)",
+      "cleanName": "國 票金 (未 交付 信託 原 因：年代久遠遺失)",
+      "ticker": "2889",
+      "shares": 1456,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "國 票金 (未 交付 信託 原 因：年代久遠遺失)",
+      "cleanName": "國 票金 (未 交付 信託 原 因：年代久遠遺失)",
+      "ticker": "2889",
+      "shares": 35,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "大 眾控 (未 交付 信託 原 因：年代久遠遺失)",
+      "cleanName": "大 眾控 (未 交付 信託 原 因：年代久遠遺失)",
+      "ticker": "3701",
+      "shares": 10,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "臺鳳 (未交付信託原因：年 代久遠遺失)",
+      "cleanName": "臺鳳",
+      "ticker": null,
+      "shares": 159,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "華南金",
+      "cleanName": "華南金",
+      "ticker": "2880",
+      "shares": 1020,
+      "owner": "陳光復",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "國票金控",
+      "cleanName": "國票金控",
+      "ticker": "2889",
+      "shares": 1491,
+      "owner": "陳光復",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "澎湖縣馬公市中衛段",
+      "owner": "吳淑瑾",
+      "date": "2018-12-11",
+      "effectiveAreaPing": 79.42,
+      "entryCount": 1,
+      "price": "含見其他登記 事項 11.36 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "澎湖縣馬公市西文里",
+      "owner": "吳淑瑾",
+      "date": "2018-12-03",
+      "effectiveAreaPing": 72.83,
+      "entryCount": 1,
+      "price": "591,600(超過 五年)"
+    },
+    {
+      "location": "澎湖縣湖西鄉沙港北段",
+      "owner": "陳光復",
+      "date": "2023-03-24",
+      "effectiveAreaPing": 32.75,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "高雄市前鎮區光華段一小段",
+      "owner": "吳淑瑾",
+      "date": "2023-03-24",
+      "effectiveAreaPing": 119.75,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "澎湖縣馬公市馬公段",
+      "owner": "吳淑瑾",
+      "date": "2023-03-24",
+      "effectiveAreaPing": 48.29,
+      "entryCount": 2,
+      "price": null
+    }
+  ]
+}

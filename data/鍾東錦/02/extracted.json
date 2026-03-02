@@ -1,0 +1,128 @@
+{
+  "name": "鍾東錦",
+  "org": "苗栗縣政府",
+  "title": "縣長",
+  "date": "112年02月06日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳美琦"
+    }
+  ],
+  "land": [
+    {
+      "location": "9★苗栗縣卓蘭鎮水廠段(預告 登記)",
+      "area": 63.94,
+      "share": "200 分 之 110",
+      "owner": "鍾東錦",
+      "date": "99年02月23日",
+      "reason": "預告登記",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "8★桃園市八德區豐田段",
+      "area": 132.16,
+      "share": "全部",
+      "owner": "陳美琦",
+      "date": "已出售",
+      "reason": "受託人:合作金庫商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "8★桃園市八德區豐田段",
+      "area": 0,
+      "share": "100000 分 之 332",
+      "owner": "陳美琦",
+      "date": "已出售",
+      "reason": "受託人:合作金庫商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "8★桃園市八德區豐田段",
+      "area": 0,
+      "share": "499 分之 2",
+      "owner": "陳美琦",
+      "date": "已出售",
+      "reason": "受託人:合作金庫商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "8★桃園市八德區豐田段",
+      "area": 0,
+      "share": "100000 分 之 1886",
+      "owner": "陳美琦",
+      "date": "已出售",
+      "reason": "受託人:合作金庫商 業銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 6424710,
+    "items": [
+      {
+        "name": "9★聯電 (未交付信託原 因：已出售)",
+        "owner": "鍾東錦",
+        "shares": 40000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 400000
+      },
+      {
+        "name": "9★一詮 (未交付信託原 因：已出售)",
+        "owner": "鍾東錦",
+        "shares": 233000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2330000
+      },
+      {
+        "name": "9★玉山金 (未交付信託原 因：已出售)",
+        "owner": "鍾東錦",
+        "shares": 256925,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2569250
+      },
+      {
+        "name": "9★晟德 (未交付信託原 因：已出售)",
+        "owner": "鍾東錦",
+        "shares": 112546,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1125460
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

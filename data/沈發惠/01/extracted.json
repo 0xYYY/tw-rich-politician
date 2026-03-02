@@ -1,0 +1,825 @@
+{
+  "name": "沈發惠",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃蓁蓁"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市金山區中角段西勢湖小 段",
+      "area": 11307,
+      "share": "10000 分之 50",
+      "owner": "沈發惠",
+      "date": "96年09月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 1153,
+      "share": "100000 分 之 2921",
+      "owner": "沈發惠",
+      "date": "79年07月07日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區延吉段三小段",
+      "area": 84,
+      "share": "全部",
+      "owner": "沈發惠",
+      "date": "85年12月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區延吉段三小段",
+      "area": 41,
+      "share": "4 分之 1",
+      "owner": "沈發惠",
+      "date": "85年12月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區延吉段三小段",
+      "area": 11,
+      "share": "4 分之 1",
+      "owner": "沈發惠",
+      "date": "85年12月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區新峰段",
+      "area": 4065,
+      "share": "10000 分之 54",
+      "owner": "黃蓁蓁",
+      "date": "89年03月09日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市金山區中角段西勢湖小 段",
+      "area": 513.1,
+      "share": "5894 分之 2",
+      "owner": "沈發惠",
+      "date": "101年09月07日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 867.69,
+      "share": "65 分之 4",
+      "owner": "沈發惠",
+      "date": "80年07月03日",
+      "reason": "交換",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 291.04,
+      "share": "全部",
+      "owner": "沈發惠",
+      "date": "79年12月08日",
+      "reason": "第一次登 記",
+      "price": "含雨遮1.55平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 42.96,
+      "share": "7448200 分 之 2635500",
+      "owner": "沈發惠",
+      "date": "79年12月08日",
+      "reason": "第一次登 記",
+      "price": "含陽台 22.09 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 868.91,
+      "share": "100000 分 之 118",
+      "owner": "沈發惠",
+      "date": "79年12月08日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 868.91,
+      "share": "100000 分 之 477",
+      "owner": "沈發惠",
+      "date": "80年07月03日",
+      "reason": "交換",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 868.91,
+      "share": "100000 分 之 2419",
+      "owner": "沈發惠",
+      "date": "79年12月08日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區延吉段三小段",
+      "area": 117.3,
+      "share": "全部",
+      "owner": "沈發惠",
+      "date": "85年12月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區新峰段",
+      "area": 114.33,
+      "share": "全部",
+      "owner": "黃蓁蓁",
+      "date": "89年03月09日",
+      "reason": "買賣",
+      "price": "含陽台 12.03 平方公尺,花 台1.01平方公 尺(超過五年)"
+    },
+    {
+      "location": "新北市汐止區新峰段",
+      "area": 9344.12,
+      "share": "10000 分之 64",
+      "owner": "黃蓁蓁",
+      "date": "89年03月09日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "中華",
+      "cc": 2378,
+      "owner": "黃蓁蓁",
+      "date": "101年01月20日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "三陽",
+      "cc": 1497,
+      "owner": "黃蓁蓁",
+      "date": "112年07月26日",
+      "reason": "買賣",
+      "price": 1469000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6769651,
+    "items": [
+      {
+        "institution": "土地銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 723
+      },
+      {
+        "institution": "合庫商業銀行台大分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 1500000
+      },
+      {
+        "institution": "合庫商業銀行台大分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 1500000
+      },
+      {
+        "institution": "合庫商業銀行台大分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 1500000
+      },
+      {
+        "institution": "合庫商業銀行台大分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 80822
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 1241
+      },
+      {
+        "institution": "瑞興商業銀行城內分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 4455
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 142
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 657914
+      },
+      {
+        "institution": "永豐銀行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 1559
+      },
+      {
+        "institution": "永豐銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 439
+      },
+      {
+        "institution": "永豐銀行汐止分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 560
+      },
+      {
+        "institution": "永豐銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 11773
+      },
+      {
+        "institution": "台新國際銀行敦北分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 726
+      },
+      {
+        "institution": "台新國際銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "沈發惠",
+        "foreignAmount": 0,
+        "amount": 1134
+      },
+      {
+        "institution": "臺灣銀行武昌分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 86
+      },
+      {
+        "institution": "土地銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 51763
+      },
+      {
+        "institution": "土地銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 828
+      },
+      {
+        "institution": "合庫商業銀行民權分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 34963
+      },
+      {
+        "institution": "合庫商業銀行民權分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 531,
+        "amount": 16988
+      },
+      {
+        "institution": "合庫商業銀行民權分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 2,
+        "amount": 51
+      },
+      {
+        "institution": "合庫商業銀行民權分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 15
+      },
+      {
+        "institution": "合庫商業銀行信義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 2370
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 24346,
+        "amount": 777028
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 116792
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 120547
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 126289,
+        "amount": 26192
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 11644
+      },
+      {
+        "institution": "華南銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 950
+      },
+      {
+        "institution": "華南銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 126
+      },
+      {
+        "institution": "台北富邦銀行民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 3748
+      },
+      {
+        "institution": "台北富邦商業銀行小巨蛋 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 55
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 1898,
+        "amount": 397
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 1,
+        "amount": 32
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 26550
+      },
+      {
+        "institution": "高雄銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 105
+      },
+      {
+        "institution": "兆豐國際商業銀行民生分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 104,
+        "amount": 3344
+      },
+      {
+        "institution": "兆豐國際商業銀行民生分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 953
+      },
+      {
+        "institution": "元大銀行復北分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 213024
+      },
+      {
+        "institution": "星展巨蛋分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 1014,
+        "amount": 32344
+      },
+      {
+        "institution": "星展巨蛋分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 10207
+      },
+      {
+        "institution": "星展巨蛋分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 13177,
+        "amount": 2792
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃蓁蓁",
+        "foreignAmount": 0,
+        "amount": 54164
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/196 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/202 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/202 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/165 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽殘廢照 護終身保險附約",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/196 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽殘廢照 護終身保險附約",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/202 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽殘廢照 護終身保險附約",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/202 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽殘廢照 護終身保險附約",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/165 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 10 年）",
+        "policyNumber": "○○○○○○○ ○○503",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 03 月 11 日/193 年 03 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 15 年）",
+        "policyNumber": "○○○○○○○ ○○504",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 03 月 11 日/193 年 03 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 20 年）",
+        "policyNumber": "○○○○○○○ ○○502",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 03 月 11 日/193 年 03 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（繳費 30 年）",
+        "policyNumber": "○○○○○○○ ○○501",
+        "holder": "沈發惠",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 06 月 04 日/193 年 06 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/165 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽殘廢照 護終身保險附約",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 10 日/165 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 07 月 05 日/181 年 07 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "守護平安終身保 險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 03 月 26 日/166 年 03 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "守護平安終身保 險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 03 月 26 日/166 年 03 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美樂年年美元",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 04 月 11 日/139 年 04 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "第 一 金 人 壽 保 險 股 份 有 限 公 司",
+        "name": "第一金人壽美利 多美元利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 07 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽添壽利 率變動型年金保 險",
+        "policyNumber": "○○○○○○○ ○○505",
+        "holder": "黃蓁蓁",
+        "contractType": "年金型保險",
+        "period": "92 年 05 月 02 日/193 年 02 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽添壽利 率變動型年金保 險",
+        "policyNumber": "○○○○○○○ ○○702",
+        "holder": "黃蓁蓁",
+        "contractType": "年金型保險",
+        "period": "92 年 05 月 02 日/198 年 04 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽添壽利 率變動型年金保 險",
+        "policyNumber": "○○○○○○○ ○○602",
+        "holder": "黃蓁蓁",
+        "contractType": "年金型保險",
+        "period": "92 年 05 月 02 日/198 年 04 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○403",
+        "holder": "黃蓁蓁",
+        "contractType": "投資型壽險",
+        "period": "92 年 08 月 29 日/161 年 08 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽鑫鑽年 年還本終身保險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "黃蓁蓁",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 06 月 13 日/167 年 06 月 12 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 7778511,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "沈發惠",
+        "creditor": "瑞興商業銀行城內分行 台北市重慶南路",
+        "amount": 1778511,
+        "date": "101年10月26日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃蓁蓁",
+        "creditor": "華南商業銀行復興分行 台北市復興北路",
+        "amount": 6000000,
+        "date": "112年06月30日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

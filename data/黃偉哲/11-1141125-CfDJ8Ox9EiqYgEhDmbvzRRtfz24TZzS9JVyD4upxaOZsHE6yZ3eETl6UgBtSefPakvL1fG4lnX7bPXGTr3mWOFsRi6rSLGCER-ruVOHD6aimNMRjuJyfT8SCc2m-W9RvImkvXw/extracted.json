@@ -1,0 +1,77 @@
+{
+  "name": "黃偉哲",
+  "org": "臺南市政府",
+  "title": "市長",
+  "date": "114年08月06日",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "劉育菁"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市善化區善進段",
+      "area": 5720.02,
+      "share": "100000 分 之 233",
+      "owner": "劉育菁",
+      "date": "114年03月06日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市善化區善進段",
+      "area": 58.3,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "114年03月06日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺南市善化區善進段",
+      "area": 0,
+      "share": "100000 分 之 133",
+      "owner": "劉育菁",
+      "date": "114年03月06日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

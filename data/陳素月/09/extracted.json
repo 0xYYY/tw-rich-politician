@@ -1,0 +1,144 @@
+{
+  "name": "陳素月",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 7000,
+        "pricePerShare": "661",
+        "changeDate": "113年03月21日",
+        "changeReason": "賣",
+        "totalValue": 4627000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 1000,
+        "pricePerShare": "513",
+        "changeDate": "113年08月15日",
+        "changeReason": "買",
+        "totalValue": 513000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 1000,
+        "pricePerShare": "513",
+        "changeDate": "113年08月15日",
+        "changeReason": "買",
+        "totalValue": 513000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 1000,
+        "pricePerShare": "513",
+        "changeDate": "113年08月15日",
+        "changeReason": "買",
+        "totalValue": 513000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 1000,
+        "pricePerShare": "511",
+        "changeDate": "113年08月15日",
+        "changeReason": "買",
+        "totalValue": 511000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 2000,
+        "pricePerShare": "563",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 1126000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 2000,
+        "pricePerShare": "563",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 1126000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 2000,
+        "pricePerShare": "564",
+        "changeDate": "113年08月20日",
+        "changeReason": "買",
+        "totalValue": 1128000
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 1000,
+        "pricePerShare": "487.50",
+        "changeDate": "113年10月04日",
+        "changeReason": "買",
+        "totalValue": 487500
+      },
+      {
+        "name": "群聯",
+        "broker": "元大員林",
+        "owner": "陳素月",
+        "shares": 1000,
+        "pricePerShare": "487.50",
+        "changeDate": "113年10月04日",
+        "changeReason": "買",
+        "totalValue": 487500
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,857 @@
+{
+  "name": "黃秀芳",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "彰化縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 9655429
+    },
+    {
+      "currency": "美元",
+      "amount": 840687
+    }
+  ],
+  "depositsTotal": 10496117,
+  "insurance": [
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "郵政簡易人壽常 鴻增額保險（6 年 付費）",
+      "holder": "黃秀芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿美滿利變美元",
+      "holder": "黃秀芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾情終身壽險",
+      "holder": "黃秀芳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "全福 101 終身",
+      "holder": "鄧堯銓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "全福 101 終身",
+      "holder": "鄧堯銓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+      "holder": "鄧堯銓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+      "holder": "鄧堯銓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽美富旺 外幣利率變動型 終身壽險",
+      "holder": "鄧堯銓",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 4545,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 40.05,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "臺企銀",
+      "cleanName": "臺企銀",
+      "ticker": "2834",
+      "shares": 3798,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 15.4,
+      "latestPrice": 16.4
+    },
+    {
+      "name": "建碁",
+      "cleanName": "建碁",
+      "ticker": "3046",
+      "shares": 12,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 54.7,
+      "latestPrice": 49.1
+    },
+    {
+      "name": "建碁",
+      "cleanName": "建碁",
+      "ticker": "3046",
+      "shares": 6,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 54.7,
+      "latestPrice": 49.1
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 795,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 115,
+      "latestPrice": 136
+    },
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 5169,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": null,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "黑松",
+      "cleanName": "黑松",
+      "ticker": "1234",
+      "shares": 1000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 41.55,
+      "latestPrice": 37.3
+    },
+    {
+      "name": "遠東新",
+      "cleanName": "遠東新",
+      "ticker": "1402",
+      "shares": 8630,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 37,
+      "latestPrice": 28.8
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 842,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 58.3,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 132,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 40.05,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "藍天",
+      "cleanName": "藍天",
+      "ticker": "2362",
+      "shares": 619,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "冠德",
+      "cleanName": "冠德",
+      "ticker": "2520",
+      "shares": 2000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 47.1,
+      "latestPrice": 31.35
+    },
+    {
+      "name": "三商壽",
+      "cleanName": "三商壽",
+      "ticker": "2867",
+      "shares": 6736,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 6.98,
+      "latestPrice": 8.26
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 3854,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 90.4,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 7133,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 2331,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 26.85,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 3539,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 38.65,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 876,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 38.65,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "文曄甲特",
+      "cleanName": "文曄甲特",
+      "ticker": "3036",
+      "shares": 1000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 111.5,
+      "latestPrice": 184
+    },
+    {
+      "name": "夆典",
+      "cleanName": "夆典",
+      "ticker": "3052",
+      "shares": 1040,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 11.75,
+      "latestPrice": 11.6
+    },
+    {
+      "name": "夆典",
+      "cleanName": "夆典",
+      "ticker": "3052",
+      "shares": 1020,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 11.75,
+      "latestPrice": 11.6
+    },
+    {
+      "name": "華晶科",
+      "cleanName": "華晶科",
+      "ticker": "3059",
+      "shares": 1000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 33.85,
+      "latestPrice": 39.75
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 194,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 115,
+      "latestPrice": 136
+    },
+    {
+      "name": "富采",
+      "cleanName": "富采",
+      "ticker": "3714",
+      "shares": 275,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 47.05,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "群益證",
+      "cleanName": "群益證",
+      "ticker": "6005",
+      "shares": 11000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 22.1,
+      "latestPrice": 32.1
+    },
+    {
+      "name": "志超",
+      "cleanName": "志超",
+      "ticker": "8213",
+      "shares": 8000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 37.95,
+      "latestPrice": 38.7
+    },
+    {
+      "name": "光隆",
+      "cleanName": "光隆",
+      "ticker": "8916",
+      "shares": 1000,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 56.9,
+      "latestPrice": 47.35
+    },
+    {
+      "name": "中鼎",
+      "cleanName": "中鼎",
+      "ticker": "9933",
+      "shares": 1334,
+      "owner": "黃秀芳",
+      "priceAtDisclosure": 44.1,
+      "latestPrice": 31.3
+    }
+  ],
+  "bonds": [
+    {
+      "name": "富達基金-全球 債券基金(A 股累 計美元)",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 421.66,
+      "unitValue": 13.11,
+      "currency": "美元",
+      "declaredValue": 176577,
+      "source": "fund"
+    },
+    {
+      "name": "安本新興市場債 券基金 A 月配息 美元",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 263.482,
+      "unitValue": 13.4983,
+      "currency": "美元",
+      "declaredValue": 113618,
+      "source": "fund"
+    },
+    {
+      "name": "富達基金-美元 非投資等級債券 基金美元月配息",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 920.24,
+      "unitValue": 10.57,
+      "currency": "美元",
+      "declaredValue": 310737,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球全球 債券-歐元配息",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 422.632,
+      "unitValue": 9.76,
+      "currency": "歐元",
+      "declaredValue": 142762,
+      "source": "fund"
+    },
+    {
+      "name": "聯博全球非投資 等級債券基金 AT",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 2015.491,
+      "unitValue": 3.15,
+      "currency": "美元",
+      "declaredValue": 202819,
+      "source": "fund"
+    },
+    {
+      "name": "聯博全球非投資 等級債券基金 AT",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 817.896,
+      "unitValue": 3.15,
+      "currency": "美元",
+      "declaredValue": 82305,
+      "source": "fund"
+    },
+    {
+      "name": "安本基金-印度 債券基金 A 月中 配息(美元)",
+      "owner": "黃秀芳",
+      "institution": "中租投顧",
+      "units": 1044.958,
+      "unitValue": 7.7789,
+      "currency": "美元",
+      "declaredValue": 260014,
+      "source": "fund"
+    },
+    {
+      "name": "中國信託高評級 策略收益債券基 金-台幣 B",
+      "owner": "黃秀芳",
+      "institution": "中租投顧",
+      "units": 10003.2,
+      "unitValue": 9.874,
+      "currency": "",
+      "declaredValue": 98772,
+      "source": "fund"
+    },
+    {
+      "name": "安聯新興債券收 益組合基金-B 類 型(月配息)-新 臺幣",
+      "owner": "黃秀芳",
+      "institution": "中租投顧",
+      "units": 12235.1,
+      "unitValue": 8.1843,
+      "currency": "",
+      "declaredValue": 100136,
+      "source": "fund"
+    },
+    {
+      "name": "國泰美國優質債 券 基 金 B( 新 台 幣)",
+      "owner": "黃秀芳",
+      "institution": "中租投顧",
+      "units": 10154.55,
+      "unitValue": 9.6243,
+      "currency": "",
+      "declaredValue": 97730,
+      "source": "fund"
+    },
+    {
+      "name": "元大美債 20 年",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 20000,
+      "unitValue": 28.8143,
+      "currency": "",
+      "declaredValue": 576286,
+      "source": "fund"
+    },
+    {
+      "name": "元大投資級公司 債",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 8711,
+      "unitValue": 34.5929,
+      "currency": "",
+      "declaredValue": 301338,
+      "source": "fund"
+    },
+    {
+      "name": "元大 AAA 至 A 公 司債",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 8423,
+      "unitValue": 33.7341,
+      "currency": "",
+      "declaredValue": 284142,
+      "source": "fund"
+    },
+    {
+      "name": "PIMCO 多元收益 債券基金-E 級類 別(收息股份)",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 256.373,
+      "unitValue": 11.94,
+      "currency": "美元",
+      "declaredValue": 97779,
+      "source": "fund"
+    },
+    {
+      "name": "聯博-全球非投 資等級債券基金 AA(穩定月配)級 別美元",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 277.021,
+      "unitValue": 8.02,
+      "currency": "美元",
+      "declaredValue": 70967,
+      "source": "fund"
+    },
+    {
+      "name": "安本基金-印度 債券基金 X 月配 息 美元",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 680.62,
+      "unitValue": 8.0076,
+      "currency": "美元",
+      "declaredValue": 174091,
+      "source": "fund"
+    },
+    {
+      "name": "景順印度債券基 金 A-穩定月配息 股 美元",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 1887.628,
+      "unitValue": 5.9873,
+      "currency": "美元",
+      "declaredValue": 361008,
+      "source": "fund"
+    },
+    {
+      "name": "安本新興市場債 券基金 A 月配息 美元",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 473.455,
+      "unitValue": 13.4983,
+      "currency": "美元",
+      "declaredValue": 204162,
+      "source": "fund"
+    },
+    {
+      "name": "富達基金-美元 非投資等級債券 基金美元月配息",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 134.78,
+      "unitValue": 10.57,
+      "currency": "美元",
+      "declaredValue": 45511,
+      "source": "fund"
+    },
+    {
+      "name": "富達基金-美元 非投資等級債券 基金",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 252.75,
+      "unitValue": 11.29,
+      "currency": "美元",
+      "declaredValue": 91159,
+      "source": "fund"
+    },
+    {
+      "name": "景順永續性環球 非投資等級債券 基金 A 固定月配 息股美元",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 110.19,
+      "unitValue": 10.12,
+      "currency": "美元",
+      "declaredValue": 35624,
+      "source": "fund"
+    },
+    {
+      "name": "景順永續性環球 非投資等級債券 基金 A 固定月配 息股美元",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 83.83,
+      "unitValue": 10.12,
+      "currency": "美元",
+      "declaredValue": 27102,
+      "source": "fund"
+    },
+    {
+      "name": "景順永續性環球 非投資等級債券 基金 A 固定月配 息股美元",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 42.93,
+      "unitValue": 10.12,
+      "currency": "美元",
+      "declaredValue": 13879,
+      "source": "fund"
+    },
+    {
+      "name": "聯博全球非投資 等級債券基金 AT",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 1133.369,
+      "unitValue": 3.15,
+      "currency": "美元",
+      "declaredValue": 114051,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "駿利亨德森資產 管理基金-駿利 亨德森環球科技 創新基金 A2 美 元",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 452.485,
+      "unitValue": 31.91,
+      "currency": "美元",
+      "declaredValue": 461211,
+      "source": "fund"
+    },
+    {
+      "name": "柏瑞環球基金柏瑞印度股票基 金 A",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 80.42,
+      "unitValue": 93.6991,
+      "currency": "美元",
+      "declaredValue": 240696,
+      "source": "fund"
+    },
+    {
+      "name": "摩根基金-拉丁 美 洲 基 金 -JPM 拉丁美洲(美元) -A 股(累計)",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 531.072,
+      "unitValue": 28.23,
+      "currency": "美元",
+      "declaredValue": 478887,
+      "source": "fund"
+    },
+    {
+      "name": "荷寶資本成長基 金-荷寶環球消 費新趨勢股票 M 美元",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 52.8706,
+      "unitValue": 368.38,
+      "currency": "美元",
+      "declaredValue": 622127,
+      "source": "fund"
+    },
+    {
+      "name": "安本基金-印度 股票基金 X 累積 美元",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 547.067,
+      "unitValue": 26.9077,
+      "currency": "美元",
+      "declaredValue": 470204,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德全球智慧 數據股票入息基 金 A6 美元(穩定 配息)",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 423.09,
+      "unitValue": 8.87,
+      "currency": "美元",
+      "declaredValue": 119874,
+      "source": "fund"
+    },
+    {
+      "name": "【好享退-國泰 2039】國泰泰享 退系列 2039 目標 日期組合基金 P",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 18326.2,
+      "unitValue": 17.5304,
+      "currency": "",
+      "declaredValue": 321266,
+      "source": "fund"
+    },
+    {
+      "name": "晉達環球入息導 向基金 C 收益 2 股份美月配息",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 182.414,
+      "unitValue": 15.37,
+      "currency": "美元",
+      "declaredValue": 89567,
+      "source": "fund"
+    },
+    {
+      "name": "富達新興市場基 金",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 7.55,
+      "unitValue": 30.01,
+      "currency": "美元",
+      "declaredValue": 7238,
+      "source": "fund"
+    },
+    {
+      "name": "霸菱東歐基金 美元",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 1.062,
+      "unitValue": 41.5,
+      "currency": "美元",
+      "declaredValue": 1408,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球美國 政府基金美月配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 2065.079,
+      "unitValue": 7.09,
+      "currency": "美元",
+      "declaredValue": 467734,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固定美季配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 1027.016,
+      "unitValue": 6.81,
+      "currency": "美元",
+      "declaredValue": 223430,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固定美季配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 336.744,
+      "unitValue": 6.81,
+      "currency": "美元",
+      "declaredValue": 73259,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固定美季配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 彰 化 分行",
+      "units": 253.726,
+      "unitValue": 6.81,
+      "currency": "美元",
+      "declaredValue": 55199,
+      "source": "fund"
+    },
+    {
+      "name": "富達基金-日本 價值基金(A 股日 圓)",
+      "owner": "黃秀芳",
+      "institution": "中租投顧",
+      "units": 6.78,
+      "unitValue": 66847,
+      "currency": "日圓",
+      "declaredValue": 95811,
+      "source": "fund"
+    },
+    {
+      "name": "百達-俄羅斯股 票-R 歐元 [暫停 交易]",
+      "owner": "黃秀芳",
+      "institution": "中租投顧",
+      "units": 1.88,
+      "unitValue": 47.27,
+      "currency": "歐元",
+      "declaredValue": 3099,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "黃秀芳",
+      "institution": "元 富 證 券 大 裕 分公司",
+      "units": 269,
+      "unitValue": 22.73,
+      "currency": "",
+      "declaredValue": 6114,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 93,
+      "unitValue": 190.5,
+      "currency": "",
+      "declaredValue": 17716,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 15117,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 563561,
+      "source": "fund"
+    },
+    {
+      "name": "國泰智能電動車",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 7901,
+      "unitValue": 22.85,
+      "currency": "",
+      "declaredValue": 180537,
+      "source": "fund"
+    },
+    {
+      "name": "國泰全球品牌 50",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 2035,
+      "unitValue": 23.05,
+      "currency": "",
+      "declaredValue": 46906,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣價值高 息",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 10000,
+      "unitValue": 9.54,
+      "currency": "",
+      "declaredValue": 95400,
+      "source": "fund"
+    },
+    {
+      "name": "土銀富邦 R1",
+      "owner": "黃秀芳",
+      "institution": "國 泰 證 券 台 中 分公司",
+      "units": 4000,
+      "unitValue": 13.73,
+      "currency": "",
+      "declaredValue": 54920,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 全球投資系列 新興國家固定收 益 基 金 美 元 A (Mdis)股",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 473.658,
+      "unitValue": 3.98,
+      "currency": "美元",
+      "declaredValue": 60217,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德全球智慧 數據股票入息基 金 A6 美元(穩定 配息)",
+      "owner": "黃秀芳",
+      "institution": "基富通證券",
+      "units": 910.13,
+      "unitValue": 8.87,
+      "currency": "美元",
+      "declaredValue": 257867,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固定美季配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 562.469,
+      "unitValue": 6.81,
+      "currency": "美元",
+      "declaredValue": 122366,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固收美月配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 479.307,
+      "unitValue": 3.98,
+      "currency": "美元",
+      "declaredValue": 60942,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固收美月配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 436.85,
+      "unitValue": 3.98,
+      "currency": "美元",
+      "declaredValue": 55543,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓全球新興 國家固收美月配",
+      "owner": "黃秀芳",
+      "institution": "彰 化 銀 行 南 台 中分行",
+      "units": 207.813,
+      "unitValue": 3.98,
+      "currency": "美元",
+      "declaredValue": 26422,
+      "source": "fund"
+    }
+  ],
+  "buildings": []
+}

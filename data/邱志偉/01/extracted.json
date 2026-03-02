@@ -1,0 +1,418 @@
+{
+  "name": "邱志偉",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月05日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "安田陽子"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市前鎮區愛群段",
+      "area": 2023,
+      "share": "10000 分之 71",
+      "owner": "邱志偉",
+      "date": "103年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市橋頭區後壁田段",
+      "area": 12905.48,
+      "share": "100000 分 之 129",
+      "owner": "安田陽子",
+      "date": "108年03月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市中和區華中段",
+      "area": 3161.31,
+      "share": "100000 分 之 1170",
+      "owner": "安田陽子",
+      "date": "109年08月28日",
+      "reason": "買賣",
+      "price": "15,705,600"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市前鎮區愛群段",
+      "area": 132.58,
+      "share": "全部",
+      "owner": "邱志偉",
+      "date": "103年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市前鎮區愛群段",
+      "area": 10388.03,
+      "share": "100000 分 之 688",
+      "owner": "邱志偉",
+      "date": "103年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市前鎮區愛群段",
+      "area": 3332.48,
+      "share": "100000 分 之 899",
+      "owner": "邱志偉",
+      "date": "103年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市橋頭區後壁田段",
+      "area": 66.71,
+      "share": "全部",
+      "owner": "安田陽子",
+      "date": "108年03月15日",
+      "reason": "買賣",
+      "price": "一併合購 (超過五年)"
+    },
+    {
+      "location": "高雄市橋頭區後壁田段",
+      "area": 54544.52,
+      "share": "100000 分 之 144",
+      "owner": "安田陽子",
+      "date": "108年03月15日",
+      "reason": "買賣",
+      "price": ""
+    },
+    {
+      "location": "新北市中和區華中段",
+      "area": 94.55,
+      "share": "全部",
+      "owner": "安田陽子",
+      "date": "109年08月28日",
+      "reason": "買賣",
+      "price": "17,014,400 (一併購買總 額)"
+    },
+    {
+      "location": "新北市中和區華中段",
+      "area": 4833.58,
+      "share": "100000 分 之 1170",
+      "owner": "安田陽子",
+      "date": "109年08月28日",
+      "reason": "買賣",
+      "price": ""
+    },
+    {
+      "location": "新北市中和區華中段",
+      "area": 3966.62,
+      "share": "110 分之 1",
+      "owner": "安田陽子",
+      "date": "109年08月28日",
+      "reason": "買賣",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8596702,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 224800
+      },
+      {
+        "institution": "麟洛郵局(屏東 8 支)",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 99
+      },
+      {
+        "institution": "台新國際商業銀行江翠分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 210283
+      },
+      {
+        "institution": "合作金庫商業銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 87
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 315
+      },
+      {
+        "institution": "華南商業銀行前鎮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 4009
+      },
+      {
+        "institution": "華南商業銀行淡水分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 43120
+      },
+      {
+        "institution": "臺灣中小企業銀行前鎮分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 164
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱志偉",
+        "foreignAmount": 0,
+        "amount": 4917497
+      },
+      {
+        "institution": "台北建北郵局(台北 27 支)",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 5424
+      },
+      {
+        "institution": "臺灣銀行成功分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 1846714
+      },
+      {
+        "institution": "臺灣土地銀行高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 75723
+      },
+      {
+        "institution": "合作金庫商業銀行五股分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 151179
+      },
+      {
+        "institution": "彰化商業銀行前鎮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 5743
+      },
+      {
+        "institution": "台北富邦商業銀行港都分 行",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "安田陽子",
+        "foreignAmount": 1912,
+        "amount": 61126
+      },
+      {
+        "institution": "台北富邦商業銀行港都分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 500121
+      },
+      {
+        "institution": "中國信託商業銀行南高雄 分行",
+        "type": "外幣存款",
+        "currency": "人民幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "中國信託商業銀行南高雄 分行",
+        "type": "外幣存款",
+        "currency": "日圓",
+        "owner": "安田陽子",
+        "foreignAmount": 1500043,
+        "amount": 321159
+      },
+      {
+        "institution": "中國信託商業銀行南高雄 分行",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "安田陽子",
+        "foreignAmount": 61,
+        "amount": 1991
+      },
+      {
+        "institution": "中國信託商業銀行南高雄 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "安田陽子",
+        "foreignAmount": 0,
+        "amount": 227146
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽",
+        "name": "312 還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "邱志偉",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 08 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽好鑽年 年還本終身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "邱志偉",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美年紅 旺外幣分紅終身 保險",
+        "policyNumber": "○○○○○○○ ○○1-00",
+        "holder": "邱志偉",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 06 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美利大 順外幣利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "邱志偉",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "增多利增額終身 壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "安田陽子",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 22 日/172 年 01 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "美年紅旺外幣分 紅終身保險",
+        "policyNumber": "○○○○○○○ ○○1-00",
+        "holder": "安田陽子",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 10 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "美利大順外幣利 率變動型終身壽 險",
+        "policyNumber": "○○○○○○○ ○○2-00",
+        "holder": "安田陽子",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 09 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "鑫鑽年年還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○0-00",
+        "holder": "安田陽子",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 09 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "寶利旺利率變動 型增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "安田陽子",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 11 月 29 日/172 年 11 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "寶利旺利率變動 型增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "安田陽子",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 11 月 23 日/172 年 11 月 23 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 19803697,
+    "items": [
+      {
+        "type": "房屋貸款",
+        "debtor": "邱志偉",
+        "creditor": "台新國際商業銀行江翠分行 新北市板橋區文化路",
+        "amount": 15776949,
+        "date": "109年08月31日",
+        "reason": "購置房屋"
+      },
+      {
+        "type": "房屋貸款",
+        "debtor": "安田陽子",
+        "creditor": "台灣土地銀行高雄分行 高雄市鹽埕區大勇路",
+        "amount": 4026748,
+        "date": "108年03月18日",
+        "reason": "購置房屋"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

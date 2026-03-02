@@ -1,0 +1,160 @@
+{
+  "name": "王世堅",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林秀芬"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市淡水區海鷗段",
+      "area": 4554.67,
+      "share": "10000 分之 14",
+      "owner": "王世堅",
+      "date": "88年12月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市淡水區海鷗段",
+      "area": 4554.67,
+      "share": "10000 分之 1",
+      "owner": "林秀芬",
+      "date": "90年01月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 20560,
+    "items": [
+      {
+        "name": "華南金",
+        "owner": "王世堅",
+        "shares": 1800,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 18000
+      },
+      {
+        "name": "華南金",
+        "owner": "王世堅",
+        "shares": 140,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1400
+      },
+      {
+        "name": "台新金",
+        "owner": "王世堅",
+        "shares": 116,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1160
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "新真安心住院醫 療終身",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "林秀芬",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 15 日/153 年 12 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "新真安順手術醫 療終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林秀芬",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 15 日/153 年 12 月 14 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3085059,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王世堅",
+        "creditor": "華南商業銀行懷生分行 台北市忠孝東路",
+        "amount": 1219705,
+        "date": "93年04月27日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "王世堅",
+        "creditor": "彰化商業銀行東台北分行 臺北市松山區南京東路",
+        "amount": 138131,
+        "date": "89年11月20日",
+        "reason": "購 置 / 修 繕 不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "王世堅",
+        "creditor": "彰化商業銀行東台北分行 臺北市松山區南京東路",
+        "amount": 96229,
+        "date": "88年12月22日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "王世堅",
+        "creditor": "彰化商業銀行東台北分行 臺北市松山區南京東路",
+        "amount": 48268,
+        "date": "90年03月19日",
+        "reason": "購 置 / 修 繕 不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "王世堅",
+        "creditor": "彰化商業銀行東台北分行 臺北市松山區南京東路",
+        "amount": 28682,
+        "date": "90年03月19日",
+        "reason": "購 置 / 修 繕 不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "林秀芬",
+        "creditor": "彰化商業銀行大安分行 臺北市大安區和平東路",
+        "amount": 1554043,
+        "date": "85年08月09日",
+        "reason": "購 置 / 修 繕 不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

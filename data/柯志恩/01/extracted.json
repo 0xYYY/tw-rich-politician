@@ -1,0 +1,961 @@
+{
+  "name": "柯志恩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年04月30日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "洪德成"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣崁頂鄉港東段",
+      "area": 319.47,
+      "share": "8 分之 1",
+      "owner": "柯志恩",
+      "date": "110年08月31日",
+      "reason": "判決共有 物分割",
+      "price": "115,807"
+    },
+    {
+      "location": "屏東縣崁頂鄉港東段",
+      "area": 43.35,
+      "share": "8 分之 1",
+      "owner": "柯志恩",
+      "date": "110年08月31日",
+      "reason": "判決共有 物分割",
+      "price": "15,714"
+    },
+    {
+      "location": "屏東縣崁頂鄉港東段",
+      "area": 116.89,
+      "share": "全部",
+      "owner": "柯志恩",
+      "date": "110年08月31日",
+      "reason": "判決共有 物分割",
+      "price": "338,981"
+    },
+    {
+      "location": "高雄市鼓山區青海段",
+      "area": 3808.17,
+      "share": "100000 分 之 500",
+      "owner": "柯志恩",
+      "date": "112年12月27日",
+      "reason": "買賣",
+      "price": "34,500,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鼓山區青海段",
+      "area": 197.9,
+      "share": "全部",
+      "owner": "柯志恩",
+      "date": "112年12月27日",
+      "reason": "買賣",
+      "price": "34,500,000(房 地總價額)"
+    },
+    {
+      "location": "高雄市鼓山區青海段 (共同使用部分)",
+      "area": 26708.04,
+      "share": "100000 分 之 503",
+      "owner": "柯志恩",
+      "date": "112年12月27日",
+      "reason": "買賣",
+      "price": ""
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1987,
+      "owner": "柯志恩",
+      "date": "109年03月06日",
+      "reason": "買賣",
+      "price": 1680000
+    },
+    {
+      "brand": "VOLVO",
+      "cc": 1969,
+      "owner": "柯志恩",
+      "date": "112年01月07日",
+      "reason": "買賣",
+      "price": 1780000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 15089753,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 6473051
+      },
+      {
+        "institution": "第一銀行和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 531949
+      },
+      {
+        "institution": "第一銀行和平分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "柯志恩",
+        "foreignAmount": 2803,
+        "amount": 88463
+      },
+      {
+        "institution": "華南銀行和平分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 1443630
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 5022
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 65133
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 4352601
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "柯志恩",
+        "foreignAmount": 0,
+        "amount": 6127
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "洪德成",
+        "foreignAmount": 0,
+        "amount": 16870
+      },
+      {
+        "institution": "Citi Bank",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "洪德成",
+        "foreignAmount": 25965,
+        "amount": 819465
+      },
+      {
+        "institution": "KEYPOINT Credit Union",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "洪德成",
+        "foreignAmount": 30000,
+        "amount": 946800
+      },
+      {
+        "institution": "KEYPOINT Credit Union",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "洪德成",
+        "foreignAmount": 10793,
+        "amount": 340641
+      }
+    ]
+  },
+  "stocks": {
+    "total": 937570,
+    "items": [
+      {
+        "name": "台聚",
+        "owner": "柯志恩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "宜進",
+        "owner": "柯志恩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "利奇",
+        "owner": "柯志恩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "台玻",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "上銀",
+        "owner": "柯志恩",
+        "shares": 1030,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10300
+      },
+      {
+        "name": "國際中橡",
+        "owner": "柯志恩",
+        "shares": 2486,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 24860
+      },
+      {
+        "name": "聯電",
+        "owner": "柯志恩",
+        "shares": 2219,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22190
+      },
+      {
+        "name": "台達電",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "華通",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "國巨",
+        "owner": "柯志恩",
+        "shares": 159,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1590
+      },
+      {
+        "name": "光罩",
+        "owner": "柯志恩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "華邦電",
+        "owner": "柯志恩",
+        "shares": 2723,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 27230
+      },
+      {
+        "name": "凱美",
+        "owner": "柯志恩",
+        "shares": 1600,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 16000
+      },
+      {
+        "name": "微星",
+        "owner": "柯志恩",
+        "shares": 220,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2200
+      },
+      {
+        "name": "微星",
+        "owner": "柯志恩",
+        "shares": 66,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 660
+      },
+      {
+        "name": "微星",
+        "owner": "柯志恩",
+        "shares": 52,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 520
+      },
+      {
+        "name": "義隆",
+        "owner": "柯志恩",
+        "shares": 1400,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14000
+      },
+      {
+        "name": "鉅祥",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "太設",
+        "owner": "柯志恩",
+        "shares": 121,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1210
+      },
+      {
+        "name": "太設",
+        "owner": "柯志恩",
+        "shares": 3,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30
+      },
+      {
+        "name": "長榮",
+        "owner": "柯志恩",
+        "shares": 1139,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11390
+      },
+      {
+        "name": "華航",
+        "owner": "柯志恩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "東森",
+        "owner": "柯志恩",
+        "shares": 2838,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 28380
+      },
+      {
+        "name": "長榮航",
+        "owner": "柯志恩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "正德",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "富邦金丙特",
+        "owner": "柯志恩",
+        "shares": 46,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 460
+      },
+      {
+        "name": "富邦金",
+        "owner": "柯志恩",
+        "shares": 2508,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 25080
+      },
+      {
+        "name": "國泰金",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "開發金",
+        "owner": "柯志恩",
+        "shares": 240,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2400
+      },
+      {
+        "name": "開發金",
+        "owner": "柯志恩",
+        "shares": 17,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 170
+      },
+      {
+        "name": "新光金",
+        "owner": "柯志恩",
+        "shares": 200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2000
+      },
+      {
+        "name": "新光金",
+        "owner": "柯志恩",
+        "shares": 58,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 580
+      },
+      {
+        "name": "穩懋",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "耀登",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "原相",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "京鼎",
+        "owner": "柯志恩",
+        "shares": 50,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 500
+      },
+      {
+        "name": "群創",
+        "owner": "柯志恩",
+        "shares": 2579,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 25790
+      },
+      {
+        "name": "晶相光",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "湧德",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "富采",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "致伸",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "世界",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "台半",
+        "owner": "柯志恩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "瀚宇博",
+        "owner": "柯志恩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "中美晶",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "頎邦",
+        "owner": "柯志恩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "嘉聯益",
+        "owner": "柯志恩",
+        "shares": 1050,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10500
+      },
+      {
+        "name": "鈦昇",
+        "owner": "柯志恩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "宏捷科",
+        "owner": "柯志恩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "越峰",
+        "owner": "柯志恩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "金益鼎",
+        "owner": "柯志恩",
+        "shares": 2400,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 24000
+      },
+      {
+        "name": "富堡",
+        "owner": "柯志恩",
+        "shares": 3553,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 35530
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "永豐永豐 A",
+        "owner": "柯志恩",
+        "institution": "永 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 8121.84,
+        "unitValue": 56.05,
+        "foreignCurrency": "",
+        "totalValue": 455229
+      },
+      {
+        "name": "新興非投雙債組 累",
+        "owner": "柯志恩",
+        "institution": "永 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 268.01,
+        "unitValue": 10.742,
+        "foreignCurrency": "",
+        "totalValue": 2878
+      },
+      {
+        "name": "滬深 300",
+        "owner": "柯志恩",
+        "institution": "永 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 4854.61,
+        "unitValue": 19.27,
+        "foreignCurrency": "",
+        "totalValue": 93548
+      },
+      {
+        "name": "中國品牌-台幣",
+        "owner": "柯志恩",
+        "institution": "保 德 信 證 券 投 資 信 託 股 份 有 限公司",
+        "units": 42060.5,
+        "unitValue": 9.75,
+        "foreignCurrency": "",
+        "totalValue": 410089
+      },
+      {
+        "name": "中國中小-台幣",
+        "owner": "柯志恩",
+        "institution": "保 德 信 證 券 投 資 信 託 股 份 有 限公司",
+        "units": 32689.7,
+        "unitValue": 7.69,
+        "foreignCurrency": "",
+        "totalValue": 251383
+      },
+      {
+        "name": "JPM 美國科技基 金 A 股-美元-累 計",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 86.856,
+        "unitValue": 98.87,
+        "foreignCurrency": "美元",
+        "totalValue": 271020
+      },
+      {
+        "name": "JPM 美國科技基 金 A 股-美元-累 計",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 52.005,
+        "unitValue": 98.87,
+        "foreignCurrency": "美元",
+        "totalValue": 162273
+      },
+      {
+        "name": "法巴能源轉型股 票基金 C (美元)",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 56.326,
+        "unitValue": 55,
+        "foreignCurrency": "美元",
+        "totalValue": 97770
+      },
+      {
+        "name": "法巴能源轉型股 票基金 C (美元)",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 2.639,
+        "unitValue": 55,
+        "foreignCurrency": "美元",
+        "totalValue": 4580
+      },
+      {
+        "name": "法巴能源轉型股",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 1.682,
+        "unitValue": 55,
+        "foreignCurrency": "美元",
+        "totalValue": 2919
+      },
+      {
+        "name": "票基金 C (美元)",
+        "owner": "",
+        "institution": "",
+        "units": 0,
+        "unitValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "摩根士丹利美國 增長基金 A-美元 -除息",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 42.226,
+        "unitValue": 157.64,
+        "foreignCurrency": "美元",
+        "totalValue": 210079
+      },
+      {
+        "name": "摩根士丹利美國 增長基金 A-美元 -除息",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 37.51,
+        "unitValue": 157.64,
+        "foreignCurrency": "美元",
+        "totalValue": 186616
+      },
+      {
+        "name": "國泰亞洲非投資 債臺配息",
+        "owner": "柯志恩",
+        "institution": "國泰世華銀行",
+        "units": 100000,
+        "unitValue": 4.6873,
+        "foreignCurrency": "",
+        "totalValue": 468730
+      },
+      {
+        "name": "元大高股息",
+        "owner": "柯志恩",
+        "institution": "華 南 永 昌 證 券 古亭分公司",
+        "units": 10000,
+        "unitValue": 39.2,
+        "foreignCurrency": "",
+        "totalValue": 392000
+      },
+      {
+        "name": "元大 S&P500",
+        "owner": "柯志恩",
+        "institution": "華 南 永 昌 證 券 古亭分公司",
+        "units": 10000,
+        "unitValue": 50.34,
+        "foreignCurrency": "",
+        "totalValue": 503400
+      },
+      {
+        "name": "統一 FANG+",
+        "owner": "柯志恩",
+        "institution": "華 南 永 昌 證 券 古亭分公司",
+        "units": 5000,
+        "unitValue": 73.72,
+        "foreignCurrency": "",
+        "totalValue": 368600
+      },
+      {
+        "name": "群益店頭市場",
+        "owner": "柯志恩",
+        "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 80,
+        "unitValue": 170.13,
+        "foreignCurrency": "",
+        "totalValue": 13610
+      },
+      {
+        "name": "多利策略",
+        "owner": "柯志恩",
+        "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 258.8,
+        "unitValue": 10.44,
+        "foreignCurrency": "",
+        "totalValue": 2701
+      },
+      {
+        "name": "印度中小台幣",
+        "owner": "柯志恩",
+        "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 19558.2,
+        "unitValue": 30.15,
+        "foreignCurrency": "",
+        "totalValue": 589679
+      },
+      {
+        "name": "大中華台幣",
+        "owner": "柯志恩",
+        "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 25571.5,
+        "unitValue": 12.02,
+        "foreignCurrency": "",
+        "totalValue": 307369
+      },
+      {
+        "name": "新機會台幣",
+        "owner": "柯志恩",
+        "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 36165.9,
+        "unitValue": 6.32,
+        "foreignCurrency": "",
+        "totalValue": 228568
+      },
+      {
+        "name": "中國金采 A 台",
+        "owner": "柯志恩",
+        "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 28841.2,
+        "unitValue": 9.8977,
+        "foreignCurrency": "",
+        "totalValue": 285461
+      },
+      {
+        "name": "野村優質基金",
+        "owner": "柯志恩",
+        "institution": "臺 灣 銀 行 群 賢 分行",
+        "units": 4489.1,
+        "unitValue": 143.81,
+        "foreignCurrency": "",
+        "totalValue": 645577
+      },
+      {
+        "name": "摩根新興 35 台累",
+        "owner": "柯志恩",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 254,
+        "unitValue": 14.57,
+        "foreignCurrency": "",
+        "totalValue": 3700
+      },
+      {
+        "name": "摩根中國 A 股台 累",
+        "owner": "柯志恩",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 16598.1,
+        "unitValue": 14.64,
+        "foreignCurrency": "",
+        "totalValue": 242996
+      },
+      {
+        "name": "Fidelity 500 Index Fund",
+        "owner": "洪德成",
+        "institution": "Fidelity",
+        "units": 1,
+        "unitValue": 217016.43,
+        "foreignCurrency": "美元",
+        "totalValue": 6849038
+      },
+      {
+        "name": "Fidelity MMKT Premium Class",
+        "owner": "洪德成",
+        "institution": "Fidelity",
+        "units": 1,
+        "unitValue": 51825.22,
+        "foreignCurrency": "美元",
+        "totalValue": 1635603
+      },
+      {
+        "name": "SQQQ",
+        "owner": "洪德成",
+        "institution": "Fidelity",
+        "units": 1,
+        "unitValue": 32840.12,
+        "foreignCurrency": "美元",
+        "totalValue": 1036434
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽卓越變 額萬能壽險",
+        "policyNumber": "",
+        "holder": "柯志恩",
+        "contractType": "投資型壽險",
+        "period": "92 年 11 月 20 日/145 年 11 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽新卓越 變額萬能壽險",
+        "policyNumber": "",
+        "holder": "柯志恩",
+        "contractType": "投資型壽險",
+        "period": "98 年 12 月 04 日/185 年 12 月 03 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽新卓越 變額萬能壽險",
+        "policyNumber": "",
+        "holder": "柯志恩",
+        "contractType": "投資型壽險",
+        "period": "98 年 12 月 04 日/181 年 12 月 03 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽新卓越 變額萬能壽險",
+        "policyNumber": "",
+        "holder": "柯志恩",
+        "contractType": "投資型壽險",
+        "period": "99 年 08 月 19 日/151 年 08 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 美元增額終身壽 險",
+        "policyNumber": "",
+        "holder": "柯志恩",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 10 月 24 日/161 年 10 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+        "policyNumber": "",
+        "holder": "柯志恩",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 10 月 24 日/161 年 10 月 23 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 17180608,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "柯志恩",
+        "creditor": "臺灣銀行敦化分行 台北市松山區敦化北路",
+        "amount": 17180608,
+        "date": "113年01月02日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

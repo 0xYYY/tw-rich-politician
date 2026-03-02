@@ -1,0 +1,168 @@
+{
+  "name": "王美惠",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "嘉義市盧厝段",
+      "area": 3430,
+      "share": "10000 分之 63",
+      "owner": "王美惠",
+      "date": "87年07月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "嘉義市盧厝段",
+      "area": 3272.68,
+      "share": "10000 分之 62",
+      "owner": "王美惠",
+      "date": "87年07月06日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "嘉義市盧厝段",
+      "area": 241.5,
+      "share": "10000 分之 563",
+      "owner": "王美惠",
+      "date": "87年07月06日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "嘉義市盧厝段",
+      "area": 107.59,
+      "share": "全部",
+      "owner": "王美惠",
+      "date": "87年07月06日",
+      "reason": "買賣",
+      "price": "含陽台 16.41 平方公尺,花 台0.65平方公 尺(超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 3370633,
+    "items": [
+      {
+        "institution": "臺灣銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王美惠",
+        "foreignAmount": 0,
+        "amount": 2767354
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王美惠",
+        "foreignAmount": 0,
+        "amount": 575535
+      },
+      {
+        "institution": "第一銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王美惠",
+        "foreignAmount": 0,
+        "amount": 34
+      },
+      {
+        "institution": "第一銀行興嘉分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王美惠",
+        "foreignAmount": 0,
+        "amount": 11230
+      },
+      {
+        "institution": "國泰世華銀行嘉義分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "王美惠",
+        "foreignAmount": 0,
+        "amount": 16480
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山人壽意帆風 順保本終身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王美惠",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 12 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "王美惠",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 05 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "微馨愛小額終身 壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "王美惠",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 16 日/159 年 01 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "新呵護久久失能 照護",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "王美惠",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 01 月 04 日/153 年 01 月 03 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 20452,
+    "items": [
+      {
+        "type": "保單質借",
+        "debtor": "王美惠",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 20452,
+        "date": "113年02月25日",
+        "reason": "南山人壽意 帆風順保本 終身保險保 單質借"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

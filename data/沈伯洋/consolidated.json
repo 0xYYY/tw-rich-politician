@@ -1,0 +1,80 @@
+{
+  "name": "沈伯洋",
+  "date": "2024-04-26",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 22113
+    },
+    {
+      "currency": "日圓",
+      "amount": 139559
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 2577644
+    }
+  ],
+  "depositsTotal": 2739317,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山人壽活力洋 溢 2 重大疾病終 身保險",
+      "holder": "曾心慧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山人壽新康順 終身保險",
+      "holder": "曾心慧",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大高股息",
+      "owner": "沈伯洋",
+      "institution": "國 泰 綜 合 證 券 股份有限公司",
+      "units": 5000,
+      "unitValue": 37.69,
+      "currency": "",
+      "declaredValue": 188450,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣價值高 息",
+      "owner": "沈伯洋",
+      "institution": "國 泰 綜 合 證 券 股份有限公司",
+      "units": 10000,
+      "unitValue": 9.49,
+      "currency": "",
+      "declaredValue": 94900,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50",
+      "owner": "沈伯洋",
+      "institution": "國 泰 證 券 忠 孝 分公司",
+      "units": 4000,
+      "unitValue": 152.96,
+      "currency": "",
+      "declaredValue": 611840,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "(日本)田端新町一丁目○○○ 番",
+      "owner": "曾心慧",
+      "date": "2021-09-03",
+      "effectiveAreaPing": 4.51,
+      "entryCount": 1,
+      "price": "2,639,460(房 地總價額)"
+    }
+  ]
+}

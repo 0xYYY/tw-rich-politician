@@ -1,0 +1,258 @@
+{
+  "name": "蔡易餘",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "嘉義縣布袋鎮嘉塭段",
+      "area": 3868.79,
+      "share": "全部",
+      "owner": "蔡易餘",
+      "date": "95年09月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1265878,
+    "items": [
+      {
+        "institution": "臺灣銀行館前分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘 (嘉義市私立 杜克美語短期 補 習 班 籌 備 處)",
+        "foreignAmount": 0,
+        "amount": 1230
+      },
+      {
+        "institution": "合庫商業銀行朴子分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 926788
+      },
+      {
+        "institution": "合庫商業銀行東嘉義分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 2249
+      },
+      {
+        "institution": "合庫商業銀行大直分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 900
+      },
+      {
+        "institution": "第一銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 804
+      },
+      {
+        "institution": "第一銀行朴子分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 120066
+      },
+      {
+        "institution": "第一銀行朴子分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "第一銀行北港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 1794
+      },
+      {
+        "institution": "華南銀行朴子分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 71259
+      },
+      {
+        "institution": "彰化銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "彰化銀行北嘉義分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "蔡易餘",
+        "foreignAmount": 998,
+        "amount": 31926
+      },
+      {
+        "institution": "彰化銀行北嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 773
+      },
+      {
+        "institution": "高雄銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "台中銀行竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 16
+      },
+      {
+        "institution": "臺灣新光銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 1139
+      },
+      {
+        "institution": "嘉義縣鹿草鄉農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 101111
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 27
+      },
+      {
+        "institution": "聯邦銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 939
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡易餘",
+        "foreignAmount": 0,
+        "amount": 2844
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1640,
+    "items": [
+      {
+        "name": "聯合再生",
+        "owner": "蔡易餘",
+        "shares": 164,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1640
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "合作金庫人壽保 險股份有限公司",
+        "name": "合作金庫人壽超 幸福貸定期壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "蔡易餘",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 07 月 12 日/115 年 07 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山新康樂終身 壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "蔡易餘",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 04 月 30 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "書法大師陳主明墨寶",
+        "quantity": "1",
+        "owner": "蔡易餘",
+        "value": 200000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 2875584,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "蔡易餘",
+        "creditor": "凱基商業銀行股份有限公司 臺北市松山區敦化北路",
+        "amount": 2875584,
+        "date": "112年06月27日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

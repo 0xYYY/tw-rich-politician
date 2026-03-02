@@ -1,0 +1,125 @@
+{
+  "name": "饒慶鈴",
+  "org": "臺東縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張王浩"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市中正區南海段一小段",
+      "area": 1092,
+      "share": "10000 分之 6",
+      "owner": "饒慶鈴",
+      "date": "108年04月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市中正區南海段一小段",
+      "area": 1092,
+      "share": "10000 分 之 443",
+      "owner": "饒慶鈴",
+      "date": "108年04月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 126,
+      "share": "全部",
+      "owner": "饒慶鈴",
+      "date": "108年04月18日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中正區南海段一小段",
+      "area": 7.25,
+      "share": "88 分之 2",
+      "owner": "饒慶鈴",
+      "date": "108年04月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市中正區南海段一小段",
+      "area": 163.77,
+      "share": "全部",
+      "owner": "饒慶鈴",
+      "date": "108年04月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 363.19,
+      "share": "全部",
+      "owner": "饒慶鈴",
+      "date": "108年04月18日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "華票",
+        "owner": "饒慶鈴",
+        "shares": 42638,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年10月04日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 426380
+      },
+      {
+        "name": "傳奇",
+        "owner": "饒慶鈴",
+        "shares": 52042,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年04月11日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 520420
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

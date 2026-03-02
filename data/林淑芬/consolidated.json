@@ -1,0 +1,61 @@
+{
+  "name": "林淑芬",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 3266230
+    },
+    {
+      "currency": "日圓",
+      "amount": 239893
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 10200534
+    }
+  ],
+  "depositsTotal": 13706662,
+  "insurance": [
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "新安心保住院醫 療終身",
+      "holder": "林淑芬",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "新纖",
+      "cleanName": "新纖",
+      "ticker": "1409",
+      "shares": 663,
+      "owner": "林淑芬",
+      "priceAtDisclosure": 15.55,
+      "latestPrice": 15.55
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市永和區永福段",
+      "owner": "邱若山",
+      "date": "1991-06-13",
+      "effectiveAreaPing": 34.2,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市蘆洲區正義段",
+      "owner": "邱○在",
+      "date": "2019-04-24",
+      "effectiveAreaPing": 58.57,
+      "entryCount": 2,
+      "price": "含陽台10.9平 方公尺,雨遮 10.33 平方公 尺(超過五年)"
+    }
+  ]
+}

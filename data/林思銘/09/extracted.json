@@ -1,0 +1,79 @@
+{
+  "name": "林思銘",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳靜芳"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "新光金",
+        "broker": "凱基證券站前分公 司",
+        "owner": "陳靜芳",
+        "shares": 15,
+        "pricePerShare": "8.68",
+        "changeDate": "112年12月12日",
+        "changeReason": "合併轉入(存)",
+        "totalValue": 130
+      },
+      {
+        "name": "永豐金",
+        "broker": "凱基證券站前分公 司",
+        "owner": "陳靜芳",
+        "shares": 28,
+        "pricePerShare": "19.75",
+        "changeDate": "112年12月12日",
+        "changeReason": "合併轉入(存)",
+        "totalValue": 553
+      },
+      {
+        "name": "永豐金",
+        "broker": "凱基證券站前分公 司",
+        "owner": "陳靜芳",
+        "shares": 3,
+        "pricePerShare": "24",
+        "changeDate": "113年09月27日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 72
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

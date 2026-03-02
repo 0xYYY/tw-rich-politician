@@ -1,0 +1,676 @@
+{
+  "name": "葛如鈞",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李婷婷"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市新店區新坡段",
+      "area": 28344.02,
+      "share": "20000 分之 33",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (房地總價額 2,120 萬。與第 1 筆建物一起 購買。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 28344.02,
+      "share": "20000 分之 33",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (房地總價額 2,120 萬。與葛 如鈞第 1 筆建 物一起購買。)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市新店區新坡段",
+      "area": 178,
+      "share": "2 分之 1",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (房地總價額 2,120 萬。含陽 台 10.27 平方 公尺,露台 17.74 平方公 尺,花台 0.96 平方公尺)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 8778.85,
+      "share": "20000 分之 100",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與第1筆建物 一起購買，房 地總價額 2,120 萬。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 125.65,
+      "share": "10000 分之 472",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與第1筆建物 一起購買，房 地總價額 2,120 萬，共同 使用部分。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 2255.12,
+      "share": "10000 分之 62",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與第1筆建物 一起購買，房 地總價額 2,120 萬，共同 使用部分。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 197.55,
+      "share": "10000 分之 33",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與第1筆建物 一起購買，房 地總價額 2,120 萬。共同 使用部分。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 4045.51,
+      "share": "20000 分之 33",
+      "owner": "葛如鈞",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與第1筆建物 一起購買，房 地總價額 2,120 萬。含水 箱 6.1 平方公 尺)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 178,
+      "share": "2 分之 1",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。 含陽台 10.27 平方公尺,露 台 17.74 平方 公尺,花台 0.96 平方公 尺。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 8778.85,
+      "share": "20000 分之 100",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 125.65,
+      "share": "10000 分之 472",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。 共同使用部 分。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 2255.12,
+      "share": "10000 分之 62",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。 共同使用部 分。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 197.55,
+      "share": "10000 分之 33",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。 共同使用部 分。)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "area": 4045.51,
+      "share": "20000 分之 33",
+      "owner": "李婷婷",
+      "date": "110年10月14日",
+      "reason": "買賣",
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。 含水箱 6.1 平 方公尺。)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "Tesla",
+      "cc": 2610,
+      "owner": "李婷婷",
+      "date": "110年06月08日",
+      "reason": "買賣",
+      "price": 1609900
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1250052,
+    "items": [
+      {
+        "institution": "第一銀行古亭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 315533
+      },
+      {
+        "institution": "華南銀行淡水分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "彰化銀行大安分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 153
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 46429
+      },
+      {
+        "institution": "國泰世華銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 76620
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 16101
+      },
+      {
+        "institution": "遠東國際銀行桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 18
+      },
+      {
+        "institution": "玉山銀行城東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 70
+      },
+      {
+        "institution": "星展巨蛋分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "台新國際銀行中和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "中信銀行雙和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 264865
+      },
+      {
+        "institution": "中信銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葛如鈞",
+        "foreignAmount": 0,
+        "amount": 223
+      },
+      {
+        "institution": "臺灣銀行龍山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 1065
+      },
+      {
+        "institution": "彰化銀行永春分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "彰化銀行大直分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 102
+      },
+      {
+        "institution": "台北富邦銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 55
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "李婷婷",
+        "foreignAmount": 30594,
+        "amount": 6502
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李婷婷",
+        "foreignAmount": 47,
+        "amount": 1490
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李婷婷",
+        "foreignAmount": 26,
+        "amount": 840
+      },
+      {
+        "institution": "國泰世華銀行復興分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 820
+      },
+      {
+        "institution": "國泰世華銀行永貞分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 492
+      },
+      {
+        "institution": "兆豐國際商業銀行中山分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 53
+      },
+      {
+        "institution": "臺灣新光銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 325
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 961
+      },
+      {
+        "institution": "永豐銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 12
+      },
+      {
+        "institution": "星展復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 9
+      },
+      {
+        "institution": "星展永和分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 9963
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 667
+      },
+      {
+        "institution": "安泰銀行中崙分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 16167
+      },
+      {
+        "institution": "中信銀行城東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷",
+        "foreignAmount": 0,
+        "amount": 480268
+      },
+      {
+        "institution": "中信銀行城北分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "李婷婷 (環球跨域實 境整合股份有 限 公 司 籌 備 處)",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "中信銀行西松分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李婷婷",
+        "foreignAmount": 320,
+        "amount": 10126
+      }
+    ]
+  },
+  "stocks": {
+    "total": 216771,
+    "items": [
+      {
+        "name": "美好證券",
+        "owner": "李婷婷",
+        "shares": 5267,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 52670
+      },
+      {
+        "name": "蘋果電腦 (複委託)",
+        "owner": "李婷婷",
+        "shares": 30,
+        "faceValue": 173,
+        "foreignCurrency": "美元",
+        "totalValue": 164101
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "加倍關心特定傷 病終身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "葛如鈞",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 09 月 22 日/180 年 09 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽吉美利 外幣利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○900",
+        "holder": "葛如鈞",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 10 月 01 日/181 年 09 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽安康久 久殘廢照護終身 壽險",
+        "policyNumber": "○○○○○○○ ○○900",
+        "holder": "葛如鈞",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 05 月 31 日/170 年 05 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "終身壽險-指標變 額型(不分紅)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "李婷婷",
+        "contractType": "投資型壽險",
+        "period": "96 年 10 月 21 日/172 年 10 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "加倍關心特定傷 病終身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "李婷婷",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 25 日/178 年 01 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "悠富人生美元還 本終身保險(104)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "李婷婷",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 10 月 16 日/167 年 10 月 16 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "國外銀行存款",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 122289
+      },
+      {
+        "type": "當代藝術繪畫 Damien Hirst 《The Currency》2,458. When she smiles",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 294840
+      },
+      {
+        "type": "當代藝術繪畫 Damien Hirst 《The Virtues》“Justice”",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 550469
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博士",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博士",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博士",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博朋友說",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "寶博朋友說",
+        "quantity": "1",
+        "owner": "葛如鈞",
+        "value": 0
+      },
+      {
+        "type": "黃金存摺 (金融機構：臺灣銀行連城分 行)",
+        "quantity": "1",
+        "owner": "李婷婷",
+        "value": 32790
+      }
+    ]
+  },
+  "credits": {
+    "total": 289061,
+    "items": [
+      {
+        "type": "一般借款",
+        "creditor": "李婷婷",
+        "debtor": "邱○雯 桃園市八德區興豐路",
+        "amount": 289061,
+        "date": "102年10月01日",
+        "reason": "(前)大嫂個 人需求借款"
+      }
+    ]
+  },
+  "debts": {
+    "total": 19796870,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "葛如鈞",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 16960000,
+        "date": "110年10月18日",
+        "reason": "房貸分期長 擔"
+      },
+      {
+        "type": "授信",
+        "debtor": "葛如鈞",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 963542,
+        "date": "110年11月18日",
+        "reason": "房貸分期長 放"
+      },
+      {
+        "type": "授信",
+        "debtor": "葛如鈞",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 962609,
+        "date": "110年11月18日",
+        "reason": "房貸分期長 擔"
+      },
+      {
+        "type": "授信",
+        "debtor": "李婷婷",
+        "creditor": "台新國際商業銀行桃園分行 桃園市桃園區復興路",
+        "amount": 910719,
+        "date": "110年06月03日",
+        "reason": "購置汽車貸 款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 1000100,
+    "items": [
+      {
+        "investor": "李婷婷",
+        "company": "敏捷賦能資本管理顧問股份 有限公司",
+        "address": "台北市松山區民權東路三段 181 號 10 樓",
+        "amount": 1000000,
+        "date": "110年02月05日",
+        "reason": "個人投資"
+      },
+      {
+        "investor": "李婷婷",
+        "company": "虛實共鳴科技股份有限公司",
+        "address": "台北市松山區民權東路三段 181 號 10 樓",
+        "amount": 100,
+        "date": "111年07月01日",
+        "reason": "個人投資"
+      }
+    ]
+  }
+}

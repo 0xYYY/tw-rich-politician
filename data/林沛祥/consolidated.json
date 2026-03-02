@@ -1,0 +1,451 @@
+{
+  "name": "林沛祥",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "基隆市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 5639163
+    },
+    {
+      "currency": "美元",
+      "amount": 7473
+    }
+  ],
+  "depositsTotal": 5646638,
+  "insurance": [
+    {
+      "company": "元大人壽保險股 份有限公司",
+      "name": "元大人壽美滿人 生美元利率變動 型增額終身壽險",
+      "holder": "林沛祥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元大人壽保險股 份有限公司",
+      "name": "元大人壽健康人 生終身醫療健康 保險",
+      "holder": "林沛祥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元大人壽保險股 份有限公司",
+      "name": "元大人壽健康人 生終身醫療健康 保險",
+      "holder": "林沛祥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元大人壽保險股 份有限公司",
+      "name": "元大人壽祝扶年 年失能照護終身 保險",
+      "holder": "何淑鈴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險事 業股份有限公司",
+      "name": "遠雄人壽金吉利 變額萬能壽險－ 丙型",
+      "holder": "何淑鈴",
+      "contractType": "投資型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "茂矽",
+      "cleanName": "茂矽",
+      "ticker": "2342",
+      "shares": 2132,
+      "owner": "林沛祥",
+      "priceAtDisclosure": 32.45,
+      "latestPrice": 33.5
+    },
+    {
+      "name": "英業達",
+      "cleanName": "英業達",
+      "ticker": "2356",
+      "shares": 228,
+      "owner": "林沛祥",
+      "priceAtDisclosure": 45.7,
+      "latestPrice": 46.25
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 68,
+      "owner": "林沛祥",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "仁寶",
+      "cleanName": "仁寶",
+      "ticker": "2324",
+      "shares": 1000,
+      "owner": "林沛祥",
+      "priceAtDisclosure": 36.1,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "中天",
+      "cleanName": "中天",
+      "ticker": "4128",
+      "shares": 1050,
+      "owner": "林沛祥",
+      "priceAtDisclosure": 39.1,
+      "latestPrice": 18.65
+    }
+  ],
+  "bonds": [
+    {
+      "name": "元大 AAA 至 A 公 司債",
+      "owner": "林沛祥",
+      "institution": "元 大 證 券 基 隆 分公司",
+      "units": 1000,
+      "unitValue": 33.7341,
+      "currency": "",
+      "declaredValue": 33734,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "貝萊德世界科技 基金（累積）（美 元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 63.76,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 182272,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界科技 基金（累積）（美 元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 61.78,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 176612,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界科技 基金（累積）（美 元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 57.61,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 164691,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界科技 基金（累積）（美 元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 34.85,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 99626,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界科技 基金（累積）（美 元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 22.2,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 63463,
+      "source": "fund"
+    },
+    {
+      "name": "瑞銀（盧森堡） 大中華股票基金 （累積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 16.922,
+      "unitValue": 423.46,
+      "currency": "美元",
+      "declaredValue": 229011,
+      "source": "fund"
+    },
+    {
+      "name": "瑞銀（盧森堡） 大中華股票基金 （累積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 15.672,
+      "unitValue": 423.46,
+      "currency": "美元",
+      "declaredValue": 212094,
+      "source": "fund"
+    },
+    {
+      "name": "瑞銀（盧森堡） 大中華股票基金 （累積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 14.297,
+      "unitValue": 423.46,
+      "currency": "美元",
+      "declaredValue": 193486,
+      "source": "fund"
+    },
+    {
+      "name": "新加坡大華黃金",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託",
+      "units": 1285.96,
+      "unitValue": 2.084,
+      "currency": "新加坡幣",
+      "declaredValue": 64653,
+      "source": "fund"
+    },
+    {
+      "name": "及綜合基金（累 積）（新加坡幣）",
+      "owner": "林沛祥",
+      "institution": "部",
+      "units": 0,
+      "unitValue": 0,
+      "currency": "",
+      "declaredValue": 0,
+      "source": "fund"
+    },
+    {
+      "name": "新加坡大華全球 保健基金（累積） （美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 437.41,
+      "unitValue": 4.93,
+      "currency": "美元",
+      "declaredValue": 68917,
+      "source": "fund"
+    },
+    {
+      "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 198.866,
+      "unitValue": 60.98,
+      "currency": "美元",
+      "declaredValue": 387561,
+      "source": "fund"
+    },
+    {
+      "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 90.069,
+      "unitValue": 60.98,
+      "currency": "美元",
+      "declaredValue": 175531,
+      "source": "fund"
+    },
+    {
+      "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 86.801,
+      "unitValue": 60.98,
+      "currency": "美元",
+      "declaredValue": 169162,
+      "source": "fund"
+    },
+    {
+      "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 75.874,
+      "unitValue": 60.98,
+      "currency": "美元",
+      "declaredValue": 147867,
+      "source": "fund"
+    },
+    {
+      "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 53.061,
+      "unitValue": 60.98,
+      "currency": "美元",
+      "declaredValue": 103408,
+      "source": "fund"
+    },
+    {
+      "name": "匯豐全球關鍵資 源基金（累積） （新台幣）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 7026,
+      "unitValue": 10.25,
+      "currency": "",
+      "declaredValue": 72016,
+      "source": "fund"
+    },
+    {
+      "name": "元 大 台 灣 卓 越 50ETF 連結基金 （配現）（新台 幣）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 4359.9,
+      "unitValue": 23.94,
+      "currency": "",
+      "declaredValue": 104376,
+      "source": "fund"
+    },
+    {
+      "name": "元 大 台 灣 卓 越 50ETF 連結基金 （配現）（新台 幣）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 4329,
+      "unitValue": 23.94,
+      "currency": "",
+      "declaredValue": 103636,
+      "source": "fund"
+    },
+    {
+      "name": "元大日經 225",
+      "owner": "林沛祥",
+      "institution": "元 大 證 券 基 隆 分公司",
+      "units": 1000,
+      "unitValue": 48.68,
+      "currency": "",
+      "declaredValue": 48680,
+      "source": "fund"
+    },
+    {
+      "name": "國泰數位支付服 務",
+      "owner": "林沛祥",
+      "institution": "元 大 證 券 基 隆 分公司",
+      "units": 1000,
+      "unitValue": 28.49,
+      "currency": "",
+      "declaredValue": 28490,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣價值高 息",
+      "owner": "林沛祥",
+      "institution": "元 大 證 券 基 隆 分公司",
+      "units": 1000,
+      "unitValue": 9.54,
+      "currency": "",
+      "declaredValue": 9540,
+      "source": "fund"
+    },
+    {
+      "name": "摩根基金-美國 科技基金（累積） （美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 10.859,
+      "unitValue": 106.32,
+      "currency": "美元",
+      "declaredValue": 36897,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 全球投資系列 科技基金（累積） （美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 22.568,
+      "unitValue": 48.66,
+      "currency": "美元",
+      "declaredValue": 35096,
+      "source": "fund"
+    },
+    {
+      "name": "聯博-精選美國 股票基金（累積） （歐元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 18.792,
+      "unitValue": 63.9,
+      "currency": "歐元",
+      "declaredValue": 41565,
+      "source": "fund"
+    },
+    {
+      "name": "安本基金-北美",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託",
+      "units": 36.582,
+      "unitValue": 25.9335,
+      "currency": "美元",
+      "declaredValue": 30319,
+      "source": "fund"
+    },
+    {
+      "name": "小 型 公 司 基 金 （累積）（美元）",
+      "owner": "林沛祥",
+      "institution": "部",
+      "units": 0,
+      "unitValue": 0,
+      "currency": "",
+      "declaredValue": 0,
+      "source": "fund"
+    },
+    {
+      "name": "摩根基金-美國 科技基金（累積） （美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 10.86,
+      "unitValue": 106.32,
+      "currency": "美元",
+      "declaredValue": 36900,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 全球投資系列 科技基金（累積） （美元）",
+      "owner": "林沛祥",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 22.568,
+      "unitValue": 48.66,
+      "currency": "美元",
+      "declaredValue": 35096,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "基隆市中正區祥豐段",
+      "owner": "林沛祥",
+      "date": "2011-10-18",
+      "effectiveAreaPing": 102.2,
+      "entryCount": 3,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市中正區調和段",
+      "owner": "林沛祥",
+      "date": "2010-05-25",
+      "effectiveAreaPing": 135.77,
+      "entryCount": 2,
+      "price": "含陽台 4.24 平 方公尺(超過五 年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "owner": "林沛祥",
+      "date": "2002-01-04",
+      "effectiveAreaPing": 57.07,
+      "entryCount": 4,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "owner": "林沛祥",
+      "date": "2023-03-23",
+      "effectiveAreaPing": 172.63,
+      "entryCount": 9,
+      "price": "22,300,000(房 地總價額)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "owner": "林沛祥",
+      "date": "2017-12-26",
+      "effectiveAreaPing": 23.19,
+      "entryCount": 2,
+      "price": "含陽台 8.99 平 方公尺,雨遮 3.97 平方公尺 (超過五年)"
+    },
+    {
+      "location": "基隆市暖暖區暖暖段暖暖小段",
+      "owner": "林沛祥",
+      "date": "1998-04-25",
+      "effectiveAreaPing": 97.15,
+      "entryCount": 3,
+      "price": "含陽台 11.13 平方公尺,露台 34.09 平方公 尺,雨遮 2.59 平方公尺(超過 五年)"
+    }
+  ]
+}

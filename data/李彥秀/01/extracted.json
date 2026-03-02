@@ -1,0 +1,728 @@
+{
+  "name": "李彥秀",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月25日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "侯冠群"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "侯○寶"
+    }
+  ],
+  "land": [
+    {
+      "location": "1★○○○candleglow irvine○ ○○○○",
+      "area": 641.03,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "105年06月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區水源段",
+      "area": 243.08,
+      "share": "81 分之 1",
+      "owner": "李彥秀",
+      "date": "108年09月16日",
+      "reason": "繼承",
+      "price": "267,988 (超過五年)"
+    },
+    {
+      "location": "新北市汐止區水源段",
+      "area": 8.31,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "2,493 (原下寮段○ ○○○地號改 新地號，超過 五年)"
+    },
+    {
+      "location": "新北市汐止區水源段",
+      "area": 465.81,
+      "share": "81 分之 1",
+      "owner": "李彥秀",
+      "date": "108年09月16日",
+      "reason": "繼承",
+      "price": "403,518 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段二小段",
+      "area": 486,
+      "share": "10000 分之 1214",
+      "owner": "李彥秀",
+      "date": "92年03月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段三小段",
+      "area": 443,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "129,946 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段三小段",
+      "area": 408,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "119,680 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段三小段",
+      "area": 71,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "391,446 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段三小段",
+      "area": 138,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "760,840 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 566,
+      "share": "405 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "19,244 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 5,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "1,700 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 384,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "130,560 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 13,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "4,420 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 1,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "340 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 177,
+      "share": "405 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "6,018 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 13064,
+      "share": "405 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "383,210 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 16,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "139,733 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 65,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "492,665 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 96,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "678,400 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 154,
+      "share": "27 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "25,096 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 3905,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "1,145,466 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 147,
+      "share": "27 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "560,778 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 756,
+      "share": "99063 分之 482",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "1,092,490 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 2,
+      "share": "81 分之 2",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "17,466 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 13,
+      "share": "27 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "1,703,000 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 7.58,
+      "share": "27 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "35,935 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 316,
+      "share": "729 分之 4",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "387,158 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 240,
+      "share": "729 分之 4",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "294,044 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 4,
+      "share": "540 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "21,200 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 5,
+      "share": "810 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "1,766 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 0.78,
+      "share": "810 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "275 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段五小段",
+      "area": 72,
+      "share": "729 分之 4",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "88,213 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區經貿段四小段",
+      "area": 1166.8,
+      "share": "100000 分 之 6470",
+      "owner": "李彥秀",
+      "date": "100年10月14日",
+      "reason": "地目變更",
+      "price": "13,211,093 (合建土地，面 積變小，超過 五年)"
+    },
+    {
+      "location": "臺北市南港區舊莊段二小段",
+      "area": 8,
+      "share": "810 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "117 (超過五年)"
+    },
+    {
+      "location": "臺北市南港區舊莊段二小段",
+      "area": 2158,
+      "share": "1215 分之 1",
+      "owner": "李彥秀",
+      "date": "108年10月03日",
+      "reason": "繼承",
+      "price": "21,100 (超過五年)"
+    },
+    {
+      "location": "桃園市桃園區和平段",
+      "area": 7475,
+      "share": "10000 分之 35",
+      "owner": "侯冠群",
+      "date": "90年07月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市桃園區和平段",
+      "area": 3,
+      "share": "10000 分之 35",
+      "owner": "侯冠群",
+      "date": "90年07月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段 5 小段",
+      "area": 3310.43,
+      "share": "130000 分 之 225",
+      "owner": "侯○寶",
+      "date": "109年04月01日",
+      "reason": "受贈",
+      "price": "1,907,953"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市南港區中南段二小段",
+      "area": 108.42,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "92年03月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段二小段",
+      "area": 108.42,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "81年04月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市南港區經貿段",
+      "area": 99.86,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "100年10月14日",
+      "reason": "贈與",
+      "price": "920,500 (土地經貿段 四小段○○○ ○地號合建分 得之建物，超 過五年)"
+    },
+    {
+      "location": "臺北市南港區經貿段",
+      "area": 75.59,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "100年10月14日",
+      "reason": "贈與",
+      "price": "728,500 (土地經貿段 4 小段○○○○ 地號合建分得 之建物，超過 五年)"
+    },
+    {
+      "location": "桃園市桃園區和平段",
+      "area": 132.18,
+      "share": "全部",
+      "owner": "侯冠群",
+      "date": "90年07月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市桃園區和平段",
+      "area": 13.17,
+      "share": "10000 分之 43",
+      "owner": "侯冠群",
+      "date": "90年07月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段 5 小段",
+      "area": 193.35,
+      "share": "13 分之 1",
+      "owner": "侯○寶",
+      "date": "109年04月01日",
+      "reason": "受贈",
+      "price": "1,907,953"
+    },
+    {
+      "location": "三亞市金雞嶺路",
+      "area": 180,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "94年02月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "1★○○○candleglow Irvine ○○○○○",
+      "area": 477.71,
+      "share": "全部",
+      "owner": "李彥秀",
+      "date": "105年06月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "2★benz",
+      "cc": 3000,
+      "owner": "李彥秀",
+      "date": "106年07月01日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "2★LAND ROVER",
+      "cc": 1999,
+      "owner": "侯冠群",
+      "date": "102年07月25日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "2★benz",
+      "cc": 3000,
+      "owner": "侯冠群",
+      "date": "109年01月20日",
+      "reason": "買賣",
+      "price": 3175760
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 35181955,
+    "items": [
+      {
+        "institution": "臺灣銀行南港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李彥秀",
+        "foreignAmount": 0,
+        "amount": 252042
+      },
+      {
+        "institution": "臺灣銀行南港分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "李彥秀",
+        "foreignAmount": 399991,
+        "amount": 91717
+      },
+      {
+        "institution": "臺灣銀行南港分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 60,
+        "amount": 1841
+      },
+      {
+        "institution": "台北富邦商業銀行南港分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李彥秀",
+        "foreignAmount": 0,
+        "amount": 8855437
+      },
+      {
+        "institution": "台北富邦商業銀行松山分 行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 8974,
+        "amount": 272772
+      },
+      {
+        "institution": "台北富邦商業銀行松山分 行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "李彥秀",
+        "foreignAmount": 405020,
+        "amount": 92871
+      },
+      {
+        "institution": "台北富邦商業銀行松山分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李彥秀",
+        "foreignAmount": 0,
+        "amount": 82335
+      },
+      {
+        "institution": "元大商業銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李彥秀",
+        "foreignAmount": 0,
+        "amount": 145564
+      },
+      {
+        "institution": "永豐商業銀行忠孝東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李彥秀",
+        "foreignAmount": 0,
+        "amount": 530331
+      },
+      {
+        "institution": "玉山商業銀行頭份分行",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 17487,
+        "amount": 559607
+      },
+      {
+        "institution": "玉山商業銀行頭份分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 100000,
+        "amount": 3200000
+      },
+      {
+        "institution": "玉山商業銀行頭份分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 100000,
+        "amount": 3200000
+      },
+      {
+        "institution": "玉山商業銀行頭份分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "李彥秀",
+        "foreignAmount": 0,
+        "amount": 152111
+      },
+      {
+        "institution": "1★cathay bank",
+        "type": "支票存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 19375,
+        "amount": 620009
+      },
+      {
+        "institution": "1★cathay bank",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 17996,
+        "amount": 575882
+      },
+      {
+        "institution": "1★cathay bank",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 352302,
+        "amount": 11273681
+      },
+      {
+        "institution": "1★cathay bank",
+        "type": "活期證券戶",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 66601,
+        "amount": 2131247
+      },
+      {
+        "institution": "2★chase",
+        "type": "支票存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 3100,
+        "amount": 99200
+      },
+      {
+        "institution": "2★chase",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 10351,
+        "amount": 331260
+      },
+      {
+        "institution": "1★fidelity",
+        "type": "活期證券戶",
+        "currency": "美元",
+        "owner": "李彥秀",
+        "foreignAmount": 62354,
+        "amount": 1995335
+      },
+      {
+        "institution": "安泰商業銀行中崙分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "侯冠群",
+        "foreignAmount": 0,
+        "amount": 444384
+      },
+      {
+        "institution": "cathay bank",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "侯冠群",
+        "foreignAmount": 8898,
+        "amount": 269997
+      },
+      {
+        "institution": "2★chase",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "侯○寶",
+        "foreignAmount": 135,
+        "amount": 4325
+      }
+    ]
+  },
+  "stocks": {
+    "total": 3388779,
+    "items": [
+      {
+        "name": "1★nvda",
+        "owner": "李彥秀",
+        "shares": 265,
+        "faceValue": 134,
+        "foreignCurrency": "美元",
+        "totalValue": 1138779
+      },
+      {
+        "name": "亞太電信股份有限公司",
+        "owner": "李彥秀",
+        "shares": 225000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2250000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺",
+        "quantity": "1",
+        "owner": "侯冠群",
+        "value": 1644600
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 16549396,
+    "items": [
+      {
+        "type": "房屋貸款",
+        "debtor": "李彥秀",
+        "creditor": "玉山銀行頭份分行 苗栗縣頭份市中央路",
+        "amount": 11028237,
+        "date": "110年06月15日",
+        "reason": "投資購屋"
+      },
+      {
+        "type": "房屋貸款",
+        "debtor": "侯冠群",
+        "creditor": "台北富邦市府分行 台北市市府路",
+        "amount": 5521159,
+        "date": "111年07月27日",
+        "reason": "投資"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

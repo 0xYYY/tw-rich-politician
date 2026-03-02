@@ -1,0 +1,329 @@
+{
+  "name": "楊瓊瓔",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "臺中市大雅區大明段",
+      "area": 196.18,
+      "share": "2 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月27日",
+      "reason": "塗銷信託",
+      "price": "4,551,376"
+    },
+    {
+      "location": "臺中市大雅區永興段",
+      "area": 65.9,
+      "share": "全部",
+      "owner": "楊瓊瓔",
+      "date": "94年08月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市梧棲區庄北段",
+      "area": 640.45,
+      "share": "2 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "3,426,407.5"
+    },
+    {
+      "location": "臺中市梧棲區庄北段",
+      "area": 1606.27,
+      "share": "2 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "8,593,544.5"
+    },
+    {
+      "location": "臺中市梧棲區南簡段",
+      "area": 35,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "219,333.3"
+    },
+    {
+      "location": "臺中市梧棲區南簡段",
+      "area": 743,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "4,656,133.3"
+    },
+    {
+      "location": "臺中市梧棲區梧棲段",
+      "area": 740,
+      "share": "全部",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "13,986,000"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 66,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "367,400"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 26,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "144,733.3"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 72,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "400,800"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 8,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "44,533.3"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 7,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "38,966.6"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 2,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "11,133.3"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市大雅區大明段",
+      "area": 754.92,
+      "share": "2 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月27日",
+      "reason": "塗銷信託",
+      "price": "586,250"
+    },
+    {
+      "location": "臺中市大雅區永興段",
+      "area": 213.22,
+      "share": "全部",
+      "owner": "楊瓊瓔",
+      "date": "94年08月24日",
+      "reason": "買賣",
+      "price": "含陽台 23.65 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 354.75,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "199,866.6"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "area": 294.69,
+      "share": "3 分之 1",
+      "owner": "楊瓊瓔",
+      "date": "109年02月26日",
+      "reason": "塗銷信託",
+      "price": "166,300"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "MERCEDES-BENZ",
+      "cc": 1991,
+      "owner": "楊瓊瓔",
+      "date": "111年02月24日",
+      "reason": "買賣",
+      "price": 3166100
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 21366325,
+    "items": [
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 100000,
+        "amount": 448200
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 100000,
+        "amount": 448200
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 100000,
+        "amount": 448200
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 100000,
+        "amount": 448200
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 100000,
+        "amount": 448200
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 0,
+        "amount": 2500000
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 0,
+        "amount": 3504924
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 229099,
+        "amount": 7323178
+      },
+      {
+        "institution": "臺灣銀行臺中港分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 56617,
+        "amount": 253758
+      },
+      {
+        "institution": "台中銀行台中港分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "台中銀行台中港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊瓊瓔",
+        "foreignAmount": 0,
+        "amount": 543465
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美超鑽 美元利率變動型 終身壽險（定期 給付型）",
+        "policyNumber": "",
+        "holder": "楊瓊瓔",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 01 月 21日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "楊瓊瓔標章",
+        "quantity": "1",
+        "owner": "楊瓊瓔",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

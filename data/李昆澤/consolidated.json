@@ -1,0 +1,93 @@
+{
+  "name": "李昆澤",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 11615553
+    },
+    {
+      "currency": "美元",
+      "amount": 556198
+    }
+  ],
+  "depositsTotal": 12171751,
+  "insurance": [
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "添美發年年美元",
+      "holder": "廖翊百",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽美富旺 外幣利率變動型 終身壽險",
+      "holder": "廖翊百",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台灣高鐵",
+      "cleanName": "台灣高鐵",
+      "ticker": "2633",
+      "shares": 4000,
+      "owner": "李昆澤",
+      "priceAtDisclosure": 28.9,
+      "latestPrice": 27.05
+    },
+    {
+      "name": "91APP*-KY",
+      "cleanName": "91APP*-KY",
+      "ticker": "6741",
+      "shares": 5000,
+      "owner": "李昆澤",
+      "priceAtDisclosure": 94,
+      "latestPrice": 62.8
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "中信電池及儲能",
+      "owner": "李昆澤",
+      "institution": "華 南 永 昌 證 券 高雄分公司",
+      "units": 10000,
+      "unitValue": 10.21,
+      "currency": "",
+      "declaredValue": 102100,
+      "source": "fund"
+    },
+    {
+      "name": "富邦元宇宙",
+      "owner": "李昆澤",
+      "institution": "華 南 永 昌 證 券 高雄分公司",
+      "units": 10000,
+      "unitValue": 14.06,
+      "currency": "",
+      "declaredValue": 140600,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鼓山區龍中段",
+      "owner": "李昆澤",
+      "date": "2005-12-15",
+      "effectiveAreaPing": 63.01,
+      "entryCount": 2,
+      "price": "含陽台 12.37 平方公尺,雨 遮3.18平方公 尺(超過五年)"
+    },
+    {
+      "location": "高雄市三民區灣內段",
+      "owner": "廖翊百",
+      "date": "2011-10-14",
+      "effectiveAreaPing": 50.64,
+      "entryCount": 2,
+      "price": "含陽台9.82平 方公尺,雨遮 2.08 平方公尺 (超過五年)"
+    }
+  ]
+}

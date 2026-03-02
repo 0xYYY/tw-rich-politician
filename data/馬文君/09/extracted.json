@@ -1,0 +1,489 @@
+{
+  "name": "馬文君",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月05日",
+  "type": "前次申報日期民國112年11月20日起，本次定期申報日113年12月05日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王俊國"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "中工",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 150,
+        "pricePerShare": "17.95",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣出",
+        "totalValue": 2692
+      },
+      {
+        "name": "京城銀",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "63",
+        "changeDate": "113年05月17日",
+        "changeReason": "賣出",
+        "totalValue": 63000
+      },
+      {
+        "name": "京城銀",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 541,
+        "pricePerShare": "62.60",
+        "changeDate": "113年05月17日",
+        "changeReason": "賣出",
+        "totalValue": 33866
+      },
+      {
+        "name": "台企銀",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 22,
+        "pricePerShare": "15.60",
+        "changeDate": "113年09月13日",
+        "changeReason": "劃撥配發",
+        "totalValue": 343
+      },
+      {
+        "name": "遠東銀",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 287,
+        "pricePerShare": "13.35",
+        "changeDate": "113年10月11日",
+        "changeReason": "劃撥配發",
+        "totalValue": 3831
+      },
+      {
+        "name": "華上",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 4,
+        "pricePerShare": "0",
+        "changeDate": "113年10月15日",
+        "changeReason": "減資轉出",
+        "totalValue": 0
+      },
+      {
+        "name": "華上(舊)",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 4,
+        "pricePerShare": "0",
+        "changeDate": "113年10月15日",
+        "changeReason": "減資轉出",
+        "totalValue": 0
+      },
+      {
+        "name": "華上(舊)",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 4,
+        "pricePerShare": "0",
+        "changeDate": "113年10月23日",
+        "changeReason": "減資轉出",
+        "totalValue": 0
+      },
+      {
+        "name": "華上",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 0,
+        "pricePerShare": "0",
+        "changeDate": "113年10月23日",
+        "changeReason": "減資轉入",
+        "totalValue": 0
+      },
+      {
+        "name": "三芳",
+        "broker": "元大",
+        "owner": "王俊國",
+        "shares": 504,
+        "pricePerShare": "46.45",
+        "changeDate": "113年10月25日",
+        "changeReason": "賣出",
+        "totalValue": 23410
+      },
+      {
+        "name": "京城銀",
+        "broker": "宏遠",
+        "owner": "王俊國",
+        "shares": 2000,
+        "pricePerShare": "62.40",
+        "changeDate": "113年05月17日",
+        "changeReason": "賣出",
+        "totalValue": 124800
+      },
+      {
+        "name": "京城銀",
+        "broker": "宏遠",
+        "owner": "王俊國",
+        "shares": 308,
+        "pricePerShare": "63",
+        "changeDate": "113年05月17日",
+        "changeReason": "賣出",
+        "totalValue": 19404
+      },
+      {
+        "name": "遠東新",
+        "broker": "宏遠",
+        "owner": "王俊國",
+        "shares": 180,
+        "pricePerShare": "36.70",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣出",
+        "totalValue": 6606
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 2000,
+        "pricePerShare": "102",
+        "changeDate": "112年11月28日",
+        "changeReason": "買進",
+        "totalValue": 204000
+      },
+      {
+        "name": "兆豐金",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 83,
+        "pricePerShare": "38.85",
+        "changeDate": "112年12月01日",
+        "changeReason": "賣出",
+        "totalValue": 3224
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "99.60",
+        "changeDate": "113年01月16日",
+        "changeReason": "買進",
+        "totalValue": 99600
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "99.70",
+        "changeDate": "113年01月17日",
+        "changeReason": "買進",
+        "totalValue": 99700
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "99.60",
+        "changeDate": "113年01月17日",
+        "changeReason": "買進",
+        "totalValue": 99600
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "101",
+        "changeDate": "113年02月16日",
+        "changeReason": "買進",
+        "totalValue": 101000
+      },
+      {
+        "name": "國泰金",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 32,
+        "pricePerShare": "50.80",
+        "changeDate": "113年05月07日",
+        "changeReason": "賣出",
+        "totalValue": 1625
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "225",
+        "changeDate": "113年07月10日",
+        "changeReason": "賣出",
+        "totalValue": 225000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 10000,
+        "pricePerShare": "218",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣出",
+        "totalValue": 2180000
+      },
+      {
+        "name": "南亞",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 10000,
+        "pricePerShare": "50.60",
+        "changeDate": "113年07月17日",
+        "changeReason": "買進",
+        "totalValue": 506000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "193",
+        "changeDate": "113年08月02日",
+        "changeReason": "買進",
+        "totalValue": 193000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "190.50",
+        "changeDate": "113年08月02日",
+        "changeReason": "買進",
+        "totalValue": 190500
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 2000,
+        "pricePerShare": "168.50",
+        "changeDate": "113年08月05日",
+        "changeReason": "買進",
+        "totalValue": 337000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "163",
+        "changeDate": "113年08月08日",
+        "changeReason": "買進",
+        "totalValue": 163000
+      },
+      {
+        "name": "友通",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 181,
+        "pricePerShare": "81.20",
+        "changeDate": "113年08月20日",
+        "changeReason": "賣出",
+        "totalValue": 14697
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "180",
+        "changeDate": "113年08月27日",
+        "changeReason": "買進",
+        "totalValue": 180000
+      },
+      {
+        "name": "新光金",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 126,
+        "pricePerShare": "12.95",
+        "changeDate": "113年08月28日",
+        "changeReason": "賣出",
+        "totalValue": 1631
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年09月05日",
+        "changeReason": "買進",
+        "totalValue": 176000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "183",
+        "changeDate": "113年09月24日",
+        "changeReason": "買進",
+        "totalValue": 183000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "214",
+        "changeDate": "113年11月13日",
+        "changeReason": "買進",
+        "totalValue": 214000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "王俊國",
+        "shares": 1000,
+        "pricePerShare": "203.50",
+        "changeDate": "113年11月19日",
+        "changeReason": "買進",
+        "totalValue": 203500
+      },
+      {
+        "name": "中信金",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 1000,
+        "pricePerShare": "36.30",
+        "changeDate": "113年05月07日",
+        "changeReason": "賣出",
+        "totalValue": 36300
+      },
+      {
+        "name": "中信金",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 582,
+        "pricePerShare": "36.35",
+        "changeDate": "113年05月07日",
+        "changeReason": "賣出",
+        "totalValue": 21155
+      },
+      {
+        "name": "南亞",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 3000,
+        "pricePerShare": "50.10",
+        "changeDate": "113年06月19日",
+        "changeReason": "買進",
+        "totalValue": 150300
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 5000,
+        "pricePerShare": "220",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣出",
+        "totalValue": 1100000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 1000,
+        "pricePerShare": "163",
+        "changeDate": "113年08月08日",
+        "changeReason": "買進",
+        "totalValue": 163000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 1000,
+        "pricePerShare": "182",
+        "changeDate": "113年08月21日",
+        "changeReason": "買進",
+        "totalValue": 182000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 1000,
+        "pricePerShare": "180",
+        "changeDate": "113年08月27日",
+        "changeReason": "買進",
+        "totalValue": 180000
+      },
+      {
+        "name": "鴻海",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年09月05日",
+        "changeReason": "買進",
+        "totalValue": 176000
+      },
+      {
+        "name": "凱基金",
+        "broker": "元富",
+        "owner": "馬文君",
+        "shares": 47,
+        "pricePerShare": "17.15",
+        "changeDate": "113年10月22日",
+        "changeReason": "賣出",
+        "totalValue": 806
+      },
+      {
+        "name": "中工",
+        "broker": "日茂",
+        "owner": "馬文君",
+        "shares": 1000,
+        "pricePerShare": "17.90",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣出",
+        "totalValue": 17900
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

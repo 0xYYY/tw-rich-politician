@@ -1,0 +1,36 @@
+{
+  "name": "吳沛憶",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1730813
+    },
+    {
+      "currency": "加拿大幣",
+      "amount": 5
+    }
+  ],
+  "depositsTotal": 1730818,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "儲蓄型壽險",
+      "holder": "吳沛憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "儲蓄型壽險",
+      "holder": "吳沛憶",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

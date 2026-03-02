@@ -1,0 +1,89 @@
+{
+  "name": "蔣萬安",
+  "org": "臺北市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "石舫亘"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔣○立"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔣○宇"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔣○希"
+    }
+  ],
+  "land": [
+    {
+      "location": "宜蘭縣羅東鎮中華段",
+      "area": 455,
+      "share": "1911 分之 502",
+      "owner": "石舫亘",
+      "date": "112年05月25日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "宜蘭縣羅東鎮中華段",
+      "area": 2195.38,
+      "share": "3 分之 1",
+      "owner": "石舫亘",
+      "date": "112年05月25日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "宜蘭縣羅東鎮中華段",
+      "area": 874.03,
+      "share": "3 分之 1",
+      "owner": "石舫亘",
+      "date": "112年05月25日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "name": "林宜瑾",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "臺南市永康區二王段",
+      "area": 1943.33,
+      "share": "10000 分之 173",
+      "owner": "林宜瑾",
+      "date": "100年05月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市永康區橋北段",
+      "area": 421.68,
+      "share": "22 分之 1",
+      "owner": "林宜瑾",
+      "date": "97年08月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市永康區橋北段",
+      "area": 71.65,
+      "share": "全部",
+      "owner": "林宜瑾",
+      "date": "97年08月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市東區裕東段",
+      "area": 81.63,
+      "share": "全部",
+      "owner": "林宜瑾",
+      "date": "91年05月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市永康區二王段",
+      "area": 226.98,
+      "share": "全部",
+      "owner": "林宜瑾",
+      "date": "100年05月11日",
+      "reason": "買賣",
+      "price": "含陽台4.01平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺南市永康區二王段",
+      "area": 10.82,
+      "share": "10000 分之 108",
+      "owner": "林宜瑾",
+      "date": "100年05月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市永康區二王段",
+      "area": 6396.85,
+      "share": "10000 分之 62",
+      "owner": "林宜瑾",
+      "date": "100年05月11日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺南市永康區二王段",
+      "area": 6396.85,
+      "share": "10000 分之 2991",
+      "owner": "林宜瑾",
+      "date": "100年05月11日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺南市永康區橋北段",
+      "area": 235.7,
+      "share": "全部",
+      "owner": "林宜瑾",
+      "date": "97年08月19日",
+      "reason": "買賣",
+      "price": "含陽台 40.96 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺南市東區裕東段",
+      "area": 227.57,
+      "share": "全部",
+      "owner": "林宜瑾",
+      "date": "91年05月22日",
+      "reason": "買賣",
+      "price": "含陽台 23.52 平方公尺(超 過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "中華",
+      "cc": 2378,
+      "owner": "林宜瑾",
+      "date": "113年07月31日",
+      "reason": "買賣",
+      "price": 260000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 17177277,
+    "items": [
+      {
+        "institution": "土地銀行新營分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 7375100
+      },
+      {
+        "institution": "華南銀行東台南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 163095
+      },
+      {
+        "institution": "兆豐國際商業銀行永康分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林宜瑾",
+        "foreignAmount": 8766,
+        "amount": 280414
+      },
+      {
+        "institution": "兆豐國際商業銀行永康分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 861136
+      },
+      {
+        "institution": "臺灣企銀台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 70345
+      },
+      {
+        "institution": "陽信銀行永康分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 1166
+      },
+      {
+        "institution": "臺南市永康區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 11975
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 2303791
+      },
+      {
+        "institution": "玉山銀行永康分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宜瑾",
+        "foreignAmount": 0,
+        "amount": 500045
+      },
+      {
+        "institution": "玉山銀行金華分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林宜瑾",
+        "foreignAmount": 93028,
+        "amount": 2975156
+      },
+      {
+        "institution": "玉山銀行金華分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "林宜瑾",
+        "foreignAmount": 12589840,
+        "amount": 2635053
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "常利年年利變",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 27 日/163 年 06 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "微馨愛小額終身 壽險",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 27 日/137 年 06 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新呵護久久殘廢 照護",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 27 日/157 年 06 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽享富增 利利率變動型終 身壽險(定期給 付型)",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 12 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美好一 生外幣終身壽險 (美元)",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽新美鑫 旺美元利率變動 型終身壽險 -定 期給付型",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 03 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽樂退年 年美元利率變動 型終身保險 -定 期給付型",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽樂退年 年美元利率變動 型終身保險 -定 期給付型",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽一路發 終身還本保險",
+        "policyNumber": "",
+        "holder": "林宜瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 12 月 18 日/168 年 12 月 18 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

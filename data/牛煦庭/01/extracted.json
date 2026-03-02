@@ -1,0 +1,196 @@
+{
+  "name": "牛煦庭",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "楊貞儀"
+    }
+  ],
+  "land": [
+    {
+      "location": "桃園市龜山區文化段",
+      "area": 962,
+      "share": "10000 分之 190",
+      "owner": "牛煦庭",
+      "date": "113年03月29日",
+      "reason": "買賣",
+      "price": "24,800,000(與 建物合購)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市龜山區文化段",
+      "area": 99.78,
+      "share": "全部",
+      "owner": "牛煦庭",
+      "date": "113年03月29日",
+      "reason": "買賣",
+      "price": "24,800,000(與 土地合購)"
+    },
+    {
+      "location": "桃園市龜山區文化段",
+      "area": 4154.73,
+      "share": "100000 分 之 1969",
+      "owner": "牛煦庭",
+      "date": "113年03月29日",
+      "reason": "買賣",
+      "price": "24,800,000(共 同使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 1497,
+      "owner": "牛煦庭",
+      "date": "107年12月20日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1619797,
+    "items": [
+      {
+        "institution": "臺灣銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "牛煦庭",
+        "foreignAmount": 0,
+        "amount": 1096098
+      },
+      {
+        "institution": "台北富邦銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "牛煦庭",
+        "foreignAmount": 0,
+        "amount": 610
+      },
+      {
+        "institution": "臺灣企銀中壢分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "牛煦庭",
+        "foreignAmount": 0,
+        "amount": 60559
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "牛煦庭",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "牛煦庭",
+        "foreignAmount": 0,
+        "amount": 83739
+      },
+      {
+        "institution": "國泰世華銀行民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊貞儀",
+        "foreignAmount": 0,
+        "amount": 4441
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊貞儀",
+        "foreignAmount": 0,
+        "amount": 1691
+      },
+      {
+        "institution": "遠東國際銀行永康分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊貞儀",
+        "foreignAmount": 0,
+        "amount": 22936
+      },
+      {
+        "institution": "台新國際銀行南崁分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊貞儀",
+        "foreignAmount": 0,
+        "amount": 349720
+      }
+    ]
+  },
+  "stocks": {
+    "total": 100000,
+    "items": [
+      {
+        "name": "崧騰",
+        "owner": "牛煦庭",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "牛煦庭",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 01 月 26 日/180 年 01 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "卓越理財",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "楊貞儀",
+        "contractType": "投資型壽險",
+        "period": "102 年 10 月 02 日/179 年 10 月 01 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 20829877,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "牛煦庭",
+        "creditor": "臺灣銀行建國分行 桃園市中壢區健行路",
+        "amount": 20829877,
+        "date": "113年04月02日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

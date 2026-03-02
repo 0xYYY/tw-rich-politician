@@ -1,0 +1,117 @@
+{
+  "name": "黃仁",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "平地原住民",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 481819
+    }
+  ],
+  "depositsTotal": 481819,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "黃仁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費金享 福小額終身壽險",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "達康 101 終身",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 際 康 健 人 壽 保 險 股 份 有 限 公司",
+      "name": "康健人壽新家有 意 保 定 期 保 險 PAE",
+      "holder": "王春梅",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺東縣長濱鄉新竹湖段",
+      "owner": "黃仁",
+      "date": "2022-04-06",
+      "effectiveAreaPing": 2.49,
+      "entryCount": 1,
+      "price": "9,528"
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "owner": "王春梅",
+      "date": "2024-03-07",
+      "effectiveAreaPing": 63.32,
+      "entryCount": 1,
+      "price": "21,000,000(含 屋頂突出物 12.86 平方公 尺,見其他登記 事項 22.05 平 方公尺)"
+    },
+    {
+      "location": "花蓮縣豐濱鄉豐濱村",
+      "owner": "黃仁",
+      "date": "2022-07-11",
+      "effectiveAreaPing": 19.24,
+      "entryCount": 1,
+      "price": "2,250,000(房 地總價額)"
+    }
+  ]
+}

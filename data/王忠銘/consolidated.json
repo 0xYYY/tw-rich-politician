@@ -1,0 +1,257 @@
+{
+  "name": "王忠銘",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "連江縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 18200702
+    },
+    {
+      "currency": "美元",
+      "amount": 334333
+    }
+  ],
+  "depositsTotal": 18535035,
+  "insurance": [
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "王忠銘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中 華郵政股 份 有限公司",
+      "name": "郵政簡易人壽常 鴻增額保險(6 年 付費)",
+      "holder": "陳順娥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽美年發 外幣增額還本終 身保險",
+      "holder": "陳順娥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "陳順娥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基人壽保 險 股份有限公司",
+      "name": "中國人壽金享退 休變額年金保險",
+      "holder": "陳順娥",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦人壽保 險 股份有限公司",
+      "name": "富邦人壽好富利 增額終身壽險",
+      "holder": "陳順娥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "吉美樂美元利率 變動型增額終身 壽險",
+      "holder": "陳順娥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄人壽保 險 事 業股份有 限 公司",
+      "name": "遠雄人壽長青保 險附約(D 型)-20 年期",
+      "holder": "陳順娥",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "華隆 (未交付信託原因：已 下市)",
+      "cleanName": "華隆",
+      "ticker": null,
+      "shares": 2488,
+      "owner": "王忠銘",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台聚",
+      "cleanName": "台聚",
+      "ticker": "1304",
+      "shares": 7852,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 14.5,
+      "latestPrice": 12.3
+    },
+    {
+      "name": "台中銀",
+      "cleanName": "台中銀",
+      "ticker": "2812",
+      "shares": 3058,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 17.95,
+      "latestPrice": 21.1
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 16614,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 532,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 44.95,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "彰銀",
+      "cleanName": "彰銀",
+      "ticker": "2801",
+      "shares": 2153,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 17.6,
+      "latestPrice": 21.6
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 27338,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 2313,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "台聚",
+      "cleanName": "台聚",
+      "ticker": "1304",
+      "shares": 7852,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 14.5,
+      "latestPrice": 12.3
+    },
+    {
+      "name": "台中銀",
+      "cleanName": "台中銀",
+      "ticker": "2812",
+      "shares": 3058,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 17.95,
+      "latestPrice": 21.1
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 16614,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 505,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 44.95,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "彰銀",
+      "cleanName": "彰銀",
+      "ticker": "2801",
+      "shares": 2260,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 17.6,
+      "latestPrice": 21.6
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 27338,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 2313,
+      "owner": "王忠銘",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市汐止區智興段",
+      "owner": "陳順娥",
+      "date": "2018-08-23",
+      "effectiveAreaPing": 59.35,
+      "entryCount": 3,
+      "price": "含陽台 21.99 平方公尺,花 台1.01平方公 尺(超過五年)"
+    },
+    {
+      "location": "稅籍號碼:○○○○○○○○○ ○○",
+      "owner": "王忠銘",
+      "date": "1995-07-01",
+      "effectiveAreaPing": 30.46,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "稅籍號碼:○○○○○○○○○ ○○",
+      "owner": "王忠銘",
+      "date": "2007-12-01",
+      "effectiveAreaPing": 37.51,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "稅籍號碼:○○○○○○○○○ ○○",
+      "owner": "王忠銘",
+      "date": "2006-12-01",
+      "effectiveAreaPing": 45.07,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市三峽區大學段一小段",
+      "owner": "王忠銘",
+      "date": "2017-03-17",
+      "effectiveAreaPing": 18.42,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "連江縣南竿鄉仁愛段",
+      "owner": "王忠銘",
+      "date": "2017-03-09",
+      "effectiveAreaPing": 211.18,
+      "entryCount": 4,
+      "price": null
+    }
+  ]
+}

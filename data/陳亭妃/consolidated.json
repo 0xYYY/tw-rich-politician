@@ -1,0 +1,19 @@
+{
+  "name": "陳亭妃",
+  "date": "2024-12-27",
+  "type": "legislator",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 214778
+    }
+  ],
+  "depositsTotal": 214778,
+  "insurance": [],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

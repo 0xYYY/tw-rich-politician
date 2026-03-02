@@ -1,0 +1,219 @@
+{
+  "name": "鄭天財",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "平地原住民",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 30934364
+    },
+    {
+      "currency": "美元",
+      "amount": 383075
+    }
+  ],
+  "depositsTotal": 31317439,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "鄭天財",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "真心守護長期照 顧",
+      "holder": "鄭天財",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新安家保本定期 保險",
+      "holder": "鄭天財",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "郵政簡易人壽常 春增額還本保險 〈10 年付費〉",
+      "holder": "王慧玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "郵政簡易人壽常 春增額還本保險 〈6 年付費〉",
+      "holder": "王慧玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰雙星報喜還 本終身壽險（繳 費 20 年）",
+      "holder": "王慧玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰雙星報喜還 本終身壽險（繳 費 20 年）",
+      "holder": "王慧玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美利大 順外幣利率變動 型終身壽險",
+      "holder": "王慧玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽新長榮 還本終身壽險",
+      "holder": "王慧玲",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "藍天",
+      "cleanName": "藍天",
+      "ticker": "2362",
+      "shares": 20000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 26000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 44.95,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 15000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 11.3,
+      "latestPrice": null
+    },
+    {
+      "name": "單井",
+      "cleanName": "單井",
+      "ticker": "3490",
+      "shares": 15000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 36.05,
+      "latestPrice": 25.1
+    },
+    {
+      "name": "御嵿",
+      "cleanName": "御嵿",
+      "ticker": "3522",
+      "shares": 2000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 23.1,
+      "latestPrice": 15.1
+    },
+    {
+      "name": "安可",
+      "cleanName": "安可",
+      "ticker": "3615",
+      "shares": 15000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 34.75,
+      "latestPrice": 29.45
+    },
+    {
+      "name": "正文",
+      "cleanName": "正文",
+      "ticker": "4906",
+      "shares": 3000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 35.85,
+      "latestPrice": 27.15
+    },
+    {
+      "name": "陞泰",
+      "cleanName": "陞泰",
+      "ticker": "8072",
+      "shares": 12000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 27.7,
+      "latestPrice": 31.45
+    },
+    {
+      "name": "伍豐",
+      "cleanName": "伍豐",
+      "ticker": "8076",
+      "shares": 7000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 32.4,
+      "latestPrice": 23.4
+    },
+    {
+      "name": "智捷",
+      "cleanName": "智捷",
+      "ticker": "8176",
+      "shares": 7000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 15.95,
+      "latestPrice": 10.95
+    },
+    {
+      "name": "成霖",
+      "cleanName": "成霖",
+      "ticker": "9934",
+      "shares": 10000,
+      "owner": "鄭天財",
+      "priceAtDisclosure": 16.65,
+      "latestPrice": 9.93
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市大安區辛亥段三小段",
+      "owner": "鄭天財",
+      "date": "1999-05-14",
+      "effectiveAreaPing": 31.36,
+      "entryCount": 2,
+      "price": "含陽台9.75平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市大安區通化段二小段",
+      "owner": "鄭天財",
+      "date": "2009-03-11",
+      "effectiveAreaPing": 12.56,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區通化段二小段",
+      "owner": "王慧玲",
+      "date": "2009-03-11",
+      "effectiveAreaPing": 12.56,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺東縣臺東市富岡南段",
+      "owner": "王慧玲",
+      "date": "2014-04-07",
+      "effectiveAreaPing": 10.57,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉瑞良村中山路",
+      "owner": "鄭天財",
+      "date": "2021-07-16",
+      "effectiveAreaPing": 10.19,
+      "entryCount": 1,
+      "price": "800"
+    }
+  ]
+}

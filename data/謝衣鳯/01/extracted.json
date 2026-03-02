@@ -1,0 +1,492 @@
+{
+  "name": "謝衣鳯",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "彰化縣北斗鎮新政段",
+      "area": 25.66,
+      "share": "全部",
+      "owner": "謝衣鳯",
+      "date": "96年03月15日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣北斗鎮新政段",
+      "area": 1.97,
+      "share": "全部",
+      "owner": "謝衣鳯",
+      "date": "96年03月15日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣北斗鎮新政段",
+      "area": 47,
+      "share": "全部",
+      "owner": "謝衣鳯",
+      "date": "92年12月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣北斗鎮新政段",
+      "area": 25,
+      "share": "全部",
+      "owner": "謝衣鳯",
+      "date": "92年12月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣北斗鎮新政段",
+      "area": 507,
+      "share": "全部",
+      "owner": "謝衣鳯",
+      "date": "92年12月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 333,
+      "share": "10000 分之 68",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 995,
+      "share": "10000 分之 68",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 1003,
+      "share": "10000 分之 68",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 1000,
+      "share": "10000 分之 68",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 995,
+      "share": "10000 分之 68",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 142.85,
+      "share": "全部",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "含陽台 11.75 平方公尺,花 台2.61平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 7445.5,
+      "share": "10000 分之 68",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "area": 125.11,
+      "share": "1836 分 之 34",
+      "owner": "謝衣鳯",
+      "date": "98年10月22日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 35045912,
+    "items": [
+      {
+        "institution": "土地銀行長春分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 124022
+      },
+      {
+        "institution": "第一銀行西螺分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 11504516
+      },
+      {
+        "institution": "第一銀行西螺分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 116
+      },
+      {
+        "institution": "華南銀行員林分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 3890076
+      },
+      {
+        "institution": "彰化銀行淡水分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 1240
+      },
+      {
+        "institution": "國泰世華銀行西台中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 38
+      },
+      {
+        "institution": "國泰世華銀行敦南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 3922283
+      },
+      {
+        "institution": "兆豐國際商業銀行員林分 行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 1074257
+      },
+      {
+        "institution": "聯邦銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 2767508
+      },
+      {
+        "institution": "聯邦銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 86590
+      },
+      {
+        "institution": "元大銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 12
+      },
+      {
+        "institution": "永豐銀行北台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 196
+      },
+      {
+        "institution": "永豐銀行士東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 155
+      },
+      {
+        "institution": "台新國際銀行員林分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "台新國際銀行員林分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "謝衣鳯",
+        "foreignAmount": 81633,
+        "amount": 2609807
+      },
+      {
+        "institution": "台新國際銀行員林分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 65757
+      },
+      {
+        "institution": "台新國際銀行員林分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "謝衣鳯",
+        "foreignAmount": 258708,
+        "amount": 54205
+      },
+      {
+        "institution": "台新國際銀行員林分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "謝衣鳯",
+        "foreignAmount": 775,
+        "amount": 24787
+      },
+      {
+        "institution": "安泰銀行員林分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "謝衣鳯",
+        "foreignAmount": 6932,
+        "amount": 221565
+      },
+      {
+        "institution": "安泰銀行員林分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 6833422
+      },
+      {
+        "institution": "安泰銀行員林分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "謝衣鳯",
+        "foreignAmount": 20864,
+        "amount": 666831
+      },
+      {
+        "institution": "安泰銀行員林分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "謝衣鳯",
+        "foreignAmount": 945898,
+        "amount": 198165
+      },
+      {
+        "institution": "安泰銀行員林分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝衣鳯",
+        "foreignAmount": 0,
+        "amount": 319
+      },
+      {
+        "institution": "安泰銀行員林分行",
+        "type": "綜合存款",
+        "currency": "歐元",
+        "owner": "謝衣鳯",
+        "foreignAmount": 1,
+        "amount": 41
+      }
+    ]
+  },
+  "stocks": {
+    "total": 3558890,
+    "items": [
+      {
+        "name": "台泥",
+        "owner": "謝衣鳯",
+        "shares": 1,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10
+      },
+      {
+        "name": "正隆",
+        "owner": "謝衣鳯",
+        "shares": 5,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50
+      },
+      {
+        "name": "永豐餘",
+        "owner": "謝衣鳯",
+        "shares": 1,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10
+      },
+      {
+        "name": "山隆",
+        "owner": "謝衣鳯",
+        "shares": 1,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10
+      },
+      {
+        "name": "元大金",
+        "owner": "謝衣鳯",
+        "shares": 25690,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 256900
+      },
+      {
+        "name": "遠傳",
+        "owner": "謝衣鳯",
+        "shares": 9186,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 91860
+      },
+      {
+        "name": "台郡",
+        "owner": "謝衣鳯",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      },
+      {
+        "name": "偉盟",
+        "owner": "謝衣鳯",
+        "shares": 309000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3090000
+      },
+      {
+        "name": "欣錩",
+        "owner": "謝衣鳯",
+        "shares": 5,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "owner": "謝衣鳯",
+        "institution": "富 邦 綜 合 證 券 南員林分公司",
+        "units": 5000,
+        "unitValue": 190.5,
+        "foreignCurrency": "",
+        "totalValue": 952500
+      },
+      {
+        "name": "元大高股息",
+        "owner": "謝衣鳯",
+        "institution": "富 邦 綜 合 證 券 南員林分公司",
+        "units": 3000,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 111840
+      },
+      {
+        "name": "富邦特選高股息 30",
+        "owner": "謝衣鳯",
+        "institution": "富 邦 綜 合 證 券 南員林分公司",
+        "units": 2000,
+        "unitValue": 14.64,
+        "foreignCurrency": "",
+        "totalValue": 29280
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 金 鑽 515 美元還本終 身保險",
+        "policyNumber": "",
+        "holder": "謝衣鳯",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 06 月 13 日/176 年 06 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "",
+        "holder": "謝衣鳯",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 10 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "全家福養老保險",
+        "policyNumber": "",
+        "holder": "謝衣鳯",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 16 日/115 年 09 月 16 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

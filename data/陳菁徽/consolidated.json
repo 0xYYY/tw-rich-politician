@@ -1,0 +1,792 @@
+{
+  "name": "陳菁徽",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "人民幣",
+      "amount": 2310943
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 33177831
+    },
+    {
+      "currency": "美元",
+      "amount": 3548803
+    },
+    {
+      "currency": "日圓",
+      "amount": 96745
+    },
+    {
+      "currency": "港幣",
+      "amount": 91557
+    },
+    {
+      "currency": "英鎊",
+      "amount": 101
+    },
+    {
+      "currency": "歐元",
+      "amount": 7
+    }
+  ],
+  "depositsTotal": 39225992,
+  "insurance": [
+    {
+      "company": "三 商美邦人 壽 保 險股份有 限 公司",
+      "name": "二十年繳費真心 安終身保險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商美邦人 壽 保 險股份有 限 公司",
+      "name": "二十年繳費祥安 心終身壽險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商美邦人 壽 保 險股份有 限 公司",
+      "name": "六年繳費美添鑽 美元利率變動型 增額終身壽險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽健康御 守醫療帳戶終身 保險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "312 還本終身壽險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "安安醫療終身保 險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "美意年年終身壽 險",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "常樂美利利變美 元",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "新真安順手術醫 療終身",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "新超安順手術醫 療終身",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "漾安心住院醫療 終身",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "鍾心呵護重大傷 病定期",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "鍾生呵護重大傷 病",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "鍾生呵護重大傷 病",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "鍾生呵護重大傷 病",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦人壽保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 15 年）",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦人壽保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 20 年）",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀人壽保 險 股份有限公司",
+      "name": "守護久久手術醫 療終身健康保險 (109A)",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀人壽保 險 股份有限公司",
+      "name": "守護久久手術醫 療終身健康保險 (109A)",
+      "holder": "陳菁徽",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽樂活寶 倍醫療終身保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽樂活寶 倍醫療終身保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽樂活寶 倍醫療終身保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽樂活寶 倍醫療終身保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "英 屬百慕達 商 友 邦人壽保 險 股 份有限公 司 台灣分公司",
+      "name": "友邦人壽超友心 終身保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "第 一金人壽 保 險 股份有限 公 司",
+      "name": "第一金人壽前後 給利變額年金保 險",
+      "holder": "蔡政哲",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "第 一金人壽 保 險 股份有限 公 司",
+      "name": "第一金人壽美世 傳富美元利率變 動型終身壽險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基人壽保 險 股份有限公司",
+      "name": "中國人壽多多利 終身保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基人壽保 險 股份有限公司",
+      "name": "中國人壽多美鑫 旺美元利率變動 型終身壽險－定 期給付型",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦人壽保 險 股份有限公司",
+      "name": "富邦人壽新平安 福保本保險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "美利豐盛美元利 率變動型終身壽 險",
+      "holder": "蔡政哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄人壽保 險 事 業股份有 限 公司",
+      "name": "遠雄人壽富貴超 多利終身還本保 險 JQ1",
+      "holder": "蔡○言",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商美邦人 壽 保 險股份有 限 公司",
+      "name": "十五年繳費新祥 富增額終身壽險",
+      "holder": "蔡○岐",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 291,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 31.95,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 462,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "矽統",
+      "cleanName": "矽統",
+      "ticker": "2363",
+      "shares": 821,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 39,
+      "latestPrice": 54.8
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 242,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 47.65,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "開發金",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 55000,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 14.15,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 513,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 30.2,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 8000,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 40.9,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "永豐金",
+      "cleanName": "永豐金",
+      "ticker": "2890",
+      "shares": 5297,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 21.35,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦",
+      "cleanName": "蘋果電腦",
+      "ticker": "AAPL",
+      "shares": 500,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦",
+      "cleanName": "蘋果電腦",
+      "ticker": "AAPL",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦",
+      "cleanName": "蘋果電腦",
+      "ticker": "AAPL",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦",
+      "cleanName": "蘋果電腦",
+      "ticker": "AAPL",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦",
+      "cleanName": "蘋果電腦",
+      "ticker": "AAPL",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦",
+      "cleanName": "蘋果電腦",
+      "ticker": "AAPL",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "超微",
+      "cleanName": "超微",
+      "ticker": "AMD",
+      "shares": 200,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "超微",
+      "cleanName": "超微",
+      "ticker": "AMD",
+      "shares": 200,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "超微",
+      "cleanName": "超微",
+      "ticker": "AMD",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "波音公司",
+      "cleanName": "波音公司",
+      "ticker": "BA",
+      "shares": 200,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "波音公司",
+      "cleanName": "波音公司",
+      "ticker": "BA",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "波音公司",
+      "cleanName": "波音公司",
+      "ticker": "BA",
+      "shares": 65,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "波音公司",
+      "cleanName": "波音公司",
+      "ticker": "BA",
+      "shares": 50,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "波音公司",
+      "cleanName": "波音公司",
+      "ticker": "BA",
+      "shares": 35,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "阿里巴巴集團",
+      "cleanName": "阿里巴巴集團",
+      "ticker": "BABA",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "阿里巴巴集團",
+      "cleanName": "阿里巴巴集團",
+      "ticker": "BABA",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "阿里巴巴集團",
+      "cleanName": "阿里巴巴集團",
+      "ticker": "BABA",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "阿里巴巴集團",
+      "cleanName": "阿里巴巴集團",
+      "ticker": "BABA",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "阿里巴巴集團",
+      "cleanName": "阿里巴巴集團",
+      "ticker": "BABA",
+      "shares": 98,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "阿里巴巴集團",
+      "cleanName": "阿里巴巴集團",
+      "ticker": "BABA",
+      "shares": 30,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "BAIDU INC-CHINA ADR",
+      "cleanName": "BAIDU INC-CHINA ADR",
+      "ticker": "BIDU",
+      "shares": 120,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "BAIDU INC-CHINA ADR",
+      "cleanName": "BAIDU INC-CHINA ADR",
+      "ticker": "BIDU",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "BAIDU INC-CHINA ADR",
+      "cleanName": "BAIDU INC-CHINA ADR",
+      "ticker": "BIDU",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "微狄亞視訊",
+      "cleanName": "微狄亞視訊",
+      "ticker": null,
+      "shares": 700,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "微狄亞視訊",
+      "cleanName": "微狄亞視訊",
+      "ticker": null,
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "TESLA INC",
+      "cleanName": "TESLA INC",
+      "ticker": "TSLA",
+      "shares": 510,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電 ADR",
+      "cleanName": "台積電 ADR",
+      "ticker": "TSM",
+      "shares": 200,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電 ADR",
+      "cleanName": "台積電 ADR",
+      "ticker": "TSM",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電 ADR",
+      "cleanName": "台積電 ADR",
+      "ticker": "TSM",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電 ADR",
+      "cleanName": "台積電 ADR",
+      "ticker": "TSM",
+      "shares": 100,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "NIO INC",
+      "cleanName": "NIO INC",
+      "ticker": "NIO",
+      "shares": 300,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "NIO INC",
+      "cleanName": "NIO INC",
+      "ticker": "NIO",
+      "shares": 300,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "SHOPIFY INC",
+      "cleanName": "SHOPIFY INC",
+      "ticker": "SHOP",
+      "shares": 200,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC-A",
+      "cleanName": "PALANTIR TECHNOLOGIES INC-A",
+      "ticker": "PLTR",
+      "shares": 500,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "AMERICAN WELL CORP",
+      "cleanName": "AMERICAN WELL CORP",
+      "ticker": "AMWL",
+      "shares": 126,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "AMERICAN WELL CORP",
+      "cleanName": "AMERICAN WELL CORP",
+      "ticker": "AMWL",
+      "shares": 80,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "AMERICAN WELL CORP",
+      "cleanName": "AMERICAN WELL CORP",
+      "ticker": "AMWL",
+      "shares": 65,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "AMERICAN WELL CORP",
+      "cleanName": "AMERICAN WELL CORP",
+      "ticker": "AMWL",
+      "shares": 15,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "AMERICAN WELL CORP",
+      "cleanName": "AMERICAN WELL CORP",
+      "ticker": "AMWL",
+      "shares": 14,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "彩晶",
+      "cleanName": "彩晶",
+      "ticker": "6116",
+      "shares": 25000,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 10.7,
+      "latestPrice": 9.27
+    },
+    {
+      "name": "台郡",
+      "cleanName": "台郡",
+      "ticker": "6269",
+      "shares": 10000,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 88.9,
+      "latestPrice": 64.7
+    },
+    {
+      "name": "台睿",
+      "cleanName": "台睿",
+      "ticker": null,
+      "shares": 100000,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "欣高",
+      "cleanName": "欣高",
+      "ticker": "9931",
+      "shares": 374785,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 37.85,
+      "latestPrice": 35.2
+    },
+    {
+      "name": "欣高",
+      "cleanName": "欣高",
+      "ticker": "9931",
+      "shares": 11024,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": 37.85,
+      "latestPrice": 35.2
+    },
+    {
+      "name": "華隆",
+      "cleanName": "華隆",
+      "ticker": null,
+      "shares": 497,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "旅天下",
+      "cleanName": "旅天下",
+      "ticker": "6961",
+      "shares": 50000,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": 56.8
+    },
+    {
+      "name": "陽信商銀",
+      "cleanName": "陽信商銀",
+      "ticker": null,
+      "shares": 168066,
+      "owner": "陳菁徽",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "群益安穩貨幣市 場基金",
+      "owner": "陳菁徽",
+      "institution": "臺 灣 銀 行 博 愛 分行",
+      "units": 127878.9,
+      "unitValue": 16.6318,
+      "currency": "",
+      "declaredValue": 2126856,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段一小段",
+      "owner": "陳菁徽",
+      "date": "1996-02-29",
+      "effectiveAreaPing": 58.13,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段五小段",
+      "owner": "陳菁徽",
+      "date": "2005-08-19",
+      "effectiveAreaPing": 49.59,
+      "entryCount": 2,
+      "price": "含陽台11.2平 方公尺,花台 1.23 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺北市信義區雅祥段一小段",
+      "owner": "陳菁徽",
+      "date": "2016-08-23",
+      "effectiveAreaPing": 126.9,
+      "entryCount": 2,
+      "price": "含陽台 19.22 平方公尺,雨 遮 16.33 平方 公尺(超過五 年)"
+    },
+    {
+      "location": "桃園市蘆竹區羊稠段",
+      "owner": "蔡政哲",
+      "date": "2001-08-17",
+      "effectiveAreaPing": 79.73,
+      "entryCount": 4,
+      "price": "含陽台18.6平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "owner": "蔡政哲",
+      "date": "2006-08-07",
+      "effectiveAreaPing": 273.76,
+      "entryCount": 3,
+      "price": "含陽台 38.23 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺南市中西區永華段",
+      "owner": "蔡政哲",
+      "date": "2001-05-09",
+      "effectiveAreaPing": 37.3,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

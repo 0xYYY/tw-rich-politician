@@ -1,0 +1,436 @@
+{
+  "name": "徐富癸",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張靜玲"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣瑞光段",
+      "area": 104,
+      "share": "全部",
+      "owner": "張靜玲",
+      "date": "88年10月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣瑞光段",
+      "area": 1174,
+      "share": "42 分之 1",
+      "owner": "張靜玲",
+      "date": "88年09月29日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣麟洛鄉麟孝段",
+      "area": 1761.62,
+      "share": "全部",
+      "owner": "張靜玲",
+      "date": "107年07月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣瑞光段",
+      "area": 219.38,
+      "share": "全部",
+      "owner": "張靜玲",
+      "date": "88年10月15日",
+      "reason": "買賣",
+      "price": "含陽台9.74平 方公尺,屋頂 突出物 10.41 平方公尺(超 過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "本田",
+      "cc": 1498,
+      "owner": "張靜玲",
+      "date": "108年01月08日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "本田",
+      "cc": 1497,
+      "owner": "張靜玲",
+      "date": "112年06月29日",
+      "reason": "買賣",
+      "price": 80000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1945292,
+    "items": [
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 475829
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 134200
+      },
+      {
+        "institution": "臺灣土地銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 3307
+      },
+      {
+        "institution": "第一商業銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 349
+      },
+      {
+        "institution": "上海商業儲蓄銀行板橋分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 336
+      },
+      {
+        "institution": "國泰世華商業銀行屏東分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 1275
+      },
+      {
+        "institution": "臺灣新光商業銀行東園分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 496
+      },
+      {
+        "institution": "中華郵政股份有限公司",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 1190
+      },
+      {
+        "institution": "中華郵政股份有限公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 2353
+      },
+      {
+        "institution": "台新國際商業銀行屏東分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐富癸",
+        "foreignAmount": 0,
+        "amount": 630
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 448305
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 46257
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 703000
+      },
+      {
+        "institution": "臺灣土地銀行東港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 2397
+      },
+      {
+        "institution": "合作金庫商業銀行北士林 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 475
+      },
+      {
+        "institution": "第一商業銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "國泰世華商業銀行新興分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 107
+      },
+      {
+        "institution": "中華郵政股份有限公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 104527
+      },
+      {
+        "institution": "玉山商業銀行屏東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 20116
+      },
+      {
+        "institution": "星展(台灣)商業銀行資訊 暨營運管理處",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張靜玲",
+        "foreignAmount": 0,
+        "amount": 130
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "群益創新科技基 金",
+        "owner": "徐富癸",
+        "institution": "臺 灣 銀 行 屏 東 分行",
+        "units": 982.2,
+        "unitValue": 72.08,
+        "foreignCurrency": "",
+        "totalValue": 70796
+      },
+      {
+        "name": "群益創新科技基 金",
+        "owner": "徐富癸",
+        "institution": "臺 灣 銀 行 屏 東 分行",
+        "units": 429.1,
+        "unitValue": 72.08,
+        "foreignCurrency": "",
+        "totalValue": 30929
+      },
+      {
+        "name": "群益中小型股基 金",
+        "owner": "徐富癸",
+        "institution": "臺 灣 銀 行 屏 東 分行",
+        "units": 178.9,
+        "unitValue": 93.35,
+        "foreignCurrency": "",
+        "totalValue": 16700
+      },
+      {
+        "name": "新光創新科技基 金",
+        "owner": "徐富癸",
+        "institution": "臺 灣 銀 行 屏 東 分行",
+        "units": 865.78,
+        "unitValue": 39.93,
+        "foreignCurrency": "",
+        "totalValue": 34570
+      },
+      {
+        "name": "摩根新興科技一 般",
+        "owner": "徐富癸",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 100.1,
+        "unitValue": 127.64,
+        "foreignCurrency": "",
+        "totalValue": 12776
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽",
+        "name": "南 山 康 樂 限 期 繳費終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "徐富癸",
+        "contractType": "儲蓄型壽險",
+        "period": "84 年 09 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽",
+        "name": "保 誠 人 壽 百 樂 人生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "徐富癸",
+        "contractType": "投資型壽險",
+        "period": "98 年 07 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽",
+        "name": "保 誠 人 壽 悠 遊 人生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "徐富癸",
+        "contractType": "投資型壽險",
+        "period": "98 年 07 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽",
+        "name": "保 誠 人 壽 悠 遊 人生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "徐富癸",
+        "contractType": "投資型壽險",
+        "period": "98 年 07 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "新 光 人 壽 年 年 如意終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "徐富癸",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 03 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 金 富貴終身保險",
+        "policyNumber": "○○○○○○○ ○○133",
+        "holder": "張靜玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 08 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 祥 安終身壽險",
+        "policyNumber": "○○○○○○○ ○○126",
+        "holder": "張靜玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 08 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南 山 人 壽 幸 福 久久 2 外幣增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "張靜玲",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 10 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽",
+        "name": "保 誠 人 壽 悠 遊 人生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張靜玲",
+        "contractType": "投資型壽險",
+        "period": "98 年 07 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "富 邦 人 壽 金 美 利 外 幣 利 率 變 動 型 增 額 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "張靜玲",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 04 月 03 日/202 年 04 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "台灣人壽",
+        "name": "台 灣 人 壽 美 鑽 年 年 美 元 利 率 變 動 型 還 本 終 身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "張靜玲",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 03 月 30 日/172 年 03 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "台灣人壽",
+        "name": "台 灣 人 壽 鑫 美 利 外 幣 終 身 壽 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張靜玲",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 27 日/199 年 06 月 27 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3645960,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "張靜玲",
+        "creditor": "臺灣土地銀行東港分行",
+        "amount": 3645960,
+        "date": "107年07月10日",
+        "reason": "其他個人金 融貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

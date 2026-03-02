@@ -1,0 +1,77 @@
+{
+  "name": "牛煦庭",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "楊貞儀"
+    }
+  ],
+  "land": [
+    {
+      "location": "1★桃園市龜山區文化段",
+      "area": 962,
+      "share": "10000 分之 190",
+      "owner": "牛煦庭",
+      "date": "113年03月29日",
+      "reason": "買進",
+      "price": "24,800,000 (房地合購價)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "1★桃園市龜山區文化段",
+      "area": 91.02,
+      "share": "全部",
+      "owner": "牛煦庭",
+      "date": "113年03月29日",
+      "reason": "買進",
+      "price": "24,800,000 (房地合購價)"
+    },
+    {
+      "location": "1★桃園市龜山區文化段",
+      "area": 0,
+      "share": "100000 分 之 1969",
+      "owner": "牛煦庭",
+      "date": "113年03月29日",
+      "reason": "買進",
+      "price": "24,800,000 (房地合購價， 共同使用部分: 隨同主建物移 轉)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

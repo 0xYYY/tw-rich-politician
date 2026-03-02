@@ -1,0 +1,1759 @@
+{
+  "name": "林月琴",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "蔡宗翰"
+    }
+  ],
+  "land": [
+    {
+      "location": "新竹市東橋段",
+      "area": 163.12,
+      "share": "16 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 121.39,
+      "share": "16 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 13.44,
+      "share": "16 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 59.54,
+      "share": "4 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 0.4,
+      "share": "4 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 40.49,
+      "share": "4 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 85.81,
+      "share": "4 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 185.41,
+      "share": "16 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市東橋段",
+      "area": 4.77,
+      "share": "16 分之 2",
+      "owner": "林月琴",
+      "date": "80年03月21日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區芝山段二小段",
+      "area": 1321,
+      "share": "1000 分 之 26",
+      "owner": "林月琴",
+      "date": "101年12月10日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣布袋鎮九江段",
+      "area": 189,
+      "share": "72 分之 1",
+      "owner": "蔡宗翰",
+      "date": "102年02月22日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣布袋鎮九江段",
+      "area": 148.81,
+      "share": "210420 分 之 2940",
+      "owner": "蔡宗翰",
+      "date": "106年03月06日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣布袋鎮九江段",
+      "area": 23.26,
+      "share": "26712 分之 425",
+      "owner": "蔡宗翰",
+      "date": "106年03月06日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣布袋鎮九江段",
+      "area": 6.21,
+      "share": "72 分之 1",
+      "owner": "蔡宗翰",
+      "date": "102年02月22日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區芝山段三小段",
+      "area": 176,
+      "share": "10000 分之 1949",
+      "owner": "蔡宗翰",
+      "date": "81年07月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市士林區芝山段二小段",
+      "area": 93.6,
+      "share": "全部",
+      "owner": "林月琴",
+      "date": "101年12月10日",
+      "reason": "買賣",
+      "price": "含平台 7.8 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市士林區芝山段三小段",
+      "area": 123.38,
+      "share": "全部",
+      "owner": "蔡宗翰",
+      "date": "81年07月16日",
+      "reason": "買賣",
+      "price": "含陽台12.1平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市士林區芝山段三小段",
+      "area": 40.5,
+      "share": "5 分之 1",
+      "owner": "蔡宗翰",
+      "date": "81年07月16日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 1987,
+      "owner": "林月琴",
+      "date": "105年12月09日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "LEXUS",
+      "cc": 1987,
+      "owner": "林月琴",
+      "date": "110年10月05日",
+      "reason": "買賣",
+      "price": 1500000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7682686,
+    "items": [
+      {
+        "institution": "合庫商業銀行士林分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 94170
+      },
+      {
+        "institution": "合庫商業銀行士林分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林月琴",
+        "foreignAmount": 889,
+        "amount": 28123
+      },
+      {
+        "institution": "第一銀行劍潭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 2948126
+      },
+      {
+        "institution": "第一銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 120
+      },
+      {
+        "institution": "彰化銀行大直分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 95
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 880477
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "紐西蘭幣",
+        "owner": "林月琴",
+        "foreignAmount": 4007,
+        "amount": 77187
+      },
+      {
+        "institution": "國泰世華銀行環球交易服 務部",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林月琴",
+        "foreignAmount": 462,
+        "amount": 14620
+      },
+      {
+        "institution": "國泰世華銀行天母分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 267772
+      },
+      {
+        "institution": "京城商業銀行興業分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 44499
+      },
+      {
+        "institution": "京城商業銀行興業分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 17459
+      },
+      {
+        "institution": "瑞興商業銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 207164
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 915692
+      },
+      {
+        "institution": "玉山銀行天母分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 83924
+      },
+      {
+        "institution": "星展德行分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林月琴",
+        "foreignAmount": 1619,
+        "amount": 51017
+      },
+      {
+        "institution": "星展德行分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林月琴",
+        "foreignAmount": 0,
+        "amount": 31809
+      },
+      {
+        "institution": "華南銀行大稻埕分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 455568
+      },
+      {
+        "institution": "台北富邦銀行士東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "台北富邦銀行士東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "台北富邦銀行士東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "台北富邦銀行士東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "台北富邦銀行士東分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "台北富邦銀行士東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 223475
+      },
+      {
+        "institution": "兆豐國際商業銀行蘭雅分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蔡宗翰",
+        "foreignAmount": 100,
+        "amount": 3161
+      },
+      {
+        "institution": "兆豐國際商業銀行蘭雅分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "臺灣企銀大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 48
+      },
+      {
+        "institution": "京城商業銀行興業分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 9410
+      },
+      {
+        "institution": "臺灣新光銀行嘉義分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 1719,
+        "amount": 2807
+      },
+      {
+        "institution": "臺灣新光銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 15901
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 3874
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 128024
+      },
+      {
+        "institution": "元大銀行南嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 5194
+      },
+      {
+        "institution": "永豐銀行天母分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡宗翰",
+        "foreignAmount": 0,
+        "amount": 171968
+      }
+    ]
+  },
+  "stocks": {
+    "total": 9010000,
+    "items": [
+      {
+        "name": "台泥",
+        "owner": "林月琴",
+        "shares": 5499,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 54990
+      },
+      {
+        "name": "台聚",
+        "owner": "林月琴",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "華夏",
+        "owner": "林月琴",
+        "shares": 1180,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11800
+      },
+      {
+        "name": "臺化",
+        "owner": "林月琴",
+        "shares": 2060,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20600
+      },
+      {
+        "name": "得力",
+        "owner": "林月琴",
+        "shares": 4240,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 42400
+      },
+      {
+        "name": "儒鴻",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中鋼",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "春雨",
+        "owner": "林月琴",
+        "shares": 4200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 42000
+      },
+      {
+        "name": "聯電",
+        "owner": "林月琴",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "台達電",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "金寶",
+        "owner": "林月琴",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "鴻海",
+        "owner": "林月琴",
+        "shares": 3036,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30360
+      },
+      {
+        "name": "台積電",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "華邦電",
+        "owner": "林月琴",
+        "shares": 7281,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 72810
+      },
+      {
+        "name": "台光電",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "群光",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "南亞科",
+        "owner": "林月琴",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "聯發科",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "飛宏",
+        "owner": "林月琴",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "瑞軒",
+        "owner": "林月琴",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "根基",
+        "owner": "林月琴",
+        "shares": 1138,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11380
+      },
+      {
+        "name": "富邦金",
+        "owner": "林月琴",
+        "shares": 6163,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 61630
+      },
+      {
+        "name": "玉山金",
+        "owner": "林月琴",
+        "shares": 2350,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 23500
+      },
+      {
+        "name": "中信金",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "晶豪科",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "欣興",
+        "owner": "林月琴",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "緯創",
+        "owner": "林月琴",
+        "shares": 3178,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 31780
+      },
+      {
+        "name": "玉晶光",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "曜越",
+        "owner": "林月琴",
+        "shares": 3299,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 32990
+      },
+      {
+        "name": "神達",
+        "owner": "林月琴",
+        "shares": 2960,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 29600
+      },
+      {
+        "name": "富采",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "國精化",
+        "owner": "林月琴",
+        "shares": 1050,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10500
+      },
+      {
+        "name": "遠傳",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "科嘉-KY",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "立凱-KY",
+        "owner": "林月琴",
+        "shares": 1264,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12640
+      },
+      {
+        "name": "福邦證",
+        "owner": "林月琴",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "頎邦",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "瑞儀",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "台郡",
+        "owner": "林月琴",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "同欣電",
+        "owner": "林月琴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "至上",
+        "owner": "林月琴",
+        "shares": 2211,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22110
+      },
+      {
+        "name": "台泥",
+        "owner": "蔡宗翰",
+        "shares": 10999,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 109990
+      },
+      {
+        "name": "亞泥",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "聯華",
+        "owner": "蔡宗翰",
+        "shares": 8690,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 86900
+      },
+      {
+        "name": "中鋼",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "國際中橡",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "聯電",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "佳錄科技",
+        "owner": "蔡宗翰",
+        "shares": 798,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7980
+      },
+      {
+        "name": "台積電",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "旺宏",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "智邦",
+        "owner": "蔡宗翰",
+        "shares": 5009,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50090
+      },
+      {
+        "name": "聯強",
+        "owner": "蔡宗翰",
+        "shares": 11920,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 119200
+      },
+      {
+        "name": "佳世達",
+        "owner": "蔡宗翰",
+        "shares": 21977,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 219770
+      },
+      {
+        "name": "技嘉",
+        "owner": "蔡宗翰",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "廣達",
+        "owner": "蔡宗翰",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "台光電",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "群光",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "友達",
+        "owner": "蔡宗翰",
+        "shares": 1600,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 16000
+      },
+      {
+        "name": "精技",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "互盛電",
+        "owner": "蔡宗翰",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "國建",
+        "owner": "蔡宗翰",
+        "shares": 1394,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 13940
+      },
+      {
+        "name": "中工",
+        "owner": "蔡宗翰",
+        "shares": 6113,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 61130
+      },
+      {
+        "name": "長榮",
+        "owner": "蔡宗翰",
+        "shares": 800,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8000
+      },
+      {
+        "name": "陽明",
+        "owner": "蔡宗翰",
+        "shares": 3296,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 32960
+      },
+      {
+        "name": "台灣高鐵",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "台中銀",
+        "owner": "蔡宗翰",
+        "shares": 33675,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 336750
+      },
+      {
+        "name": "華南金",
+        "owner": "蔡宗翰",
+        "shares": 22303,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 223030
+      },
+      {
+        "name": "富邦金",
+        "owner": "蔡宗翰",
+        "shares": 4050,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40500
+      },
+      {
+        "name": "國泰金",
+        "owner": "蔡宗翰",
+        "shares": 88574,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 885740
+      },
+      {
+        "name": "開發金",
+        "owner": "蔡宗翰",
+        "shares": 290677,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2906770
+      },
+      {
+        "name": "玉山金",
+        "owner": "蔡宗翰",
+        "shares": 4565,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 45650
+      },
+      {
+        "name": "玉山金",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "兆豐金",
+        "owner": "蔡宗翰",
+        "shares": 10547,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 105470
+      },
+      {
+        "name": "台新金",
+        "owner": "蔡宗翰",
+        "shares": 53804,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 538040
+      },
+      {
+        "name": "新光金",
+        "owner": "蔡宗翰",
+        "shares": 9136,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 91360
+      },
+      {
+        "name": "國票金",
+        "owner": "蔡宗翰",
+        "shares": 20313,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 203130
+      },
+      {
+        "name": "永豐金",
+        "owner": "蔡宗翰",
+        "shares": 71103,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 711030
+      },
+      {
+        "name": "中信金",
+        "owner": "蔡宗翰",
+        "shares": 20402,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 204020
+      },
+      {
+        "name": "第一金",
+        "owner": "蔡宗翰",
+        "shares": 7931,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 79310
+      },
+      {
+        "name": "文曄",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "台灣大",
+        "owner": "蔡宗翰",
+        "shares": 3556,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 35560
+      },
+      {
+        "name": "順達科",
+        "owner": "蔡宗翰",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "群創",
+        "owner": "蔡宗翰",
+        "shares": 859,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8590
+      },
+      {
+        "name": "聯合再生",
+        "owner": "蔡宗翰",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "神達",
+        "owner": "蔡宗翰",
+        "shares": 1479,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14790
+      },
+      {
+        "name": "致伸",
+        "owner": "蔡宗翰",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "新唐",
+        "owner": "蔡宗翰",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "立凱-KY",
+        "owner": "蔡宗翰",
+        "shares": 420,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4200
+      },
+      {
+        "name": "福邦證",
+        "owner": "蔡宗翰",
+        "shares": 1200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12000
+      },
+      {
+        "name": "茂達",
+        "owner": "蔡宗翰",
+        "shares": 2399,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 23990
+      },
+      {
+        "name": "全國電",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "台塑化",
+        "owner": "蔡宗翰",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "尖點",
+        "owner": "蔡宗翰",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "長園科",
+        "owner": "蔡宗翰",
+        "shares": 2081,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20810
+      },
+      {
+        "name": "台汽電",
+        "owner": "蔡宗翰",
+        "shares": 7221,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 72210
+      },
+      {
+        "name": "大台北",
+        "owner": "蔡宗翰",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "全國",
+        "owner": "蔡宗翰",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "施羅德環球新興 市場債",
+        "owner": "林月琴",
+        "institution": "台 北 富 邦 銀 行 士林分行",
+        "units": 240.03,
+        "unitValue": 8.0159,
+        "foreignCurrency": "歐元",
+        "totalValue": 65772
+      },
+      {
+        "name": "貝萊德世界礦業 歐元",
+        "owner": "林月琴",
+        "institution": "台 北 富 邦 銀 行 士林分行",
+        "units": 67.99,
+        "unitValue": 54.1,
+        "foreignCurrency": "歐元",
+        "totalValue": 125738
+      },
+      {
+        "name": "晉達環球環境收 益",
+        "owner": "林月琴",
+        "institution": "台 北 富 邦 銀 行 士林分行",
+        "units": 167.567,
+        "unitValue": 18.52,
+        "foreignCurrency": "美元",
+        "totalValue": 97915
+      },
+      {
+        "name": "富達新興市場基 金（A 股美元）",
+        "owner": "林月琴",
+        "institution": "京城商業銀行",
+        "units": 117.44,
+        "unitValue": 28.55,
+        "foreignCurrency": "美元",
+        "totalValue": 105861
+      },
+      {
+        "name": "柏瑞拉丁美洲",
+        "owner": "林月琴",
+        "institution": "京城商業銀行",
+        "units": 7326,
+        "unitValue": 10.47,
+        "foreignCurrency": "",
+        "totalValue": 76703
+      },
+      {
+        "name": "元大台灣 50",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 2842,
+        "unitValue": 152.96,
+        "foreignCurrency": "",
+        "totalValue": 434712
+      },
+      {
+        "name": "元大高股息",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 5000,
+        "unitValue": 39.2,
+        "foreignCurrency": "",
+        "totalValue": 196000
+      },
+      {
+        "name": "富邦台 50",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 12170,
+        "unitValue": 89.31,
+        "foreignCurrency": "",
+        "totalValue": 1086902
+      },
+      {
+        "name": "元大美債 20 年",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 7000,
+        "unitValue": 29.0929,
+        "foreignCurrency": "",
+        "totalValue": 203650
+      },
+      {
+        "name": "富邦美債 20 年",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 2623,
+        "unitValue": 31.2102,
+        "foreignCurrency": "",
+        "totalValue": 81864
+      },
+      {
+        "name": "元大台灣高息低 波",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 6449,
+        "unitValue": 54.27,
+        "foreignCurrency": "",
+        "totalValue": 349987
+      },
+      {
+        "name": "元大投資級公司 債",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 9000,
+        "unitValue": 34.9941,
+        "foreignCurrency": "",
+        "totalValue": 314946
+      },
+      {
+        "name": "元大臺灣 ESG 永 續",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 3442,
+        "unitValue": 38.91,
+        "foreignCurrency": "",
+        "totalValue": 133928
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 12351,
+        "unitValue": 22.48,
+        "foreignCurrency": "",
+        "totalValue": 277650
+      },
+      {
+        "name": "中信關鍵半導體",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 2000,
+        "unitValue": 17.99,
+        "foreignCurrency": "",
+        "totalValue": 35980
+      },
+      {
+        "name": "復華台灣科技優 息",
+        "owner": "林月琴",
+        "institution": "富 邦 證 券 陽 明 分公司",
+        "units": 5000,
+        "unitValue": 20.7,
+        "foreignCurrency": "",
+        "totalValue": 103500
+      },
+      {
+        "name": "元大台灣 50",
+        "owner": "蔡宗翰",
+        "institution": "永 豐 金 證 券 天 母分公司",
+        "units": 4280,
+        "unitValue": 152.96,
+        "foreignCurrency": "",
+        "totalValue": 654668
+      },
+      {
+        "name": "元大美債 20 年",
+        "owner": "蔡宗翰",
+        "institution": "永 豐 金 證 券 天 母分公司",
+        "units": 1000,
+        "unitValue": 29.0929,
+        "foreignCurrency": "",
+        "totalValue": 29092
+      },
+      {
+        "name": "元大投資級公司",
+        "owner": "蔡宗翰",
+        "institution": "永 豐 金 證 券 天",
+        "units": 1571,
+        "unitValue": 34.9941,
+        "foreignCurrency": "",
+        "totalValue": 54975
+      },
+      {
+        "name": "債",
+        "owner": "",
+        "institution": "母分公司",
+        "units": 0,
+        "unitValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "中信高評級公司 債",
+        "owner": "蔡宗翰",
+        "institution": "永 豐 金 證 券 天 母分公司",
+        "units": 1557,
+        "unitValue": 35.4273,
+        "foreignCurrency": "",
+        "totalValue": 55160
+      },
+      {
+        "name": "元大臺灣 ESG 永 續",
+        "owner": "蔡宗翰",
+        "institution": "永 豐 金 證 券 天 母分公司",
+        "units": 1394,
+        "unitValue": 38.91,
+        "foreignCurrency": "",
+        "totalValue": 54240
+      },
+      {
+        "name": "聯博全球非投資 等級債券 AT 股美 元月配息",
+        "owner": "蔡宗翰",
+        "institution": "京城商業銀行",
+        "units": 6190.689,
+        "unitValue": 3.14,
+        "foreignCurrency": "美元",
+        "totalValue": 613740
+      },
+      {
+        "name": "富蘭克林公司債 基金（美元月配 現金）",
+        "owner": "蔡宗翰",
+        "institution": "京城商業銀行",
+        "units": 1404.93,
+        "unitValue": 5.21,
+        "foreignCurrency": "美元",
+        "totalValue": 231104
+      },
+      {
+        "name": "富蘭克林新興國 家固定收益（美 元月配現金）",
+        "owner": "蔡宗翰",
+        "institution": "京城商業銀行",
+        "units": 849.927,
+        "unitValue": 4.19,
+        "foreignCurrency": "美元",
+        "totalValue": 112437
+      },
+      {
+        "name": "先機新興市場債 券基金 C 類美元 月配息",
+        "owner": "蔡宗翰",
+        "institution": "京城商業銀行",
+        "units": 1336.982,
+        "unitValue": 6.2927,
+        "foreignCurrency": "美元",
+        "totalValue": 265630
+      },
+      {
+        "name": "高盛新興市場債 券基金 X 股（美 元月配）",
+        "owner": "蔡宗翰",
+        "institution": "京城商業銀行",
+        "units": 146.399,
+        "unitValue": 47.1,
+        "foreignCurrency": "美元",
+        "totalValue": 217708
+      },
+      {
+        "name": "高盛新興市場債 券基金 X 股（美 元月配）",
+        "owner": "蔡宗翰",
+        "institution": "京城商業銀行",
+        "units": 117.119,
+        "unitValue": 47.1,
+        "foreignCurrency": "美元",
+        "totalValue": 174166
+      },
+      {
+        "name": "富邦台 50",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 4000,
+        "unitValue": 89.31,
+        "foreignCurrency": "",
+        "totalValue": 357240
+      },
+      {
+        "name": "元大台灣高息低 波",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 15000,
+        "unitValue": 54.27,
+        "foreignCurrency": "",
+        "totalValue": 814050
+      },
+      {
+        "name": "元大 AAA 至 A 公 司債",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 4000,
+        "unitValue": 34.4458,
+        "foreignCurrency": "",
+        "totalValue": 137783
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 5000,
+        "unitValue": 22.48,
+        "foreignCurrency": "",
+        "totalValue": 112400
+      },
+      {
+        "name": "中信關鍵半導體",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 26000,
+        "unitValue": 17.99,
+        "foreignCurrency": "",
+        "totalValue": 467740
+      },
+      {
+        "name": "富邦台灣半導體",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 2000,
+        "unitValue": 15.43,
+        "foreignCurrency": "",
+        "totalValue": 30860
+      },
+      {
+        "name": "復華台灣科技優 息",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 1000,
+        "unitValue": 20.7,
+        "foreignCurrency": "",
+        "totalValue": 20700
+      },
+      {
+        "name": "土銀富邦 R1",
+        "owner": "蔡宗翰",
+        "institution": "京 城 證 券 嘉 義 分公司",
+        "units": 5000,
+        "unitValue": 14.72,
+        "foreignCurrency": "",
+        "totalValue": 73600
+      },
+      {
+        "name": "富達東協基金 A 股美元",
+        "owner": "蔡宗翰",
+        "institution": "臺 灣 新 光 銀 行 嘉義分行",
+        "units": 18.31,
+        "unitValue": 33.67,
+        "foreignCurrency": "美元",
+        "totalValue": 19426
+      },
+      {
+        "name": "坦伯頓穩定月收 益月配",
+        "owner": "蔡宗翰",
+        "institution": "臺 灣 新 光 銀 行 嘉義分行",
+        "units": 86.176,
+        "unitValue": 9.71,
+        "foreignCurrency": "美元",
+        "totalValue": 26367
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽威利金 鑽美元利率變動 型還本終身保險 （定期給付型）",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 01 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山康樂限期繳 費終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 02 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月享利變額年 金",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林月琴",
+        "contractType": "年金型保險",
+        "period": "103 年 08 月 22 日/154 年 08 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月康利變額年 金",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "林月琴",
+        "contractType": "年金型保險",
+        "period": "104 年 09 月 18 日/154 年 09 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美利美元",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 01 月 21 日/165 年 01 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "開運年年終身",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 12 月 05 日/191 年 12 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿享年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 20 日/159 年 12 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿美年年美元終 身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 07 月 04 日/197 年 07 月 03 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽 GO 美利 外幣利率變動型 增額還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○600",
+        "holder": "林月琴",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 11 日/165 年 04 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山康樂限期繳 費終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "蔡宗翰",
+        "contractType": "儲蓄型壽險",
+        "period": "79 年 11 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽平安福 保本保險",
+        "policyNumber": "○○○○○○○ ○○604",
+        "holder": "蔡宗翰",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 07 月 01 日/165 年 06 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美利多 多外幣增額終身 保險",
+        "policyNumber": "○○○○○○○ ○○609",
+        "holder": "蔡宗翰",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/165 年 06 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "宏利新紀元還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "蔡宗翰",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 10 月 23 日/177 年 10 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽新雄多 利 保 險 甲 型 -10 年期(FL4)",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "蔡宗翰",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 01 月 04 日/134 年 01 月 04 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

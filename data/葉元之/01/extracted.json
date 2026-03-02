@@ -1,0 +1,945 @@
+{
+  "name": "葉元之",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "未成年子女",
+      "name": "葉○瑜"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "葉○熙"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 6160.64,
+      "share": "10000 分之 19",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地價總額)"
+    },
+    {
+      "location": "臺北市信義區永春段一小段",
+      "area": 31,
+      "share": "16 分之 3",
+      "owner": "葉元之",
+      "date": "103年07月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區永春段一小段",
+      "area": 27,
+      "share": "16 分之 3",
+      "owner": "葉元之",
+      "date": "103年07月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區永春段一小段",
+      "area": 123,
+      "share": "16 分之 3",
+      "owner": "葉元之",
+      "date": "103年07月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 115.71,
+      "share": "全部",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 15.33,
+      "share": "31184 分之 106",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 2039.59,
+      "share": "100000 分 之 802",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 326.69,
+      "share": "100000 分 之 185",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 4257.37,
+      "share": "100000 分 之 190",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 20542.7,
+      "share": "100000 分 之 88",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區新板段三小段",
+      "area": 20542.7,
+      "share": "100000 分 之 31184",
+      "owner": "葉元之",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市信義區永春段一小段",
+      "area": 91.96,
+      "share": "4 分之 3",
+      "owner": "葉元之",
+      "date": "103年07月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "VOLKSWAGEN",
+      "cc": 1968,
+      "owner": "葉元之",
+      "date": "110年03月18日",
+      "reason": "買賣",
+      "price": 20000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 32803709,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1066764
+      },
+      {
+        "institution": "臺灣銀行北府簡易型分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1218058
+      },
+      {
+        "institution": "臺灣銀行北府簡易型分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1061246
+      },
+      {
+        "institution": "臺灣銀行北府簡易型分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 880000
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 90564
+      },
+      {
+        "institution": "合庫商業銀行松江分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 20668
+      },
+      {
+        "institution": "彰化銀行南港科學園區分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 9133
+      },
+      {
+        "institution": "台北富邦銀行營業部",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "葉元之",
+        "foreignAmount": 6869,
+        "amount": 219710
+      },
+      {
+        "institution": "台北富邦銀行南港分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "葉元之",
+        "foreignAmount": 22433,
+        "amount": 717471
+      },
+      {
+        "institution": "台北富邦銀行南港分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "葉元之",
+        "foreignAmount": 6837,
+        "amount": 218663
+      },
+      {
+        "institution": "台北富邦銀行南港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 247
+      },
+      {
+        "institution": "台北富邦銀行南港分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "葉元之",
+        "foreignAmount": 1,
+        "amount": 57
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1314828
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1200000
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1037774
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1037774
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1037135
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1029925
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1015366
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 609207
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 609195
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 540248
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 520277
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 421200
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 334642
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 317225
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 317128
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 152751
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 3989201
+      },
+      {
+        "institution": "國泰世華銀行新板分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 4823842
+      },
+      {
+        "institution": "台北市第五信用合作社大 安分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 1451
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 2080000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 420549
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 382024
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 74958
+      },
+      {
+        "institution": "中信銀行承德分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "葉元之",
+        "foreignAmount": 0,
+        "amount": 50773
+      },
+      {
+        "institution": "國泰世華銀行北桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉○瑜",
+        "foreignAmount": 0,
+        "amount": 1325
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉○瑜",
+        "foreignAmount": 0,
+        "amount": 728208
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉○瑜",
+        "foreignAmount": 0,
+        "amount": 130000
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉○瑜",
+        "foreignAmount": 0,
+        "amount": 152297
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉○熙",
+        "foreignAmount": 0,
+        "amount": 817127
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉○熙",
+        "foreignAmount": 0,
+        "amount": 154696
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1470610,
+    "items": [
+      {
+        "name": "中纖",
+        "owner": "葉元之",
+        "shares": 4512,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 45120
+      },
+      {
+        "name": "盛餘",
+        "owner": "葉元之",
+        "shares": 1010,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10100
+      },
+      {
+        "name": "彥武",
+        "owner": "葉元之",
+        "shares": 4400,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 44000
+      },
+      {
+        "name": "裕隆",
+        "owner": "葉元之",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "金寶",
+        "owner": "葉元之",
+        "shares": 1072,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10720
+      },
+      {
+        "name": "鴻海",
+        "owner": "葉元之",
+        "shares": 2558,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 25580
+      },
+      {
+        "name": "台積電",
+        "owner": "葉元之",
+        "shares": 2080,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20800
+      },
+      {
+        "name": "碧悠電子",
+        "owner": "葉元之",
+        "shares": 46,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 460
+      },
+      {
+        "name": "勝華",
+        "owner": "葉元之",
+        "shares": 1099,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10990
+      },
+      {
+        "name": "毅嘉",
+        "owner": "葉元之",
+        "shares": 2040,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20400
+      },
+      {
+        "name": "中華電",
+        "owner": "葉元之",
+        "shares": 10032,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100320
+      },
+      {
+        "name": "昶虹",
+        "owner": "葉元之",
+        "shares": 3295,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 32950
+      },
+      {
+        "name": "華映",
+        "owner": "葉元之",
+        "shares": 53,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 530
+      },
+      {
+        "name": "國泰金",
+        "owner": "葉元之",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "凱基金",
+        "owner": "葉元之",
+        "shares": 1736,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 17360
+      },
+      {
+        "name": "威強電",
+        "owner": "葉元之",
+        "shares": 1809,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 18090
+      },
+      {
+        "name": "威健",
+        "owner": "葉元之",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "台灣大",
+        "owner": "葉元之",
+        "shares": 10267,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 102670
+      },
+      {
+        "name": "昇銳",
+        "owner": "葉元之",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "神達",
+        "owner": "葉元之",
+        "shares": 1572,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 15720
+      },
+      {
+        "name": "神達",
+        "owner": "葉元之",
+        "shares": 1345,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 13450
+      },
+      {
+        "name": "康和證",
+        "owner": "葉元之",
+        "shares": 12706,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 127060
+      },
+      {
+        "name": "大宇資",
+        "owner": "葉元之",
+        "shares": 1131,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11310
+      },
+      {
+        "name": "新普",
+        "owner": "葉元之",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "精誠",
+        "owner": "葉元之",
+        "shares": 160,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1600
+      },
+      {
+        "name": "精誠",
+        "owner": "葉元之",
+        "shares": 127,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1270
+      },
+      {
+        "name": "久元",
+        "owner": "葉元之",
+        "shares": 1120,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11200
+      },
+      {
+        "name": "英格爾",
+        "owner": "葉元之",
+        "shares": 19,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 190
+      },
+      {
+        "name": "寶成",
+        "owner": "葉元之",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "潤泰新",
+        "owner": "葉元之",
+        "shares": 299,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2990
+      },
+      {
+        "name": "潤泰新",
+        "owner": "葉元之",
+        "shares": 108,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1080
+      },
+      {
+        "name": "佳龍",
+        "owner": "葉元之",
+        "shares": 5465,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 54650
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "群益台灣精選高 息",
+        "owner": "葉元之",
+        "institution": "永 豐 金 證 券 敦 南分公司",
+        "units": 70000,
+        "unitValue": 23.26,
+        "foreignCurrency": "",
+        "totalValue": 1628200
+      },
+      {
+        "name": "富達新興市場基 金",
+        "owner": "葉元之",
+        "institution": "彰 化 銀 行 南 港 科學園區分行",
+        "units": 212.64,
+        "unitValue": 30.01,
+        "foreignCurrency": "美元",
+        "totalValue": 203858
+      },
+      {
+        "name": "富達新興市場基 金",
+        "owner": "葉元之",
+        "institution": "彰 化 銀 行 南 港 科學園區分行",
+        "units": 210.19,
+        "unitValue": 30.01,
+        "foreignCurrency": "美元",
+        "totalValue": 201509
+      },
+      {
+        "name": "富達新興市場基 金",
+        "owner": "葉元之",
+        "institution": "彰 化 銀 行 南 港 科學園區分行",
+        "units": 189.86,
+        "unitValue": 30.01,
+        "foreignCurrency": "美元",
+        "totalValue": 182019
+      },
+      {
+        "name": "摩根新興科技一 般",
+        "owner": "葉元之",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 3747.5,
+        "unitValue": 144.15,
+        "foreignCurrency": "",
+        "totalValue": 540202
+      },
+      {
+        "name": "摩根新興 35 台累",
+        "owner": "葉元之",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 50128.3,
+        "unitValue": 15.34,
+        "foreignCurrency": "",
+        "totalValue": 768968
+      },
+      {
+        "name": "摩根中國 A 股台 累",
+        "owner": "葉元之",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 94833.4,
+        "unitValue": 15.94,
+        "foreignCurrency": "",
+        "totalValue": 1511644
+      },
+      {
+        "name": "泛亞太配息",
+        "owner": "葉元之",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 221848,
+        "unitValue": 9.74,
+        "foreignCurrency": "",
+        "totalValue": 2160799
+      },
+      {
+        "name": "環球收益月配",
+        "owner": "葉元之",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 165216.6,
+        "unitValue": 11.82,
+        "foreignCurrency": "",
+        "totalValue": 1952860
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "躉繳金利 High 利 率變動型養老保 險",
+        "policyNumber": "○○○○○○○ ○○439",
+        "holder": "葉元之",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 10 月 18 日/133 年 10 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "躉繳金利 High 利 率變動型養老保 險",
+        "policyNumber": "○○○○○○○ ○○737",
+        "holder": "葉元之",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 10 月 18 日/133 年 10 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "躉繳金利 High 利 率變動型養老保 險",
+        "policyNumber": "○○○○○○○ ○○577",
+        "holder": "葉元之",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 30 日/133 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "葉元之",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 05 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰喬壽還本終 身壽險（繳費 20 年）",
+        "policyNumber": "○○○○○○○ ○○501",
+        "holder": "葉元之",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 31 日/169 年 12 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽金得意 變額萬能壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "葉元之",
+        "contractType": "投資型壽險",
+        "period": "96 年 05 月 30 日/164 年 05 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽好吉利 利率變動型增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "葉○瑜",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 12 日/209 年 07 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽好吉利 利率變動型增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○900",
+        "holder": "葉○熙",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 12 日/215 年 07 月 11 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 2000,
+    "items": [
+      {
+        "investor": "葉元之",
+        "company": "台北市第五信用合作社",
+        "address": "台北市復興南路二段 86-5 號",
+        "amount": 2000,
+        "date": "96年09月07日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

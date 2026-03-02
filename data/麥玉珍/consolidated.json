@@ -1,0 +1,38 @@
+{
+  "name": "麥玉珍",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2146820
+    }
+  ],
+  "depositsTotal": 2146820,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 新 珍 愛 女 人 終 身 保險",
+      "holder": "麥玉珍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "漾 安 心 住 院 醫 療終身",
+      "holder": "麥玉珍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "漾 順 心 手 術 醫 療終身",
+      "holder": "麥玉珍",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

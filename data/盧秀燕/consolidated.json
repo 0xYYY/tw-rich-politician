@@ -1,0 +1,184 @@
+{
+  "name": "盧秀燕",
+  "date": "2024-12-13",
+  "type": "mayor",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "日圓",
+      "amount": 569480
+    },
+    {
+      "currency": "美元",
+      "amount": 1977524
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 5213210
+    },
+    {
+      "currency": "南非幣",
+      "amount": 254
+    },
+    {
+      "currency": "人民幣",
+      "amount": 861798
+    }
+  ],
+  "depositsTotal": 8622270,
+  "insurance": [
+    {
+      "company": "中華郵政",
+      "name": "郵 政 快 樂 兒 童 增 值 還 本 終 身 壽險",
+      "holder": "盧秀燕",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政",
+      "name": "郵 政 快 樂 兒 童 增 值 還 本 終 身 壽險",
+      "holder": "盧秀燕",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "得 意 人 生 終 身 保險",
+      "holder": "盧秀燕",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "得 意 人 生 終 身 保險",
+      "holder": "盧秀燕",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "滿 意 人 生 終 身 保險",
+      "holder": "盧秀燕",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "滿 意 人 生 終 身 保險",
+      "holder": "盧秀燕",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "雙 利 雙 收 變 額 萬能壽險",
+      "holder": "廖述嘉",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國泰人壽",
+      "name": "添 美 樂 年 年 美 元終身保險",
+      "holder": "廖述嘉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽",
+      "name": "萬 美 利 利 率 變 動 型 美 元 終 身 壽險",
+      "holder": "廖述嘉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "收 成 滿 益 變 額 年金",
+      "holder": "廖述嘉",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "美 利 好 運 利 變 壽險",
+      "holder": "廖述嘉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 美 利 外 幣 利 變壽險",
+      "holder": "廖述嘉",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "富邦綜合證券股份有限公 司/勝華 (未交付信託原 因：已下市無需信託)",
+      "cleanName": "勝華 (未交付信託原 因：已下市無需信託)",
+      "ticker": "2384",
+      "shares": 8000,
+      "owner": "盧秀燕",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 5000,
+      "owner": "盧秀燕",
+      "priceAtDisclosure": 36.85,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 91,
+      "owner": "盧秀燕",
+      "priceAtDisclosure": 69.5,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 4738,
+      "owner": "盧秀燕",
+      "priceAtDisclosure": 27.35,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "合庫金",
+      "cleanName": "合庫金",
+      "ticker": "5880",
+      "shares": 77025,
+      "owner": "盧秀燕",
+      "priceAtDisclosure": 25,
+      "latestPrice": 24
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "貝萊德世界科技 基金",
+      "owner": "盧秀燕",
+      "institution": "玉 山 銀 行 大 墩 分行",
+      "units": 141.61,
+      "unitValue": 98.45,
+      "currency": "美元",
+      "declaredValue": 453391,
+      "source": "fund"
+    },
+    {
+      "name": "摩根中國基金",
+      "owner": "盧秀燕",
+      "institution": "玉 山 銀 行 大 墩 分行",
+      "units": 119.464,
+      "unitValue": 40.32,
+      "currency": "美元",
+      "declaredValue": 156646,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "南投縣南投市牛運堀段",
+      "owner": "廖述嘉",
+      "date": "2019-05-13",
+      "effectiveAreaPing": 107.39,
+      "entryCount": 3,
+      "price": null
+    }
+  ]
+}

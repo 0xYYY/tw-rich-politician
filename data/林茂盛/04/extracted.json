@@ -1,0 +1,86 @@
+{
+  "name": "林茂盛",
+  "org": "宜蘭縣政府",
+  "title": "副縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王淑卿"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市汐止區中正段",
+      "area": 142,
+      "share": "4 分之 1",
+      "owner": "林茂盛",
+      "date": "112年03月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "基隆市七堵區自強段",
+      "area": 586.57,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "112年03月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "基隆市七堵區自強段",
+      "area": 514,
+      "share": "8 分之 1",
+      "owner": "王淑卿",
+      "date": "112年03月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市汐止區中正段",
+      "area": 100.3,
+      "share": "全部",
+      "owner": "林茂盛",
+      "date": "112年03月08日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

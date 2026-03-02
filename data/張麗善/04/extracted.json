@@ -1,0 +1,160 @@
+{
+  "name": "張麗善",
+  "org": "雲林縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張永成"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣虎尾鎮明正段",
+      "area": 958,
+      "share": "10000 分 之 785",
+      "owner": "張麗善",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "嘉義縣太保市過溝段過溝小段",
+      "area": 160,
+      "share": "全部",
+      "owner": "張麗善",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "雲林縣虎尾鎮光明段",
+      "area": 718.84,
+      "share": "全部",
+      "owner": "張永成",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "雲林縣虎尾鎮光明段",
+      "area": 42.19,
+      "share": "全部",
+      "owner": "張永成",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "雲林縣虎尾鎮虎溪段",
+      "area": 9437.81,
+      "share": "全部",
+      "owner": "張永成",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "雲林縣虎尾鎮虎溪段",
+      "area": 0.41,
+      "share": "全部",
+      "owner": "張永成",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市士林區光華段三小段",
+      "area": 161,
+      "share": "25 分之 1",
+      "owner": "張永成",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣虎尾鎮明正段",
+      "area": 259.94,
+      "share": "全部",
+      "owner": "張麗善",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "雲林縣虎尾鎮明正段",
+      "area": 248.75,
+      "share": "4 分之 3",
+      "owner": "張麗善",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "嘉義縣太保市過溝段過溝小段",
+      "area": 161.02,
+      "share": "全部",
+      "owner": "張麗善",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市士林區光華段三小段",
+      "area": 118.56,
+      "share": "5 分之 1",
+      "owner": "張永成",
+      "date": "108年03月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "合庫金",
+        "owner": "張麗善",
+        "shares": 517500,
+        "trustee": "臺灣銀行",
+        "transferDate": "113年06月03日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5175000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

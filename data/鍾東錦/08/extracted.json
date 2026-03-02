@@ -1,0 +1,67 @@
+{
+  "name": "鍾東錦",
+  "org": "苗栗縣政府",
+  "title": "縣長",
+  "date": "",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳美琦"
+    }
+  ],
+  "land": [
+    {
+      "location": "苗栗縣竹南鎮新南段",
+      "area": 311.97,
+      "share": "全部",
+      "owner": "鍾東錦",
+      "date": "",
+      "reason": "受託人:出售",
+      "price": ""
+    },
+    {
+      "location": "苗栗縣頭份市中興段",
+      "area": 264.26,
+      "share": "全部",
+      "owner": "陳美琦",
+      "date": "",
+      "reason": "受託人:出租",
+      "price": ""
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

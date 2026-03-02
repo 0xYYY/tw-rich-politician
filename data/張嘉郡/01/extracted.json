@@ -1,0 +1,689 @@
+{
+  "name": "張嘉郡",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "周柏吟"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○融"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "周○樂"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "area": 754.41,
+      "share": "14 分之 1",
+      "owner": "張嘉郡",
+      "date": "101年08月29日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "area": 172.73,
+      "share": "全部",
+      "owner": "張嘉郡",
+      "date": "101年08月29日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區吳興段三小段",
+      "area": 2175,
+      "share": "10000 分之 131",
+      "owner": "周柏吟",
+      "date": "105年07月05日",
+      "reason": "買賣",
+      "price": "112/3/28 交付 臺灣銀行信託 (超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "area": 387.36,
+      "share": "全部",
+      "owner": "張嘉郡",
+      "date": "101年08月29日",
+      "reason": "買賣",
+      "price": "含見其他登記 事項 54.05 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市信義區吳興段三小段",
+      "area": 87.13,
+      "share": "全部",
+      "owner": "周柏吟",
+      "date": "105年07月05日",
+      "reason": "買賣",
+      "price": "112/3/28 交付 臺灣銀行信託 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "Mercedes-Benz",
+      "cc": 1991,
+      "owner": "周柏吟",
+      "date": "110年05月19日",
+      "reason": "買賣",
+      "price": 2380000
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2010,
+      "owner": "周柏吟",
+      "date": "112年01月09日",
+      "reason": "買賣",
+      "price": 1599000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 15165399,
+    "items": [
+      {
+        "institution": "臺灣銀行信義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 642746
+      },
+      {
+        "institution": "臺灣銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 20159
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "張嘉郡",
+        "foreignAmount": 84645,
+        "amount": 2670898
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 2829697
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "華南銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 1098
+      },
+      {
+        "institution": "彰化銀行虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 491980
+      },
+      {
+        "institution": "彰化銀行虎尾分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 23185
+      },
+      {
+        "institution": "國泰世華銀行安和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 21
+      },
+      {
+        "institution": "臺灣企銀虎尾分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 439
+      },
+      {
+        "institution": "京城商業銀行斗南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 2652343
+      },
+      {
+        "institution": "京城商業銀行斗南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 880059
+      },
+      {
+        "institution": "元大銀行西門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 42
+      },
+      {
+        "institution": "台新國際銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張嘉郡",
+        "foreignAmount": 0,
+        "amount": 276
+      },
+      {
+        "institution": "臺灣銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 174319
+      },
+      {
+        "institution": "土地銀行西台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 489671
+      },
+      {
+        "institution": "台北富邦銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 616
+      },
+      {
+        "institution": "台北富邦商業銀行竹城分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 33443
+      },
+      {
+        "institution": "國泰世華銀行東台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 108901
+      },
+      {
+        "institution": "兆豐國際商業銀行新竹分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 24876
+      },
+      {
+        "institution": "京城商業銀行斗南分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "京城商業銀行斗南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 2970
+      },
+      {
+        "institution": "匯豐台灣台北分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 3056
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 431183
+      },
+      {
+        "institution": "元大銀行台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 871
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 60713
+      },
+      {
+        "institution": "星展台灣民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 3000
+      },
+      {
+        "institution": "星展台灣南京東路分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "周柏吟",
+        "foreignAmount": 26334,
+        "amount": 114786
+      },
+      {
+        "institution": "中信銀行城東分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "周柏吟",
+        "foreignAmount": 275,
+        "amount": 8698
+      },
+      {
+        "institution": "中信銀行城東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周柏吟",
+        "foreignAmount": 0,
+        "amount": 14397
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林○融",
+        "foreignAmount": 0,
+        "amount": 1916855
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林○融",
+        "foreignAmount": 0,
+        "amount": 1560101
+      },
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周○樂",
+        "foreignAmount": 0,
+        "amount": 1000
+      }
+    ]
+  },
+  "stocks": {
+    "total": 281500,
+    "items": [
+      {
+        "name": "中鋼「交付臺灣銀行信託」",
+        "owner": "張嘉郡",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "長榮「交付臺灣銀行信託」",
+        "owner": "張嘉郡",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "厚生「交付臺灣銀行信託」",
+        "owner": "周柏吟",
+        "shares": 900,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9000
+      },
+      {
+        "name": "華映",
+        "owner": "周柏吟",
+        "shares": 940,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9400
+      },
+      {
+        "name": "富邦金丙特",
+        "owner": "周柏吟",
+        "shares": 1,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10
+      },
+      {
+        "name": "富邦金",
+        "owner": "周柏吟",
+        "shares": 58,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 580
+      },
+      {
+        "name": "中信金「交付臺灣銀行信 託」",
+        "owner": "周柏吟",
+        "shares": 1392,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 13920
+      },
+      {
+        "name": "富圓采",
+        "owner": "周柏吟",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "富爾特",
+        "owner": "周柏吟",
+        "shares": 855,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8550
+      },
+      {
+        "name": "力積電「交付臺灣銀行信 託」",
+        "owner": "周柏吟",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "光晟生技",
+        "owner": "周柏吟",
+        "shares": 2004,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20040
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "富邦台 50",
+        "owner": "張嘉郡",
+        "institution": "兆 豐 證 券 來 福 分公司",
+        "units": 12000,
+        "unitValue": 89.8,
+        "foreignCurrency": "",
+        "totalValue": 1077600
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳新樂活 人 生 終 身 壽 險 (非吸菸標準體)",
+        "policyNumber": "○○○○○○○ ○○641",
+        "holder": "張嘉郡",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 01 月 15 日/終身",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽愛美利 外 幣 終 身 壽 險 (定額給付型)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張嘉郡",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 08 月 23 日/179 年 08 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "張嘉郡",
+        "contractType": "儲蓄型壽險",
+        "period": "84 年 01 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽悠遊人 生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張嘉郡",
+        "contractType": "投資型壽險",
+        "period": "95 年 08 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○701",
+        "holder": "張嘉郡",
+        "contractType": "投資型壽險",
+        "period": "94 年 11 月 04 日/175 年 11 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽金安心 卡重大傷病定期 保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "張嘉郡",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 09 月 01 日/196 年 09 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "鑫世紀優利變額 萬能終身壽險 A 型",
+        "policyNumber": "○○○○○○○ ○○819",
+        "holder": "周柏吟",
+        "contractType": "投資型壽險",
+        "period": "107 年 08 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費守護 久久失能照護終 身保險",
+        "policyNumber": "○○○○○○○ ○○873",
+        "holder": "周柏吟",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 02 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○339",
+        "holder": "周柏吟",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 11 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽添美好 美元利率變動型 終身壽險－定期 給付型",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "周柏吟",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 04 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○803",
+        "holder": "周柏吟",
+        "contractType": "投資型壽險",
+        "period": "95 年 08 月 07 日/176 年 08 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "吉美勝美元利率 變動型終身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "周柏吟",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 09 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽愛美利 外 幣 終 身 壽 險 (定額給付型)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "林○融",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 08 月 23 日/209 年 08 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽愛美利 外 幣 終 身 壽 險 (定額給付型)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "周○樂",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 08 月 23 日/221 年 08 月 23 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "張嘉郡",
+        "value": 284752
+      },
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "周柏吟",
+        "value": 900
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 18314935,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "張嘉郡",
+        "creditor": "彰化商業銀行虎尾分行 雲林縣虎尾鎮中正路",
+        "amount": 4425024,
+        "date": "101年08月30日",
+        "reason": "購 置 / 修 繕 不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "張嘉郡",
+        "creditor": "彰化商業銀行虎尾分行 雲林縣虎尾鎮中正路",
+        "amount": 2939168,
+        "date": "101年08月30日",
+        "reason": "購 置 / 修 繕 不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "張嘉郡",
+        "creditor": "彰化商業銀行虎尾分行 雲林縣虎尾鎮中正路",
+        "amount": 1098246,
+        "date": "103年11月07日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "周柏吟",
+        "creditor": "三商美邦人壽保險股份有限 公司 台北市內湖區石潭路",
+        "amount": 42550,
+        "date": "110年01月23日",
+        "reason": "二十年繳費 祥安終身壽 險保單質借"
+      },
+      {
+        "type": "授信",
+        "debtor": "周柏吟",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 7885931,
+        "date": "105年07月06日",
+        "reason": "房貸分期長 擔"
+      },
+      {
+        "type": "授信",
+        "debtor": "周柏吟",
+        "creditor": "陽信商業銀行中興分行 台北市中山區民生東路",
+        "amount": 1081925,
+        "date": "112年01月09日",
+        "reason": "購置動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "周柏吟",
+        "creditor": "陽信商業銀行中興分行 台北市中山區民生東路",
+        "amount": 842091,
+        "date": "110年05月20日",
+        "reason": "購置動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

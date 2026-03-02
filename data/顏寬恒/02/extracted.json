@@ -1,0 +1,57 @@
+{
+  "name": "顏寬恒",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳麗淩"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 81400000,
+    "items": [
+      {
+        "type": "1★私人債權",
+        "creditor": "顏寬恒",
+        "debtor": "顏○通 台中市沙鹿區保順路",
+        "amount": 60000000,
+        "date": "099/11/25前",
+        "reason": "私人借款"
+      }
+    ]
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

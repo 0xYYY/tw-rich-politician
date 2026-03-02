@@ -1,0 +1,810 @@
+{
+  "name": "陳冠廷",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "猿田千里"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "陳○熙"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "陳○希"
+    }
+  ],
+  "land": [
+    {
+      "location": "嘉義市末廣段四小段",
+      "area": 64,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "108年05月22日",
+      "reason": "買賣",
+      "price": "5,000,000(房 地總價額)"
+    },
+    {
+      "location": "嘉義縣中埔鄉埔東段",
+      "area": 152.18,
+      "share": "4 分之 1",
+      "owner": "陳冠廷",
+      "date": "110年12月28日",
+      "reason": "買賣",
+      "price": "230,203"
+    },
+    {
+      "location": "嘉義縣中埔鄉埔東段",
+      "area": 2148.8,
+      "share": "4 分之 1",
+      "owner": "陳冠廷",
+      "date": "110年12月28日",
+      "reason": "買賣",
+      "price": "3,250,060"
+    },
+    {
+      "location": "嘉義縣中埔鄉埔東段",
+      "area": 48.31,
+      "share": "4 分之 1",
+      "owner": "陳冠廷",
+      "date": "111年01月18日",
+      "reason": "買賣",
+      "price": "73,084"
+    },
+    {
+      "location": "嘉義縣中埔鄉埔東段",
+      "area": 1943.84,
+      "share": "4 分之 1",
+      "owner": "陳冠廷",
+      "date": "110年12月28日",
+      "reason": "買賣",
+      "price": "2,940,058"
+    },
+    {
+      "location": "嘉義縣中埔鄉埔東段",
+      "area": 1961.04,
+      "share": "4 分之 1",
+      "owner": "陳冠廷",
+      "date": "110年12月28日",
+      "reason": "買賣",
+      "price": "2,966,073"
+    },
+    {
+      "location": "嘉義縣中埔鄉埔東段",
+      "area": 311.51,
+      "share": "4 分之 1",
+      "owner": "陳冠廷",
+      "date": "111年01月18日",
+      "reason": "買賣",
+      "price": "471,174"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 36,
+      "share": "54 分之 1",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 226.51,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 156.98,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 278.95,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 180,
+      "share": "100000 分 之 18",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 1584.96,
+      "share": "100000 分 之 18",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 303.37,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 944.97,
+      "share": "100000 分 之 18",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 22.42,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 2779,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "110年10月28日",
+      "reason": "買賣",
+      "price": "8,989,120"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 1359,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "110年10月28日",
+      "reason": "買賣",
+      "price": "4,395,903"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 3041,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "110年10月28日",
+      "reason": "買賣",
+      "price": "9,836,601"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 3023,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "110年10月28日",
+      "reason": "買賣",
+      "price": "9,778,377"
+    },
+    {
+      "location": "臺北市大同區雙連段二小段",
+      "area": 2660,
+      "share": "10000 分之 90",
+      "owner": "陳冠廷",
+      "date": "106年06月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "嘉義市末廣段四小段",
+      "area": 221.6,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "108年05月22日",
+      "reason": "買賣",
+      "price": "5,000,000(房 地總價額)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 429.33,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "含見其他登記 事項36.1平方 公尺(超過五 年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 182.04,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 316.07,
+      "share": "100000 分 之 151",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "含見其他登記 事項 32.66 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "area": 274.21,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "102年12月19日",
+      "reason": "買賣",
+      "price": "含陽台 33.28 平方公尺(超 過五年)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 792,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "14,349,458 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 882,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "15,980,079 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○建號、○○ ○○○建號、 ○○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 864,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "15,653,955 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 792,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "14,349,458 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 576,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "10,435,970 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 113.16,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "2,050,233 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 187.5,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "3,397,126 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 384,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "6,957,313 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "area": 156,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "112年05月25日",
+      "reason": "第一次登 記",
+      "price": "2,826,408 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "臺北市大同區雙連段二小段",
+      "area": 103.16,
+      "share": "全部",
+      "owner": "陳冠廷",
+      "date": "106年06月12日",
+      "reason": "買賣",
+      "price": "含陽台7.23平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市大同區雙連段二小段",
+      "area": 3494.6,
+      "share": "10000 分之 69",
+      "owner": "陳冠廷",
+      "date": "106年06月12日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 28296845,
+    "items": [
+      {
+        "institution": "臺灣銀行武昌分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 150535
+      },
+      {
+        "institution": "合庫商業銀行北朴子分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 182611
+      },
+      {
+        "institution": "華南銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 5054
+      },
+      {
+        "institution": "華南銀行嘉南分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 10000
+      },
+      {
+        "institution": "華南銀行嘉南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 3256423
+      },
+      {
+        "institution": "台北富邦銀行東寧分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "陳冠廷",
+        "foreignAmount": 5000,
+        "amount": 158034
+      },
+      {
+        "institution": "台北富邦銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 600000
+      },
+      {
+        "institution": "台北富邦銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 400000
+      },
+      {
+        "institution": "台北富邦銀行嘉義分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 2500000
+      },
+      {
+        "institution": "台北富邦銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 416064
+      },
+      {
+        "institution": "台北富邦銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "陳冠廷",
+        "foreignAmount": 100,
+        "amount": 3175
+      },
+      {
+        "institution": "嘉義縣竹崎地區農會信用 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 10038053
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 524612
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 1400000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 170000
+      },
+      {
+        "institution": "玉山銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 3517329
+      },
+      {
+        "institution": "台新國際銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 1500000
+      },
+      {
+        "institution": "台新國際銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "台新國際銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "台新國際銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "台新國際銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳冠廷",
+        "foreignAmount": 0,
+        "amount": 923400
+      },
+      {
+        "institution": "台新國際銀行西門分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳冠廷",
+        "foreignAmount": 6000,
+        "amount": 189738
+      },
+      {
+        "institution": "台新國際銀行西門分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳冠廷",
+        "foreignAmount": 1600,
+        "amount": 50597
+      },
+      {
+        "institution": "台新國際銀行西門分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳冠廷",
+        "foreignAmount": 38,
+        "amount": 1219
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2348890,
+    "items": [
+      {
+        "name": "和大",
+        "owner": "陳冠廷",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "康普",
+        "owner": "陳冠廷",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "同欣電",
+        "owner": "陳冠廷",
+        "shares": 2210,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22100
+      },
+      {
+        "name": "巨虹",
+        "owner": "陳冠廷",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "Carnival Corp",
+        "owner": "陳冠廷",
+        "shares": 729,
+        "faceValue": 16,
+        "foreignCurrency": "美元",
+        "totalValue": 374841
+      },
+      {
+        "name": "Coinbase Global-A",
+        "owner": "陳冠廷",
+        "shares": 29,
+        "faceValue": 242,
+        "foreignCurrency": "美元",
+        "totalValue": 222244
+      },
+      {
+        "name": "Rivian Automotive-A",
+        "owner": "陳冠廷",
+        "shares": 35,
+        "faceValue": 11,
+        "foreignCurrency": "美元",
+        "totalValue": 12221
+      },
+      {
+        "name": "Roblox",
+        "owner": "陳冠廷",
+        "shares": 181,
+        "faceValue": 39,
+        "foreignCurrency": "美元",
+        "totalValue": 224609
+      },
+      {
+        "name": "Tesla",
+        "owner": "陳冠廷",
+        "shares": 277,
+        "faceValue": 163,
+        "foreignCurrency": "美元",
+        "totalValue": 1432873
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三商美邦人壽保 險股份有限公司",
+        "name": "六年繳費新美年 發外幣終身保險 (A 型)",
+        "policyNumber": "○○○○○○○ ○○059",
+        "holder": "陳冠廷",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 21 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "永財畜牧場太陽光發電系統",
+        "quantity": "1",
+        "owner": "陳冠廷",
+        "value": 19843016
+      },
+      {
+        "type": "永財畜牧場污水處理、畜舍養 殖設備",
+        "quantity": "1",
+        "owner": "陳冠廷",
+        "value": 24000000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 135399468,
+    "items": [
+      {
+        "type": "私人債務",
+        "debtor": "陳冠廷",
+        "creditor": "上禾營造股份有限公司 嘉義市東區大雅路",
+        "amount": 22200000,
+        "date": "112年01月10日",
+        "reason": "購置經營事 業用建築"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "全國農業金庫嘉義分行 嘉義市西區新民路",
+        "amount": 13041784,
+        "date": "111年05月30日",
+        "reason": "購置經營事 業用建築"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "全國農業金庫嘉義分行 嘉義市西區新民路",
+        "amount": 7022497,
+        "date": "111年05月30日",
+        "reason": "購置經營事 業用建築"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "全國農業金庫嘉義分行 嘉義市西區新民路",
+        "amount": 2617010,
+        "date": "111年06月30日",
+        "reason": "購買生產資 材"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "全國農業金庫嘉義分行 嘉義市西區新民路",
+        "amount": 2280000,
+        "date": "112年04月28日",
+        "reason": "擴充設備資 金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "全國農業金庫嘉義分行 嘉義市西區新民路",
+        "amount": 1520000,
+        "date": "112年04月28日",
+        "reason": "擴充設備資 金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "全國農業金庫嘉義分行 嘉義市西區新民路",
+        "amount": 1409156,
+        "date": "111年06月30日",
+        "reason": "購買生產資 材"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "合作金庫商業銀行北朴子分 行 嘉義縣朴子市文化北路",
+        "amount": 2042618,
+        "date": "102年12月26日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "華南商業銀行嘉南分行 嘉義市蘭井街",
+        "amount": 10533853,
+        "date": "106年06月16日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "嘉義縣竹崎地區農會信用 嘉義縣竹崎鄉竹崎村中山路",
+        "amount": 36910713,
+        "date": "111年05月30日",
+        "reason": "購置經營事 業用建築"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "嘉義縣竹崎地區農會信用 嘉義縣竹崎鄉竹崎村中山路",
+        "amount": 18177954,
+        "date": "110年12月01日",
+        "reason": "購置畜牧業 生產用地"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "嘉義縣竹崎地區農會信用 嘉義縣竹崎鄉竹崎村中山路",
+        "amount": 10000000,
+        "date": "112年04月28日",
+        "reason": "擴充設備資 金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳冠廷",
+        "creditor": "嘉義縣竹崎地區農會信用 嘉義縣竹崎鄉竹崎村中山路",
+        "amount": 7643883,
+        "date": "111年06月30日",
+        "reason": "購買生產資 材"
+      }
+    ]
+  },
+  "investments": {
+    "total": 6000000,
+    "items": [
+      {
+        "investor": "陳冠廷",
+        "company": "安邑國際開發股份有限公司",
+        "address": "嘉義縣朴子市平和里 13 鄰 平和路 7 號",
+        "amount": 3000000,
+        "date": "100年06月21日",
+        "reason": "入股"
+      },
+      {
+        "investor": "陳冠廷",
+        "company": "安邑國際開發股份有限公司",
+        "address": "嘉義縣朴子市平和里 13 鄰 平和路 7 號",
+        "amount": 2000000,
+        "date": "112年10月30日",
+        "reason": "增資"
+      },
+      {
+        "investor": "陳冠廷",
+        "company": "遠景投資股份有限公司",
+        "address": "嘉義市西區力行街 72 號",
+        "amount": 1000000,
+        "date": "107年06月22日",
+        "reason": "入股"
+      }
+    ]
+  }
+}

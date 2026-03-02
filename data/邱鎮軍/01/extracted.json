@@ -1,0 +1,539 @@
+{
+  "name": "邱鎮軍",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "詹美娟"
+    }
+  ],
+  "land": [
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "area": 226.56,
+      "share": "全部",
+      "owner": "邱鎮軍",
+      "date": "101年11月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市三山段",
+      "area": 3364.19,
+      "share": "10000 分之 199",
+      "owner": "詹美娟",
+      "date": "89年11月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市三山段",
+      "area": 282.74,
+      "share": "全部",
+      "owner": "詹美娟",
+      "date": "89年11月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市三山段",
+      "area": 465.9,
+      "share": "92 分之 1",
+      "owner": "詹美娟",
+      "date": "89年11月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "area": 223.88,
+      "share": "7 分之 1",
+      "owner": "詹美娟",
+      "date": "107年12月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "area": 892.12,
+      "share": "全部",
+      "owner": "邱鎮軍",
+      "date": "101年11月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市三山段",
+      "area": 262.59,
+      "share": "全部",
+      "owner": "詹美娟",
+      "date": "89年11月14日",
+      "reason": "買賣",
+      "price": "含陽台 11.06 平方公尺(超 過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "area": 133.39,
+      "share": "全部",
+      "owner": "詹美娟",
+      "date": "107年12月28日",
+      "reason": "買賣",
+      "price": "含陽台 15.02 平方公尺(超 過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "area": 152.99,
+      "share": "1000 分 之 23",
+      "owner": "詹美娟",
+      "date": "107年12月28日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "area": 253.57,
+      "share": "100 分之 9",
+      "owner": "詹美娟",
+      "date": "107年12月28日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "PORSCHE",
+      "cc": 3598,
+      "owner": "邱鎮軍",
+      "date": "105年01月13日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "邱鎮軍",
+      "date": "112年11月30日",
+      "reason": "買賣",
+      "price": 2880000
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "邱鎮軍",
+      "date": "113年10月21日",
+      "reason": "買賣",
+      "price": 3150000
+    }
+  ],
+  "cash": {
+    "total": 170000
+  },
+  "deposits": {
+    "total": 10330688,
+    "items": [
+      {
+        "institution": "臺灣銀行苗栗分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 130
+      },
+      {
+        "institution": "臺灣銀行苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 5298493
+      },
+      {
+        "institution": "華南銀行苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 1269
+      },
+      {
+        "institution": "臺灣企銀苗栗分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 6109
+      },
+      {
+        "institution": "臺灣企銀苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 490683
+      },
+      {
+        "institution": "臺灣企銀苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 402731
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 1346
+      },
+      {
+        "institution": "元大銀行苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 3256747
+      },
+      {
+        "institution": "元大銀行苗栗分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 315
+      },
+      {
+        "institution": "凱基銀行苗栗分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍",
+        "foreignAmount": 0,
+        "amount": 3464
+      },
+      {
+        "institution": "凱基銀行苗栗分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱鎮軍 (永田町茶莊)",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "臺灣銀行苗栗分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 381498
+      },
+      {
+        "institution": "土地銀行苗栗分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 2284
+      },
+      {
+        "institution": "上海銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 1413
+      },
+      {
+        "institution": "國泰世華銀行苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 926
+      },
+      {
+        "institution": "渣打國際商銀苗栗分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 5038
+      },
+      {
+        "institution": "臺灣新光銀行城內分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 5576
+      },
+      {
+        "institution": "苗栗縣公館鄉農會信用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "詹美娟",
+        "foreignAmount": 0,
+        "amount": 472665
+      }
+    ]
+  },
+  "stocks": {
+    "total": 80000,
+    "items": [
+      {
+        "name": "晶宏",
+        "owner": "邱鎮軍",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "雲豹能源",
+        "owner": "邱鎮軍",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "世紀理財變額萬 能終身壽險二十 年期 A 型",
+        "policyNumber": "○○○○○○○ ○○361",
+        "holder": "邱鎮軍",
+        "contractType": "投資型壽險",
+        "period": "96 年 05 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美滿人 生長期照顧終身 保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新添采終身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 11 月 14 日/197 年 11 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鑫彩終身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 11 月 14 日/191 年 11 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽大發富 利利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平準 終身壽險",
+        "policyNumber": "○○○○○○○ ○○200",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/202 年 04 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平準 終身壽險",
+        "policyNumber": "○○○○○○○ ○○300",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/172 年 04 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 18 日/171 年 03 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 18 日/201 年 03 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "健康增額防癌保 本保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/147 年 04 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "健康增額防癌保 本保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/177 年 04 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "健康增額防癌保 本保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "邱鎮軍",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/179 年 04 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美滿人 生長期照顧終身 保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "詹美娟",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 07 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾意 313 終身壽 險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "詹美娟",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 01 月 08 日/190 年 01 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽真安心 醫療養老保險",
+        "policyNumber": "○○○○○○○ ○○701",
+        "holder": "詹美娟",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 07 月 27 日/115 年 07 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平準 終身壽險",
+        "policyNumber": "○○○○○○○ ○○600",
+        "holder": "詹美娟",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/172 年 04 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "詹美娟",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 18 日/171 年 03 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "健康增額防癌保 本保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "詹美娟",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/147 年 04 月 02 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 15299175,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "邱鎮軍",
+        "creditor": "臺灣中小企業銀行苗栗分行 苗栗縣苗栗市中正路",
+        "amount": 4153282,
+        "date": "101年11月08日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "邱鎮軍",
+        "creditor": "臺灣中小企業銀行苗栗分行 苗栗縣苗栗市中正路",
+        "amount": 1471293,
+        "date": "101年11月08日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "邱鎮軍",
+        "creditor": "臺灣中小企業銀行苗栗分行 苗栗縣苗栗市中正路",
+        "amount": 438063,
+        "date": "101年11月08日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "邱鎮軍",
+        "creditor": "遠東國際商業銀行台北忠孝 分行 台北市忠孝東路",
+        "amount": 2012822,
+        "date": "112年12月01日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "詹美娟",
+        "creditor": "苗栗縣公館鄉農會信用部 苗栗縣公館鄉館東村大同路",
+        "amount": 4488750,
+        "date": "108年01月03日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "詹美娟",
+        "creditor": "臺灣銀行苗栗分行 苗栗縣苗栗市中正路",
+        "amount": 2734965,
+        "date": "101年12月18日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

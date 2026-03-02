@@ -1,0 +1,369 @@
+{
+  "name": "賴士葆",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林良娥"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "中華電",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 10000,
+        "pricePerShare": "122.50",
+        "changeDate": "113年08月15日",
+        "changeReason": "賣",
+        "totalValue": 1225000
+      },
+      {
+        "name": "中華電",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 10000,
+        "pricePerShare": "123.50",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 1235000
+      },
+      {
+        "name": "中華電",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 10000,
+        "pricePerShare": "123.50",
+        "changeDate": "113年08月19日",
+        "changeReason": "賣",
+        "totalValue": 1235000
+      },
+      {
+        "name": "中華電",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 15000,
+        "pricePerShare": "122.50",
+        "changeDate": "113年10月17日",
+        "changeReason": "買",
+        "totalValue": 1837500
+      },
+      {
+        "name": "中華電",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 10000,
+        "pricePerShare": "122.50",
+        "changeDate": "113年10月22日",
+        "changeReason": "買",
+        "totalValue": 1225000
+      },
+      {
+        "name": "精技",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 10000,
+        "pricePerShare": "41.90",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 419000
+      },
+      {
+        "name": "精技",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 4000,
+        "pricePerShare": "41.60",
+        "changeDate": "113年07月08日",
+        "changeReason": "買",
+        "totalValue": 166400
+      },
+      {
+        "name": "精技",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 4000,
+        "pricePerShare": "41.60",
+        "changeDate": "113年07月08日",
+        "changeReason": "買",
+        "totalValue": 166400
+      },
+      {
+        "name": "精技",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "41.60",
+        "changeDate": "113年07月08日",
+        "changeReason": "買",
+        "totalValue": 41600
+      },
+      {
+        "name": "精技",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "41.60",
+        "changeDate": "113年07月08日",
+        "changeReason": "買",
+        "totalValue": 41600
+      },
+      {
+        "name": "精技",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 10000,
+        "pricePerShare": "40.80",
+        "changeDate": "113年07月09日",
+        "changeReason": "買",
+        "totalValue": 408000
+      },
+      {
+        "name": "富邦金",
+        "broker": "元大證券仁愛分公 司",
+        "owner": "林良娥",
+        "shares": 1414,
+        "pricePerShare": "91.90",
+        "changeDate": "113年10月15日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 129946
+      },
+      {
+        "name": "台新金",
+        "broker": "元大證券仁愛分公 司",
+        "owner": "林良娥",
+        "shares": 15,
+        "pricePerShare": "18.40",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 276
+      },
+      {
+        "name": "國票金",
+        "broker": "元大證券仁愛分公 司",
+        "owner": "林良娥",
+        "shares": 22,
+        "pricePerShare": "15.80",
+        "changeDate": "113年09月03日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 347
+      },
+      {
+        "name": "台灣大",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 5000,
+        "pricePerShare": "109",
+        "changeDate": "113年08月19日",
+        "changeReason": "賣",
+        "totalValue": 545000
+      },
+      {
+        "name": "台灣大",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 5000,
+        "pricePerShare": "109",
+        "changeDate": "113年08月19日",
+        "changeReason": "賣",
+        "totalValue": 545000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 2000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 134000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 2000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 134000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 2000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 134000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 67000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 67000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 67000
+      },
+      {
+        "name": "弘憶股",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "67",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 67000
+      },
+      {
+        "name": "晶達",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 7000,
+        "pricePerShare": "50",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 350000
+      },
+      {
+        "name": "晶達",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 2000,
+        "pricePerShare": "50",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 100000
+      },
+      {
+        "name": "晶達",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 2000,
+        "pricePerShare": "49.95",
+        "changeDate": "113年03月07日",
+        "changeReason": "買",
+        "totalValue": 99900
+      },
+      {
+        "name": "合庫金",
+        "broker": "元大證券仁愛分公 司",
+        "owner": "林良娥",
+        "shares": 23,
+        "pricePerShare": "25.70",
+        "changeDate": "113年09月16日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 591
+      },
+      {
+        "name": "泰銘",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 5000,
+        "pricePerShare": "76.20",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 381000
+      },
+      {
+        "name": "泰銘",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 4000,
+        "pricePerShare": "76.60",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 306400
+      },
+      {
+        "name": "泰銘",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "76.60",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 76600
+      },
+      {
+        "name": "泰銘",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 2000,
+        "pricePerShare": "76",
+        "changeDate": "113年03月07日",
+        "changeReason": "買",
+        "totalValue": 152000
+      },
+      {
+        "name": "泰銘",
+        "broker": "元大-仁愛",
+        "owner": "林良娥",
+        "shares": 1000,
+        "pricePerShare": "76",
+        "changeDate": "113年03月07日",
+        "changeReason": "買",
+        "totalValue": 76000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "name": "涂權吉",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8844462
+    },
+    {
+      "currency": "美元",
+      "amount": 45115
+    },
+    {
+      "currency": "日圓",
+      "amount": 26016
+    },
+    {
+      "currency": "港幣",
+      "amount": 7929
+    }
+  ],
+  "depositsTotal": 8923523,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽財星高 照變額萬能壽險",
+      "holder": "涂權吉",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "保本 101 終身",
+      "holder": "涂權吉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "達康 101 終身",
+      "holder": "涂權吉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽富足一 生終身壽險",
+      "holder": "涂權吉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "涂權吉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀丙型",
+      "holder": "鍾淑娓",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富利雙享變額壽 險",
+      "holder": "鍾淑娓",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿美滿利變美元",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂事年年終身保 險",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾情終身壽險",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽全民小 額終身壽險",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽享富增 利利率變動型終 身壽險(定期給 付型 )",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽安富久 久失能照護終身 壽險",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽年年如 意終身壽險",
+      "holder": "鍾淑娓",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "茂矽",
+      "cleanName": "茂矽",
+      "ticker": "2342",
+      "shares": 1111,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 32.45,
+      "latestPrice": 33.5
+    },
+    {
+      "name": "榮運",
+      "cleanName": "榮運",
+      "ticker": "2607",
+      "shares": 10000,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 31.55,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "長榮航",
+      "cleanName": "長榮航",
+      "ticker": "2618",
+      "shares": 2571,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 37.5,
+      "latestPrice": 38
+    },
+    {
+      "name": "漢翔",
+      "cleanName": "漢翔",
+      "ticker": "2634",
+      "shares": 370,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 44.9,
+      "latestPrice": 55
+    },
+    {
+      "name": "耀勝",
+      "cleanName": "耀勝",
+      "ticker": "3207",
+      "shares": 12000,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 133,
+      "latestPrice": 81.6
+    },
+    {
+      "name": "泰宗",
+      "cleanName": "泰宗",
+      "ticker": "4174",
+      "shares": 16206,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 66.7,
+      "latestPrice": 41.8
+    },
+    {
+      "name": "宇瞻",
+      "cleanName": "宇瞻",
+      "ticker": "8271",
+      "shares": 386,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 49.2,
+      "latestPrice": 121.5
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 6096,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "佳能",
+      "cleanName": "佳能",
+      "ticker": "2374",
+      "shares": 37,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 47.2,
+      "latestPrice": 81
+    },
+    {
+      "name": "榮運",
+      "cleanName": "榮運",
+      "ticker": "2607",
+      "shares": 2000,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 31.55,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "原相",
+      "cleanName": "原相",
+      "ticker": "3227",
+      "shares": 9,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 244,
+      "latestPrice": 206
+    },
+    {
+      "name": "穎漢",
+      "cleanName": "穎漢",
+      "ticker": "4562",
+      "shares": 1000,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 64,
+      "latestPrice": 37.5
+    },
+    {
+      "name": "華星光",
+      "cleanName": "華星光",
+      "ticker": "4979",
+      "shares": 1000,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 142.5,
+      "latestPrice": 421.5
+    },
+    {
+      "name": "立凱－KY",
+      "cleanName": "立凱-KY",
+      "ticker": "5227",
+      "shares": 819,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 36,
+      "latestPrice": 24.65
+    },
+    {
+      "name": "四維航",
+      "cleanName": "四維航",
+      "ticker": "5608",
+      "shares": 784,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 18.1,
+      "latestPrice": null
+    },
+    {
+      "name": "聚和",
+      "cleanName": "聚和",
+      "ticker": "6509",
+      "shares": 1000,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 44.95,
+      "latestPrice": 39.35
+    },
+    {
+      "name": "伍豐",
+      "cleanName": "伍豐",
+      "ticker": "8076",
+      "shares": 601,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 32.4,
+      "latestPrice": 23.4
+    },
+    {
+      "name": "宇瞻",
+      "cleanName": "宇瞻",
+      "ticker": "8271",
+      "shares": 330,
+      "owner": "涂權吉",
+      "priceAtDisclosure": 49.2,
+      "latestPrice": 121.5
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市楊梅區楊梅段",
+      "owner": "涂權吉",
+      "date": "2021-07-15",
+      "effectiveAreaPing": 58.09,
+      "entryCount": 1,
+      "price": "389,000"
+    },
+    {
+      "location": "桃園市楊梅區頭重溪段",
+      "owner": "鍾淑娓",
+      "date": "2017-12-25",
+      "effectiveAreaPing": 86.21,
+      "entryCount": 1,
+      "price": "含陽台 11.28 平方公尺,雨 遮 16.38 平方 公尺(超過五 年)"
+    }
+  ]
+}

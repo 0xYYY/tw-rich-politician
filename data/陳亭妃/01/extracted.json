@@ -1,0 +1,52 @@
+{
+  "name": "陳亭妃",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月27日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 214778,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳亭妃",
+        "foreignAmount": 0,
+        "amount": 214778
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

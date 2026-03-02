@@ -1,0 +1,123 @@
+{
+  "name": "羅廷瑋",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 720316
+    },
+    {
+      "currency": "美元",
+      "amount": 32167
+    },
+    {
+      "currency": "港幣",
+      "amount": 31125
+    }
+  ],
+  "depositsTotal": 783609,
+  "insurance": [
+    {
+      "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+      "name": "友邦人壽三富人生 美元利率變動型終 身壽險",
+      "holder": "羅廷瑋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+      "name": "友邦人壽滿扶保利 率變動型終身保險",
+      "holder": "羅廷瑋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險 股份有限公司",
+      "name": "中國人壽鑫幸福終 身壽險",
+      "holder": "羅廷瑋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽珍福滿人 生終身壽險",
+      "holder": "羅廷瑋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽超好心殘 廢 照 護 終 身 保 險 (HU1-20)",
+      "holder": "羅廷瑋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽傳富新終 身壽險(110) FI5",
+      "holder": "羅廷瑋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "世紀達利變額萬能 終身壽險 A 型",
+      "holder": "黃婷筠",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "金世紀達利變額萬 能終身壽險 A 型",
+      "holder": "黃婷筠",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "元大人壽保險 股份有限公司",
+      "name": "元大人壽祝扶年年 失能照護終身保險",
+      "holder": "黃婷筠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元大人壽保險 股份有限公司",
+      "name": "元大人壽祝扶年年 失能照護終身保險",
+      "holder": "黃婷筠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽新終身壽 險(106) FI2",
+      "holder": "黃婷筠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽新終身壽 險(106) FI2",
+      "holder": "黃婷筠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽新終身壽 險(106) FI2",
+      "holder": "黃婷筠",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市南區下橋子頭段",
+      "owner": "羅廷瑋",
+      "date": "2011-12-07",
+      "effectiveAreaPing": 36.75,
+      "entryCount": 1,
+      "price": "含陽台 11.55 平方公尺,平台"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "owner": "黃婷筠",
+      "date": "2024-06-25",
+      "effectiveAreaPing": 88.19,
+      "entryCount": 3,
+      "price": "37,600,000(房 地總價額,含陽 台 18.65 平方 公尺,雨遮 6 平 方公尺)"
+    }
+  ]
+}

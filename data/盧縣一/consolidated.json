@@ -1,0 +1,255 @@
+{
+  "name": "盧縣一",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "山地原住民",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1394928
+    }
+  ],
+  "depositsTotal": 1394928,
+  "insurance": [
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 真 健 康 終 身 醫 療 健康保險",
+      "holder": "盧縣一",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 祥 安終身壽險",
+      "holder": "盧縣一",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 守 護 久 久 殘 廢 照 護終身保險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 真 健 康 終 身 醫 療 健康保險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 祥 安終身壽險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 祥 安終身壽險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安聯人壽",
+      "name": "吉 利 亨 通 變 額 萬能壽險",
+      "holder": "蘇美琅",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "安聯人壽",
+      "name": "吉 利 亨 通 變 額 萬能壽險",
+      "holder": "蘇美琅",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南 山 康 寶 終 身 壽險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽",
+      "name": "新 光 人 壽 一 路 發 終 身 還 本 保 險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺銀人壽",
+      "name": "萬 福 還 本 終 身 壽險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺銀人壽",
+      "name": "鴻 福 還 本 終 身 壽險",
+      "holder": "蘇美琅",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "聯成",
+      "cleanName": "聯成",
+      "ticker": "1313",
+      "shares": 1000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 13.25,
+      "latestPrice": 11.15
+    },
+    {
+      "name": "永豐餘",
+      "cleanName": "永豐餘",
+      "ticker": "1907",
+      "shares": 1000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 30.1,
+      "latestPrice": 25.85
+    },
+    {
+      "name": "燁興",
+      "cleanName": "燁興",
+      "ticker": "2007",
+      "shares": 3000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 10.1,
+      "latestPrice": 8.55
+    },
+    {
+      "name": "第一銅",
+      "cleanName": "第一銅",
+      "ticker": "2009",
+      "shares": 2000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 37.45,
+      "latestPrice": 46.5
+    },
+    {
+      "name": "中鴻",
+      "cleanName": "中鴻",
+      "ticker": "2014",
+      "shares": 3000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 22.25,
+      "latestPrice": 18.15
+    },
+    {
+      "name": "中鴻",
+      "cleanName": "中鴻",
+      "ticker": "2014",
+      "shares": 3000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 22.25,
+      "latestPrice": 18.15
+    },
+    {
+      "name": "聚亨",
+      "cleanName": "聚亨",
+      "ticker": "2022",
+      "shares": 2108,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 10.9,
+      "latestPrice": 9.13
+    },
+    {
+      "name": "燁輝",
+      "cleanName": "燁輝",
+      "ticker": "2023",
+      "shares": 5250,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 15,
+      "latestPrice": 14.65
+    },
+    {
+      "name": "大成鋼",
+      "cleanName": "大成鋼",
+      "ticker": "2027",
+      "shares": 2636,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 36.3,
+      "latestPrice": 37.05
+    },
+    {
+      "name": "大成鋼",
+      "cleanName": "大成鋼",
+      "ticker": "2027",
+      "shares": 1000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 36.3,
+      "latestPrice": 37.05
+    },
+    {
+      "name": "彰源",
+      "cleanName": "彰源",
+      "ticker": "2030",
+      "shares": 2000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 18.4,
+      "latestPrice": 16.5
+    },
+    {
+      "name": "彰源",
+      "cleanName": "彰源",
+      "ticker": "2030",
+      "shares": 1000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 18.4,
+      "latestPrice": 16.5
+    },
+    {
+      "name": "海光",
+      "cleanName": "海光",
+      "ticker": "2038",
+      "shares": 2100,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 18.75,
+      "latestPrice": 15
+    },
+    {
+      "name": "益航",
+      "cleanName": "益航",
+      "ticker": "2601",
+      "shares": 4000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 7.97,
+      "latestPrice": 5.4
+    },
+    {
+      "name": "華票",
+      "cleanName": "華票",
+      "ticker": "2820",
+      "shares": 5000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 15.25,
+      "latestPrice": 17.15
+    },
+    {
+      "name": "國光生",
+      "cleanName": "國光生",
+      "ticker": "4142",
+      "shares": 2000,
+      "owner": "盧縣一",
+      "priceAtDisclosure": 26.5,
+      "latestPrice": 18
+    },
+    {
+      "name": "美合國際",
+      "cleanName": "美合國際",
+      "ticker": null,
+      "shares": 925,
+      "owner": "盧縣一",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "屏東縣枋寮鄉新龍段",
+      "owner": "盧縣一",
+      "date": "2022-03-04",
+      "effectiveAreaPing": 12.69,
+      "entryCount": 2,
+      "price": "2,000,000 (跟建物第2筆 共同取得,含 陽台4.87平方 公尺)"
+    }
+  ]
+}

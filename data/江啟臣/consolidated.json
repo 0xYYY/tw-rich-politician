@@ -1,0 +1,150 @@
+{
+  "name": "江啟臣",
+  "date": "2023-11-01",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 11046142
+    },
+    {
+      "currency": "美元",
+      "amount": 1548921
+    },
+    {
+      "currency": "港幣",
+      "amount": 2
+    },
+    {
+      "currency": "日圓",
+      "amount": 214600
+    },
+    {
+      "currency": "澳幣",
+      "amount": 133
+    }
+  ],
+  "depositsTotal": 12809798,
+  "insurance": [
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "保誠人壽幸福終 身壽險(93)",
+      "holder": "江啟臣",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽常 春增額還本保險 〈10 年付費〉",
+      "holder": "江啟臣",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽常 春增額還本保險 〈6 年付費〉",
+      "holder": "江啟臣",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽常 春增額還本保險 〈8 年付費〉",
+      "holder": "江啟臣",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽富 麗人生增額保險 （10 年付費）",
+      "holder": "江啟臣",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽富 麗人生增額保險 （10 年付費）",
+      "holder": "江啟臣",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安達人壽",
+      "name": "安 達 人 壽 得 利 100 外幣變額年 金保險",
+      "holder": "江啟臣",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "添美利美元",
+      "holder": "劉姿伶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "添美利美元",
+      "holder": "劉姿伶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險 股份有限公司",
+      "name": "新光人壽吉祥如 意終身壽險",
+      "holder": "劉姿伶",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "摩根基金-亞太 入息基金（月配 現）（美元）",
+      "owner": "江啟臣",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 82.816,
+      "unitValue": 92.36,
+      "currency": "美元",
+      "declaredValue": 248175,
+      "source": "fund"
+    },
+    {
+      "name": "施羅德（環）環 球 股 息 基 金 AX （月配現）（美 元）",
+      "owner": "江啟臣",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 1818.18,
+      "unitValue": 3.7045,
+      "currency": "美元",
+      "declaredValue": 218538,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市豐原區三陽段",
+      "owner": "江啟臣",
+      "date": "2012-08-30",
+      "effectiveAreaPing": 133.1,
+      "entryCount": 3,
+      "price": "含陽台28.8平 方公尺,雨遮 8.19 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平段一小段",
+      "owner": "劉姿伶",
+      "date": "2007-03-28",
+      "effectiveAreaPing": 1.49,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區南村里北陽路",
+      "owner": "江啟臣",
+      "date": "2012-07-20",
+      "effectiveAreaPing": 133.03,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平里甘州街",
+      "owner": "劉姿伶",
+      "date": "2007-03-14",
+      "effectiveAreaPing": 33.12,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    }
+  ]
+}

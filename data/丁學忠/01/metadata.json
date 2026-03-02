@@ -1,0 +1,5578 @@
+{
+  "file name" : "262-01一般申報.pdf",
+  "number of pages" : 3,
+  "author" : "acer",
+  "title" : "",
+  "creation date" : "D:20250619185113+08'00'",
+  "modification date" : "D:20250619185113+08'00'",
+  "kids" : [ {
+    "type" : "caption",
+    "id" : 249,
+    "page number" : 1,
+    "bounding box" : [ 204.17, 771.729, 408.19, 783.729 ],
+    "linked content id" : 250,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 12.0,
+    "text color" : "[0.0]",
+    "content" : "公 職 人 員 財 產 申 報 表"
+  }, {
+    "type" : "table",
+    "id" : 250,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 48.36, 603.34, 564.6, 771.36 ],
+    "number of rows" : 7,
+    "number of columns" : 10,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 719.848, 122.422, 770.402 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 50,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 738.709, 117.24, 750.709 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "申報人姓名"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 122.422, 719.848, 185.567, 770.402 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 2,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 51,
+          "page number" : 1,
+          "bounding box" : [ 127.82, 739.116, 157.81, 749.076 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 185.567, 719.848, 260.69, 770.402 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 52,
+          "page number" : 1,
+          "bounding box" : [ 187.01, 738.709, 259.49, 750.709 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "服 務 機 關"
+        }, {
+          "type" : "image",
+          "id" : 53,
+          "page number" : 1,
+          "bounding box" : [ 48.36, 745.78, 564.6, 771.36 ]
+        }, {
+          "type" : "image",
+          "id" : 54,
+          "page number" : 1,
+          "bounding box" : [ 48.36, 720.34, 564.6, 745.78 ]
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 260.69, 745.3, 428.95, 770.402 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 55,
+          "page number" : 1,
+          "bounding box" : [ 262.13, 751.836, 302.09, 761.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "1.立法院"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 428.95, 719.848, 464.977, 770.402 ],
+        "row number" : 1,
+        "column number" : 8,
+        "row span" : 2,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 56,
+          "page number" : 1,
+          "bounding box" : [ 430.42, 738.709, 463.66, 750.709 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "職 稱"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 464.977, 745.3, 563.64, 770.402 ],
+        "row number" : 1,
+        "column number" : 10,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 57,
+          "page number" : 1,
+          "bounding box" : [ 466.42, 751.836, 516.45, 761.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "1.立法委員"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 260.69, 719.848, 428.95, 745.3 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 58,
+          "page number" : 1,
+          "bounding box" : [ 262.13, 726.396, 272.15, 736.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "2."
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 464.977, 719.848, 563.64, 745.3 ],
+        "row number" : 2,
+        "column number" : 10,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 59,
+          "page number" : 1,
+          "bounding box" : [ 466.42, 726.396, 476.44, 736.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "2."
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 696.7, 122.422, 719.848 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 60,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 701.629, 117.26, 713.629 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "申 報 日"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 122.422, 696.7, 306.535, 719.848 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 4,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 61,
+          "page number" : 1,
+          "bounding box" : [ 127.82, 702.036, 205.37, 711.996 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "113 年 11 月 01 日"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 306.535, 696.7, 374.83, 719.848 ],
+        "row number" : 3,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 62,
+          "page number" : 1,
+          "bounding box" : [ 307.99, 701.629, 373.63, 713.629 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "申 報 類 別"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 374.83, 696.7, 563.64, 719.848 ],
+        "row number" : 3,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 4,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 63,
+          "page number" : 1,
+          "bounding box" : [ 376.27, 702.036, 416.22, 711.996 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "定期申報"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 673.42, 306.535, 696.7 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 5,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 64,
+          "page number" : 1,
+          "bounding box" : [ 93.744, 678.349, 261.77, 690.349 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "配 偶 及 未 成 年 子 女"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 306.535, 673.42, 563.64, 696.7 ],
+        "row number" : 4,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 5,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 65,
+          "page number" : 1,
+          "bounding box" : [ 351.31, 678.349, 519.34, 690.349 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "配 偶 及 未 成 年 子 女"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 650.26, 177.74, 673.42 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 66,
+          "page number" : 1,
+          "bounding box" : [ 92.424, 655.189, 134.42, 667.189 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "稱 謂"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 177.74, 650.26, 306.535, 673.42 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 67,
+          "page number" : 1,
+          "bounding box" : [ 221.21, 655.189, 263.21, 667.189 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "姓 名"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 306.535, 650.26, 435.335, 673.42 ],
+        "row number" : 5,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 68,
+          "page number" : 1,
+          "bounding box" : [ 349.99, 655.189, 391.99, 667.189 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "稱 謂"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 435.335, 650.26, 563.64, 673.42 ],
+        "row number" : 5,
+        "column number" : 9,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 69,
+          "page number" : 1,
+          "bounding box" : [ 478.78, 655.189, 520.78, 667.189 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 12.0,
+          "text color" : "[0.0]",
+          "content" : "姓 名"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 627.1, 177.74, 650.26 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 70,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 632.436, 104.379, 642.396 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "未成年子女"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 177.74, 627.1, 306.535, 650.26 ],
+        "row number" : 6,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 71,
+          "page number" : 1,
+          "bounding box" : [ 179.18, 632.436, 209.17, 642.396 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○容"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 306.535, 627.1, 435.335, 650.26 ],
+        "row number" : 6,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 72,
+          "page number" : 1,
+          "bounding box" : [ 311.95, 632.436, 361.969, 642.396 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "未成年子女"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 435.335, 627.1, 563.64, 650.26 ],
+        "row number" : 6,
+        "column number" : 9,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 73,
+          "page number" : 1,
+          "bounding box" : [ 436.78, 632.436, 466.77, 642.396 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○甯"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 604.306, 177.74, 627.1 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 74,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 609.156, 104.379, 619.116 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "未成年子女"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 177.74, 604.306, 306.535, 627.1 ],
+        "row number" : 7,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 75,
+          "page number" : 1,
+          "bounding box" : [ 179.18, 609.156, 209.17, 619.116 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○偉"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 306.535, 604.306, 435.335, 627.1 ],
+        "row number" : 7,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 3,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 76,
+          "page number" : 1,
+          "bounding box" : [ 311.95, 609.156, 361.98, 619.116 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "未成年子女"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 435.335, 604.306, 563.64, 627.1 ],
+        "row number" : 7,
+        "column number" : 9,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 77,
+          "page number" : 1,
+          "bounding box" : [ 436.78, 609.156, 466.77, 619.116 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "李○煾"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 1,
+    "bounding box" : [ 51.0, 590.076, 110.979, 600.036 ],
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（二）不動產"
+  }, {
+    "type" : "list",
+    "id" : 252,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 66.024, 460.086, 176.393, 586.086 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 66.024, 576.126, 96.024, 586.086 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "1.土地",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 248,
+        "level" : "3",
+        "page number" : 1,
+        "bounding box" : [ 48.36, 487.27, 564.6, 575.35 ],
+        "number of rows" : 3,
+        "number of columns" : 7,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 49.32, 545.83, 197.33, 574.39 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 29,
+              "page number" : 1,
+              "bounding box" : [ 54.36, 554.046, 191.967, 564.006 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "土 地 坐 落"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 197.33, 545.83, 253.85, 574.39 ],
+            "row number" : 1,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 30,
+              "page number" : 1,
+              "bounding box" : [ 202.85, 547.086, 248.63, 571.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "面積(平方 公 尺 )"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 253.85, 545.83, 313.392, 574.39 ],
+            "row number" : 1,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 31,
+              "page number" : 1,
+              "bounding box" : [ 259.37, 547.086, 308.15, 571.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "權 利 範 圍 ( 持 分 )"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 313.392, 545.83, 381.31, 574.39 ],
+            "row number" : 1,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 32,
+              "page number" : 1,
+              "bounding box" : [ 318.91, 554.046, 375.871, 564.006 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "所 有 權 人"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 381.31, 545.83, 439.537, 574.39 ],
+            "row number" : 1,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 33,
+              "page number" : 1,
+              "bounding box" : [ 386.71, 547.086, 434.11, 571.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "登 記 ( 取 得 ) 時 間"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 439.537, 545.83, 490.66, 574.39 ],
+            "row number" : 1,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 34,
+              "page number" : 1,
+              "bounding box" : [ 444.94, 547.086, 485.26, 571.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "登 記 ( 取 得 ) 原 因"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 490.66, 545.83, 563.642, 574.39 ],
+            "row number" : 1,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 35,
+              "page number" : 1,
+              "bounding box" : [ 496.18, 554.046, 558.789, 564.006 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "取 得 價 額"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 2,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 49.32, 516.79, 197.33, 545.83 ],
+            "row number" : 2,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 36,
+              "page number" : 1,
+              "bounding box" : [ 54.36, 525.126, 144.329, 535.086 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "雲林縣虎尾鎮過溪段"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 197.33, 516.79, 253.85, 545.83 ],
+            "row number" : 2,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 37,
+              "page number" : 1,
+              "bounding box" : [ 218.57, 525.126, 248.589, 535.086 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "168.23"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 253.85, 516.79, 313.392, 545.83 ],
+            "row number" : 2,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 38,
+              "page number" : 1,
+              "bounding box" : [ 259.37, 525.126, 279.41, 535.086 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "全部"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 313.392, 516.79, 381.31, 545.83 ],
+            "row number" : 2,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 39,
+              "page number" : 1,
+              "bounding box" : [ 318.91, 525.126, 348.9, 535.086 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "丁學忠"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 381.31, 516.79, 439.537, 545.83 ],
+            "row number" : 2,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 40,
+              "page number" : 1,
+              "bounding box" : [ 386.71, 518.046, 426.73, 542.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "106 年 12 月 01 日"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 439.537, 516.79, 490.66, 545.83 ],
+            "row number" : 2,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 41,
+              "page number" : 1,
+              "bounding box" : [ 444.94, 525.126, 464.98, 535.086 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "買賣"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 490.66, 516.79, 563.642, 545.83 ],
+            "row number" : 2,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 42,
+              "page number" : 1,
+              "bounding box" : [ 496.18, 525.126, 546.28, 535.086 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "(超過五年)"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 3,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 49.32, 488.23, 197.33, 516.79 ],
+            "row number" : 3,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 43,
+              "page number" : 1,
+              "bounding box" : [ 54.36, 496.086, 144.329, 506.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "雲林縣虎尾鎮過溪段"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 197.33, 488.23, 253.85, 516.79 ],
+            "row number" : 3,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 44,
+              "page number" : 1,
+              "bounding box" : [ 218.57, 496.086, 248.589, 506.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "412.71"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 253.85, 488.23, 313.392, 516.79 ],
+            "row number" : 3,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 45,
+              "page number" : 1,
+              "bounding box" : [ 259.37, 496.086, 299.39, 506.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "15 分之 1"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 313.392, 488.23, 381.31, 516.79 ],
+            "row number" : 3,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 46,
+              "page number" : 1,
+              "bounding box" : [ 318.91, 496.086, 348.9, 506.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "丁學忠"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 381.31, 488.23, 439.537, 516.79 ],
+            "row number" : 3,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 47,
+              "page number" : 1,
+              "bounding box" : [ 386.71, 489.126, 426.73, 513.006 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "106 年 12 月 01 日"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 439.537, 488.23, 490.66, 516.79 ],
+            "row number" : 3,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 48,
+              "page number" : 1,
+              "bounding box" : [ 444.94, 496.086, 464.98, 506.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "買賣"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 1,
+            "bounding box" : [ 490.66, 488.23, 563.642, 516.79 ],
+            "row number" : 3,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 49,
+              "page number" : 1,
+              "bounding box" : [ 496.18, 496.086, 546.28, 506.046 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "(超過五年)"
+            } ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 66.384, 460.086, 176.393, 470.046 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "2.建物（房屋及停車位）",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 253,
+    "level" : "4",
+    "page number" : 1,
+    "bounding box" : [ 48.36, 372.29, 564.6, 459.31 ],
+    "number of rows" : 2,
+    "number of columns" : 7,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 429.792, 197.33, 458.35 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 438.126, 191.967, 448.086 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "建 物 標 示"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 197.33, 429.792, 253.85, 458.35 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 1,
+          "bounding box" : [ 202.85, 431.046, 248.63, 455.046 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "面積(平方 公 尺 )"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 253.85, 429.792, 313.392, 458.35 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 1,
+          "bounding box" : [ 259.37, 431.046, 308.15, 455.046 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "權 利 範 圍 ( 持 分 )"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.392, 429.792, 381.31, 458.35 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 4,
+          "page number" : 1,
+          "bounding box" : [ 318.91, 438.126, 375.871, 448.086 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 權 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 429.792, 439.537, 458.35 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 5,
+          "page number" : 1,
+          "bounding box" : [ 386.71, 431.046, 434.11, 455.046 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 429.792, 490.66, 458.35 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 6,
+          "page number" : 1,
+          "bounding box" : [ 444.94, 431.046, 485.26, 455.046 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 原 因"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 429.792, 563.642, 458.35 ],
+        "row number" : 1,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 1,
+          "bounding box" : [ 496.18, 438.126, 558.789, 448.086 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取 得 價 額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 373.25, 197.33, 429.792 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 8,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 395.026, 144.329, 404.986 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "雲林縣虎尾鎮過溪段"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 197.33, 373.25, 253.85, 429.792 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 9,
+          "page number" : 1,
+          "bounding box" : [ 202.85, 374.026, 248.62, 426.006 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "195.76 (另附屬建 物總面積: 9.50)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 253.85, 373.25, 313.392, 429.792 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 10,
+          "page number" : 1,
+          "bounding box" : [ 259.37, 395.026, 279.41, 404.986 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "全部"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.392, 373.25, 381.31, 429.792 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 11,
+          "page number" : 1,
+          "bounding box" : [ 318.91, 395.026, 348.9, 404.986 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 373.25, 439.537, 429.792 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 12,
+          "page number" : 1,
+          "bounding box" : [ 386.71, 388.066, 434.17, 412.066 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "106 年 12 月 01 日"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 373.25, 490.66, 429.792 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 13,
+          "page number" : 1,
+          "bounding box" : [ 444.94, 395.026, 464.98, 404.986 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "買賣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 373.25, 563.642, 429.792 ],
+        "row number" : 2,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 14,
+          "page number" : 1,
+          "bounding box" : [ 496.18, 381.106, 556.18, 419.046 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "含陽台 9.5 平 方公尺(超過 五年)"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 254,
+    "page number" : 1,
+    "bounding box" : [ 51.0, 359.026, 101.019, 368.986 ],
+    "linked content id" : 253,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（三）船舶"
+  }, {
+    "type" : "table",
+    "id" : 255,
+    "level" : "5",
+    "page number" : 1,
+    "bounding box" : [ 48.36, 307.37, 564.6, 358.25 ],
+    "number of rows" : 2,
+    "number of columns" : 7,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 328.85, 197.33, 357.29 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 15,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 337.066, 191.9, 347.026 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "種 類"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 197.33, 328.85, 253.85, 357.29 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 16,
+          "page number" : 1,
+          "bounding box" : [ 202.85, 337.066, 248.57, 347.026 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "總 噸 數"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 253.85, 328.85, 313.392, 357.29 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 17,
+          "page number" : 1,
+          "bounding box" : [ 259.37, 337.066, 308.074, 347.026 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "船 籍 港"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.392, 328.85, 381.31, 357.29 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 18,
+          "page number" : 1,
+          "bounding box" : [ 318.91, 337.066, 375.91, 347.026 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 328.85, 439.537, 357.29 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 19,
+          "page number" : 1,
+          "bounding box" : [ 386.71, 330.106, 434.11, 353.986 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 328.85, 490.66, 357.29 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 1,
+          "bounding box" : [ 444.94, 330.106, 485.26, 353.986 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 原 因"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 328.85, 563.642, 357.29 ],
+        "row number" : 1,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 21,
+          "page number" : 1,
+          "bounding box" : [ 496.18, 337.066, 558.789, 347.026 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取 得 價 額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 308.33, 197.33, 328.85 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 22,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 312.106, 94.31, 322.066 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 197.33, 308.33, 253.85, 328.85 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 253.85, 308.33, 313.392, 328.85 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.392, 308.33, 381.31, 328.85 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 308.33, 439.537, 328.85 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 308.33, 490.66, 328.85 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 308.33, 563.642, 328.85 ],
+        "row number" : 2,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 256,
+    "page number" : 1,
+    "bounding box" : [ 51.0, 294.226, 220.977, 304.186 ],
+    "linked content id" : 255,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（四）汽車（含大型重型機器腳踏車）"
+  }, {
+    "type" : "table",
+    "id" : 257,
+    "level" : "6",
+    "page number" : 1,
+    "bounding box" : [ 48.36, 234.38, 564.6, 293.45 ],
+    "number of rows" : 2,
+    "number of columns" : 6,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 263.927, 197.33, 292.49 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 78,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 272.146, 191.967, 282.106 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "廠 牌 型 號"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 197.33, 263.927, 313.39, 292.49 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 79,
+          "page number" : 1,
+          "bounding box" : [ 202.85, 272.146, 308.067, 282.106 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "汽 缸 容 量"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.39, 263.927, 381.31, 292.49 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 80,
+          "page number" : 1,
+          "bounding box" : [ 318.91, 272.146, 375.91, 282.106 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 263.927, 439.537, 292.49 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 81,
+          "page number" : 1,
+          "bounding box" : [ 386.71, 265.186, 434.11, 289.186 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 263.927, 490.66, 292.49 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 82,
+          "page number" : 1,
+          "bounding box" : [ 444.94, 265.186, 485.26, 289.186 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 原 因"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 263.927, 563.642, 292.49 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 83,
+          "page number" : 1,
+          "bounding box" : [ 496.18, 272.146, 558.789, 282.106 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取 得 價 額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 235.34, 197.33, 263.927 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 84,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 243.226, 84.379, 253.186 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "TOYOTA"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 197.33, 235.34, 313.39, 263.927 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 85,
+          "page number" : 1,
+          "bounding box" : [ 283.13, 243.226, 308.12, 253.186 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "2,487"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.39, 235.34, 381.31, 263.927 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 86,
+          "page number" : 1,
+          "bounding box" : [ 318.91, 243.226, 348.9, 253.186 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 235.34, 439.537, 263.927 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 87,
+          "page number" : 1,
+          "bounding box" : [ 386.71, 236.146, 434.17, 260.146 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "113 年 02 月 27 日"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 235.34, 490.66, 263.927 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 88,
+          "page number" : 1,
+          "bounding box" : [ 444.94, 243.226, 464.98, 253.186 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "買賣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 235.34, 563.642, 263.927 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 89,
+          "page number" : 1,
+          "bounding box" : [ 496.18, 243.226, 541.179, 253.186 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "2,430,000"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 258,
+    "page number" : 1,
+    "bounding box" : [ 51.0, 221.116, 110.979, 231.076 ],
+    "linked content id" : 257,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（五）航空器"
+  }, {
+    "type" : "table",
+    "id" : 259,
+    "level" : "7",
+    "page number" : 1,
+    "bounding box" : [ 48.36, 169.58, 564.6, 220.34 ],
+    "number of rows" : 2,
+    "number of columns" : 7,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 190.94, 186.05, 219.38 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 95,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 199.156, 180.62, 209.116 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "型 式"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 186.05, 190.94, 253.85, 219.38 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 96,
+          "page number" : 1,
+          "bounding box" : [ 191.45, 199.156, 248.45, 209.116 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "製 造 廠 名 稱"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 253.85, 190.94, 313.392, 219.38 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 97,
+          "page number" : 1,
+          "bounding box" : [ 259.37, 192.196, 308.074, 216.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "國 籍 標 示 及 編 號"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.392, 190.94, 381.31, 219.38 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 98,
+          "page number" : 1,
+          "bounding box" : [ 318.91, 199.156, 375.91, 209.116 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 190.94, 439.537, 219.38 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 99,
+          "page number" : 1,
+          "bounding box" : [ 386.71, 192.196, 434.11, 216.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 190.94, 490.66, 219.38 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 100,
+          "page number" : 1,
+          "bounding box" : [ 444.94, 192.196, 485.26, 216.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "登 記 ( 取 得 ) 原 因"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 190.94, 563.642, 219.38 ],
+        "row number" : 1,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 101,
+          "page number" : 1,
+          "bounding box" : [ 496.18, 199.156, 558.789, 209.116 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取 得 價 額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 170.54, 186.05, 190.94 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 102,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 174.196, 94.31, 184.156 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 186.05, 170.54, 253.85, 190.94 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 253.85, 170.54, 313.392, 190.94 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 313.392, 170.54, 381.31, 190.94 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 381.31, 170.54, 439.537, 190.94 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 439.537, 170.54, 490.66, 190.94 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 490.66, 170.54, 563.642, 190.94 ],
+        "row number" : 2,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 260,
+    "page number" : 1,
+    "bounding box" : [ 51.0, 156.316, 396.07, 166.276 ],
+    "linked content id" : 259,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（六）現金（指新臺幣、外幣之現金或旅行支票）（總金額：新臺幣 元）"
+  }, {
+    "type" : "table",
+    "id" : 261,
+    "level" : "8",
+    "page number" : 1,
+    "bounding box" : [ 48.36, 110.54, 564.6, 155.54 ],
+    "number of rows" : 2,
+    "number of columns" : 4,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 134.18, 178.22, 154.58 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 90,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 138.436, 172.94, 148.396 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "幣 別"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 178.22, 134.18, 307.75, 154.58 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 91,
+          "page number" : 1,
+          "bounding box" : [ 183.77, 138.436, 302.314, 148.396 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 307.75, 134.18, 411.07, 154.58 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 92,
+          "page number" : 1,
+          "bounding box" : [ 313.15, 138.436, 405.639, 148.396 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "外 幣 總 額"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 411.07, 134.18, 563.64, 154.58 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 93,
+          "page number" : 1,
+          "bounding box" : [ 416.47, 138.436, 558.671, 148.396 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣總額或折合新臺幣總額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 49.32, 111.5, 178.22, 134.18 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 94,
+          "page number" : 1,
+          "bounding box" : [ 54.36, 116.356, 94.31, 126.316 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 178.22, 111.5, 307.75, 134.18 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 307.75, 111.5, 411.07, 134.18 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 411.07, 111.5, 563.64, 134.18 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 262,
+    "page number" : 1,
+    "bounding box" : [ 51.0, 97.4, 355.99, 107.36 ],
+    "linked content id" : 263,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（七）存款（指新臺幣、外幣之存款）（總金額：新臺幣 773,864 元）"
+  }, {
+    "type" : "table",
+    "id" : 263,
+    "level" : "9",
+    "page number" : 1,
+    "bounding box" : [ 49.08, 66.624, 564.6, 96.624 ],
+    "number of rows" : 1,
+    "number of columns" : 6,
+    "next table id" : 265,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 50.04, 67.584, 168.02, 95.664 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 23,
+          "page number" : 1,
+          "bounding box" : [ 51.0, 68.36, 166.64, 92.36 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "存 放 機 構 ( 應 敘 明 分 支 機 構 )"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 168.02, 67.584, 258.047, 95.664 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 24,
+          "page number" : 1,
+          "bounding box" : [ 169.46, 75.32, 256.72, 85.28 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "種 類"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 258.047, 67.584, 312.072, 95.664 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 25,
+          "page number" : 1,
+          "bounding box" : [ 259.49, 75.32, 310.73, 85.28 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "幣 別"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 312.072, 67.584, 375.07, 95.664 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 26,
+          "page number" : 1,
+          "bounding box" : [ 313.51, 75.32, 373.728, 85.28 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 375.07, 67.584, 456.097, 95.664 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 27,
+          "page number" : 1,
+          "bounding box" : [ 376.51, 75.32, 454.716, 85.28 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "外 幣 總 額"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 1,
+        "bounding box" : [ 456.097, 67.584, 563.64, 95.664 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 28,
+          "page number" : 1,
+          "bounding box" : [ 457.54, 68.36, 562.757, 92.36 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新 臺 幣 總 額 或 折 合 新 臺 幣 總 額"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 264,
+    "page number" : 1,
+    "bounding box" : [ 156.02, 43.809, 446.44, 53.936 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 240,
+      "page number" : 1,
+      "bounding box" : [ 156.02, 43.809, 446.44, 53.936 ],
+      "heading level" : 1,
+      "font" : "PMingLiU",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "監察院公報 ............. 廉 政 專 刊 第 262 期 262"
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 265,
+    "level" : "9",
+    "page number" : 2,
+    "bounding box" : [ 49.08, 520.27, 564.6, 785.4 ],
+    "number of rows" : 11,
+    "number of columns" : 6,
+    "previous table id" : 263,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 761.402, 168.02, 784.44 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 140,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 766.856, 131.009, 776.816 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "土地銀行虎尾分行"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 761.402, 258.047, 784.44 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 141,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 766.856, 209.41, 776.816 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "綜合存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 761.402, 312.072, 784.44 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 142,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 766.856, 289.48, 776.816 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 761.402, 375.07, 784.44 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 143,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 766.856, 343.5, 776.816 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 761.402, 456.097, 784.44 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 761.402, 563.64, 784.44 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 144,
+          "page number" : 2,
+          "bounding box" : [ 532.78, 766.856, 562.799, 776.816 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "35,733"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 737.86, 168.02, 761.402 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 145,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 743.316, 150.929, 753.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "臺灣新光銀行台中分行"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 737.86, 258.047, 761.402 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 146,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 743.316, 229.439, 753.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 737.86, 312.072, 761.402 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 147,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 743.316, 289.48, 753.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 737.86, 375.07, 761.402 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 148,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 743.316, 343.5, 753.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 737.86, 456.097, 761.402 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 737.86, 563.64, 761.402 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 149,
+          "page number" : 2,
+          "bounding box" : [ 552.82, 743.316, 562.84, 753.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "40"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 714.34, 168.02, 737.86 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 150,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 719.796, 161.05, 729.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "雲林縣虎尾鎮農會信用部"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 714.34, 258.047, 737.86 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 151,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 719.796, 229.439, 729.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 714.34, 312.072, 737.86 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 152,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 719.796, 289.48, 729.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 714.34, 375.07, 737.86 ],
+        "row number" : 3,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 153,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 719.796, 343.5, 729.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 714.34, 456.097, 737.86 ],
+        "row number" : 3,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 714.34, 563.64, 737.86 ],
+        "row number" : 3,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 154,
+          "page number" : 2,
+          "bounding box" : [ 527.74, 719.796, 562.789, 729.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "187,964"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 690.82, 168.02, 714.34 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 155,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 696.396, 160.998, 706.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "雲林縣土庫鎮農會信用部"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 690.82, 258.047, 714.34 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 156,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 696.396, 229.439, 706.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 690.82, 312.072, 714.34 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 157,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 696.396, 289.48, 706.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 690.82, 375.07, 714.34 ],
+        "row number" : 4,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 158,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 696.396, 343.5, 706.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 690.82, 456.097, 714.34 ],
+        "row number" : 4,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 690.82, 563.64, 714.34 ],
+        "row number" : 4,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 159,
+          "page number" : 2,
+          "bounding box" : [ 537.82, 696.396, 562.81, 706.356 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "6,635"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 667.3, 168.02, 690.82 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 160,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 672.876, 90.95, 682.836 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "中華郵政"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 667.3, 258.047, 690.82 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 161,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 672.876, 229.439, 682.836 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 667.3, 312.072, 690.82 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 162,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 672.876, 289.48, 682.836 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 667.3, 375.07, 690.82 ],
+        "row number" : 5,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 163,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 672.876, 343.5, 682.836 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 667.3, 456.097, 690.82 ],
+        "row number" : 5,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 667.3, 563.64, 690.82 ],
+        "row number" : 5,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 164,
+          "page number" : 2,
+          "bounding box" : [ 537.82, 672.876, 562.81, 682.836 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "8,650"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 643.9, 168.02, 667.3 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 165,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 649.356, 131.009, 659.316 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "元大銀行斗信分行"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 643.9, 258.047, 667.3 ],
+        "row number" : 6,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 166,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 649.356, 209.41, 659.316 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "綜合存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 643.9, 312.072, 667.3 ],
+        "row number" : 6,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 167,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 649.356, 289.48, 659.316 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 643.9, 375.07, 667.3 ],
+        "row number" : 6,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 168,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 649.356, 343.5, 659.316 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 643.9, 456.097, 667.3 ],
+        "row number" : 6,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 643.9, 563.64, 667.3 ],
+        "row number" : 6,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 169,
+          "page number" : 2,
+          "bounding box" : [ 547.78, 649.356, 562.84, 659.316 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "144"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 620.38, 168.02, 643.9 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 170,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 625.836, 90.95, 635.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "中華郵政"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 620.38, 258.047, 643.9 ],
+        "row number" : 7,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 171,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 625.836, 229.439, 635.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 620.38, 312.072, 643.9 ],
+        "row number" : 7,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 172,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 625.836, 289.48, 635.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 620.38, 375.07, 643.9 ],
+        "row number" : 7,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 173,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 625.836, 343.5, 635.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○容"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 620.38, 456.097, 643.9 ],
+        "row number" : 7,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 620.38, 563.64, 643.9 ],
+        "row number" : 7,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 174,
+          "page number" : 2,
+          "bounding box" : [ 532.78, 625.836, 562.799, 635.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "19,641"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 596.857, 168.02, 620.38 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 175,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 602.316, 90.95, 612.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "中華郵政"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 596.857, 258.047, 620.38 ],
+        "row number" : 8,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 176,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 602.316, 229.439, 612.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 596.857, 312.072, 620.38 ],
+        "row number" : 8,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 177,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 602.316, 289.48, 612.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 596.857, 375.07, 620.38 ],
+        "row number" : 8,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 178,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 602.316, 343.5, 612.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○甯"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 596.857, 456.097, 620.38 ],
+        "row number" : 8,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 596.857, 563.64, 620.38 ],
+        "row number" : 8,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 179,
+          "page number" : 2,
+          "bounding box" : [ 532.78, 602.316, 562.799, 612.276 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "44,789"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 573.31, 168.02, 596.857 ],
+        "row number" : 9,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 180,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 578.766, 90.95, 588.726 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "中華郵政"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 573.31, 258.047, 596.857 ],
+        "row number" : 9,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 181,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 578.766, 229.439, 588.726 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "活期儲蓄存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 573.31, 312.072, 596.857 ],
+        "row number" : 9,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 182,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 578.766, 289.48, 588.726 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 573.31, 375.07, 596.857 ],
+        "row number" : 9,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 183,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 578.766, 343.5, 588.726 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○偉"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 573.31, 456.097, 596.857 ],
+        "row number" : 9,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 573.31, 563.64, 596.857 ],
+        "row number" : 9,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 184,
+          "page number" : 2,
+          "bounding box" : [ 527.74, 578.766, 562.789, 588.726 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "303,859"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 10,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 549.79, 168.02, 573.31 ],
+        "row number" : 10,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 185,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 555.366, 131.009, 565.326 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "元大銀行太平分行"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 549.79, 258.047, 573.31 ],
+        "row number" : 10,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 186,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 555.366, 209.41, 565.326 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "綜合存款"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 549.79, 312.072, 573.31 ],
+        "row number" : 10,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 187,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 555.366, 289.48, 565.326 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 549.79, 375.07, 573.31 ],
+        "row number" : 10,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 188,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 555.366, 343.5, 565.326 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁○偉"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 549.79, 456.097, 573.31 ],
+        "row number" : 10,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 549.79, 563.64, 573.31 ],
+        "row number" : 10,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 189,
+          "page number" : 2,
+          "bounding box" : [ 537.82, 555.366, 562.81, 565.326 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "6,600"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 11,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 521.23, 168.02, 549.79 ],
+        "row number" : 11,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 190,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 522.126, 166.58, 546.006 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "中華郵政公司土庫郵局(雲 林 23 支局)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 168.02, 521.23, 258.047, 549.79 ],
+        "row number" : 11,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 191,
+          "page number" : 2,
+          "bounding box" : [ 169.46, 529.086, 249.469, 539.046 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "中華郵政存簿儲金"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 258.047, 521.23, 312.072, 549.79 ],
+        "row number" : 11,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 192,
+          "page number" : 2,
+          "bounding box" : [ 259.49, 529.086, 289.48, 539.046 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 312.072, 521.23, 375.07, 549.79 ],
+        "row number" : 11,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 193,
+          "page number" : 2,
+          "bounding box" : [ 313.51, 529.086, 343.5, 539.046 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "李○煾"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 375.07, 521.23, 456.097, 549.79 ],
+        "row number" : 11,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 456.097, 521.23, 563.64, 549.79 ],
+        "row number" : 11,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 194,
+          "page number" : 2,
+          "bounding box" : [ 527.74, 529.086, 562.789, 539.046 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "159,809"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 266,
+    "page number" : 2,
+    "bounding box" : [ 56.04, 507.126, 256.13, 517.086 ],
+    "linked content id" : 265,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（八）有價證券（總價額：新臺幣 元）"
+  }, {
+    "type" : "list",
+    "id" : 267,
+    "level" : "10",
+    "page number" : 2,
+    "bounding box" : [ 69.024, 291.706, 276.29, 503.046 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 69.024, 493.086, 229.01, 503.046 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "1.股票（總價額：新臺幣 元）",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 245,
+        "level" : "11",
+        "page number" : 2,
+        "bounding box" : [ 49.08, 439.15, 566.64, 492.31 ],
+        "number of rows" : 2,
+        "number of columns" : 6,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 462.79, 169.34, 491.35 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 195,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 471.126, 168.02, 481.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "名 稱"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 169.34, 462.79, 255.047, 491.35 ],
+            "row number" : 1,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 196,
+              "page number" : 2,
+              "bounding box" : [ 170.78, 471.126, 253.7, 481.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "所 有 人"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 255.047, 462.79, 325.872, 491.35 ],
+            "row number" : 1,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 197,
+              "page number" : 2,
+              "bounding box" : [ 256.61, 471.126, 324.53, 481.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "股 數"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 325.872, 462.79, 394.15, 491.35 ],
+            "row number" : 1,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 198,
+              "page number" : 2,
+              "bounding box" : [ 327.31, 471.126, 392.71, 481.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "票 面 價 額"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 394.15, 462.79, 452.617, 491.35 ],
+            "row number" : 1,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 199,
+              "page number" : 2,
+              "bounding box" : [ 395.59, 471.126, 451.27, 481.086 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "外 幣 幣 別"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 452.617, 462.79, 565.68, 491.35 ],
+            "row number" : 1,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 200,
+              "page number" : 2,
+              "bounding box" : [ 454.06, 464.046, 564.84, 488.046 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "新臺幣總額或折合新臺幣 總 額"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 2,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 440.11, 169.34, 462.79 ],
+            "row number" : 2,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 201,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 444.966, 90.95, 454.926 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "本欄空白"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 169.34, 440.11, 255.047, 462.79 ],
+            "row number" : 2,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 255.047, 440.11, 325.872, 462.79 ],
+            "row number" : 2,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 325.872, 440.11, 394.15, 462.79 ],
+            "row number" : 2,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 394.15, 440.11, 452.617, 462.79 ],
+            "row number" : 2,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 452.617, 440.11, 565.68, 462.79 ],
+            "row number" : 2,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 71.304, 426.006, 231.29, 435.966 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "2.債券（總價額：新臺幣 元）",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 246,
+        "level" : "12",
+        "page number" : 2,
+        "bounding box" : [ 49.08, 372.05, 567.0, 425.23 ],
+        "number of rows" : 2,
+        "number of columns" : 8,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 395.69, 120.142, 424.272 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 131,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 403.906, 118.68, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "名 稱"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 120.142, 395.69, 153.38, 424.272 ],
+            "row number" : 1,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 132,
+              "page number" : 2,
+              "bounding box" : [ 121.58, 403.906, 151.94, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "代 碼"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 153.38, 395.69, 206.087, 424.272 ],
+            "row number" : 1,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 133,
+              "page number" : 2,
+              "bounding box" : [ 154.82, 403.906, 204.72, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "所 有 人"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 206.087, 395.69, 258.77, 424.272 ],
+            "row number" : 1,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 134,
+              "page number" : 2,
+              "bounding box" : [ 207.53, 403.906, 257.45, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "買 賣 機 構"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 258.77, 395.69, 326.832, 424.272 ],
+            "row number" : 1,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 135,
+              "page number" : 2,
+              "bounding box" : [ 260.21, 403.906, 325.468, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "單 位 數"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 326.832, 395.69, 393.07, 424.272 ],
+            "row number" : 1,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 136,
+              "page number" : 2,
+              "bounding box" : [ 328.27, 403.906, 391.715, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "票 面 價 額"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 393.07, 395.69, 451.537, 424.272 ],
+            "row number" : 1,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 137,
+              "page number" : 2,
+              "bounding box" : [ 394.63, 403.906, 450.157, 413.866 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "外 幣 幣 別"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 451.537, 395.69, 566.04, 424.272 ],
+            "row number" : 1,
+            "column number" : 8,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 138,
+              "page number" : 2,
+              "bounding box" : [ 452.98, 396.946, 565.2, 420.966 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "新臺幣總額或折合新臺幣 總 額"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 2,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 373.01, 120.142, 395.69 ],
+            "row number" : 2,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 139,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 377.866, 90.95, 387.826 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "本欄空白"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 120.142, 373.01, 153.38, 395.69 ],
+            "row number" : 2,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 153.38, 373.01, 206.087, 395.69 ],
+            "row number" : 2,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 206.087, 373.01, 258.77, 395.69 ],
+            "row number" : 2,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 258.77, 373.01, 326.832, 395.69 ],
+            "row number" : 2,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 326.832, 373.01, 393.07, 395.69 ],
+            "row number" : 2,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 393.07, 373.01, 451.537, 395.69 ],
+            "row number" : 2,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 451.537, 373.01, 566.04, 395.69 ],
+            "row number" : 2,
+            "column number" : 8,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 71.304, 358.786, 276.29, 368.746 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "3.基金受益憑證 （總價額：新臺幣 元）",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 247,
+        "level" : "13",
+        "page number" : 2,
+        "bounding box" : [ 49.08, 304.97, 565.92, 358.01 ],
+        "number of rows" : 2,
+        "number of columns" : 7,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 328.61, 126.502, 357.05 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 116,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 336.826, 125.18, 346.786 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "名 稱"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 126.502, 328.61, 192.047, 357.05 ],
+            "row number" : 1,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 117,
+              "page number" : 2,
+              "bounding box" : [ 127.94, 336.826, 190.7, 346.786 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "所 有 人"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 192.047, 328.61, 263.81, 357.05 ],
+            "row number" : 1,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 118,
+              "page number" : 2,
+              "bounding box" : [ 193.49, 336.826, 262.453, 346.786 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "受 託 投 資 機 構"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 263.81, 328.61, 330.192, 357.05 ],
+            "row number" : 1,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 119,
+              "page number" : 2,
+              "bounding box" : [ 265.25, 336.826, 328.835, 346.786 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "單 位 數"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 330.192, 328.61, 393.43, 357.05 ],
+            "row number" : 1,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 120,
+              "page number" : 2,
+              "bounding box" : [ 331.63, 329.866, 391.99, 353.746 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "票 面 價 額 （單位淨值）"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 393.43, 328.61, 451.657, 357.05 ],
+            "row number" : 1,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 121,
+              "page number" : 2,
+              "bounding box" : [ 394.87, 336.826, 450.46, 346.786 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "外 幣 幣 別"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 451.657, 328.61, 564.96, 357.05 ],
+            "row number" : 1,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 122,
+              "page number" : 2,
+              "bounding box" : [ 453.1, 329.866, 564.12, 353.746 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "新臺幣總額或折合新臺幣 總 額"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 2,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 305.93, 126.502, 328.61 ],
+            "row number" : 2,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 123,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 310.786, 90.95, 320.746 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "本欄空白"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 126.502, 305.93, 192.047, 328.61 ],
+            "row number" : 2,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 192.047, 305.93, 263.81, 328.61 ],
+            "row number" : 2,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 263.81, 305.93, 330.192, 328.61 ],
+            "row number" : 2,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 330.192, 305.93, 393.43, 328.61 ],
+            "row number" : 2,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 393.43, 305.93, 451.657, 328.61 ],
+            "row number" : 2,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 451.657, 305.93, 564.96, 328.61 ],
+            "row number" : 2,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 71.304, 291.706, 271.37, 301.666 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "4.其他有價證券（總價額：新臺幣 元）",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 268,
+    "level" : "14",
+    "page number" : 2,
+    "bounding box" : [ 49.08, 237.89, 566.76, 290.93 ],
+    "number of rows" : 2,
+    "number of columns" : 6,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 261.53, 169.34, 289.97 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 124,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 269.746, 168.02, 279.706 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "名 稱"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 169.34, 261.53, 255.167, 289.97 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 125,
+          "page number" : 2,
+          "bounding box" : [ 170.78, 269.746, 253.807, 279.706 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 255.167, 261.53, 325.992, 289.97 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 126,
+          "page number" : 2,
+          "bounding box" : [ 256.61, 269.746, 324.517, 279.706 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "單 位 數"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 325.992, 261.53, 394.27, 289.97 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 127,
+          "page number" : 2,
+          "bounding box" : [ 327.43, 269.746, 392.95, 279.706 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "價 額"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 394.27, 261.53, 452.617, 289.97 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 128,
+          "page number" : 2,
+          "bounding box" : [ 395.71, 269.746, 451.237, 279.706 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "外 幣 幣 別"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 452.617, 261.53, 565.8, 289.97 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 129,
+          "page number" : 2,
+          "bounding box" : [ 454.06, 262.786, 564.84, 286.666 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新臺幣總額或折合新臺幣 總 額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 50.04, 238.85, 169.34, 261.53 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 130,
+          "page number" : 2,
+          "bounding box" : [ 51.0, 243.706, 90.95, 253.666 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 169.34, 238.85, 255.167, 261.53 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 255.167, 238.85, 325.992, 261.53 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 325.992, 238.85, 394.27, 261.53 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 394.27, 238.85, 452.617, 261.53 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 452.617, 238.85, 565.8, 261.53 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 269,
+    "page number" : 2,
+    "bounding box" : [ 51.0, 224.596, 280.956, 234.556 ],
+    "linked content id" : 268,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（九）珠寶、古董、字畫及其他具有相當價值之財產"
+  }, {
+    "type" : "list",
+    "id" : 270,
+    "level" : "10",
+    "page number" : 2,
+    "bounding box" : [ 70.584, 87.8, 410.59, 220.516 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.584, 210.556, 410.59, 220.516 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "1.珠寶、古董、字畫及其他具有相當價值之財產（總價額：新臺幣 元）",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 243,
+        "level" : "13",
+        "page number" : 2,
+        "bounding box" : [ 49.08, 162.38, 566.76, 209.78 ],
+        "number of rows" : 2,
+        "number of columns" : 4,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 186.14, 178.22, 208.82 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 111,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 191.476, 176.735, 201.436 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "財 產 種 類"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 178.22, 186.14, 306.91, 208.82 ],
+            "row number" : 1,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 112,
+              "page number" : 2,
+              "bounding box" : [ 179.66, 191.476, 305.45, 201.436 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "項 / 件"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 306.91, 186.14, 435.455, 208.82 ],
+            "row number" : 1,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 113,
+              "page number" : 2,
+              "bounding box" : [ 308.35, 191.476, 434.085, 201.436 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "所 有 人"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 435.455, 186.14, 565.8, 208.82 ],
+            "row number" : 1,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 114,
+              "page number" : 2,
+              "bounding box" : [ 436.9, 191.476, 564.84, 201.436 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "價 額"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 2,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 163.34, 178.22, 186.14 ],
+            "row number" : 2,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 115,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 168.316, 90.95, 178.276 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "本欄空白"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 178.22, 163.34, 306.91, 186.14 ],
+            "row number" : 2,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 306.91, 163.34, 435.455, 186.14 ],
+            "row number" : 2,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 435.455, 163.34, 565.8, 186.14 ],
+            "row number" : 2,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.584, 149.236, 100.584, 159.196 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "2.保險",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 244,
+        "level" : "14",
+        "page number" : 2,
+        "bounding box" : [ 49.08, 101.06, 566.76, 148.46 ],
+        "number of rows" : 2,
+        "number of columns" : 7,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 124.7, 122.782, 147.5 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 103,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 130.156, 121.44, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "保 險 公 司"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 122.782, 124.7, 196.007, 147.5 ],
+            "row number" : 1,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 104,
+              "page number" : 2,
+              "bounding box" : [ 124.22, 130.156, 194.66, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "保 險 名 稱"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 196.007, 124.7, 269.21, 147.5 ],
+            "row number" : 1,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 105,
+              "page number" : 2,
+              "bounding box" : [ 197.45, 130.156, 267.738, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "保 單 號 碼"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 269.21, 124.7, 343.512, 147.5 ],
+            "row number" : 1,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 106,
+              "page number" : 2,
+              "bounding box" : [ 270.65, 130.156, 342.05, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "要 保 人"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 343.512, 124.7, 417.67, 147.5 ],
+            "row number" : 1,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 107,
+              "page number" : 2,
+              "bounding box" : [ 344.95, 130.156, 416.303, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "保 險 契 約 類 型"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 417.67, 124.7, 518.855, 147.5 ],
+            "row number" : 1,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 108,
+              "page number" : 2,
+              "bounding box" : [ 419.11, 130.156, 517.519, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "契約 始日 \\契約迄 日"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 518.855, 124.7, 565.802, 147.5 ],
+            "row number" : 1,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 109,
+              "page number" : 2,
+              "bounding box" : [ 520.3, 130.156, 564.82, 140.116 ],
+              "font" : "DFKaiShu-SB-Estd-BF",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "備 註"
+            } ]
+          } ]
+        }, {
+          "type" : "table row",
+          "row number" : 2,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 50.04, 102.02, 122.782, 124.7 ],
+            "row number" : 2,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 110,
+              "page number" : 2,
+              "bounding box" : [ 51.0, 106.876, 90.95, 116.836 ],
+              "font" : "MingLiU",
+              "font size" : 9.96,
+              "text color" : "[0.0]",
+              "content" : "本欄空白"
+            } ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 122.782, 102.02, 196.007, 124.7 ],
+            "row number" : 2,
+            "column number" : 2,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 196.007, 102.02, 269.21, 124.7 ],
+            "row number" : 2,
+            "column number" : 3,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 269.21, 102.02, 343.512, 124.7 ],
+            "row number" : 2,
+            "column number" : 4,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 343.512, 102.02, 417.67, 124.7 ],
+            "row number" : 2,
+            "column number" : 5,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 417.67, 102.02, 518.855, 124.7 ],
+            "row number" : 2,
+            "column number" : 6,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          }, {
+            "type" : "table cell",
+            "page number" : 2,
+            "bounding box" : [ 518.855, 102.02, 565.802, 124.7 ],
+            "row number" : 2,
+            "column number" : 7,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.584, 87.8, 240.71, 97.76 ],
+      "font" : "DFKaiShu-SB-Estd-BF",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "3.虛擬資產(總價額:新臺幣 元)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 271,
+    "page number" : 2,
+    "bounding box" : [ 156.02, 43.809, 446.44, 53.936 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 241,
+      "page number" : 2,
+      "bounding box" : [ 156.02, 43.809, 446.44, 53.936 ],
+      "heading level" : 1,
+      "font" : "PMingLiU",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "監察院公報 ............. 廉 政 專 刊 第 262 期 263"
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 272,
+    "level" : "15",
+    "page number" : 3,
+    "bounding box" : [ 49.08, 718.18, 566.76, 785.4 ],
+    "number of rows" : 2,
+    "number of columns" : 7,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 741.82, 122.422, 784.442 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 214,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 757.116, 120.98, 767.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "名 稱"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 122.422, 741.82, 195.287, 784.442 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 215,
+          "page number" : 3,
+          "bounding box" : [ 123.86, 757.116, 193.82, 767.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "所 有 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 195.287, 741.82, 270.41, 784.442 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 216,
+          "page number" : 3,
+          "bounding box" : [ 196.73, 757.116, 269.15, 767.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "單位數(顆/件)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 270.41, 741.82, 345.552, 784.442 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 217,
+          "page number" : 3,
+          "bounding box" : [ 271.85, 750.156, 344.29, 774.056 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "存 放 機 構 ( 錢 包 廠 商 )"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 345.552, 741.82, 418.27, 784.442 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 218,
+          "page number" : 3,
+          "bounding box" : [ 346.99, 757.116, 416.919, 767.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "帳 戶 名 稱"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 418.27, 741.82, 493.537, 784.442 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 219,
+          "page number" : 3,
+          "bounding box" : [ 419.71, 757.116, 492.1, 767.076 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(投資)原因"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 493.537, 741.82, 565.802, 784.442 ],
+        "row number" : 1,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 220,
+          "page number" : 3,
+          "bounding box" : [ 494.98, 743.076, 564.94, 781.136 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "新 臺 幣 或 折 合 新 臺 幣 交 易 價 額"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 719.14, 122.422, 741.82 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 221,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 723.996, 90.95, 733.956 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 122.422, 719.14, 195.287, 741.82 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 195.287, 719.14, 270.41, 741.82 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 270.41, 719.14, 345.552, 741.82 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 345.552, 719.14, 418.27, 741.82 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 418.27, 719.14, 493.537, 741.82 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 493.537, 719.14, 565.802, 741.82 ],
+        "row number" : 2,
+        "column number" : 7,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 273,
+    "page number" : 3,
+    "bounding box" : [ 51.0, 704.916, 231.05, 714.876 ],
+    "linked content id" : 272,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（十）債權（總金額：新臺幣 元）"
+  }, {
+    "type" : "table",
+    "id" : 274,
+    "level" : "16",
+    "page number" : 3,
+    "bounding box" : [ 49.08, 650.98, 566.88, 704.14 ],
+    "number of rows" : 2,
+    "number of columns" : 6,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 674.62, 169.46, 703.18 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 223,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 682.956, 168.02, 692.916 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "種 類"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 169.46, 674.62, 255.167, 703.18 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 224,
+          "page number" : 3,
+          "bounding box" : [ 170.9, 682.956, 253.82, 692.916 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "債 權 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 255.167, 674.62, 379.63, 703.18 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 225,
+          "page number" : 3,
+          "bounding box" : [ 256.61, 682.956, 378.17, 692.916 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "債 務 人 及 地 址"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 379.63, 674.62, 456.217, 703.18 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 226,
+          "page number" : 3,
+          "bounding box" : [ 381.07, 682.956, 454.89, 692.916 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "餘 額"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 456.217, 674.62, 511.3, 703.18 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 227,
+          "page number" : 3,
+          "bounding box" : [ 457.66, 675.876, 510.04, 699.876 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(發生) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 511.3, 674.62, 565.922, 703.18 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 228,
+          "page number" : 3,
+          "bounding box" : [ 512.74, 675.876, 565.14, 699.876 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(發生) 原 因"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 651.94, 169.46, 674.62 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 229,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 656.796, 90.95, 666.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 169.46, 651.94, 255.167, 674.62 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 255.167, 651.94, 379.63, 674.62 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 379.63, 651.94, 456.217, 674.62 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 456.217, 651.94, 511.3, 674.62 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 511.3, 651.94, 565.922, 674.62 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 275,
+    "page number" : 3,
+    "bounding box" : [ 51.0, 637.836, 261.05, 647.796 ],
+    "linked content id" : 274,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（十一）債務（總金額：新臺幣 2,697,696 元）"
+  }, {
+    "type" : "table",
+    "id" : 276,
+    "level" : "17",
+    "page number" : 3,
+    "bounding box" : [ 49.08, 577.99, 566.88, 637.06 ],
+    "number of rows" : 2,
+    "number of columns" : 6,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 607.537, 169.46, 636.1 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 202,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 615.756, 168.02, 625.716 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "種 類"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 169.46, 607.537, 255.167, 636.1 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 203,
+          "page number" : 3,
+          "bounding box" : [ 170.9, 615.756, 253.82, 625.716 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "債 務 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 255.167, 607.537, 379.63, 636.1 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 204,
+          "page number" : 3,
+          "bounding box" : [ 256.61, 615.756, 378.17, 625.716 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "債 權 人 及 地 址"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 379.63, 607.537, 456.217, 636.1 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 205,
+          "page number" : 3,
+          "bounding box" : [ 381.07, 615.756, 454.89, 625.716 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "餘 額"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 456.217, 607.537, 511.3, 636.1 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 206,
+          "page number" : 3,
+          "bounding box" : [ 457.66, 608.796, 510.04, 632.796 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(發生) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 511.3, 607.537, 565.922, 636.1 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 207,
+          "page number" : 3,
+          "bounding box" : [ 512.74, 608.796, 565.14, 632.796 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(發生) 原 因"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 578.95, 169.46, 607.537 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 208,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 586.836, 71.04, 596.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "授信"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 169.46, 578.95, 255.167, 607.537 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 209,
+          "page number" : 3,
+          "bounding box" : [ 170.9, 586.836, 200.89, 596.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "丁學忠"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 255.167, 578.95, 379.63, 607.537 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 210,
+          "page number" : 3,
+          "bounding box" : [ 256.61, 579.726, 376.568, 603.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "雲林縣土庫鎮農會信用部 雲林縣土庫鎮越港里建國路"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 379.63, 578.95, 456.217, 607.537 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 211,
+          "page number" : 3,
+          "bounding box" : [ 409.87, 586.836, 454.879, 596.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "2,697,696"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 456.217, 578.95, 511.3, 607.537 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 212,
+          "page number" : 3,
+          "bounding box" : [ 457.66, 579.726, 509.98, 603.756 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "106 年 12 月 04 日"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 511.3, 578.95, 565.922, 607.537 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 213,
+          "page number" : 3,
+          "bounding box" : [ 512.74, 586.836, 562.759, 596.796 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "購置不動產"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 277,
+    "page number" : 3,
+    "bounding box" : [ 51.0, 564.726, 266.09, 574.686 ],
+    "linked content id" : 276,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（十二）事業投資（總金額：新臺幣 元）"
+  }, {
+    "type" : "table",
+    "id" : 278,
+    "level" : "18",
+    "page number" : 3,
+    "bounding box" : [ 49.08, 515.47, 567.12, 563.95 ],
+    "number of rows" : 2,
+    "number of columns" : 6,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 534.55, 123.262, 562.99 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 230,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 542.766, 121.776, 552.726 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "投 資 人"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 123.262, 534.55, 255.405, 562.99 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 231,
+          "page number" : 3,
+          "bounding box" : [ 124.7, 542.766, 253.911, 552.726 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "投 資 事 業 名 稱"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 255.405, 534.55, 379.99, 562.99 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 232,
+          "page number" : 3,
+          "bounding box" : [ 256.85, 542.766, 378.601, 552.726 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "投 資 事 業 地 址"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 379.99, 534.55, 456.457, 562.99 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 233,
+          "page number" : 3,
+          "bounding box" : [ 381.43, 542.766, 455.14, 552.726 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "投 資 金 額"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 456.457, 534.55, 511.66, 562.99 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 234,
+          "page number" : 3,
+          "bounding box" : [ 457.9, 535.806, 510.28, 559.686 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(發生) 時 間"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 511.66, 534.55, 566.162, 562.99 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 235,
+          "page number" : 3,
+          "bounding box" : [ 513.1, 535.806, 565.38, 559.686 ],
+          "font" : "DFKaiShu-SB-Estd-BF",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "取得(發生) 原 因"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 50.04, 516.43, 123.262, 534.55 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 236,
+          "page number" : 3,
+          "bounding box" : [ 51.0, 519.006, 90.95, 528.966 ],
+          "font" : "MingLiU",
+          "font size" : 9.96,
+          "text color" : "[0.0]",
+          "content" : "本欄空白"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 123.262, 516.43, 255.405, 534.55 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 255.405, 516.43, 379.99, 534.55 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 379.99, 516.43, 456.457, 534.55 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 456.457, 516.43, 511.66, 534.55 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 511.66, 516.43, 566.162, 534.55 ],
+        "row number" : 2,
+        "column number" : 6,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "caption",
+    "id" : 279,
+    "page number" : 3,
+    "bounding box" : [ 51.0, 502.206, 120.98, 512.166 ],
+    "linked content id" : 278,
+    "font" : "DFKaiShu-SB-Estd-BF",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "（十三）備 註"
+  }, {
+    "type" : "text block",
+    "id" : 280,
+    "page number" : 3,
+    "bounding box" : [ 49.08, 481.87, 566.04, 501.43 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 222,
+      "page number" : 3,
+      "bounding box" : [ 54.0, 485.406, 93.95, 495.366 ],
+      "font" : "MingLiU",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "本欄空白"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 281,
+    "page number" : 3,
+    "bounding box" : [ 110.9, 454.686, 155.9, 478.566 ],
+    "font" : "PMingLiU",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "此 致 監 察 院"
+  }, {
+    "type" : "paragraph",
+    "id" : 282,
+    "page number" : 3,
+    "bounding box" : [ 75.024, 426.606, 334.86, 450.606 ],
+    "font" : "PMingLiU",
+    "font size" : 9.96,
+    "text color" : "[0.0]",
+    "content" : "以上資料，本人係依法誠實申報，如有不實，願負法律責任 申報人：丁學忠"
+  }, {
+    "type" : "footer",
+    "id" : 283,
+    "page number" : 3,
+    "bounding box" : [ 156.02, 43.809, 446.44, 53.936 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 242,
+      "page number" : 3,
+      "bounding box" : [ 156.02, 43.809, 446.44, 53.936 ],
+      "heading level" : 1,
+      "font" : "PMingLiU",
+      "font size" : 9.96,
+      "text color" : "[0.0]",
+      "content" : "監察院公報 ............. 廉 政 專 刊 第 262 期 264"
+    } ]
+  } ]
+}

@@ -1,0 +1,177 @@
+{
+  "name": "張啟楷",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 9251116
+    },
+    {
+      "currency": "美元",
+      "amount": 3912
+    },
+    {
+      "currency": "港幣",
+      "amount": 9
+    },
+    {
+      "currency": "歐元",
+      "amount": 0
+    }
+  ],
+  "depositsTotal": 9255039,
+  "insurance": [
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "終身壽險-指標 變額型(不分紅)",
+      "holder": "張啓楷",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "終身壽險-指標 變額型(不分紅)",
+      "holder": "張啓楷",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "年金給付型養老 壽險",
+      "holder": "胡忠和",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "伴你一生終身醫 療保險",
+      "holder": "胡忠和",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀丁型",
+      "holder": "胡忠和",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀甲型",
+      "holder": "胡忠和",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀甲型",
+      "holder": "胡忠和",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀甲型",
+      "holder": "胡忠和",
+      "contractType": "投資型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "威盛",
+      "cleanName": "威盛",
+      "ticker": "2388",
+      "shares": 30000,
+      "owner": "張啟楷",
+      "priceAtDisclosure": 121,
+      "latestPrice": 50.5
+    },
+    {
+      "name": "志聖",
+      "cleanName": "志聖",
+      "ticker": "2467",
+      "shares": 439,
+      "owner": "張啟楷",
+      "priceAtDisclosure": 109,
+      "latestPrice": 321
+    },
+    {
+      "name": "志聖",
+      "cleanName": "志聖",
+      "ticker": "2467",
+      "shares": 68,
+      "owner": "張啟楷",
+      "priceAtDisclosure": 109,
+      "latestPrice": 321
+    },
+    {
+      "name": "合富－KY",
+      "cleanName": "合富-KY",
+      "ticker": "4745",
+      "shares": 16000,
+      "owner": "張啟楷",
+      "priceAtDisclosure": 24.6,
+      "latestPrice": 21.25
+    },
+    {
+      "name": "新唐",
+      "cleanName": "新唐",
+      "ticker": "4919",
+      "shares": 40000,
+      "owner": "張啟楷",
+      "priceAtDisclosure": 120,
+      "latestPrice": 72.7
+    },
+    {
+      "name": "和旺",
+      "cleanName": "和旺",
+      "ticker": "5505",
+      "shares": 5,
+      "owner": "張啟楷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "騰輝電子－KY",
+      "cleanName": "騰輝電子-KY",
+      "ticker": "6672",
+      "shares": 2000,
+      "owner": "張啟楷",
+      "priceAtDisclosure": 88.4,
+      "latestPrice": 102
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市新店區惠國段",
+      "owner": "張啓楷",
+      "date": "2017-06-27",
+      "effectiveAreaPing": 102.1,
+      "entryCount": 4,
+      "price": "含陽台7.75平 方公尺,雨遮 8.5 平方公尺 (超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "owner": "張啓楷",
+      "date": "2016-05-23",
+      "effectiveAreaPing": 9.45,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "owner": "胡忠和",
+      "date": "2009-10-07",
+      "effectiveAreaPing": 56.52,
+      "entryCount": 2,
+      "price": "含陽台5.19平 方公尺,雨遮 10.27 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區福星段二小段",
+      "owner": "胡忠和",
+      "date": "2024-02-15",
+      "effectiveAreaPing": 19.83,
+      "entryCount": 2,
+      "price": "12,790,000 (房地總價額， 第 8 筆與第 9 筆合購)"
+    }
+  ]
+}

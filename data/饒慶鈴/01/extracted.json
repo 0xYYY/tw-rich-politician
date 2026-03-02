@@ -1,0 +1,320 @@
+{
+  "name": "饒慶鈴",
+  "org": "臺東縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張王浩"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市中和區興南段(自用房屋 之坐落基地)",
+      "area": 2986.68,
+      "share": "100000 分 之 377",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之停車位)",
+      "area": 17.54,
+      "share": "238 分之 1",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋)",
+      "area": 72.34,
+      "share": "全部",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "含陽台5.61平 方公尺,雨遮 5.47 平方公尺 (超過五年)"
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之共同使用部 分)",
+      "area": 1326.25,
+      "share": "100000 分 之 374",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之共同使用部 分)",
+      "area": 1326.25,
+      "share": "100000 分 之 100",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之共同使用部 分)",
+      "area": 6343.86,
+      "share": "100000 分 之 77",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之共同使用部",
+      "area": 6343.86,
+      "share": "100000 分 之 78788",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "分)",
+      "area": 0,
+      "share": "",
+      "owner": "",
+      "date": "",
+      "reason": "",
+      "price": ""
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之共同使用部 分)",
+      "area": 3055.72,
+      "share": "100000 分 之 758",
+      "owner": "饒慶鈴",
+      "date": "103年07月24日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 1893900
+  },
+  "deposits": {
+    "total": 13348159,
+    "items": [
+      {
+        "institution": "臺灣銀行臺東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "饒慶鈴",
+        "foreignAmount": 0,
+        "amount": 7313925
+      },
+      {
+        "institution": "臺灣企銀台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "饒慶鈴",
+        "foreignAmount": 0,
+        "amount": 47699
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "饒慶鈴",
+        "foreignAmount": 0,
+        "amount": 3892325
+      },
+      {
+        "institution": "台新國際銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "饒慶鈴",
+        "foreignAmount": 0,
+        "amount": 1153414
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "饒慶鈴",
+        "foreignAmount": 0,
+        "amount": 384455
+      },
+      {
+        "institution": "中信銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "饒慶鈴",
+        "foreignAmount": 0,
+        "amount": 528791
+      },
+      {
+        "institution": "華南銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 122
+      },
+      {
+        "institution": "彰化銀行東門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 901
+      },
+      {
+        "institution": "彰化銀行大直分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 25032
+      },
+      {
+        "institution": "台北富邦銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "國泰世華銀行花蓮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 78
+      },
+      {
+        "institution": "兆豐國際商業銀行城中分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "兆豐國際商業銀行城中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "臺灣企銀台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 149
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 72
+      },
+      {
+        "institution": "聯邦銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 68
+      },
+      {
+        "institution": "永豐銀行三重分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張王浩",
+        "foreignAmount": 0,
+        "amount": 63
+      }
+    ]
+  },
+  "stocks": {
+    "total": 6540,
+    "items": [
+      {
+        "name": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+        "owner": "饒慶鈴",
+        "shares": 467,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4670
+      },
+      {
+        "name": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+        "owner": "饒慶鈴",
+        "shares": 187,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1870
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "樂添利多利變終 身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "饒慶鈴",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 02 月 27 日/164 年 02 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽保險股 份有限公司",
+        "name": "新光人壽健康久 久終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "饒慶鈴",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 13 日/159 年 05 月 13 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "饒慶鈴",
+        "value": 949664
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 24012595,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "饒慶鈴",
+        "creditor": "國泰世華商業銀行館前分行 台北市中正區館前路",
+        "amount": 24012595,
+        "date": "107年07月25日",
+        "reason": "購屋且提供 所購房屋抵 押(住宅用)"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

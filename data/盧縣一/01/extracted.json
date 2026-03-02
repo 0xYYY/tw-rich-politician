@@ -1,0 +1,701 @@
+{
+  "name": "盧縣一",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "蘇美琅"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣三地門鄉阿烏段",
+      "area": 1700,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "109年10月28日",
+      "reason": "分割繼承",
+      "price": "土地公告現值 66 元/平方公 尺"
+    },
+    {
+      "location": "屏東縣內埔鄉犂頭鏢段",
+      "area": 219,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "111年07月01日",
+      "reason": "買賣",
+      "price": "1,650,000 (土地公告現 值900元/平方 公尺)"
+    },
+    {
+      "location": "屏東縣內埔鄉犂頭鏢段",
+      "area": 166,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "111年09月14日",
+      "reason": "買賣",
+      "price": "250,000 (土地公告現 值900元/平方 公尺)"
+    },
+    {
+      "location": "屏東縣內埔鄉犂頭鏢段",
+      "area": 166,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "111年09月14日",
+      "reason": "買賣",
+      "price": "250,000 (土地公告現 值900元/平方 公尺)"
+    },
+    {
+      "location": "屏東縣枋寮鄉新龍段",
+      "area": 938.58,
+      "share": "10000 分之 80",
+      "owner": "盧縣一",
+      "date": "111年03月04日",
+      "reason": "買賣",
+      "price": "2,000,000 (建物土地合 購價，土地公 告現值 8,132 元/平方公尺)"
+    },
+    {
+      "location": "屏東縣長治鄉番子寮段",
+      "area": 205,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "111年08月31日",
+      "reason": "調解共有 物分割",
+      "price": "公告現值 2,200 元/平方 公尺"
+    },
+    {
+      "location": "屏東縣霧台鄉霧台段",
+      "area": 192,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "111年08月09日",
+      "reason": "買賣",
+      "price": "350,000 (土地公告現 值 94 元/平方 公尺)"
+    },
+    {
+      "location": "花蓮縣卓溪鄉卓溪段",
+      "area": 6400,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "108年10月21日",
+      "reason": "買賣",
+      "price": "250,000 (土地公告現 值 44 元/平方 公尺)"
+    },
+    {
+      "location": "花蓮縣卓溪鄉卓溪段",
+      "area": 340,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "105年02月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣卓溪鄉卓溪段",
+      "area": 1750,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "98年10月13日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣卓溪鄉卓溪段",
+      "area": 5580,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "98年10月13日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣三地門鄉新馬兒段",
+      "area": 7770,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "112年04月12日",
+      "reason": "拍賣",
+      "price": "297,000 (土地公告現 值 60 元/平方 公尺)"
+    },
+    {
+      "location": "屏東縣來義鄉白鷺段",
+      "area": 2780,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "106年09月12日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣來義鄉南和段",
+      "area": 2870,
+      "share": "全部",
+      "owner": "蘇美琅",
+      "date": "106年09月12日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣獅子鄉外獅段",
+      "area": 20000,
+      "share": "4 分之 1",
+      "owner": "蘇美琅",
+      "date": "96年10月02日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣獅子鄉外獅段",
+      "area": 104030,
+      "share": "4 分之 1",
+      "owner": "蘇美琅",
+      "date": "96年10月02日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣枋寮鄉新龍段",
+      "area": 32.94,
+      "share": "全部",
+      "owner": "盧縣一",
+      "date": "111年03月04日",
+      "reason": "買賣",
+      "price": "2,000,000 (跟建物第2筆 共同取得,含 陽台4.87平方 公尺)"
+    },
+    {
+      "location": "屏東縣枋寮鄉新龍段",
+      "area": 1328.06,
+      "share": "10000 分之 68",
+      "owner": "盧縣一",
+      "date": "111年03月04日",
+      "reason": "買賣",
+      "price": "2,000,000 (跟建物第1筆 共同取得,共 同使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1497,
+      "owner": "蘇美琅",
+      "date": "99年12月17日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "蘇美琅",
+      "date": "112年06月26日",
+      "reason": "買賣",
+      "price": 1379000
+    },
+    {
+      "brand": "中華",
+      "cc": 1198,
+      "owner": "蘇美琅",
+      "date": "112年10月18日",
+      "reason": "買賣",
+      "price": 170000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1394928,
+    "items": [
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 717
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 703
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 7789
+      },
+      {
+        "institution": "臺灣土地銀行屏東分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 74
+      },
+      {
+        "institution": "台北富邦商業銀行雙園分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 157
+      },
+      {
+        "institution": "高雄銀行楠梓分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 60
+      },
+      {
+        "institution": "兆豐國際商業銀行嘉義分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 91
+      },
+      {
+        "institution": "兆豐國際商業銀行屏東分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 59
+      },
+      {
+        "institution": "渣打國際商業銀行九如分 行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 1032
+      },
+      {
+        "institution": "中華郵政股份有限公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 12071
+      },
+      {
+        "institution": "屏東縣內埔地區農會信用 部水門分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "盧縣一",
+        "foreignAmount": 0,
+        "amount": 96710
+      },
+      {
+        "institution": "臺灣銀行花蓮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 55233
+      },
+      {
+        "institution": "臺灣銀行花蓮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 161180
+      },
+      {
+        "institution": "臺灣土地銀行玉里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 7666
+      },
+      {
+        "institution": "國泰世華商業銀行松山分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 7537
+      },
+      {
+        "institution": "國泰世華商業銀行屏東分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 535
+      },
+      {
+        "institution": "屏東縣枋山地區農會信用 部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 30124
+      },
+      {
+        "institution": "花蓮縣富里鄉農會信用部 東竹分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 370
+      },
+      {
+        "institution": "中華郵政股份有限公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 1008479
+      },
+      {
+        "institution": "中華郵政股份有限公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 782
+      },
+      {
+        "institution": "元大商業銀行苓雅分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 116
+      },
+      {
+        "institution": "花蓮縣玉溪地區農會信用 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 560
+      },
+      {
+        "institution": "花蓮縣玉溪地區農會信用 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 63
+      },
+      {
+        "institution": "花蓮縣玉溪地區農會信用 部",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蘇美琅",
+        "foreignAmount": 0,
+        "amount": 2820
+      }
+    ]
+  },
+  "stocks": {
+    "total": 410190,
+    "items": [
+      {
+        "name": "聯成",
+        "owner": "蘇美琅",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "永豐餘",
+        "owner": "蘇美琅",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "燁興",
+        "owner": "蘇美琅",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "第一銅",
+        "owner": "蘇美琅",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "中鴻",
+        "owner": "蘇美琅",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "中鴻",
+        "owner": "蘇美琅",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "聚亨",
+        "owner": "蘇美琅",
+        "shares": 2108,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 21080
+      },
+      {
+        "name": "燁輝",
+        "owner": "蘇美琅",
+        "shares": 5250,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 52500
+      },
+      {
+        "name": "大成鋼",
+        "owner": "蘇美琅",
+        "shares": 2636,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 26360
+      },
+      {
+        "name": "大成鋼",
+        "owner": "蘇美琅",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "彰源",
+        "owner": "蘇美琅",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "彰源",
+        "owner": "蘇美琅",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "海光",
+        "owner": "蘇美琅",
+        "shares": 2100,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 21000
+      },
+      {
+        "name": "益航",
+        "owner": "蘇美琅",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "華票",
+        "owner": "蘇美琅",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "國光生",
+        "owner": "蘇美琅",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "美合國際",
+        "owner": "蘇美琅",
+        "shares": 925,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9250
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 真 健 康 終 身 醫 療 健康保險",
+        "policyNumber": "○○○○○○○ ○○307",
+        "holder": "盧縣一",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 03 月 24 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 祥 安終身壽險",
+        "policyNumber": "○○○○○○○ ○○989",
+        "holder": "盧縣一",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 09 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 守 護 久 久 殘 廢 照 護終身保險",
+        "policyNumber": "○○○○○○○ ○○734",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 01 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 真 健 康 終 身 醫 療 健康保險",
+        "policyNumber": "○○○○○○○ ○○939",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 03 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 祥 安終身壽險",
+        "policyNumber": "○○○○○○○ ○○996",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 09 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 祥 安終身壽險",
+        "policyNumber": "○○○○○○○ ○○946",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 11 月 24 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安聯人壽",
+        "name": "吉 利 亨 通 變 額 萬能壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "蘇美琅",
+        "contractType": "投資型壽險",
+        "period": "108 年 04 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安聯人壽",
+        "name": "吉 利 亨 通 變 額 萬能壽險",
+        "policyNumber": "○○○○○○○ ○○4",
+        "holder": "蘇美琅",
+        "contractType": "投資型壽險",
+        "period": "108 年 05 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南 山 康 寶 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 05 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "新 光 人 壽 一 路 發 終 身 還 本 保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 12 日/166 年 01 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "臺銀人壽",
+        "name": "萬 福 還 本 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 10 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺銀人壽",
+        "name": "鴻 福 還 本 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "蘇美琅",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 12 月 13 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 2022167,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "蘇美琅",
+        "creditor": "國泰世華商業銀行建國分行 臺北市南京東路",
+        "amount": 1077082,
+        "date": "109年06月30日",
+        "reason": "其他消費性 貸款"
+      },
+      {
+        "type": "授信",
+        "debtor": "蘇美琅",
+        "creditor": "國泰世華商業銀行建國分行 臺北市南京東路",
+        "amount": 790085,
+        "date": "111年03月08日",
+        "reason": "其他消費性 貸款"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "蘇美琅",
+        "creditor": "新光人壽保險股份有限公司",
+        "amount": 155000,
+        "date": "109年03月30日",
+        "reason": "新光人壽一 路發終身還 本保險保單 質借"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

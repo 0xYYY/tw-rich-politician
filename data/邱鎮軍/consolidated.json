@@ -1,0 +1,172 @@
+{
+  "name": "邱鎮軍",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "苗栗縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 10330688
+    }
+  ],
+  "depositsTotal": 10330688,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "世紀理財變額萬 能終身壽險二十 年期 A 型",
+      "holder": "邱鎮軍",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美滿人 生長期照顧終身 保險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新添采終身壽險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鑫彩終身壽險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽大發富 利利率變動型終 身壽險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平準 終身壽險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平準 終身壽險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "健康增額防癌保 本保險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "健康增額防癌保 本保險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "健康增額防癌保 本保險",
+      "holder": "邱鎮軍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美滿人 生長期照顧終身 保險",
+      "holder": "詹美娟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾意 313 終身壽 險",
+      "holder": "詹美娟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽真安心 醫療養老保險",
+      "holder": "詹美娟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平準 終身壽險",
+      "holder": "詹美娟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+      "holder": "詹美娟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "健康增額防癌保 本保險",
+      "holder": "詹美娟",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "晶宏",
+      "cleanName": "晶宏",
+      "ticker": "3141",
+      "shares": 3000,
+      "owner": "邱鎮軍",
+      "priceAtDisclosure": 89.3,
+      "latestPrice": 51.3
+    },
+    {
+      "name": "雲豹能源",
+      "cleanName": "雲豹能源",
+      "ticker": "6869",
+      "shares": 5000,
+      "owner": "邱鎮軍",
+      "priceAtDisclosure": 209,
+      "latestPrice": 109.5
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "owner": "邱鎮軍",
+      "date": "2012-11-06",
+      "effectiveAreaPing": 269.87,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市三山段",
+      "owner": "詹美娟",
+      "date": "2000-11-14",
+      "effectiveAreaPing": 79.43,
+      "entryCount": 1,
+      "price": "含陽台 11.06 平方公尺(超 過五年)"
+    },
+    {
+      "location": "苗栗縣苗栗市縣府段",
+      "owner": "詹美娟",
+      "date": "2018-12-28",
+      "effectiveAreaPing": 48.31,
+      "entryCount": 3,
+      "price": "含陽台 15.02 平方公尺(超 過五年)"
+    }
+  ]
+}

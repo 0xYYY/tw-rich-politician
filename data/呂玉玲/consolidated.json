@@ -1,0 +1,182 @@
+{
+  "name": "呂玉玲",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8640038
+    },
+    {
+      "currency": "美元",
+      "amount": 50
+    }
+  ],
+  "depositsTotal": 8640089,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山遞延年金保 險-平準型",
+      "holder": "呂玉玲",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山遞延年金保 險-平準型",
+      "holder": "呂玉玲",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山遞延年金保 險-平準型",
+      "holder": "呂玉玲",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新多美 寶美元利率變動 型終身保險（定 期給付型）",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山十年繳費新 年年春還本終身 保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山年年春還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽安佳增 值終身還本壽險",
+      "holder": "呂玉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "增值分紅二十年 限期繳費終身壽 險",
+      "holder": "陳萬得",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 110,
+      "owner": "呂玉玲",
+      "priceAtDisclosure": 44.95,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "聯合再生",
+      "cleanName": "聯合再生",
+      "ticker": "3576",
+      "shares": 362,
+      "owner": "呂玉玲",
+      "priceAtDisclosure": 11.8,
+      "latestPrice": 22.1
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市中壢區興南段中壢老小 段",
+      "owner": "呂玉玲",
+      "date": "2015-12-09",
+      "effectiveAreaPing": 1.45,
+      "entryCount": 1,
+      "price": "含見其他登記 事項11.1平方 公尺(超過五 年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "owner": "呂玉玲",
+      "date": "1994-11-11",
+      "effectiveAreaPing": 107.23,
+      "entryCount": 2,
+      "price": "含平台 12.59 平方公尺(超 過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "owner": "陳萬得",
+      "date": "1994-11-11",
+      "effectiveAreaPing": 119.07,
+      "entryCount": 16,
+      "price": "含陽台 12.59 平方公尺(超 過五年)"
+    }
+  ]
+}

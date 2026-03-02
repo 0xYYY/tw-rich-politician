@@ -1,0 +1,635 @@
+{
+  "name": "張善政",
+  "org": "桃園市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張琦雅"
+    }
+  ],
+  "land": [
+    {
+      "location": "花蓮縣壽豐鄉壽山段(耕地，特 定區域農牧用地)",
+      "area": 5640.65,
+      "share": "全部",
+      "owner": "張善政",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣壽豐鄉壽山段(耕地，特 定區域農牧用地)",
+      "area": 3996.31,
+      "share": "全部",
+      "owner": "張善政",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣壽豐鄉壽山段(耕地，特 定區域農牧用地)",
+      "area": 3569.71,
+      "share": "全部",
+      "owner": "張善政",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區蘭溪段(自用房屋 之坐落基地)",
+      "area": 436.88,
+      "share": "全部",
+      "owner": "張善政",
+      "date": "74年08月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣溪湖鎮中興段(耕地，特 定區域農牧用地)",
+      "area": 1100,
+      "share": "60 分之 5",
+      "owner": "張琦雅",
+      "date": "102年11月05日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市新店區蘭溪段(未交付信 託原因：自用房屋)",
+      "area": 244.5,
+      "share": "全部",
+      "owner": "張善政",
+      "date": "74年08月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 33593872,
+    "items": [
+      {
+        "institution": "臺灣銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 3922666
+      },
+      {
+        "institution": "臺灣銀行公館分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 1582500
+      },
+      {
+        "institution": "台北富邦銀行南京東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 4789122
+      },
+      {
+        "institution": "台北富邦銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "張善政",
+        "foreignAmount": 23300,
+        "amount": 745202
+      },
+      {
+        "institution": "台北富邦銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 401708
+      },
+      {
+        "institution": "台北富邦銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "澳幣",
+        "owner": "張善政",
+        "foreignAmount": 4512,
+        "amount": 94731
+      },
+      {
+        "institution": "台北富邦商業銀行北桃園 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 32154
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 140
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 7421380
+      },
+      {
+        "institution": "台新國際銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 276
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張善政",
+        "foreignAmount": 0,
+        "amount": 260
+      },
+      {
+        "institution": "土地銀行城東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 1227368
+      },
+      {
+        "institution": "華南銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 1610914
+      },
+      {
+        "institution": "彰化銀行福和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 600000
+      },
+      {
+        "institution": "彰化銀行福和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 400000
+      },
+      {
+        "institution": "彰化銀行福和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 1202211
+      },
+      {
+        "institution": "彰化銀行福和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 14165
+      },
+      {
+        "institution": "台北富邦銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "張琦雅",
+        "foreignAmount": 3422,
+        "amount": 109450
+      },
+      {
+        "institution": "台北富邦銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 22011
+      },
+      {
+        "institution": "台北富邦銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "澳幣",
+        "owner": "張琦雅",
+        "foreignAmount": 4,
+        "amount": 89
+      },
+      {
+        "institution": "台北富邦商業銀行思源分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 25601
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 3113
+      },
+      {
+        "institution": "兆豐國際商業銀行忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 280
+      },
+      {
+        "institution": "華泰銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 2523
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 402448
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 120
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 14868
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "張琦雅",
+        "foreignAmount": 117,
+        "amount": 3769
+      },
+      {
+        "institution": "星展台灣松江分行",
+        "type": "活期存款",
+        "currency": "紐西蘭幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 13
+      },
+      {
+        "institution": "星展台灣松江分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "星展台灣松江分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "台新國際銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 759612
+      },
+      {
+        "institution": "台新國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "澳幣",
+        "owner": "張琦雅",
+        "foreignAmount": 215858,
+        "amount": 4528775
+      },
+      {
+        "institution": "台新國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "張琦雅",
+        "foreignAmount": 100000,
+        "amount": 3197000
+      },
+      {
+        "institution": "台新國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "張琦雅",
+        "foreignAmount": 6248,
+        "amount": 199759
+      },
+      {
+        "institution": "台新國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "張琦雅",
+        "foreignAmount": 750011,
+        "amount": 157145
+      },
+      {
+        "institution": "台新國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "澳幣",
+        "owner": "張琦雅",
+        "foreignAmount": 3686,
+        "amount": 77340
+      },
+      {
+        "institution": "中信銀行北新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張琦雅",
+        "foreignAmount": 0,
+        "amount": 45144
+      }
+    ]
+  },
+  "stocks": {
+    "total": 34720361,
+    "items": [
+      {
+        "name": "碩網 (未交付信託原因：非 國內上市、上櫃股票)",
+        "owner": "張善政",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "Goog (未交付信託原因：國 外股票)",
+        "owner": "張善政",
+        "shares": 3080,
+        "faceValue": 176,
+        "foreignCurrency": "美元",
+        "totalValue": 17361428
+      },
+      {
+        "name": "Googl (未交付信託原因： 國外股票)",
+        "owner": "張善政",
+        "shares": 3080,
+        "faceValue": 174,
+        "foreignCurrency": "美元",
+        "totalValue": 17158933
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽金享退 休變額年金保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張善政",
+        "contractType": "年金型保險",
+        "period": "97 年 05 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽心安心 照護終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 07 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽好福氣 失能照護終身保 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 09 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽外幣計 價富利人生變額 年金保險(V1)",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "張善政",
+        "contractType": "年金型保險",
+        "period": "110 年 07 月 22 日/154 年 07 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽優利人 生變額年金保險",
+        "policyNumber": "○○○○○○○ ○○500",
+        "holder": "張善政",
+        "contractType": "投資型壽險",
+        "period": "108 年 09 月 05 日/154 年 09 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽 GO 美利 外幣利率變動型 增額還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○500",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 18 日/154 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美利富 外幣增額終身壽 險",
+        "policyNumber": "○○○○○○○ ○○905",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 14 日/154 年 11 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽富利高 升終身壽險",
+        "policyNumber": "○○○○○○○ ○○903",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 01 月 19 日/154 年 01 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽智富盈 家外幣利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 06 月 20 日/154 年 06 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽豐盛傳 家利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "張善政",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 14 日/154 年 04 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽健康御 守醫療帳戶終身 保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增美樂 外幣增額終身保 險",
+        "policyNumber": "○○○○○○○ ○○4",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 10 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽雙利年 年利率變動型還 本終身保險(定 期給付型)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 07 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金澳利 外幣利率變動型 增 額 終 身 壽 險 (V1)",
+        "policyNumber": "○○○○○○○ ○○300",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 08 月 17 日/157 年 08 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金澳利 外幣利率變動型 增 額 終 身 壽 險 (V1)",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 08 月 21 日/157 年 08 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美鑽 點零外幣利率變 動型增額還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 08 月 17 日/157 年 08 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽鑫澳利 外幣利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○500",
+        "holder": "張琦雅",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 02 日/158 年 04 月 01 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "張善政",
+        "value": 1619805
+      },
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "張琦雅",
+        "value": 101637
+      },
+      {
+        "type": "黃金條塊",
+        "quantity": "1",
+        "owner": "張琦雅",
+        "value": 12212000
+      },
+      {
+        "type": "零售食品債(金融機構：遠東 國際商業銀行信託部)",
+        "quantity": "1",
+        "owner": "張琦雅",
+        "value": 0
+      },
+      {
+        "type": "藍鰭油價債(金融機構：遠東 國際商業銀行信託部)",
+        "quantity": "1",
+        "owner": "張琦雅",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

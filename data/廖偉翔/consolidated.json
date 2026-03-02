@@ -1,0 +1,42 @@
+{
+  "name": "廖偉翔",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 9423640
+    },
+    {
+      "currency": "美元",
+      "amount": 31
+    }
+  ],
+  "depositsTotal": 9423671,
+  "insurance": [],
+  "stocks": [
+    {
+      "name": "聯合再生",
+      "cleanName": "聯合再生",
+      "ticker": "3576",
+      "shares": 156,
+      "owner": "廖偉翔",
+      "priceAtDisclosure": 11.65,
+      "latestPrice": 22.1
+    },
+    {
+      "name": "創意能源股份有限公司(未 上市股票)",
+      "cleanName": "創意能源股份有限公司(未 上市股票)",
+      "ticker": null,
+      "shares": 229312,
+      "owner": "廖偉翔",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

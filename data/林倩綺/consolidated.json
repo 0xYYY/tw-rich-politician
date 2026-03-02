@@ -1,0 +1,156 @@
+{
+  "name": "林倩綺",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1027587
+    },
+    {
+      "currency": "美元",
+      "amount": 515879
+    },
+    {
+      "currency": "歐元",
+      "amount": 210
+    }
+  ],
+  "depositsTotal": 1543678,
+  "insurance": [
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "郵政簡易人壽常 春增額還本保險 〈10 年付費〉",
+      "holder": "林倩綺",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美富紅 運外幣分紅終身 壽險",
+      "holder": "林倩綺",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽增美利 外幣增額終身壽 險",
+      "holder": "林倩綺",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 3000,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 51.9,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 1000,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 3000,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 45.85,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 94,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 47.1,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 400,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 166.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "華航",
+      "cleanName": "華航",
+      "ticker": "2610",
+      "shares": 5000,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 19.35,
+      "latestPrice": 21
+    },
+    {
+      "name": "萬海",
+      "cleanName": "萬海",
+      "ticker": "2615",
+      "shares": 2300,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 46.45,
+      "latestPrice": 76.4
+    },
+    {
+      "name": "星宇航空",
+      "cleanName": "星宇航空",
+      "ticker": "2646",
+      "shares": 1000,
+      "owner": "林倩綺",
+      "priceAtDisclosure": null,
+      "latestPrice": 22.9
+    },
+    {
+      "name": "台塑化",
+      "cleanName": "台塑化",
+      "ticker": "6505",
+      "shares": 1000,
+      "owner": "林倩綺",
+      "priceAtDisclosure": 71.2,
+      "latestPrice": 54.5
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大高股息",
+      "owner": "林倩綺",
+      "institution": "富 邦 證 券 竹 北 分公司",
+      "units": 5000,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 196000,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市左營區左東段",
+      "owner": "林倩綺",
+      "date": "2012-10-11",
+      "effectiveAreaPing": 83.64,
+      "entryCount": 2,
+      "price": "含陽台 14.85 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺東縣成功鎮忠仁段",
+      "owner": "林倩綺",
+      "date": "2017-02-07",
+      "effectiveAreaPing": 6.35,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    }
+  ]
+}

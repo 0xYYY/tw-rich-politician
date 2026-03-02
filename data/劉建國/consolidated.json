@@ -1,0 +1,50 @@
+{
+  "name": "劉建國",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "雲林縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 16696440
+    }
+  ],
+  "depositsTotal": 16696440,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀丙型",
+      "holder": "劉建國",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "真安心住院醫療 終身",
+      "holder": "劉建國",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "真安順手術醫療 終身",
+      "holder": "劉建國",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "劉建國",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽富利高 升終身壽險",
+      "holder": "劉建國",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

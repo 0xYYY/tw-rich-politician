@@ -1,0 +1,1401 @@
+{
+  "name": "林月琴",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 7505769
+    },
+    {
+      "currency": "美元",
+      "amount": 96921
+    },
+    {
+      "currency": "紐西蘭幣",
+      "amount": 77187
+    },
+    {
+      "currency": "南非幣",
+      "amount": 2807
+    }
+  ],
+  "depositsTotal": 7682686,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽威利金 鑽美元利率變動 型還本終身保險 （定期給付型）",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山康樂限期繳 費終身壽險",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月享利變額年 金",
+      "holder": "林月琴",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月康利變額年 金",
+      "holder": "林月琴",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美利美元",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "開運年年終身",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿享年年終身保 險",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿美年年美元終 身保險",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽 GO 美利 外幣利率變動型 增額還本終身保 險",
+      "holder": "林月琴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山康樂限期繳 費終身壽險",
+      "holder": "蔡宗翰",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽平安福 保本保險",
+      "holder": "蔡宗翰",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美利多 多外幣增額終身 保險",
+      "holder": "蔡宗翰",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "宏利新紀元還本 終身保險",
+      "holder": "蔡宗翰",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽新雄多 利 保 險 甲 型 -10 年期(FL4)",
+      "holder": "蔡宗翰",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 5499,
+      "owner": "林月琴",
+      "priceAtDisclosure": 31.95,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "台聚",
+      "cleanName": "台聚",
+      "ticker": "1304",
+      "shares": 3000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 16.75,
+      "latestPrice": 12.3
+    },
+    {
+      "name": "華夏",
+      "cleanName": "華夏",
+      "ticker": "1305",
+      "shares": 1180,
+      "owner": "林月琴",
+      "priceAtDisclosure": 18.7,
+      "latestPrice": 12.4
+    },
+    {
+      "name": "臺化",
+      "cleanName": "臺化",
+      "ticker": "1326",
+      "shares": 2060,
+      "owner": "林月琴",
+      "priceAtDisclosure": 55.6,
+      "latestPrice": 51
+    },
+    {
+      "name": "得力",
+      "cleanName": "得力",
+      "ticker": "1464",
+      "shares": 4240,
+      "owner": "林月琴",
+      "priceAtDisclosure": 13.05,
+      "latestPrice": 11
+    },
+    {
+      "name": "儒鴻",
+      "cleanName": "儒鴻",
+      "ticker": "1476",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 574,
+      "latestPrice": 423
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "春雨",
+      "cleanName": "春雨",
+      "ticker": "2012",
+      "shares": 4200,
+      "owner": "林月琴",
+      "priceAtDisclosure": 22.8,
+      "latestPrice": 17.15
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 6000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 51.9,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "台達電",
+      "cleanName": "台達電",
+      "ticker": "2308",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 303,
+      "latestPrice": null
+    },
+    {
+      "name": "金寶",
+      "cleanName": "金寶",
+      "ticker": "2312",
+      "shares": 5000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 14.75,
+      "latestPrice": 25.75
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 3036,
+      "owner": "林月琴",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "華邦電",
+      "cleanName": "華邦電",
+      "ticker": "2344",
+      "shares": 7281,
+      "owner": "林月琴",
+      "priceAtDisclosure": 26.5,
+      "latestPrice": 122.5
+    },
+    {
+      "name": "台光電",
+      "cleanName": "台光電",
+      "ticker": "2383",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 414,
+      "latestPrice": 2440
+    },
+    {
+      "name": "群光",
+      "cleanName": "群光",
+      "ticker": "2385",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 240.5,
+      "latestPrice": 125
+    },
+    {
+      "name": "南亞科",
+      "cleanName": "南亞科",
+      "ticker": "2408",
+      "shares": 4000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 63.9,
+      "latestPrice": 285.5
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 1135,
+      "latestPrice": 1945
+    },
+    {
+      "name": "飛宏",
+      "cleanName": "飛宏",
+      "ticker": "2457",
+      "shares": 4000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 55,
+      "latestPrice": 31
+    },
+    {
+      "name": "瑞軒",
+      "cleanName": "瑞軒",
+      "ticker": "2489",
+      "shares": 4000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 14,
+      "latestPrice": 39.6
+    },
+    {
+      "name": "根基",
+      "cleanName": "根基",
+      "ticker": "2546",
+      "shares": 1138,
+      "owner": "林月琴",
+      "priceAtDisclosure": 84,
+      "latestPrice": 87.6
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 6163,
+      "owner": "林月琴",
+      "priceAtDisclosure": 69.6,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 2350,
+      "owner": "林月琴",
+      "priceAtDisclosure": 26.2,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 31.75,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "晶豪科",
+      "cleanName": "晶豪科",
+      "ticker": "3006",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 84.3,
+      "latestPrice": 156.5
+    },
+    {
+      "name": "欣興",
+      "cleanName": "欣興",
+      "ticker": "3037",
+      "shares": 5000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 172,
+      "latestPrice": 481.5
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 3178,
+      "owner": "林月琴",
+      "priceAtDisclosure": 119.5,
+      "latestPrice": 136
+    },
+    {
+      "name": "玉晶光",
+      "cleanName": "玉晶光",
+      "ticker": "3406",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 417.5,
+      "latestPrice": 442
+    },
+    {
+      "name": "曜越",
+      "cleanName": "曜越",
+      "ticker": "3540",
+      "shares": 3299,
+      "owner": "林月琴",
+      "priceAtDisclosure": 54.2,
+      "latestPrice": 30.7
+    },
+    {
+      "name": "神達",
+      "cleanName": "神達",
+      "ticker": "3706",
+      "shares": 2960,
+      "owner": "林月琴",
+      "priceAtDisclosure": 45.6,
+      "latestPrice": 80
+    },
+    {
+      "name": "富采",
+      "cleanName": "富采",
+      "ticker": "3714",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 39.65,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "國精化",
+      "cleanName": "國精化",
+      "ticker": "4722",
+      "shares": 1050,
+      "owner": "林月琴",
+      "priceAtDisclosure": 37.5,
+      "latestPrice": 217
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 78.7,
+      "latestPrice": 92
+    },
+    {
+      "name": "科嘉-KY",
+      "cleanName": "科嘉-KY",
+      "ticker": "5215",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 55.7,
+      "latestPrice": 40
+    },
+    {
+      "name": "立凱-KY",
+      "cleanName": "立凱-KY",
+      "ticker": "5227",
+      "shares": 1264,
+      "owner": "林月琴",
+      "priceAtDisclosure": 40.5,
+      "latestPrice": 24.65
+    },
+    {
+      "name": "福邦證",
+      "cleanName": "福邦證",
+      "ticker": "6026",
+      "shares": 6000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 14.8
+    },
+    {
+      "name": "頎邦",
+      "cleanName": "頎邦",
+      "ticker": "6147",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 76.5,
+      "latestPrice": 56.5
+    },
+    {
+      "name": "瑞儀",
+      "cleanName": "瑞儀",
+      "ticker": "6176",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 172.5,
+      "latestPrice": 122
+    },
+    {
+      "name": "台郡",
+      "cleanName": "台郡",
+      "ticker": "6269",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 88.9,
+      "latestPrice": 64.7
+    },
+    {
+      "name": "同欣電",
+      "cleanName": "同欣電",
+      "ticker": "6271",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 142.5,
+      "latestPrice": 177
+    },
+    {
+      "name": "至上",
+      "cleanName": "至上",
+      "ticker": "8112",
+      "shares": 2211,
+      "owner": "林月琴",
+      "priceAtDisclosure": 68.1,
+      "latestPrice": 73.1
+    },
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 10999,
+      "owner": "林月琴",
+      "priceAtDisclosure": 31.95,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "亞泥",
+      "cleanName": "亞泥",
+      "ticker": "1102",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 41.1,
+      "latestPrice": 35.85
+    },
+    {
+      "name": "聯華",
+      "cleanName": "聯華",
+      "ticker": "1229",
+      "shares": 8690,
+      "owner": "林月琴",
+      "priceAtDisclosure": 67.7,
+      "latestPrice": 44.85
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "國際中橡",
+      "cleanName": "國際中橡",
+      "ticker": "2104",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 17.35,
+      "latestPrice": 13.2
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 51.9,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "佳錄科技",
+      "cleanName": "佳錄科技",
+      "ticker": null,
+      "shares": 798,
+      "owner": "林月琴",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "旺宏",
+      "cleanName": "旺宏",
+      "ticker": "2337",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 26.75,
+      "latestPrice": 110
+    },
+    {
+      "name": "智邦",
+      "cleanName": "智邦",
+      "ticker": "2345",
+      "shares": 5009,
+      "owner": "林月琴",
+      "priceAtDisclosure": 454,
+      "latestPrice": 1400
+    },
+    {
+      "name": "聯強",
+      "cleanName": "聯強",
+      "ticker": "2347",
+      "shares": 11920,
+      "owner": "林月琴",
+      "priceAtDisclosure": 79.5,
+      "latestPrice": 71.9
+    },
+    {
+      "name": "佳世達",
+      "cleanName": "佳世達",
+      "ticker": "2352",
+      "shares": 21977,
+      "owner": "林月琴",
+      "priceAtDisclosure": 42.55,
+      "latestPrice": 26
+    },
+    {
+      "name": "技嘉",
+      "cleanName": "技嘉",
+      "ticker": "2376",
+      "shares": 6000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 313,
+      "latestPrice": 239.5
+    },
+    {
+      "name": "廣達",
+      "cleanName": "廣達",
+      "ticker": "2382",
+      "shares": 3000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 257.5,
+      "latestPrice": 291.5
+    },
+    {
+      "name": "台光電",
+      "cleanName": "台光電",
+      "ticker": "2383",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 414,
+      "latestPrice": 2440
+    },
+    {
+      "name": "群光",
+      "cleanName": "群光",
+      "ticker": "2385",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 240.5,
+      "latestPrice": 125
+    },
+    {
+      "name": "友達",
+      "cleanName": "友達",
+      "ticker": "2409",
+      "shares": 1600,
+      "owner": "林月琴",
+      "priceAtDisclosure": 18.35,
+      "latestPrice": 16.6
+    },
+    {
+      "name": "精技",
+      "cleanName": "精技",
+      "ticker": "2414",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 35.45,
+      "latestPrice": 43.1
+    },
+    {
+      "name": "互盛電",
+      "cleanName": "互盛電",
+      "ticker": "2433",
+      "shares": 3000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 52.6,
+      "latestPrice": 47.2
+    },
+    {
+      "name": "國建",
+      "cleanName": "國建",
+      "ticker": "2501",
+      "shares": 1394,
+      "owner": "林月琴",
+      "priceAtDisclosure": 20.3,
+      "latestPrice": 22.65
+    },
+    {
+      "name": "中工",
+      "cleanName": "中工",
+      "ticker": "2515",
+      "shares": 6113,
+      "owner": "林月琴",
+      "priceAtDisclosure": 12.35,
+      "latestPrice": 17.4
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 800,
+      "owner": "林月琴",
+      "priceAtDisclosure": 166.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 3296,
+      "owner": "林月琴",
+      "priceAtDisclosure": 46.5,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "台灣高鐵",
+      "cleanName": "台灣高鐵",
+      "ticker": "2633",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 30.35,
+      "latestPrice": 27.05
+    },
+    {
+      "name": "台中銀",
+      "cleanName": "台中銀",
+      "ticker": "2812",
+      "shares": 33675,
+      "owner": "林月琴",
+      "priceAtDisclosure": 17.2,
+      "latestPrice": 21.1
+    },
+    {
+      "name": "華南金",
+      "cleanName": "華南金",
+      "ticker": "2880",
+      "shares": 22303,
+      "owner": "林月琴",
+      "priceAtDisclosure": 23,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 4050,
+      "owner": "林月琴",
+      "priceAtDisclosure": 69.6,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 88574,
+      "owner": "林月琴",
+      "priceAtDisclosure": 47.65,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "開發金",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 290677,
+      "owner": "林月琴",
+      "priceAtDisclosure": 14.15,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 4565,
+      "owner": "林月琴",
+      "priceAtDisclosure": 26.2,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 26.2,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 10547,
+      "owner": "林月琴",
+      "priceAtDisclosure": 40.9,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 53804,
+      "owner": "林月琴",
+      "priceAtDisclosure": 18.15,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 9136,
+      "owner": "林月琴",
+      "priceAtDisclosure": 8.38,
+      "latestPrice": null
+    },
+    {
+      "name": "國票金",
+      "cleanName": "國票金",
+      "ticker": "2889",
+      "shares": 20313,
+      "owner": "林月琴",
+      "priceAtDisclosure": 13.9,
+      "latestPrice": 16.95
+    },
+    {
+      "name": "永豐金",
+      "cleanName": "永豐金",
+      "ticker": "2890",
+      "shares": 71103,
+      "owner": "林月琴",
+      "priceAtDisclosure": 21.35,
+      "latestPrice": null
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 20402,
+      "owner": "林月琴",
+      "priceAtDisclosure": 31.75,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 7931,
+      "owner": "林月琴",
+      "priceAtDisclosure": 27.6,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "文曄",
+      "cleanName": "文曄",
+      "ticker": "3036",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 155,
+      "latestPrice": 184
+    },
+    {
+      "name": "台灣大",
+      "cleanName": "台灣大",
+      "ticker": "3045",
+      "shares": 3556,
+      "owner": "林月琴",
+      "priceAtDisclosure": 99.3,
+      "latestPrice": 107.5
+    },
+    {
+      "name": "順達科",
+      "cleanName": "順達科",
+      "ticker": "3211",
+      "shares": 3000,
+      "owner": "林月琴",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "群創",
+      "cleanName": "群創",
+      "ticker": "3481",
+      "shares": 859,
+      "owner": "林月琴",
+      "priceAtDisclosure": 14.95,
+      "latestPrice": 26.8
+    },
+    {
+      "name": "聯合再生",
+      "cleanName": "聯合再生",
+      "ticker": "3576",
+      "shares": 5000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 11.65,
+      "latestPrice": 22.1
+    },
+    {
+      "name": "神達",
+      "cleanName": "神達",
+      "ticker": "3706",
+      "shares": 1479,
+      "owner": "林月琴",
+      "priceAtDisclosure": 45.6,
+      "latestPrice": 80
+    },
+    {
+      "name": "致伸",
+      "cleanName": "致伸",
+      "ticker": "4915",
+      "shares": 3000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 78.7,
+      "latestPrice": 81.8
+    },
+    {
+      "name": "新唐",
+      "cleanName": "新唐",
+      "ticker": "4919",
+      "shares": 1000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 120,
+      "latestPrice": 72.7
+    },
+    {
+      "name": "立凱-KY",
+      "cleanName": "立凱-KY",
+      "ticker": "5227",
+      "shares": 420,
+      "owner": "林月琴",
+      "priceAtDisclosure": 40.5,
+      "latestPrice": 24.65
+    },
+    {
+      "name": "福邦證",
+      "cleanName": "福邦證",
+      "ticker": "6026",
+      "shares": 1200,
+      "owner": "林月琴",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 14.8
+    },
+    {
+      "name": "茂達",
+      "cleanName": "茂達",
+      "ticker": "6138",
+      "shares": 2399,
+      "owner": "林月琴",
+      "priceAtDisclosure": 212.5,
+      "latestPrice": 237.5
+    },
+    {
+      "name": "全國電",
+      "cleanName": "全國電",
+      "ticker": "6281",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 87.2,
+      "latestPrice": 60.5
+    },
+    {
+      "name": "台塑化",
+      "cleanName": "台塑化",
+      "ticker": "6505",
+      "shares": 8000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 71.2,
+      "latestPrice": 54.5
+    },
+    {
+      "name": "尖點",
+      "cleanName": "尖點",
+      "ticker": "8021",
+      "shares": 3000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 27.6,
+      "latestPrice": 256
+    },
+    {
+      "name": "長園科",
+      "cleanName": "長園科",
+      "ticker": "8038",
+      "shares": 2081,
+      "owner": "林月琴",
+      "priceAtDisclosure": 29.4,
+      "latestPrice": 45.05
+    },
+    {
+      "name": "台汽電",
+      "cleanName": "台汽電",
+      "ticker": "8926",
+      "shares": 7221,
+      "owner": "林月琴",
+      "priceAtDisclosure": 45.9,
+      "latestPrice": 46.95
+    },
+    {
+      "name": "大台北",
+      "cleanName": "大台北",
+      "ticker": "9908",
+      "shares": 4000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 32.4,
+      "latestPrice": 30.05
+    },
+    {
+      "name": "全國",
+      "cleanName": "全國",
+      "ticker": "9937",
+      "shares": 2000,
+      "owner": "林月琴",
+      "priceAtDisclosure": 67.2,
+      "latestPrice": 58.9
+    }
+  ],
+  "bonds": [
+    {
+      "name": "施羅德環球新興 市場債",
+      "owner": "林月琴",
+      "institution": "台 北 富 邦 銀 行 士林分行",
+      "units": 240.03,
+      "unitValue": 8.0159,
+      "currency": "歐元",
+      "declaredValue": 65772,
+      "source": "fund"
+    },
+    {
+      "name": "元大美債 20 年",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 7000,
+      "unitValue": 29.0929,
+      "currency": "",
+      "declaredValue": 203650,
+      "source": "fund"
+    },
+    {
+      "name": "富邦美債 20 年",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 2623,
+      "unitValue": 31.2102,
+      "currency": "",
+      "declaredValue": 81864,
+      "source": "fund"
+    },
+    {
+      "name": "元大投資級公司 債",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 9000,
+      "unitValue": 34.9941,
+      "currency": "",
+      "declaredValue": 314946,
+      "source": "fund"
+    },
+    {
+      "name": "元大美債 20 年",
+      "owner": "林月琴",
+      "institution": "永 豐 金 證 券 天 母分公司",
+      "units": 1000,
+      "unitValue": 29.0929,
+      "currency": "",
+      "declaredValue": 29092,
+      "source": "fund"
+    },
+    {
+      "name": "債",
+      "owner": "林月琴",
+      "institution": "母分公司",
+      "units": 0,
+      "unitValue": 0,
+      "currency": "",
+      "declaredValue": 0,
+      "source": "fund"
+    },
+    {
+      "name": "中信高評級公司 債",
+      "owner": "林月琴",
+      "institution": "永 豐 金 證 券 天 母分公司",
+      "units": 1557,
+      "unitValue": 35.4273,
+      "currency": "",
+      "declaredValue": 55160,
+      "source": "fund"
+    },
+    {
+      "name": "聯博全球非投資 等級債券 AT 股美 元月配息",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 6190.689,
+      "unitValue": 3.14,
+      "currency": "美元",
+      "declaredValue": 613740,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林公司債 基金（美元月配 現金）",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 1404.93,
+      "unitValue": 5.21,
+      "currency": "美元",
+      "declaredValue": 231104,
+      "source": "fund"
+    },
+    {
+      "name": "先機新興市場債 券基金 C 類美元 月配息",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 1336.982,
+      "unitValue": 6.2927,
+      "currency": "美元",
+      "declaredValue": 265630,
+      "source": "fund"
+    },
+    {
+      "name": "高盛新興市場債 券基金 X 股（美 元月配）",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 146.399,
+      "unitValue": 47.1,
+      "currency": "美元",
+      "declaredValue": 217708,
+      "source": "fund"
+    },
+    {
+      "name": "高盛新興市場債 券基金 X 股（美 元月配）",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 117.119,
+      "unitValue": 47.1,
+      "currency": "美元",
+      "declaredValue": 174166,
+      "source": "fund"
+    },
+    {
+      "name": "元大 AAA 至 A 公 司債",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 4000,
+      "unitValue": 34.4458,
+      "currency": "",
+      "declaredValue": 137783,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "貝萊德世界礦業 歐元",
+      "owner": "林月琴",
+      "institution": "台 北 富 邦 銀 行 士林分行",
+      "units": 67.99,
+      "unitValue": 54.1,
+      "currency": "歐元",
+      "declaredValue": 125738,
+      "source": "fund"
+    },
+    {
+      "name": "晉達環球環境收 益",
+      "owner": "林月琴",
+      "institution": "台 北 富 邦 銀 行 士林分行",
+      "units": 167.567,
+      "unitValue": 18.52,
+      "currency": "美元",
+      "declaredValue": 97915,
+      "source": "fund"
+    },
+    {
+      "name": "富達新興市場基 金（A 股美元）",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 117.44,
+      "unitValue": 28.55,
+      "currency": "美元",
+      "declaredValue": 105861,
+      "source": "fund"
+    },
+    {
+      "name": "柏瑞拉丁美洲",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 7326,
+      "unitValue": 10.47,
+      "currency": "",
+      "declaredValue": 76703,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 2842,
+      "unitValue": 152.96,
+      "currency": "",
+      "declaredValue": 434712,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 5000,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 196000,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台 50",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 12170,
+      "unitValue": 89.31,
+      "currency": "",
+      "declaredValue": 1086902,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣高息低 波",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 6449,
+      "unitValue": 54.27,
+      "currency": "",
+      "declaredValue": 349987,
+      "source": "fund"
+    },
+    {
+      "name": "元大臺灣 ESG 永 續",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 3442,
+      "unitValue": 38.91,
+      "currency": "",
+      "declaredValue": 133928,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 12351,
+      "unitValue": 22.48,
+      "currency": "",
+      "declaredValue": 277650,
+      "source": "fund"
+    },
+    {
+      "name": "中信關鍵半導體",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 2000,
+      "unitValue": 17.99,
+      "currency": "",
+      "declaredValue": 35980,
+      "source": "fund"
+    },
+    {
+      "name": "復華台灣科技優 息",
+      "owner": "林月琴",
+      "institution": "富 邦 證 券 陽 明 分公司",
+      "units": 5000,
+      "unitValue": 20.7,
+      "currency": "",
+      "declaredValue": 103500,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50",
+      "owner": "林月琴",
+      "institution": "永 豐 金 證 券 天 母分公司",
+      "units": 4280,
+      "unitValue": 152.96,
+      "currency": "",
+      "declaredValue": 654668,
+      "source": "fund"
+    },
+    {
+      "name": "元大投資級公司",
+      "owner": "林月琴",
+      "institution": "永 豐 金 證 券 天",
+      "units": 1571,
+      "unitValue": 34.9941,
+      "currency": "",
+      "declaredValue": 54975,
+      "source": "fund"
+    },
+    {
+      "name": "元大臺灣 ESG 永 續",
+      "owner": "林月琴",
+      "institution": "永 豐 金 證 券 天 母分公司",
+      "units": 1394,
+      "unitValue": 38.91,
+      "currency": "",
+      "declaredValue": 54240,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林新興國 家固定收益（美 元月配現金）",
+      "owner": "林月琴",
+      "institution": "京城商業銀行",
+      "units": 849.927,
+      "unitValue": 4.19,
+      "currency": "美元",
+      "declaredValue": 112437,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台 50",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 4000,
+      "unitValue": 89.31,
+      "currency": "",
+      "declaredValue": 357240,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣高息低 波",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 15000,
+      "unitValue": 54.27,
+      "currency": "",
+      "declaredValue": 814050,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 5000,
+      "unitValue": 22.48,
+      "currency": "",
+      "declaredValue": 112400,
+      "source": "fund"
+    },
+    {
+      "name": "中信關鍵半導體",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 26000,
+      "unitValue": 17.99,
+      "currency": "",
+      "declaredValue": 467740,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台灣半導體",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 2000,
+      "unitValue": 15.43,
+      "currency": "",
+      "declaredValue": 30860,
+      "source": "fund"
+    },
+    {
+      "name": "復華台灣科技優 息",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 1000,
+      "unitValue": 20.7,
+      "currency": "",
+      "declaredValue": 20700,
+      "source": "fund"
+    },
+    {
+      "name": "土銀富邦 R1",
+      "owner": "林月琴",
+      "institution": "京 城 證 券 嘉 義 分公司",
+      "units": 5000,
+      "unitValue": 14.72,
+      "currency": "",
+      "declaredValue": 73600,
+      "source": "fund"
+    },
+    {
+      "name": "富達東協基金 A 股美元",
+      "owner": "林月琴",
+      "institution": "臺 灣 新 光 銀 行 嘉義分行",
+      "units": 18.31,
+      "unitValue": 33.67,
+      "currency": "美元",
+      "declaredValue": 19426,
+      "source": "fund"
+    },
+    {
+      "name": "坦伯頓穩定月收 益月配",
+      "owner": "林月琴",
+      "institution": "臺 灣 新 光 銀 行 嘉義分行",
+      "units": 86.176,
+      "unitValue": 9.71,
+      "currency": "美元",
+      "declaredValue": 26367,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市士林區芝山段二小段",
+      "owner": "林月琴",
+      "date": "2012-12-10",
+      "effectiveAreaPing": 28.31,
+      "entryCount": 1,
+      "price": "含平台 7.8 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市士林區芝山段三小段",
+      "owner": "蔡宗翰",
+      "date": "1992-07-16",
+      "effectiveAreaPing": 39.77,
+      "entryCount": 2,
+      "price": "含陽台12.1平 方公尺(超過 五年)"
+    }
+  ]
+}

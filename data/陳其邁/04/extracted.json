@@ -1,0 +1,104 @@
+{
+  "name": "陳其邁",
+  "org": "高雄市政府",
+  "title": "市長",
+  "date": "113年12月10日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳虹"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市苓雅區苓雅寮段",
+      "area": 2290,
+      "share": "10000 分之 80",
+      "owner": "陳其邁",
+      "date": "108年04月11日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    },
+    {
+      "location": "高雄市左營區新庄段三小段",
+      "area": 110,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "108年04月11日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市苓雅區苓雅寮段",
+      "area": 154.83,
+      "share": "107 分之 1",
+      "owner": "陳其邁",
+      "date": "108年04月11日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    },
+    {
+      "location": "高雄市苓雅區苓雅寮段",
+      "area": 96.86,
+      "share": "107 分之 1",
+      "owner": "陳其邁",
+      "date": "108年04月11日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    },
+    {
+      "location": "高雄市苓雅區苓雅寮段",
+      "area": 135.5,
+      "share": "全部",
+      "owner": "陳其邁",
+      "date": "108年04月11日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    },
+    {
+      "location": "高雄市左營區新庄段三小段",
+      "area": 320.11,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "108年04月11日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

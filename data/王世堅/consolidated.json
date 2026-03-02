@@ -1,0 +1,55 @@
+{
+  "name": "王世堅",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "民主進步黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "新真安心住院醫 療終身",
+      "holder": "林秀芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "新真安順手術醫 療終身",
+      "holder": "林秀芬",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "華南金",
+      "cleanName": "華南金",
+      "ticker": "2880",
+      "shares": 1800,
+      "owner": "王世堅",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "華南金",
+      "cleanName": "華南金",
+      "ticker": "2880",
+      "shares": 140,
+      "owner": "王世堅",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 116,
+      "owner": "王世堅",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

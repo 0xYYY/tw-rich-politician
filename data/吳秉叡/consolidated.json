@@ -1,0 +1,130 @@
+{
+  "name": "吳秉叡",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 16872992
+    },
+    {
+      "currency": "美元",
+      "amount": 761863
+    },
+    {
+      "currency": "日圓",
+      "amount": 95948
+    }
+  ],
+  "depositsTotal": 17730803,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 富 貴 長 紅 分 紅 終 身 壽險",
+      "holder": "詹文馨",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "華友聯",
+      "cleanName": "華友聯",
+      "ticker": "1436",
+      "shares": 48,
+      "owner": "吳秉叡",
+      "priceAtDisclosure": 140.5,
+      "latestPrice": 56.8
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "霸 菱 東 歐 基 金 （再投資）（美 元）",
+      "owner": "吳秉叡",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 133.265,
+      "unitValue": 41.5,
+      "currency": "美元",
+      "declaredValue": 176749,
+      "source": "fund"
+    },
+    {
+      "name": "霸 菱 東 歐 基 金 ( 再 投 資 )( 美 元 )( 側 袋 專 戶 )( 不 開 放 交 易)",
+      "owner": "吳秉叡",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 114.511,
+      "unitValue": 0.0001,
+      "currency": "美元",
+      "declaredValue": 0,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 成長基金（再投 資）（美元）",
+      "owner": "吳秉叡",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 46.324,
+      "unitValue": 27.38,
+      "currency": "美元",
+      "declaredValue": 40535,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 成長基金（再投 資）（美元）",
+      "owner": "吳秉叡",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 45.981,
+      "unitValue": 27.38,
+      "currency": "美元",
+      "declaredValue": 40235,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 全球投資系列 穩定月收益基金 F（月配現）（美 元）（後收）",
+      "owner": "吳秉叡",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 2029.733,
+      "unitValue": 7.95,
+      "currency": "美元",
+      "declaredValue": 515702,
+      "source": "fund"
+    },
+    {
+      "name": "富達全球多重資 產收益基金 A 股 F1 穩定月配息美 元(特金)",
+      "owner": "吳秉叡",
+      "institution": "富邦證券",
+      "units": 16553.56,
+      "unitValue": 7.639,
+      "currency": "美元",
+      "declaredValue": 4051543,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市新莊區福營段",
+      "owner": "吳秉叡",
+      "date": "2010-08-23",
+      "effectiveAreaPing": 13.28,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "owner": "吳秉叡",
+      "date": "1990-10-01",
+      "effectiveAreaPing": 35.56,
+      "entryCount": 6,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新莊區榮和段",
+      "owner": "詹文馨",
+      "date": "2020-02-18",
+      "effectiveAreaPing": 31.22,
+      "entryCount": 2,
+      "price": "11,418,715 (與第 7 筆土 地、第 9 筆建 物合購，含陽 台6.34平方公 尺，雨遮 11.61 平方公尺)"
+    }
+  ]
+}

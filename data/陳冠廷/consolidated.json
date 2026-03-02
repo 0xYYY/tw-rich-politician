@@ -1,0 +1,145 @@
+{
+  "name": "陳冠廷",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "嘉義縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 27894081
+    },
+    {
+      "currency": "美元",
+      "amount": 402763
+    }
+  ],
+  "depositsTotal": 28296845,
+  "insurance": [
+    {
+      "company": "三商美邦人壽保 險股份有限公司",
+      "name": "六年繳費新美年 發外幣終身保險 (A 型)",
+      "holder": "陳冠廷",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "和大",
+      "cleanName": "和大",
+      "ticker": "1536",
+      "shares": 4000,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": 51,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "康普",
+      "cleanName": "康普",
+      "ticker": "4739",
+      "shares": 1000,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": 63.4,
+      "latestPrice": 77.5
+    },
+    {
+      "name": "同欣電",
+      "cleanName": "同欣電",
+      "ticker": "6271",
+      "shares": 2210,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": 142.5,
+      "latestPrice": 177
+    },
+    {
+      "name": "巨虹",
+      "cleanName": "巨虹",
+      "ticker": "8084",
+      "shares": 1000,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": 85.5,
+      "latestPrice": 54.7
+    },
+    {
+      "name": "Carnival Corp",
+      "cleanName": "Carnival Corp",
+      "ticker": "CCL",
+      "shares": 729,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "Coinbase Global-A",
+      "cleanName": "Coinbase Global-A",
+      "ticker": "COIN",
+      "shares": 29,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "Rivian Automotive-A",
+      "cleanName": "Rivian Automotive-A",
+      "ticker": "RIVN",
+      "shares": 35,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "Roblox",
+      "cleanName": "Roblox",
+      "ticker": "RBLX",
+      "shares": 181,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "Tesla",
+      "cleanName": "Tesla",
+      "ticker": "TSLA",
+      "shares": 277,
+      "owner": "陳冠廷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "嘉義市末廣段四小段",
+      "owner": "陳冠廷",
+      "date": "2019-05-22",
+      "effectiveAreaPing": 67.03,
+      "entryCount": 1,
+      "price": "5,000,000(房 地總價額)"
+    },
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "owner": "陳冠廷",
+      "date": "2013-12-19",
+      "effectiveAreaPing": 83.37,
+      "entryCount": 4,
+      "price": "含見其他登記 事項36.1平方 公尺(超過五 年)"
+    },
+    {
+      "location": "嘉義縣竹崎鄉山子門段",
+      "owner": "陳冠廷",
+      "date": "2023-05-25",
+      "effectiveAreaPing": 1435.87,
+      "entryCount": 9,
+      "price": "14,349,458 (嘉義縣竹崎 鄉山子門段○ ○○○○建 號、○○○○ ○○○○○建 號、○○○○ ○建號依比例 計算)"
+    },
+    {
+      "location": "臺北市大同區雙連段二小段",
+      "owner": "陳冠廷",
+      "date": "2017-06-12",
+      "effectiveAreaPing": 38.5,
+      "entryCount": 2,
+      "price": "含陽台7.23平 方公尺(超過 五年)"
+    }
+  ]
+}

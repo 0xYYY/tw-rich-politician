@@ -1,0 +1,86 @@
+{
+  "name": "羅美玲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月05日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳棋祥"
+    }
+  ],
+  "land": [
+    {
+      "location": "南投縣名間鄉仁和段 (公同共有)",
+      "area": 286.24,
+      "share": "全部",
+      "owner": "吳棋祥",
+      "date": "108年03月29日",
+      "reason": "繼承",
+      "price": "383,848 (超過五年)"
+    },
+    {
+      "location": "彰化縣二林鎮儒雅段 (公同共有)",
+      "area": 109.53,
+      "share": "10953 分之 5477",
+      "owner": "吳棋祥",
+      "date": "108年04月12日",
+      "reason": "繼承",
+      "price": "558,603 (超過五年)"
+    },
+    {
+      "location": "彰化縣二林鎮興南段 (公同共有)",
+      "area": 3746.85,
+      "share": "374685 分 之 93671",
+      "owner": "吳棋祥",
+      "date": "108年04月12日",
+      "reason": "繼承",
+      "price": "1,311,394 (超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市大里區大明里中興路 (公同共有)",
+      "area": 324.4,
+      "share": "2 分之 1",
+      "owner": "吳棋祥",
+      "date": "108年04月25日",
+      "reason": "繼承",
+      "price": "59,050 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

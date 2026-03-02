@@ -1,0 +1,194 @@
+{
+  "name": "陳其邁",
+  "org": "高雄市政府",
+  "title": "市長",
+  "date": "113年12月10日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳虹"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣高樹鄉泰福段(耕地，特 定區域農牧用地)",
+      "area": 2550,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "112年09月05日",
+      "reason": "買賣",
+      "price": "6,684,466"
+    },
+    {
+      "location": "屏東縣高樹鄉泰福段(耕地，特 定區域農牧用地)",
+      "area": 2600,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "112年09月05日",
+      "reason": "買賣",
+      "price": "6,815,534"
+    },
+    {
+      "location": "高雄市左營區新庄段十三小段 (自用房屋之坐落基地)",
+      "area": 172,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "94年03月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段十三小段 (未交付信託原因：自用房屋)",
+      "area": 331.96,
+      "share": "全部",
+      "owner": "吳虹",
+      "date": "94年03月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "本田 HONDA",
+      "cc": 1497,
+      "owner": "吳虹",
+      "date": "104年03月30日",
+      "reason": "買賣",
+      "price": 650000
+    },
+    {
+      "brand": "本田 HONDA",
+      "cc": 1497,
+      "owner": "吳虹",
+      "date": "113年03月28日",
+      "reason": "買賣",
+      "price": 800000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 3518280,
+    "items": [
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳其邁",
+        "foreignAmount": 0,
+        "amount": 529504
+      },
+      {
+        "institution": "滙豐(台灣)商業銀行高雄 分行",
+        "type": "外幣存款",
+        "currency": "日圓",
+        "owner": "吳虹",
+        "foreignAmount": 1571,
+        "amount": 329
+      },
+      {
+        "institution": "匯豐(台灣)商業銀行高雄 分行",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "吳虹",
+        "foreignAmount": 3,
+        "amount": 116
+      },
+      {
+        "institution": "匯豐(台灣)商業銀行高雄 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "吳虹",
+        "foreignAmount": 0,
+        "amount": 2857790
+      },
+      {
+        "institution": "中國信託商業銀行民族分 行",
+        "type": "外幣存款",
+        "currency": "日圓",
+        "owner": "吳虹",
+        "foreignAmount": 346366,
+        "amount": 72736
+      },
+      {
+        "institution": "中國信託商業銀行民族分 行",
+        "type": "外幣存款",
+        "currency": "美元",
+        "owner": "吳虹",
+        "foreignAmount": 953,
+        "amount": 30938
+      },
+      {
+        "institution": "中國信託商業銀行民族分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "吳虹",
+        "foreignAmount": 0,
+        "amount": 26865
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 13964275,
+    "items": [
+      {
+        "type": "私人債務",
+        "debtor": "吳虹",
+        "creditor": "陳○圓 高雄市太原街",
+        "amount": 1430000,
+        "date": "112年08月09日",
+        "reason": "借貸"
+      },
+      {
+        "type": "房屋貸款",
+        "debtor": "吳虹",
+        "creditor": "凱基商業銀行－高美館分行 高雄市鼓山區明誠四路",
+        "amount": 5590641,
+        "date": "100年07月25日",
+        "reason": "貸款"
+      },
+      {
+        "type": "房屋貸款",
+        "debtor": "吳虹",
+        "creditor": "匯豐銀行－左營分行 高雄市左營區博愛三路",
+        "amount": 6943634,
+        "date": "100年02月24日",
+        "reason": "貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 2000000,
+    "items": [
+      {
+        "investor": "吳虹",
+        "company": "吳虹婦產科診所",
+        "address": "高雄市左營區新庄仔路 273 號 1 樓",
+        "amount": 2000000,
+        "date": "94年09月01日",
+        "reason": "開業"
+      }
+    ]
+  }
+}

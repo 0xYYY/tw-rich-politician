@@ -1,0 +1,81 @@
+{
+  "name": "洪孟楷",
+  "date": "2024-12-29",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1452749
+    }
+  ],
+  "depositsTotal": 1452749,
+  "insurance": [
+    {
+      "company": "全球人壽",
+      "name": "美代繳緻富利率 變動型美元終身 壽險",
+      "holder": "洪孟楷",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "全球人壽",
+      "name": "安心 360 利率變 動型美元增額終",
+      "holder": "洪孟楷",
+      "contractType": "終身壽險"
+    },
+    {
+      "company": "國泰人壽",
+      "name": "好事年年終身保 險",
+      "holder": "洪孟楷",
+      "contractType": "終身壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "增鑫利外幣增額 終身壽險",
+      "holder": "洪孟楷",
+      "contractType": "終身壽險"
+    },
+    {
+      "company": "全球人壽",
+      "name": "鑫滿利足利率變 動型終身壽險",
+      "holder": "蘇怡文",
+      "contractType": "終身壽險"
+    },
+    {
+      "company": "中國人壽",
+      "name": "美鑫外幣利率變 動型終身壽險",
+      "holder": "蘇怡文",
+      "contractType": "終身壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市文山區興泰段三小段",
+      "owner": "洪孟楷",
+      "date": "2013-07-29",
+      "effectiveAreaPing": 26.26,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "owner": "洪孟楷",
+      "date": "2009-10-27",
+      "effectiveAreaPing": 9.54,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市林口區麗林段",
+      "owner": "洪孟楷",
+      "date": "2016-07-27",
+      "effectiveAreaPing": 58.53,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

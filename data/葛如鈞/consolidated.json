@@ -1,0 +1,100 @@
+{
+  "name": "葛如鈞",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1231093
+    },
+    {
+      "currency": "美元",
+      "amount": 12456
+    },
+    {
+      "currency": "日圓",
+      "amount": 6502
+    }
+  ],
+  "depositsTotal": 1250052,
+  "insurance": [
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "加倍關心特定傷 病終身保險",
+      "holder": "葛如鈞",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽吉美利 外幣利率變動型 增額終身壽險",
+      "holder": "葛如鈞",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽安康久 久殘廢照護終身 壽險",
+      "holder": "葛如鈞",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "終身壽險-指標變 額型(不分紅)",
+      "holder": "李婷婷",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "加倍關心特定傷 病終身保險",
+      "holder": "李婷婷",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "悠富人生美元還 本終身保險(104)",
+      "holder": "李婷婷",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "美好證券",
+      "cleanName": "美好證券",
+      "ticker": "6021",
+      "shares": 5267,
+      "owner": "葛如鈞",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "蘋果電腦 (複委託)",
+      "cleanName": "蘋果電腦 (複委託)",
+      "ticker": "AAPL",
+      "shares": 30,
+      "owner": "葛如鈞",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市新店區新坡段",
+      "owner": "葛如鈞",
+      "date": "2021-10-14",
+      "effectiveAreaPing": 48.44,
+      "entryCount": 6,
+      "price": "21,200,000 (房地總價額 2,120 萬。含陽 台 10.27 平方 公尺,露台 17.74 平方公 尺,花台 0.96 平方公尺)"
+    },
+    {
+      "location": "新北市新店區新坡段",
+      "owner": "李婷婷",
+      "date": "2021-10-14",
+      "effectiveAreaPing": 48.44,
+      "entryCount": 6,
+      "price": "21,200,000 (與葛如鈞第 1 筆建物一起購 買，房地總價 額 2,120 萬。 含陽台 10.27 平方公尺,露 台 17.74 平方 公尺,花台 0.96 平方公 尺。)"
+    }
+  ]
+}

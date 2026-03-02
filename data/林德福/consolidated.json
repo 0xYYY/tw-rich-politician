@@ -1,0 +1,89 @@
+{
+  "name": "林德福",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 5203873
+    },
+    {
+      "currency": "美元",
+      "amount": 3211
+    }
+  ],
+  "depositsTotal": 5207084,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "林德福",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "林德福",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽鑫幸福 終身壽險",
+      "holder": "林德福",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "曾月桂",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽鑫幸福 終身壽險",
+      "holder": "曾月桂",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "碧悠電子",
+      "cleanName": "碧悠電子",
+      "ticker": null,
+      "shares": 150800,
+      "owner": "林德福",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市永和區文化段",
+      "owner": "林德福",
+      "date": "1998-10-19",
+      "effectiveAreaPing": 87.45,
+      "entryCount": 7,
+      "price": "含陽台 8.86 平 方公尺(超過五 年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "owner": "曾月桂",
+      "date": "1998-10-19",
+      "effectiveAreaPing": 45.78,
+      "entryCount": 3,
+      "price": "含陽台 16.82 平方公尺(超過 五年)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "owner": "曾月桂",
+      "date": "2023-03-02",
+      "effectiveAreaPing": 86.66,
+      "entryCount": 9,
+      "price": "11,677,560(含 陽台 8.41 平方 公尺,雨遮 5.43 平方公 尺)"
+    }
+  ]
+}

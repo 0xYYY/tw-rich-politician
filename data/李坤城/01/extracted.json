@@ -1,0 +1,456 @@
+{
+  "name": "李坤城",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王蓓潔"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○樂"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市蘆洲區正義段",
+      "area": 1577.38,
+      "share": "10000 分之 222",
+      "owner": "王蓓潔",
+      "date": "105年11月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市蘆洲區正義段",
+      "area": 112.21,
+      "share": "全部",
+      "owner": "王蓓潔",
+      "date": "105年11月04日",
+      "reason": "買賣",
+      "price": "含陽台7.24平 方公尺(超過 五年)"
+    },
+    {
+      "location": "新北市蘆洲區正義段",
+      "area": 4436.78,
+      "share": "100000 分 之 1882",
+      "owner": "王蓓潔",
+      "date": "105年11月04日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "三陽",
+      "cc": 1998,
+      "owner": "李坤城",
+      "date": "101年12月18日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "日產",
+      "cc": 1275,
+      "owner": "王蓓潔",
+      "date": "107年06月22日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "SUZUKI",
+      "cc": 1242,
+      "owner": "王蓓潔",
+      "date": "109年05月11日",
+      "reason": "買賣",
+      "price": 600000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 13598074,
+    "items": [
+      {
+        "institution": "臺灣銀行中崙分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 419
+      },
+      {
+        "institution": "臺灣銀行金山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 587988
+      },
+      {
+        "institution": "合庫商業銀行東高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 2350
+      },
+      {
+        "institution": "台北富邦銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 74
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 8269105
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 78
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 311
+      },
+      {
+        "institution": "國泰世華銀行苓雅分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 1338
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 620
+      },
+      {
+        "institution": "臺灣新光銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 559
+      },
+      {
+        "institution": "新北市淡水信用合作社成 州分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 2557
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 2130
+      },
+      {
+        "institution": "聯邦銀行蘆洲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 179
+      },
+      {
+        "institution": "永豐銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 184
+      },
+      {
+        "institution": "安泰銀行民權分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 572
+      },
+      {
+        "institution": "中信銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 516
+      },
+      {
+        "institution": "中信銀行蘆洲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李坤城",
+        "foreignAmount": 0,
+        "amount": 161
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 26
+      },
+      {
+        "institution": "第一銀行蘆洲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 368901
+      },
+      {
+        "institution": "華南銀行北蘆洲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 38046
+      },
+      {
+        "institution": "臺灣企銀建成分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 3641
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 1698256
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 1500000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "蘆洲區農會長安分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 14021
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 1471
+      },
+      {
+        "institution": "玉山銀行蘆洲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王蓓潔",
+        "foreignAmount": 0,
+        "amount": 104463
+      }
+    ]
+  },
+  "stocks": {
+    "total": 867110,
+    "items": [
+      {
+        "name": "英業達",
+        "owner": "李坤城",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "圓剛",
+        "owner": "李坤城",
+        "shares": 13600,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 136000
+      },
+      {
+        "name": "陽明",
+        "owner": "李坤城",
+        "shares": 16000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160000
+      },
+      {
+        "name": "萬海",
+        "owner": "李坤城",
+        "shares": 16075,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160750
+      },
+      {
+        "name": "國泰金",
+        "owner": "李坤城",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "開發金",
+        "owner": "李坤城",
+        "shares": 36,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 360
+      },
+      {
+        "name": "敦泰",
+        "owner": "李坤城",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "圓展",
+        "owner": "李坤城",
+        "shares": 7000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 70000
+      },
+      {
+        "name": "力積電",
+        "owner": "李坤城",
+        "shares": 22000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 220000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 金 優 利 利 率 變 動 型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○900",
+        "holder": "李坤城",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 07 月 01 日/173 年 06 月 30 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 9390571,
+    "items": [
+      {
+        "type": "保單質借",
+        "debtor": "李坤城",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 20149,
+        "date": "113年03月07日",
+        "reason": "南山人壽康 祥一生終身 保險-B 型保 單質借"
+      },
+      {
+        "type": "授信",
+        "debtor": "王蓓潔",
+        "creditor": "華南商業銀行北蘆洲分行 新北市蘆洲區長榮路",
+        "amount": 5110432,
+        "date": "105年11月08日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "王蓓潔",
+        "creditor": "華南商業銀行北蘆洲分行 新北市蘆洲區長榮路",
+        "amount": 4259990,
+        "date": "105年11月08日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 2000,
+    "items": [
+      {
+        "investor": "李坤城",
+        "company": "新北市淡水信用合作社",
+        "address": "新北市五股區成泰路三段 571,573 號",
+        "amount": 2000,
+        "date": "100年01月27日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

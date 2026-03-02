@@ -1,0 +1,99 @@
+{
+  "name": "林姿妙",
+  "org": "宜蘭縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "宜蘭縣羅東鎮東安段",
+      "area": 167,
+      "share": "全部",
+      "owner": "林姿妙",
+      "date": "109年07月29日",
+      "reason": "受託人:土地銀行",
+      "price": ""
+    },
+    {
+      "location": "宜蘭縣羅東鎮東安段",
+      "area": 1301,
+      "share": "2400 分之 83",
+      "owner": "林姿妙",
+      "date": "109年07月29日",
+      "reason": "受託人:土地銀行",
+      "price": ""
+    },
+    {
+      "location": "宜蘭縣羅東鎮興東段",
+      "area": 154,
+      "share": "全部",
+      "owner": "林姿妙",
+      "date": "109年07月29日",
+      "reason": "受託人:土地銀行",
+      "price": ""
+    },
+    {
+      "location": "宜蘭縣羅東鎮興東段",
+      "area": 16,
+      "share": "全部",
+      "owner": "林姿妙",
+      "date": "109年07月29日",
+      "reason": "受託人:土地銀行",
+      "price": ""
+    },
+    {
+      "location": "宜蘭縣羅東鎮興東段",
+      "area": 127,
+      "share": "全部",
+      "owner": "林姿妙",
+      "date": "109年07月29日",
+      "reason": "受託人:土地銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "宜蘭縣羅東鎮興東段",
+      "area": 247.14,
+      "share": "全部",
+      "owner": "林姿妙",
+      "date": "109年07月29日",
+      "reason": "受託人:土地銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

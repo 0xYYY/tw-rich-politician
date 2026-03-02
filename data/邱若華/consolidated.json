@@ -1,0 +1,117 @@
+{
+  "name": "邱若華",
+  "date": "2024-04-24",
+  "type": "legislator",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2955818
+    },
+    {
+      "currency": "澳幣",
+      "amount": 4248868
+    },
+    {
+      "currency": "人民幣",
+      "amount": 462562
+    },
+    {
+      "currency": "歐元",
+      "amount": 1
+    }
+  ],
+  "depositsTotal": 7667249,
+  "insurance": [
+    {
+      "company": "國泰人壽",
+      "name": "鑫福終身壽險",
+      "holder": "邱若華",
+      "contractType": "保障型"
+    },
+    {
+      "company": "國泰人壽",
+      "name": "雋 享 年 年 終 身 保險",
+      "holder": "邱若華",
+      "contractType": "保障型、儲蓄型"
+    },
+    {
+      "company": "南山人壽",
+      "name": "月 月 添 利 利 率 變 動 型 還 本 終 身保險",
+      "holder": "邱若華",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "金 多 利 利 率 變 動 型 增 額 終 身 壽險",
+      "holder": "邱若華",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "安聯人壽",
+      "name": "新 大 安 心 傷 害 保本保險",
+      "holder": "邱若華",
+      "contractType": "保障型"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "金 好 鑽 利 率 變 動 型 增 額 還 本 終身險",
+      "holder": "邱若華",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "五 夠 鑽 利 率 變 動 型 增 額 終 身 壽險",
+      "holder": "邱若華",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "中華郵政",
+      "name": "郵 政 簡 易 人 壽 幸福 88 保險",
+      "holder": "邱若華",
+      "contractType": "保障型"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 10000,
+      "owner": "邱若華",
+      "priceAtDisclosure": 24.75,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "榮運",
+      "cleanName": "榮運",
+      "ticker": "2607",
+      "shares": 2000,
+      "owner": "邱若華",
+      "priceAtDisclosure": 32.1,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "群創",
+      "cleanName": "群創",
+      "ticker": "3481",
+      "shares": 9547,
+      "owner": "邱若華",
+      "priceAtDisclosure": 13.6,
+      "latestPrice": 26.8
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市八德區豐田段",
+      "owner": "邱若華",
+      "date": "2023-09-18",
+      "effectiveAreaPing": 83.72,
+      "entryCount": 4,
+      "price": "25,880,000(房 地總價額)"
+    }
+  ]
+}

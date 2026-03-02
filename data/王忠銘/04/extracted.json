@@ -1,0 +1,193 @@
+{
+  "name": "王忠銘",
+  "org": "連江縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳順娥"
+    }
+  ],
+  "land": [
+    {
+      "location": "連江縣南竿鄉仁愛段",
+      "area": 296.23,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "106年03月09日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "連江縣南竿鄉仁愛段",
+      "area": 332.85,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "106年03月09日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "連江縣南竿鄉仁愛段",
+      "area": 20.65,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "106年03月09日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "連江縣南竿鄉仁愛段",
+      "area": 48.36,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "106年03月09日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "新北市三峽區大學段一小段",
+      "area": 6256.3,
+      "share": "100000 分 之 94",
+      "owner": "王忠銘",
+      "date": "106年03月17日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "新北市三峽區大學段一小段",
+      "area": 6256.3,
+      "share": "1000000 分之 940",
+      "owner": "王忠銘",
+      "date": "106年03月17日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市三峽區大學段一小段",
+      "area": 24.88,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "106年03月17日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "新北市三峽區大學段一小段",
+      "area": 24.24,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "106年03月17日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台聚",
+        "owner": "王忠銘",
+        "shares": 7852,
+        "trustee": "臺灣銀行",
+        "transferDate": "109年01月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 78520
+      },
+      {
+        "name": "台中銀",
+        "owner": "王忠銘",
+        "shares": 3058,
+        "trustee": "臺灣銀行",
+        "transferDate": "106年03月31日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30580
+      },
+      {
+        "name": "中信金",
+        "owner": "王忠銘",
+        "shares": 16614,
+        "trustee": "臺灣銀行",
+        "transferDate": "106年03月31日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 166140
+      },
+      {
+        "name": "大同",
+        "owner": "陳順娥",
+        "shares": 532,
+        "trustee": "臺灣銀行",
+        "transferDate": "106年04月07日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5320
+      },
+      {
+        "name": "彰銀",
+        "owner": "陳順娥",
+        "shares": 2153,
+        "trustee": "臺灣銀行",
+        "transferDate": "106年04月07日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 21530
+      },
+      {
+        "name": "中信金",
+        "owner": "陳順娥",
+        "shares": 27338,
+        "trustee": "臺灣銀行",
+        "transferDate": "106年04月07日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 273380
+      },
+      {
+        "name": "第一金",
+        "owner": "陳順娥",
+        "shares": 2313,
+        "trustee": "臺灣銀行",
+        "transferDate": "106年04月07日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 23130
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

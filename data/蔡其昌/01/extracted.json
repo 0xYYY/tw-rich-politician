@@ -1,0 +1,675 @@
+{
+  "name": "蔡其昌",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃玉廷"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔡○葳"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔡○鵬"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔡○羽"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市南屯區惠義段",
+      "area": 1567.79,
+      "share": "100000 分 之 3041",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "619,184"
+    },
+    {
+      "location": "臺中市清水區西寧段",
+      "area": 155,
+      "share": "全部",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "7,950,970"
+    },
+    {
+      "location": "臺中市清水區吳厝南段",
+      "area": 802.41,
+      "share": "140 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "32,670"
+    },
+    {
+      "location": "臺中市清水區武秀段",
+      "area": 1491,
+      "share": "249100 分 之 27616",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "3,636,532"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "area": 4,
+      "share": "12 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "7,000"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "area": 20,
+      "share": "12 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "35,000"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "area": 36.07,
+      "share": "4 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "189,368"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "area": 79,
+      "share": "4 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "414,750"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "area": 11,
+      "share": "4 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "57,750"
+    },
+    {
+      "location": "臺中市梧棲區三民段",
+      "area": 76,
+      "share": "全部",
+      "owner": "黃玉廷",
+      "date": "100年06月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市清水區五權段",
+      "area": 163.82,
+      "share": "全部",
+      "owner": "黃玉廷",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "443,360"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市南屯區惠義段",
+      "area": 161.48,
+      "share": "全部",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "1,443,500 (含陽台 22.98 平方公尺,雨 遮 10.01 平方 公尺)"
+    },
+    {
+      "location": "臺中市清水區紫雲段",
+      "area": 89.69,
+      "share": "4 分之 1",
+      "owner": "蔡其昌",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "33,000"
+    },
+    {
+      "location": "臺中市梧棲區三民段",
+      "area": 175.75,
+      "share": "全部",
+      "owner": "黃玉廷",
+      "date": "100年06月13日",
+      "reason": "買賣",
+      "price": "含陽台9.74平 方公尺,雨遮 14.79 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市清水區五權段",
+      "area": 193.04,
+      "share": "全部",
+      "owner": "黃玉廷",
+      "date": "113年04月22日",
+      "reason": "塗銷信託",
+      "price": "568,500(含陽 台 13.87 平方 公尺)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 59366516,
+    "items": [
+      {
+        "institution": "合庫商業銀行中權分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 22982951
+      },
+      {
+        "institution": "華南銀行豐原分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "華南銀行清水分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 27725
+      },
+      {
+        "institution": "國泰世華銀行西台中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 112
+      },
+      {
+        "institution": "國泰世華銀行清水分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 7101
+      },
+      {
+        "institution": "兆豐國際商業銀行榮總分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 31724
+      },
+      {
+        "institution": "兆豐國際商業銀行榮總分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 1269
+      },
+      {
+        "institution": "三信銀行台中分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 7095
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 58363
+      },
+      {
+        "institution": "元大銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 629
+      },
+      {
+        "institution": "元大銀行豐原分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 64927
+      },
+      {
+        "institution": "永豐銀行南台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 24277773
+      },
+      {
+        "institution": "安泰銀行豐原分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 44509
+      },
+      {
+        "institution": "臺中市清水區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡其昌",
+        "foreignAmount": 0,
+        "amount": 506
+      },
+      {
+        "institution": "第一銀行大甲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 29611
+      },
+      {
+        "institution": "華南銀行豐原分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 160299
+      },
+      {
+        "institution": "彰化銀行北台中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 5460
+      },
+      {
+        "institution": "上海銀行中港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "國泰世華銀行西台中分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃玉廷",
+        "foreignAmount": 17,
+        "amount": 553
+      },
+      {
+        "institution": "國泰世華銀行西台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 312
+      },
+      {
+        "institution": "國泰世華銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 2008691
+      },
+      {
+        "institution": "兆豐國際商業銀行榮總分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 116
+      },
+      {
+        "institution": "台中銀行清水分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 2654
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 204
+      },
+      {
+        "institution": "元大銀行沙鹿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 225
+      },
+      {
+        "institution": "元大銀行豐原分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 6725
+      },
+      {
+        "institution": "永豐銀行南台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 4529148
+      },
+      {
+        "institution": "玉山銀行玉山台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃玉廷",
+        "foreignAmount": 0,
+        "amount": 13
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○葳",
+        "foreignAmount": 0,
+        "amount": 1535184
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○葳",
+        "foreignAmount": 0,
+        "amount": 156796
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○鵬",
+        "foreignAmount": 0,
+        "amount": 1587378
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○鵬",
+        "foreignAmount": 0,
+        "amount": 156796
+      },
+      {
+        "institution": "合庫商業銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○羽",
+        "foreignAmount": 0,
+        "amount": 1680657
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1270,
+    "items": [
+      {
+        "name": "凱基金",
+        "owner": "蔡其昌",
+        "shares": 127,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1270
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "東大",
+        "owner": "蔡其昌",
+        "institution": "復 華 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 727537.3,
+        "unitValue": 32.53,
+        "foreignCurrency": "",
+        "totalValue": 23666788
+      },
+      {
+        "name": "摩根龍揚台累",
+        "owner": "蔡其昌",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 432.9,
+        "unitValue": 40.02,
+        "foreignCurrency": "",
+        "totalValue": 17324
+      },
+      {
+        "name": "摩根大歐洲台累",
+        "owner": "蔡其昌",
+        "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 687.8,
+        "unitValue": 24.41,
+        "foreignCurrency": "",
+        "totalValue": 16789
+      },
+      {
+        "name": "全球大趨勢",
+        "owner": "黃玉廷",
+        "institution": "復 華 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 1807.5,
+        "unitValue": 37.91,
+        "foreignCurrency": "",
+        "totalValue": 68522
+      },
+      {
+        "name": "全球短期收益",
+        "owner": "黃玉廷",
+        "institution": "復 華 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 15141.7,
+        "unitValue": 12.63,
+        "foreignCurrency": "",
+        "totalValue": 191239
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○218",
+        "holder": "黃玉廷",
+        "contractType": "儲蓄型壽險",
+        "period": "96 年 12 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○290",
+        "holder": "黃玉廷",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 07 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "元大人壽祝扶年 年殘廢照護終身 保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "黃玉廷",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美盛美元",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃玉廷",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 08 月 29 日/168 年 08 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽新終身 壽險(106) FI2",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃玉廷",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 09 月 19 日/217 年 09 月 19 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "藝術品",
+        "quantity": "8",
+        "owner": "蔡其昌",
+        "value": 1700000
+      },
+      {
+        "type": "首飾",
+        "quantity": "4",
+        "owner": "黃玉廷",
+        "value": 750000
+      }
+    ]
+  },
+  "credits": {
+    "total": 12000000,
+    "items": [
+      {
+        "type": "一般借款",
+        "creditor": "蔡其昌",
+        "debtor": "其孜投資有限公司 台中市梧棲區中央路",
+        "amount": 10000000,
+        "date": "110年04月26日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "一般借款",
+        "creditor": "黃玉廷",
+        "debtor": "其孜投資有限公司 台中市梧棲區中央路",
+        "amount": 2000000,
+        "date": "103年04月02日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "debts": {
+    "total": 13151559,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "蔡其昌",
+        "creditor": "合作金庫商業銀行文心分行 台中市南屯區文心路",
+        "amount": 5924425,
+        "date": "109年05月11日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡其昌",
+        "creditor": "合作金庫商業銀行文心分行 台中市南屯區文心路",
+        "amount": 5040454,
+        "date": "109年05月04日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃玉廷",
+        "creditor": "第一商業銀行大甲分行 臺中市大甲區順天路",
+        "amount": 1836648,
+        "date": "100年06月29日",
+        "reason": "購屋貸款"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃玉廷",
+        "creditor": "第一商業銀行大甲分行 臺中市大甲區順天路",
+        "amount": 350032,
+        "date": "100年06月29日",
+        "reason": "購屋貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 21999999,
+    "items": [
+      {
+        "investor": "蔡其昌",
+        "company": "其孜投資有限公司",
+        "address": "臺中市梧棲區大庄里中央路 一段 683 巷 26 弄 20 號 1 樓",
+        "amount": 7900000,
+        "date": "102年07月11日",
+        "reason": "投資"
+      },
+      {
+        "investor": "黃玉廷",
+        "company": "其孜投資有限公司",
+        "address": "臺中市梧棲區大庄里中央路 一段 683 巷 26 弄 20 號 1 樓",
+        "amount": 7499999,
+        "date": "102年07月11日",
+        "reason": "於 113 年 8 月 9 日辦理 股東出資轉 讓"
+      },
+      {
+        "investor": "蔡○葳",
+        "company": "其孜投資有限公司",
+        "address": "臺中市梧棲區大庄里中央路 一段 683 巷 26 弄 20 號 1 樓",
+        "amount": 2200000,
+        "date": "102年07月11日",
+        "reason": "投資"
+      },
+      {
+        "investor": "蔡○鵬",
+        "company": "其孜投資有限公司",
+        "address": "臺中市梧棲區大庄里中央路 一段 683 巷 26 弄 20 號 1 樓",
+        "amount": 2200000,
+        "date": "102年07月11日",
+        "reason": "投資"
+      },
+      {
+        "investor": "蔡○羽",
+        "company": "其孜投資有限公司",
+        "address": "臺中市梧棲區大庄里中央路 一段 683 巷 26 弄 20 號 1 樓",
+        "amount": 2200000,
+        "date": "110年02月05日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

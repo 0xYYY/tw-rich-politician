@@ -13,9 +13,10 @@ yarn-error.log*
 pnpm-debug.log*
 
 
-# downloaded data
-data/
+# data assets
 public/data/
+data/.tmp-extract/
+data/_backup*/
 
 # environment variables
 .env

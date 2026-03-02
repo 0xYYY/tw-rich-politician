@@ -1,0 +1,140 @@
+{
+  "name": "侯友宜",
+  "org": "新北市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "任美鈴"
+    }
+  ],
+  "land": [
+    {
+      "location": "嘉義縣朴子市安福段",
+      "area": 4,
+      "share": "330 分之 28",
+      "owner": "侯友宜",
+      "date": "112年03月01日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "嘉義縣朴子市安福段",
+      "area": 5,
+      "share": "330 分之 28",
+      "owner": "侯友宜",
+      "date": "112年03月01日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "嘉義縣朴子市安福段",
+      "area": 63,
+      "share": "全部",
+      "owner": "侯友宜",
+      "date": "112年03月01日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "新北市新莊區復興段",
+      "area": 246.99,
+      "share": "6 分之 1",
+      "owner": "任美鈴",
+      "date": "101年03月01日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "新北市新莊區復興段二小段",
+      "area": 285.94,
+      "share": "7 分之 5",
+      "owner": "任美鈴",
+      "date": "100年03月21日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市士林區華岡段二小段",
+      "area": 1676.29,
+      "share": "10000 分 之 8106",
+      "owner": "任美鈴",
+      "date": "100年03月21日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市士林區華岡段二小段",
+      "area": 0.06,
+      "share": "全部",
+      "owner": "任美鈴",
+      "date": "100年03月21日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市士林區華岡段二小段",
+      "area": 62.53,
+      "share": "5 分之 4",
+      "owner": "任美鈴",
+      "date": "100年03月21日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市士林區華岡段二小段",
+      "area": 21.02,
+      "share": "5 分之 4",
+      "owner": "任美鈴",
+      "date": "100年03月21日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "嘉義縣朴子市安福段",
+      "area": 142.8,
+      "share": "全部",
+      "owner": "侯友宜",
+      "date": "113年05月16日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

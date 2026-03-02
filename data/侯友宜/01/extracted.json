@@ -1,0 +1,260 @@
+{
+  "name": "侯友宜",
+  "org": "新北市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "任美鈴"
+    }
+  ],
+  "land": [
+    {
+      "location": "嘉義縣六腳鄉下雙溪段兩溪小 段(耕地，特定區域農牧用地)",
+      "area": 3953,
+      "share": "3 分之 1",
+      "owner": "侯友宜",
+      "date": "113年10月29日",
+      "reason": "贈與",
+      "price": "1,212,253"
+    },
+    {
+      "location": "嘉義縣六腳鄉下雙溪段兩溪小 段(耕地，特定區域農牧用地)",
+      "area": 3953,
+      "share": "3 分之 1",
+      "owner": "侯友宜",
+      "date": "99年04月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段一小段(自 用房屋之坐落基地)",
+      "area": 845,
+      "share": "10000 分之 941",
+      "owner": "任美鈴",
+      "date": "93年01月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中正區南海段一小段(未 交付信託原因：自用房屋)",
+      "area": 191.14,
+      "share": "全部",
+      "owner": "任美鈴",
+      "date": "93年01月08日",
+      "reason": "買賣",
+      "price": "含陽台 17.15 平方公尺,雨 遮0.93平方公 尺(超過五年)"
+    },
+    {
+      "location": "嘉義縣朴子市安福里山通路(未 交付信託原因：未登記建物)",
+      "area": 44.5,
+      "share": "全部",
+      "owner": "侯友宜",
+      "date": "110年12月20日",
+      "reason": "分割繼承",
+      "price": "7,800"
+    },
+    {
+      "location": "新北市新莊區中美里中港路(未 交付信託原因：未登記建物)",
+      "area": 337.1,
+      "share": "全部",
+      "owner": "任美鈴",
+      "date": "97年05月31日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 39908374,
+    "items": [
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "侯友宜",
+        "foreignAmount": 0,
+        "amount": 1540209
+      },
+      {
+        "institution": "台北富邦銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "侯友宜",
+        "foreignAmount": 0,
+        "amount": 342
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "侯友宜",
+        "foreignAmount": 0,
+        "amount": 31676362
+      },
+      {
+        "institution": "台新國際銀行新生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "侯友宜",
+        "foreignAmount": 0,
+        "amount": 982737
+      },
+      {
+        "institution": "合庫商業銀行城內分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 305
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期存款",
+        "currency": "港幣",
+        "owner": "任美鈴",
+        "foreignAmount": 14200,
+        "amount": 58369
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期存款",
+        "currency": "加拿大幣",
+        "owner": "任美鈴",
+        "foreignAmount": 1,
+        "amount": 28
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "任美鈴",
+        "foreignAmount": 37,
+        "amount": 7
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 478902
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 3836308
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 69627
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 1923
+      },
+      {
+        "institution": "台新國際銀行南門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 750415
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "任美鈴",
+        "foreignAmount": 0,
+        "amount": 512834
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "新光人壽保險股 份有限公司",
+        "name": "新光人壽新百齡 終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "侯友宜",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 08 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "珍鑫福終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "任美鈴",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 04 月 29 日/154 年 04 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "添采終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "任美鈴",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 04 月 20 日/159 年 04 月 19 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "任美鈴",
+        "value": 8043
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

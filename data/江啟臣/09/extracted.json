@@ -1,0 +1,80 @@
+{
+  "name": "江啟臣",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "112年11月01日",
+  "type": "前次申報日期民國111年11月01日起，本次定期申報日112年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "劉姿伶"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "江○銘"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市豐原區向陽段",
+      "area": 406,
+      "share": "406 分之 72",
+      "owner": "江啟臣",
+      "date": "112年03月01日",
+      "reason": "受贈",
+      "price": "5,475,168"
+    },
+    {
+      "location": "臺中市豐原區豐南段",
+      "area": 5.77,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "112年03月01日",
+      "reason": "受贈",
+      "price": "225,030"
+    },
+    {
+      "location": "臺中市豐原區豐南段",
+      "area": 134.88,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "112年03月01日",
+      "reason": "受贈",
+      "price": "8,510,928"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

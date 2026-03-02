@@ -1,0 +1,534 @@
+{
+  "name": "陳瑩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月30日",
+  "type": "前次申報日期民國112年12月29日起，本次定期申報日113年12月30日止",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "鴻海",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "133",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 133000
+      },
+      {
+        "name": "鴻海",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "143.50",
+        "changeDate": "113年03月26日",
+        "changeReason": "賣",
+        "totalValue": 143500
+      },
+      {
+        "name": "鴻海",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 159000
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 468,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 287820
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 161,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 99015
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 91,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 55965
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 20,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 12300
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 16,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 9840
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 10,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 6150
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 5,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 3075
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 1230
+      },
+      {
+        "name": "國巨",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2,
+        "pricePerShare": "615",
+        "changeDate": "113年04月02日",
+        "changeReason": "賣",
+        "totalValue": 1230
+      },
+      {
+        "name": "台積電",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "698",
+        "changeDate": "113年02月26日",
+        "changeReason": "賣",
+        "totalValue": 698000
+      },
+      {
+        "name": "台積電",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "787",
+        "changeDate": "113年03月26日",
+        "changeReason": "賣",
+        "totalValue": 787000
+      },
+      {
+        "name": "台積電",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "787",
+        "changeDate": "113年03月26日",
+        "changeReason": "賣",
+        "totalValue": 787000
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 92800
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 92800
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 92800
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 46400
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 46400
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 46400
+      },
+      {
+        "name": "宏碁",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "46.40",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 46400
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 3000,
+        "pricePerShare": "159",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 477000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "159",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 318000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "159",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 318000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 159000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 159000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 159000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 400000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 2000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 400000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "200",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 3000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 528000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "微星",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "176",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "陽明",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 8000,
+        "pricePerShare": "70.50",
+        "changeDate": "113年05月14日",
+        "changeReason": "賣",
+        "totalValue": 564000
+      },
+      {
+        "name": "陽明",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "70.50",
+        "changeDate": "113年05月14日",
+        "changeReason": "賣",
+        "totalValue": 70500
+      },
+      {
+        "name": "陽明",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 1000,
+        "pricePerShare": "70.50",
+        "changeDate": "113年05月14日",
+        "changeReason": "賣",
+        "totalValue": 70500
+      },
+      {
+        "name": "緯創",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 5000,
+        "pricePerShare": "106.50",
+        "changeDate": "113年06月26日",
+        "changeReason": "買",
+        "totalValue": 532500
+      },
+      {
+        "name": "世紀樺欣",
+        "broker": "臺銀-金山",
+        "owner": "陳瑩",
+        "shares": 5000,
+        "pricePerShare": "103",
+        "changeDate": "113年12月27日",
+        "changeReason": "買進",
+        "totalValue": 515000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

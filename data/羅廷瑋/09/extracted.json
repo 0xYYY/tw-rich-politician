@@ -1,0 +1,116 @@
+{
+  "name": "羅廷瑋",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃婷筠"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○辰"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○恩"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○森"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 2953.13,
+      "share": "100000 分 之 912",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買進",
+      "price": "37,600,000 (房地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 157.92,
+      "share": "全部",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買進",
+      "price": "37,600,000 (房地總價額, 含陽台 18.65 平方公尺,雨遮 6 平方公尺)"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 9426.82,
+      "share": "100000 分 之 927",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買進",
+      "price": "37,600,000 (房地總價額, 共同使用部分)"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 5060.7,
+      "share": "100000 分 之 914",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買進",
+      "price": "37,600,000 (房地總價額, 共同使用部分)"
+    },
+    {
+      "location": "臺中市南區南和里工學路",
+      "area": 91.2,
+      "share": "全部",
+      "owner": "羅廷瑋",
+      "date": "113年07月01日",
+      "reason": "賣出",
+      "price": "500,000"
+    },
+    {
+      "location": "臺中市南區南和里工學路",
+      "area": 68,
+      "share": "全部",
+      "owner": "羅廷瑋",
+      "date": "113年07月01日",
+      "reason": "賣出",
+      "price": "500,000"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

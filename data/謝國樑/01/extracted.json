@@ -1,0 +1,416 @@
+{
+  "name": "謝國樑",
+  "org": "基隆市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "國中薇"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "謝○詩"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市樹林區大學段二小段(自 用房屋之坐落基地)",
+      "area": 7212.54,
+      "share": "100000 分 之 212",
+      "owner": "國中薇",
+      "date": "100年12月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市樹林區大學段二小段(未 交付信託原因：自用房屋)",
+      "area": 102.93,
+      "share": "全部",
+      "owner": "國中薇",
+      "date": "100年12月30日",
+      "reason": "買賣",
+      "price": "含陽台9.65平 方公尺(超過 五年)"
+    },
+    {
+      "location": "新北市樹林區大學段二小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 28618.59,
+      "share": "100000 分 之 187",
+      "owner": "國中薇",
+      "date": "100年12月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市樹林區大學段二小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 117.97,
+      "share": "100000 分 之 651",
+      "owner": "國中薇",
+      "date": "100年12月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市樹林區大學段二小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 1766.73,
+      "share": "100000 分 之 1304",
+      "owner": "國中薇",
+      "date": "100年12月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8781862,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 76467
+      },
+      {
+        "institution": "土地銀行基隆分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 5496
+      },
+      {
+        "institution": "華南銀行城內分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 160996
+      },
+      {
+        "institution": "華南銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "國泰世華銀行板橋分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 1172
+      },
+      {
+        "institution": "臺灣新光銀行龍山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "基隆第一信用合作社營業 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 295140
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 10000
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 2440092
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 40
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "基隆市第二信用合作社港 東分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 171
+      },
+      {
+        "institution": "基隆市第二信用合作社臺 北分社",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 2398
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 22333
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "謝國樑",
+        "foreignAmount": 0,
+        "amount": 148489
+      },
+      {
+        "institution": "合庫商業銀行基隆分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 84303
+      },
+      {
+        "institution": "合庫商業銀行建國分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 52
+      },
+      {
+        "institution": "華南銀行永吉分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 2379617
+      },
+      {
+        "institution": "台北富邦銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 91960
+      },
+      {
+        "institution": "國泰世華銀行建國分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "國中薇",
+        "foreignAmount": 5985,
+        "amount": 1253
+      },
+      {
+        "institution": "國泰世華銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 558397
+      },
+      {
+        "institution": "臺灣新光銀行慶城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 146
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 1200
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 289588
+      },
+      {
+        "institution": "基隆市第二信用合作社臺 北分社",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 1895493
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 631
+      },
+      {
+        "institution": "聯邦銀行大直分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 2984
+      },
+      {
+        "institution": "中信銀行華山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "國中薇",
+        "foreignAmount": 0,
+        "amount": 597
+      },
+      {
+        "institution": "台北富邦銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝○詩",
+        "foreignAmount": 0,
+        "amount": 9211
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝○詩",
+        "foreignAmount": 0,
+        "amount": 303609
+      }
+    ]
+  },
+  "stocks": {
+    "total": 163480,
+    "items": [
+      {
+        "name": "聯笙 (未交付信託原因：非 國內上市、上櫃股票)",
+        "owner": "謝國樑",
+        "shares": 16348,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 163480
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "鍾情終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "國中薇",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 07 月 21 日/173 年 07 月 20 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "謝國樑",
+        "value": 30131
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 13300000,
+    "items": [
+      {
+        "type": "1★私人債務",
+        "debtor": "國中薇",
+        "creditor": "林○麗 臺北市內湖區金莊路",
+        "amount": 13300000,
+        "date": "113年02月05日",
+        "reason": "借款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 59815000,
+    "items": [
+      {
+        "investor": "謝國樑",
+        "company": "WEALTH SYNERGY LIMITED",
+        "address": "Seychelles",
+        "amount": 32015000,
+        "date": "105年11月03日",
+        "reason": "股金"
+      },
+      {
+        "investor": "謝國樑",
+        "company": "台豐興業(股)公司",
+        "address": "彰化縣大村鄉福興村學府路 77 號",
+        "amount": 150000,
+        "date": "98年08月10日",
+        "reason": "贈與"
+      },
+      {
+        "investor": "謝國樑",
+        "company": "基隆市第二信用合作社",
+        "address": "基隆市愛二路 78 號",
+        "amount": 13820000,
+        "date": "105年03月14日",
+        "reason": "股金"
+      },
+      {
+        "investor": "國中薇",
+        "company": "基隆市第二信用合作社",
+        "address": "基隆市愛二路 78 號",
+        "amount": 13830000,
+        "date": "113年02月16日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "陳光復",
+  "org": "澎湖縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳淑瑾"
+    }
+  ],
+  "land": [
+    {
+      "location": "澎湖縣湖西鄉沙港北段",
+      "area": 538.48,
+      "share": "6 分之 1",
+      "owner": "陳光復",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    },
+    {
+      "location": "高雄市前鎮區光華段一小段",
+      "area": 2775,
+      "share": "10000 分之 45",
+      "owner": "吳淑瑾",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    },
+    {
+      "location": "高雄市前鎮區光華段一小段",
+      "area": 2464,
+      "share": "10000 分之 45",
+      "owner": "吳淑瑾",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    },
+    {
+      "location": "澎湖縣馬公市馬公段",
+      "area": 372,
+      "share": "10000 分 之 628",
+      "owner": "吳淑瑾",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "澎湖縣湖西鄉沙港北段",
+      "area": 111.01,
+      "share": "6 分之 1",
+      "owner": "陳光復",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    },
+    {
+      "location": "高雄市前鎮區光華段一小段",
+      "area": 169.38,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    },
+    {
+      "location": "高雄市前鎮區光華段一小段",
+      "area": 202.92,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    },
+    {
+      "location": "澎湖縣馬公市馬公段",
+      "area": 136.28,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "112年03月24日",
+      "reason": "受託人:第一銀行澎 湖分行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

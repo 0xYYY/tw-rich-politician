@@ -1,0 +1,2579 @@
+{
+  "name": "王鴻薇",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陶允正"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台新金",
+        "broker": "集保專戶",
+        "owner": "王鴻薇",
+        "shares": 4,
+        "pricePerShare": "18.40",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 73
+      },
+      {
+        "name": "卜蜂",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "106",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 106000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "67.60",
+        "changeDate": "113年05月23日",
+        "changeReason": "買",
+        "totalValue": 270400
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "67.60",
+        "changeDate": "113年05月23日",
+        "changeReason": "買",
+        "totalValue": 67600
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "67",
+        "changeDate": "113年05月27日",
+        "changeReason": "買",
+        "totalValue": 335000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "66.80",
+        "changeDate": "113年06月03日",
+        "changeReason": "買",
+        "totalValue": 334000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "66.60",
+        "changeDate": "113年06月11日",
+        "changeReason": "買",
+        "totalValue": 333000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 800,
+        "pricePerShare": "63",
+        "changeDate": "113年07月30日",
+        "changeReason": "買",
+        "totalValue": 50400
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 124400
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3200,
+        "pricePerShare": "62.10",
+        "changeDate": "113年08月23日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 198720
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "62.60",
+        "changeDate": "113年08月28日",
+        "changeReason": "買",
+        "totalValue": 125200
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "62",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 62000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "62",
+        "changeDate": "113年09月03日",
+        "changeReason": "買",
+        "totalValue": 62000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "60.60",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 121200
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "60.60",
+        "changeDate": "113年10月17日",
+        "changeReason": "買",
+        "totalValue": 121200
+      },
+      {
+        "name": "聯華",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "59.70",
+        "changeDate": "113年10月29日",
+        "changeReason": "買",
+        "totalValue": 119400
+      },
+      {
+        "name": "南亞",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "52.20",
+        "changeDate": "113年06月03日",
+        "changeReason": "買",
+        "totalValue": 156600
+      },
+      {
+        "name": "南亞",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "52.20",
+        "changeDate": "113年06月03日",
+        "changeReason": "買",
+        "totalValue": 104400
+      },
+      {
+        "name": "南亞",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 121500
+      },
+      {
+        "name": "南亞",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 40500
+      },
+      {
+        "name": "南亞",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 40500
+      },
+      {
+        "name": "亞聚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 9000,
+        "pricePerShare": "23.90",
+        "changeDate": "112年11月22日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 215100
+      },
+      {
+        "name": "亞聚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 26000,
+        "pricePerShare": "20",
+        "changeDate": "113年07月29日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 520000
+      },
+      {
+        "name": "中砂",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "360",
+        "changeDate": "113年10月23日",
+        "changeReason": "買",
+        "totalValue": 360000
+      },
+      {
+        "name": "中砂",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "339",
+        "changeDate": "113年10月24日",
+        "changeReason": "買",
+        "totalValue": 339000
+      },
+      {
+        "name": "中砂",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "335",
+        "changeDate": "113年10月28日",
+        "changeReason": "買",
+        "totalValue": 335000
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "49.05",
+        "changeDate": "112年12月21日",
+        "changeReason": "買",
+        "totalValue": 245250
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "48.70",
+        "changeDate": "113年01月17日",
+        "changeReason": "買",
+        "totalValue": 243500
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "48.60",
+        "changeDate": "113年02月02日",
+        "changeReason": "買",
+        "totalValue": 243000
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "48.45",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 193800
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "48.45",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 48450
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年04月15日",
+        "changeReason": "買",
+        "totalValue": 205600
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年04月15日",
+        "changeReason": "買",
+        "totalValue": 51400
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "50.30",
+        "changeDate": "113年04月16日",
+        "changeReason": "買",
+        "totalValue": 150900
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "50.30",
+        "changeDate": "113年04月16日",
+        "changeReason": "買",
+        "totalValue": 50300
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "50.30",
+        "changeDate": "113年04月16日",
+        "changeReason": "買",
+        "totalValue": 50300
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "49",
+        "changeDate": "113年04月19日",
+        "changeReason": "買",
+        "totalValue": 245000
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "53",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 265000
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "49.50",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 247500
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "51",
+        "changeDate": "113年10月18日",
+        "changeReason": "買",
+        "totalValue": 255000
+      },
+      {
+        "name": "聯電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "46",
+        "changeDate": "113年11月01日",
+        "changeReason": "買",
+        "totalValue": 230000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5,
+        "pricePerShare": "948",
+        "changeDate": "113年06月24日",
+        "changeReason": "買",
+        "totalValue": 4740
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "1,040",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 104000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "1,030",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 103000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "1,040",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 104000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 84,
+        "pricePerShare": "1,035",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 86940
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 16,
+        "pricePerShare": "1,035",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 16560
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 300,
+        "pricePerShare": "996",
+        "changeDate": "113年07月18日",
+        "changeReason": "買",
+        "totalValue": 298800
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 200,
+        "pricePerShare": "993",
+        "changeDate": "113年07月18日",
+        "changeReason": "買",
+        "totalValue": 198600
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 200,
+        "pricePerShare": "982",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 196400
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 181,
+        "pricePerShare": "990",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 179190
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 19,
+        "pricePerShare": "990",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 18810
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 300,
+        "pricePerShare": "927",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 278100
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 190,
+        "pricePerShare": "924",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 175560
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10,
+        "pricePerShare": "924",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 9240
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 140,
+        "pricePerShare": "917",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 128380
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "915",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 91500
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "926",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 92600
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "910",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 91000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 60,
+        "pricePerShare": "917",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 55020
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "945",
+        "changeDate": "113年08月30日",
+        "changeReason": "買",
+        "totalValue": 94500
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 100,
+        "pricePerShare": "944",
+        "changeDate": "113年08月30日",
+        "changeReason": "買",
+        "totalValue": 94400
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 112,
+        "pricePerShare": "947",
+        "changeDate": "113年09月02日",
+        "changeReason": "買",
+        "totalValue": 106064
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 88,
+        "pricePerShare": "947",
+        "changeDate": "113年09月02日",
+        "changeReason": "買",
+        "totalValue": 83336
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 57,
+        "pricePerShare": "896",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 51072
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 52,
+        "pricePerShare": "897",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 46644
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 48,
+        "pricePerShare": "897",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 43056
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 43,
+        "pricePerShare": "896",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 38528
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 118,
+        "pricePerShare": "972",
+        "changeDate": "113年09月30日",
+        "changeReason": "買",
+        "totalValue": 114696
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 82,
+        "pricePerShare": "972",
+        "changeDate": "113年09月30日",
+        "changeReason": "買",
+        "totalValue": 79704
+      },
+      {
+        "name": "台積電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "1,040",
+        "changeDate": "113年10月11日",
+        "changeReason": "賣",
+        "totalValue": 2080000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "197",
+        "changeDate": "113年01月09日",
+        "changeReason": "買",
+        "totalValue": 394000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "216",
+        "changeDate": "113年01月17日",
+        "changeReason": "賣",
+        "totalValue": 432000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "198",
+        "changeDate": "113年04月19日",
+        "changeReason": "買",
+        "totalValue": 396000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "186",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 186000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "182",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 182000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "193",
+        "changeDate": "113年06月07日",
+        "changeReason": "買",
+        "totalValue": 193000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "190",
+        "changeDate": "113年06月11日",
+        "changeReason": "買",
+        "totalValue": 190000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "225",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 675000
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "196.50",
+        "changeDate": "113年09月10日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 589500
+      },
+      {
+        "name": "金像電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "188",
+        "changeDate": "113年10月08日",
+        "changeReason": "買",
+        "totalValue": 188000
+      },
+      {
+        "name": "佳能",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 22000,
+        "pricePerShare": "25.25",
+        "changeDate": "113年01月10日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 555500
+      },
+      {
+        "name": "佳能",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 22000,
+        "pricePerShare": "46.50",
+        "changeDate": "113年05月13日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 1023000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "257",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 771000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "257",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 514000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "257",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 514000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 8000,
+        "pricePerShare": "305",
+        "changeDate": "113年03月19日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 2440000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "294",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 294000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "278",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 278000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "260",
+        "changeDate": "113年07月29日",
+        "changeReason": "買",
+        "totalValue": 260000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 8000,
+        "pricePerShare": "227",
+        "changeDate": "113年08月06日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 1816000
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 11000,
+        "pricePerShare": "260.50",
+        "changeDate": "113年08月23日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 2865500
+      },
+      {
+        "name": "技嘉",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "246",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 246000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 6000,
+        "pricePerShare": "385",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 2310000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "385",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 1540000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "420",
+        "changeDate": "113年03月13日",
+        "changeReason": "買",
+        "totalValue": 420000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "362",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 362000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "355",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 355000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "470",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 470000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 14000,
+        "pricePerShare": "458",
+        "changeDate": "113年09月10日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 6412000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "447",
+        "changeDate": "113年09月30日",
+        "changeReason": "買",
+        "totalValue": 447000
+      },
+      {
+        "name": "台光電",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "419",
+        "changeDate": "113年10月09日",
+        "changeReason": "買",
+        "totalValue": 419000
+      },
+      {
+        "name": "精元",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "55.70",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 278500
+      },
+      {
+        "name": "精元",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "62",
+        "changeDate": "113年03月19日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 310000
+      },
+      {
+        "name": "精元",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "60.70",
+        "changeDate": "113年04月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 303500
+      },
+      {
+        "name": "義隆",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "157",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 157000
+      },
+      {
+        "name": "義隆",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "151",
+        "changeDate": "113年07月16日",
+        "changeReason": "買",
+        "totalValue": 151000
+      },
+      {
+        "name": "長榮",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 6000,
+        "pricePerShare": "153.50",
+        "changeDate": "113年01月16日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 921000
+      },
+      {
+        "name": "長榮",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "221",
+        "changeDate": "113年05月24日",
+        "changeReason": "賣",
+        "totalValue": 1105000
+      },
+      {
+        "name": "長榮",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "201",
+        "changeDate": "113年06月11日",
+        "changeReason": "買",
+        "totalValue": 402000
+      },
+      {
+        "name": "長榮",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "174",
+        "changeDate": "113年07月08日",
+        "changeReason": "買",
+        "totalValue": 348000
+      },
+      {
+        "name": "長榮",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "184",
+        "changeDate": "113年10月09日",
+        "changeReason": "買",
+        "totalValue": 184000
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "49.90",
+        "changeDate": "112年12月25日",
+        "changeReason": "買",
+        "totalValue": 249500
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 8000,
+        "pricePerShare": "59.30",
+        "changeDate": "113年02月26日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 474400
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 17000,
+        "pricePerShare": "58.90",
+        "changeDate": "113年03月28日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 1001300
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "59.20",
+        "changeDate": "113年03月28日",
+        "changeReason": "買",
+        "totalValue": 236800
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "59.20",
+        "changeDate": "113年03月28日",
+        "changeReason": "買",
+        "totalValue": 59200
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "63.70",
+        "changeDate": "113年04月09日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 318500
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "73.50",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 367500
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "73.50",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 367500
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10000,
+        "pricePerShare": "75.70",
+        "changeDate": "113年05月28日",
+        "changeReason": "賣",
+        "totalValue": 757000
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "77.70",
+        "changeDate": "113年05月29日",
+        "changeReason": "賣",
+        "totalValue": 310800
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "77.70",
+        "changeDate": "113年05月29日",
+        "changeReason": "賣",
+        "totalValue": 77700
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "70.50",
+        "changeDate": "113年06月12日",
+        "changeReason": "買",
+        "totalValue": 352500
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "68.50",
+        "changeDate": "113年06月12日",
+        "changeReason": "買",
+        "totalValue": 342500
+      },
+      {
+        "name": "慧洋-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "66",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 330000
+      },
+      {
+        "name": "玉山金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "28.50",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 114000
+      },
+      {
+        "name": "玉山金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 200,
+        "pricePerShare": "27.95",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 5590
+      },
+      {
+        "name": "第一金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "26.90",
+        "changeDate": "113年04月25日",
+        "changeReason": "買",
+        "totalValue": 53800
+      },
+      {
+        "name": "第一金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10000,
+        "pricePerShare": "27.30",
+        "changeDate": "113年05月30日",
+        "changeReason": "買",
+        "totalValue": 273000
+      },
+      {
+        "name": "第一金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1500,
+        "pricePerShare": "27.15",
+        "changeDate": "113年09月18日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 40725
+      },
+      {
+        "name": "第一金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 308,
+        "pricePerShare": "27.15",
+        "changeDate": "113年10月04日",
+        "changeReason": "買",
+        "totalValue": 8362
+      },
+      {
+        "name": "第一金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 192,
+        "pricePerShare": "27.15",
+        "changeDate": "113年10月04日",
+        "changeReason": "買",
+        "totalValue": 5212
+      },
+      {
+        "name": "第一金",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "27",
+        "changeDate": "113年10月07日",
+        "changeReason": "買",
+        "totalValue": 81000
+      },
+      {
+        "name": "聯詠",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "491.50",
+        "changeDate": "112年11月15日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 1966000
+      },
+      {
+        "name": "威剛",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "114.50",
+        "changeDate": "113年05月07日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 458000
+      },
+      {
+        "name": "威剛",
+        "broker": "元大民生三",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "112",
+        "changeDate": "113年05月21日",
+        "changeReason": "賣",
+        "totalValue": 560000
+      },
+      {
+        "name": "威剛",
+        "broker": "元大民生三",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "88.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 442500
+      },
+      {
+        "name": "群創舊",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 7000,
+        "pricePerShare": "14.55",
+        "changeDate": "113年08月19日",
+        "changeReason": "減 資 轉 入 (存)",
+        "totalValue": 101850
+      },
+      {
+        "name": "群創舊",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 7000,
+        "pricePerShare": "16.65",
+        "changeDate": "113年08月26日",
+        "changeReason": "減 資 轉 出 (提)",
+        "totalValue": 116550
+      },
+      {
+        "name": "群創",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 122,
+        "pricePerShare": "15.50",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 1891
+      },
+      {
+        "name": "群創",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 7000,
+        "pricePerShare": "14.55",
+        "changeDate": "113年08月19日",
+        "changeReason": "減 資 轉 出 (提)",
+        "totalValue": 101850
+      },
+      {
+        "name": "群創",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 6160,
+        "pricePerShare": "16.65",
+        "changeDate": "113年08月26日",
+        "changeReason": "減 資 轉 入 (存)",
+        "totalValue": 102564
+      },
+      {
+        "name": "華擎",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "210",
+        "changeDate": "112年11月21日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 210000
+      },
+      {
+        "name": "華擎",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "241",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 241000
+      },
+      {
+        "name": "貿聯-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "395",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 395000
+      },
+      {
+        "name": "貿聯-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "381",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 381000
+      },
+      {
+        "name": "貿聯-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "429.50",
+        "changeDate": "113年08月23日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 859000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年03月26日",
+        "changeReason": "買",
+        "totalValue": 403000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "95.40",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 190800
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "96",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 192000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "91.20",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 364800
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "88",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "86.50",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 173000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "88",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 176000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "87.50",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 175000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "88",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 88000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "88.60",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 88600
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "88.60",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 88600
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "95.50",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 95500
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "95.50",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 95500
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "95.50",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 95500
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "95.50",
+        "changeDate": "113年10月01日",
+        "changeReason": "賣",
+        "totalValue": 95500
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "87",
+        "changeDate": "113年10月29日",
+        "changeReason": "買",
+        "totalValue": 87000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "87",
+        "changeDate": "113年10月29日",
+        "changeReason": "買",
+        "totalValue": 87000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "87",
+        "changeDate": "113年10月29日",
+        "changeReason": "買",
+        "totalValue": 87000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "87",
+        "changeDate": "113年10月29日",
+        "changeReason": "買",
+        "totalValue": 87000
+      },
+      {
+        "name": "致伸",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "82.20",
+        "changeDate": "113年10月30日",
+        "changeReason": "買",
+        "totalValue": 328800
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10000,
+        "pricePerShare": "50.30",
+        "changeDate": "112年12月14日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 503000
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "40.80",
+        "changeDate": "113年03月26日",
+        "changeReason": "買",
+        "totalValue": 122400
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "40.80",
+        "changeDate": "113年03月26日",
+        "changeReason": "買",
+        "totalValue": 81600
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "40.80",
+        "changeDate": "113年03月26日",
+        "changeReason": "買",
+        "totalValue": 40800
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "60.50",
+        "changeDate": "113年08月30日",
+        "changeReason": "賣",
+        "totalValue": 302500
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 14000,
+        "pricePerShare": "59",
+        "changeDate": "113年09月16日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 826000
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "53.80",
+        "changeDate": "113年10月15日",
+        "changeReason": "買",
+        "totalValue": 269000
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "52.10",
+        "changeDate": "113年10月17日",
+        "changeReason": "買",
+        "totalValue": 104200
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "50.80",
+        "changeDate": "113年10月18日",
+        "changeReason": "買",
+        "totalValue": 101600
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "50",
+        "changeDate": "113年10月18日",
+        "changeReason": "買",
+        "totalValue": 100000
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "49.30",
+        "changeDate": "113年10月22日",
+        "changeReason": "買",
+        "totalValue": 98600
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "49",
+        "changeDate": "113年10月22日",
+        "changeReason": "買",
+        "totalValue": 98000
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "45.50",
+        "changeDate": "113年10月25日",
+        "changeReason": "買",
+        "totalValue": 227500
+      },
+      {
+        "name": "泰鼎-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "44",
+        "changeDate": "113年10月29日",
+        "changeReason": "買",
+        "totalValue": 220000
+      },
+      {
+        "name": "松翰",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 8000,
+        "pricePerShare": "52.10",
+        "changeDate": "113年01月17日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 416800
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10000,
+        "pricePerShare": "59.70",
+        "changeDate": "113年05月02日",
+        "changeReason": "買",
+        "totalValue": 597000
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "59.20",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 296000
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "58.80",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 117600
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "58.80",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 58800
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "58.80",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 58800
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "58.80",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 58800
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "58",
+        "changeDate": "113年05月08日",
+        "changeReason": "買",
+        "totalValue": 290000
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "55.80",
+        "changeDate": "113年05月09日",
+        "changeReason": "買",
+        "totalValue": 279000
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "55.20",
+        "changeDate": "113年05月30日",
+        "changeReason": "買",
+        "totalValue": 165600
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "55.20",
+        "changeDate": "113年05月30日",
+        "changeReason": "買",
+        "totalValue": 110400
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 200,
+        "pricePerShare": "54",
+        "changeDate": "113年08月02日",
+        "changeReason": "買",
+        "totalValue": 10800
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 200,
+        "pricePerShare": "48.80",
+        "changeDate": "113年09月02日",
+        "changeReason": "買",
+        "totalValue": 9760
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "46.55",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 139650
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "46.55",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 46550
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "46.55",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 46550
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2800,
+        "pricePerShare": "45.95",
+        "changeDate": "113年09月05日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 128660
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 432,
+        "pricePerShare": "47.60",
+        "changeDate": "113年09月25日",
+        "changeReason": "買",
+        "totalValue": 20563
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 318,
+        "pricePerShare": "47.60",
+        "changeDate": "113年09月25日",
+        "changeReason": "買",
+        "totalValue": 15136
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 50,
+        "pricePerShare": "47.60",
+        "changeDate": "113年09月25日",
+        "changeReason": "買",
+        "totalValue": 2380
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "46",
+        "changeDate": "113年10月11日",
+        "changeReason": "買",
+        "totalValue": 230000
+      },
+      {
+        "name": "遠雄港",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "44",
+        "changeDate": "113年10月25日",
+        "changeReason": "買",
+        "totalValue": 220000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 541,
+        "pricePerShare": "174",
+        "changeDate": "112年11月01日",
+        "changeReason": "買",
+        "totalValue": 94134
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 139,
+        "pricePerShare": "174",
+        "changeDate": "112年11月01日",
+        "changeReason": "買",
+        "totalValue": 24186
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "173",
+        "changeDate": "113年03月04日",
+        "changeReason": "買",
+        "totalValue": 346000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "154",
+        "changeDate": "113年05月08日",
+        "changeReason": "買",
+        "totalValue": 154000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "154",
+        "changeDate": "113年05月08日",
+        "changeReason": "買",
+        "totalValue": 154000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 480,
+        "pricePerShare": "145.50",
+        "changeDate": "113年08月22日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 69840
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 319,
+        "pricePerShare": "163",
+        "changeDate": "113年10月08日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 51997
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 201,
+        "pricePerShare": "157",
+        "changeDate": "113年10月09日",
+        "changeReason": "買",
+        "totalValue": 31557
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "152",
+        "changeDate": "113年10月11日",
+        "changeReason": "買",
+        "totalValue": 152000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "145",
+        "changeDate": "113年11月01日",
+        "changeReason": "買",
+        "totalValue": 145000
+      },
+      {
+        "name": "浪凡",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10000,
+        "pricePerShare": "37.45",
+        "changeDate": "113年01月26日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 374500
+      },
+      {
+        "name": "浪凡",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 10000,
+        "pricePerShare": "39.40",
+        "changeDate": "113年05月13日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 394000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "90.60",
+        "changeDate": "113年05月27日",
+        "changeReason": "買",
+        "totalValue": 453000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "90",
+        "changeDate": "113年05月29日",
+        "changeReason": "買",
+        "totalValue": 450000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "88.20",
+        "changeDate": "113年05月30日",
+        "changeReason": "買",
+        "totalValue": 441000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "85.30",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 170600
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "85.30",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 85300
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "85.30",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 85300
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "85.30",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 85300
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "84.10",
+        "changeDate": "113年06月06日",
+        "changeReason": "買",
+        "totalValue": 168200
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "84.50",
+        "changeDate": "113年06月11日",
+        "changeReason": "買",
+        "totalValue": 169000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "89",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 178000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "83.50",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 250500
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "83.50",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 83500
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "83.50",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 83500
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "80",
+        "changeDate": "113年07月22日",
+        "changeReason": "買",
+        "totalValue": 160000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "80",
+        "changeDate": "113年07月22日",
+        "changeReason": "買",
+        "totalValue": 80000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 302,
+        "pricePerShare": "76.60",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 23133
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 124,
+        "pricePerShare": "76.60",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 9498
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "73.50",
+        "changeDate": "113年07月29日",
+        "changeReason": "買",
+        "totalValue": 73500
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "73.50",
+        "changeDate": "113年07月29日",
+        "changeReason": "買",
+        "totalValue": 73500
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 36000,
+        "pricePerShare": "75.40",
+        "changeDate": "113年08月23日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 2714400
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "68",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 204000
+      },
+      {
+        "name": "華孚",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "66.70",
+        "changeDate": "113年09月10日",
+        "changeReason": "借 貸 轉 帳 (提)",
+        "totalValue": 200100
+      },
+      {
+        "name": "台表科",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 4000,
+        "pricePerShare": "119",
+        "changeDate": "113年05月28日",
+        "changeReason": "借 貸 轉 帳 (存)",
+        "totalValue": 476000
+      },
+      {
+        "name": "台表科",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "117.50",
+        "changeDate": "113年10月24日",
+        "changeReason": "賣",
+        "totalValue": 235000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "93.50",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 93500
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "93.50",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 93500
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "90",
+        "changeDate": "113年03月08日",
+        "changeReason": "買",
+        "totalValue": 180000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "90",
+        "changeDate": "113年03月08日",
+        "changeReason": "買",
+        "totalValue": 90000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "90",
+        "changeDate": "113年03月08日",
+        "changeReason": "買",
+        "totalValue": 90000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "90",
+        "changeDate": "113年03月08日",
+        "changeReason": "買",
+        "totalValue": 90000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "70.80",
+        "changeDate": "113年09月04日",
+        "changeReason": "買",
+        "totalValue": 141600
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 2000,
+        "pricePerShare": "68",
+        "changeDate": "113年09月10日",
+        "changeReason": "買",
+        "totalValue": 136000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "69.60",
+        "changeDate": "113年10月09日",
+        "changeReason": "買",
+        "totalValue": 69600
+      },
+      {
+        "name": "志超",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "43",
+        "changeDate": "112年11月27日",
+        "changeReason": "買",
+        "totalValue": 43000
+      },
+      {
+        "name": "志超",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 1000,
+        "pricePerShare": "43",
+        "changeDate": "112年11月27日",
+        "changeReason": "買",
+        "totalValue": 43000
+      },
+      {
+        "name": "志超",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 5000,
+        "pricePerShare": "41.20",
+        "changeDate": "113年01月16日",
+        "changeReason": "買",
+        "totalValue": 206000
+      },
+      {
+        "name": "志超",
+        "broker": "元大-民生三民",
+        "owner": "陶允正",
+        "shares": 3000,
+        "pricePerShare": "40.70",
+        "changeDate": "113年01月17日",
+        "changeReason": "買",
+        "totalValue": 122100
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

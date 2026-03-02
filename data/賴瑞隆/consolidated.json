@@ -1,0 +1,118 @@
+{
+  "name": "賴瑞隆",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 7515700
+    },
+    {
+      "currency": "美元",
+      "amount": 2980
+    }
+  ],
+  "depositsTotal": 7518681,
+  "insurance": [
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "凱基人壽多美金 美元利率變動型 終身壽險-定期 給付型",
+      "holder": "陳怡元",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中鋼構",
+      "cleanName": "中鋼構",
+      "ticker": "2013",
+      "shares": 2000,
+      "owner": "賴瑞隆",
+      "priceAtDisclosure": 54,
+      "latestPrice": 43.45
+    },
+    {
+      "name": "Intel",
+      "cleanName": "Intel",
+      "ticker": "INTC",
+      "shares": 55,
+      "owner": "賴瑞隆",
+      "priceAtDisclosure": 739.15,
+      "latestPrice": 1430.79
+    }
+  ],
+  "bonds": [
+    {
+      "name": "國泰 10Y+金融債",
+      "owner": "賴瑞隆",
+      "institution": "合 作 金 庫 證 券 鳳山分公司",
+      "units": 75000,
+      "unitValue": 16.6099,
+      "currency": "",
+      "declaredValue": 1245742,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "元大高股息",
+      "owner": "賴瑞隆",
+      "institution": "中 國 信 託 證 券 高雄分公司",
+      "units": 4000,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 149120,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣高息低 波",
+      "owner": "賴瑞隆",
+      "institution": "中 國 信 託 證 券 高雄分公司",
+      "units": 94000,
+      "unitValue": 56.39,
+      "currency": "",
+      "declaredValue": 5300660,
+      "source": "fund"
+    },
+    {
+      "name": "群益台灣精選高 息",
+      "owner": "賴瑞隆",
+      "institution": "中 國 信 託 證 券 高雄分公司",
+      "units": 50000,
+      "unitValue": 23.26,
+      "currency": "",
+      "declaredValue": 1163000,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "賴瑞隆",
+      "institution": "合 作 金 庫 證 券 鳳山分公司",
+      "units": 2000,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 74560,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市苓雅區五權段",
+      "owner": "陳怡元",
+      "date": "2022-10-25",
+      "effectiveAreaPing": 16.49,
+      "entryCount": 2,
+      "price": "5,000,000(房 地總價額)"
+    },
+    {
+      "location": "高雄市苓雅區五權段",
+      "owner": "陳怡元",
+      "date": "2018-10-12",
+      "effectiveAreaPing": 97.65,
+      "entryCount": 2,
+      "price": "含陽台 19.22 平方公尺(超 過五年)"
+    }
+  ]
+}

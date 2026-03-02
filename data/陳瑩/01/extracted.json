@@ -1,0 +1,351 @@
+{
+  "name": "陳瑩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月30日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 2610.94,
+      "share": "100000 分 之 2331",
+      "owner": "陳瑩",
+      "date": "109年08月06日",
+      "reason": "買賣",
+      "price": "20,300,000"
+    },
+    {
+      "location": "桃園市桃園區新埔段",
+      "area": 2160,
+      "share": "10000 分之 202",
+      "owner": "陳瑩",
+      "date": "105年09月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳥松區育才段",
+      "area": 14538.71,
+      "share": "10000 分之 40",
+      "owner": "陳瑩",
+      "date": "97年06月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 221.4,
+      "share": "全部",
+      "owner": "陳瑩",
+      "date": "109年08月06日",
+      "reason": "買賣",
+      "price": "14,700,000(含 陽台 28.21 平 方公尺,雨遮 5.74 平方公 尺)"
+    },
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 6887.03,
+      "share": "100000 分 之 2411",
+      "owner": "陳瑩",
+      "date": "109年08月06日",
+      "reason": "買賣",
+      "price": "1,000,000(共 同使用部分)"
+    },
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 382.63,
+      "share": "100000 分 之 2290",
+      "owner": "陳瑩",
+      "date": "109年08月06日",
+      "reason": "買賣",
+      "price": "1,000,000(共 同使用部分)"
+    },
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 1466.63,
+      "share": "10000 分之 458",
+      "owner": "陳瑩",
+      "date": "109年08月06日",
+      "reason": "買賣",
+      "price": "1,000,000(共 同使用部分)"
+    },
+    {
+      "location": "桃園市桃園區新埔段",
+      "area": 146.85,
+      "share": "全部",
+      "owner": "陳瑩",
+      "date": "105年09月22日",
+      "reason": "買賣",
+      "price": "含陽台 15.84 平方公尺(超過 五年)"
+    },
+    {
+      "location": "桃園市桃園區新埔段",
+      "area": 8965,
+      "share": "100000 分 之 2334",
+      "owner": "陳瑩",
+      "date": "105年09月22日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市鳥松區育才段",
+      "area": 177.01,
+      "share": "全部",
+      "owner": "陳瑩",
+      "date": "97年06月23日",
+      "reason": "買賣",
+      "price": "含陽台 16.3 平 方公尺,雨遮 10.3 平方公尺 (超過五年)"
+    },
+    {
+      "location": "高雄市鳥松區育才段",
+      "area": 30801.91,
+      "share": "100000 分 之 421",
+      "owner": "陳瑩",
+      "date": "97年06月23日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6365197,
+    "items": [
+      {
+        "institution": "臺灣銀行臺東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 5163823
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 81
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 207659
+      },
+      {
+        "institution": "土地銀行博愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 13072
+      },
+      {
+        "institution": "土地銀行小港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 84
+      },
+      {
+        "institution": "合庫商業銀行台東分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 1894
+      },
+      {
+        "institution": "合庫商業銀行慈文分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 972205
+      },
+      {
+        "institution": "第一銀行台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 106
+      },
+      {
+        "institution": "彰化銀行台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 3820
+      },
+      {
+        "institution": "國泰世華銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 1016
+      },
+      {
+        "institution": "中信銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑩",
+        "foreignAmount": 0,
+        "amount": 1433
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1300000,
+    "items": [
+      {
+        "name": "宏碁",
+        "owner": "陳瑩",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "微星",
+        "owner": "陳瑩",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "陽明",
+        "owner": "陳瑩",
+        "shares": 90000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 900000
+      },
+      {
+        "name": "緯創",
+        "owner": "陳瑩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "安普新",
+        "owner": "陳瑩",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "世紀樺欣",
+        "owner": "陳瑩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "享樂人生變額萬 能壽險（乙型）",
+        "policyNumber": "",
+        "holder": "陳瑩",
+        "contractType": "投資型壽險",
+        "period": "100 年 02 月 18 日/203 年 02 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "享樂人生變額萬 能壽險（乙型）",
+        "policyNumber": "",
+        "holder": "陳瑩",
+        "contractType": "投資型壽險",
+        "period": "100 年 02 月 18 日/173 年 02 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽長盛還 本終身保險",
+        "policyNumber": "",
+        "holder": "陳瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 08 月 04 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 59096877,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳瑩",
+        "creditor": "合作金庫商業銀行慈文分行 桃園市桃園區中正路",
+        "amount": 16964796,
+        "date": "105年09月29日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳瑩",
+        "creditor": "臺灣土地銀行營業部 台北市館前路",
+        "amount": 28473913,
+        "date": "109年08月12日",
+        "reason": "購買住宅貸 款(自用)"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳瑩",
+        "creditor": "臺灣土地銀行營業部 台北市館前路",
+        "amount": 8660321,
+        "date": "110年07月08日",
+        "reason": "其他個人金 融貸款"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳瑩",
+        "creditor": "臺灣土地銀行營業部 台北市館前路",
+        "amount": 4997847,
+        "date": "109年05月29日",
+        "reason": "其他個人金 融貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

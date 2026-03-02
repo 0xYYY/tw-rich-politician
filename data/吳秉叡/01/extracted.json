@@ -1,0 +1,407 @@
+{
+  "name": "吳秉叡",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "詹文馨"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市新莊區福營段",
+      "area": 680.11,
+      "share": "100 分之 20",
+      "owner": "吳秉叡",
+      "date": "99年04月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 2002,
+      "share": "100000 分 之 425",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 187,
+      "share": "100000 分 之 425",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 180,
+      "share": "100000 分 之 425",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 8,
+      "share": "100000 分 之 425",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 110,
+      "share": "100000 分 之 425",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新莊區榮和段",
+      "area": 867.49,
+      "share": "100000 分 之 1490",
+      "owner": "詹文馨",
+      "date": "109年02月18日",
+      "reason": "買賣",
+      "price": "11,418,715 (與第 8、9 筆 建物合購，含 陽台6.34平方 公尺，雨遮 11.61 平方公 尺)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市新莊區福營段",
+      "area": 219.58,
+      "share": "10 分之 2",
+      "owner": "吳秉叡",
+      "date": "99年08月23日",
+      "reason": "第一次登 記",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 2165.17,
+      "share": "100000 分 之 320",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 2165.17,
+      "share": "100000 分 之 551",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 34.75,
+      "share": "全部",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 59.84,
+      "share": "全部",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 983.38,
+      "share": "100000 分 之 153",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中正區公園段一小段",
+      "area": 983.38,
+      "share": "100000 分 之 263",
+      "owner": "吳秉叡",
+      "date": "79年10月01日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新莊區榮和段",
+      "area": 68.59,
+      "share": "全部",
+      "owner": "詹文馨",
+      "date": "109年02月18日",
+      "reason": "買賣",
+      "price": "11,418,715 (與第 7 筆土 地、第 9 筆建 物合購，含陽 台6.34平方公 尺，雨遮 11.61 平方公尺)"
+    },
+    {
+      "location": "新北市新莊區榮和段",
+      "area": 2326.73,
+      "share": "100000 分 之 1488",
+      "owner": "詹文馨",
+      "date": "109年02月18日",
+      "reason": "買賣",
+      "price": "11,418,715 (與第 7 筆土 地、第 8 筆建 物合購，含陽 台6.34平方公 尺，雨遮 11.61 平方公尺)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 17730803,
+    "items": [
+      {
+        "institution": "臺灣銀行板橋分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳秉叡",
+        "foreignAmount": 0,
+        "amount": 8334682
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳秉叡",
+        "foreignAmount": 0,
+        "amount": 248
+      },
+      {
+        "institution": "國泰世華銀行光復分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳秉叡",
+        "foreignAmount": 0,
+        "amount": 771
+      },
+      {
+        "institution": "瑞興商業銀行城內分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳秉叡",
+        "foreignAmount": 0,
+        "amount": 11452
+      },
+      {
+        "institution": "臺灣銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹文馨",
+        "foreignAmount": 0,
+        "amount": 1265755
+      },
+      {
+        "institution": "臺灣銀行龍山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹文馨",
+        "foreignAmount": 0,
+        "amount": 2097405
+      },
+      {
+        "institution": "台北富邦商業銀行東三重 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹文馨",
+        "foreignAmount": 0,
+        "amount": 269789
+      },
+      {
+        "institution": "兆豐國際商業銀行桃園分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹文馨",
+        "foreignAmount": 0,
+        "amount": 739
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹文馨",
+        "foreignAmount": 0,
+        "amount": 639930
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "詹文馨",
+        "foreignAmount": 23034,
+        "amount": 736367
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "詹文馨",
+        "foreignAmount": 458205,
+        "amount": 95948
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "詹文馨",
+        "foreignAmount": 797,
+        "amount": 25496
+      },
+      {
+        "institution": "中信銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "詹文馨",
+        "foreignAmount": 0,
+        "amount": 4252221
+      }
+    ]
+  },
+  "stocks": {
+    "total": 480,
+    "items": [
+      {
+        "name": "華友聯",
+        "owner": "吳秉叡",
+        "shares": 48,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 480
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "霸 菱 東 歐 基 金 （再投資）（美 元）",
+        "owner": "詹文馨",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 133.265,
+        "unitValue": 41.5,
+        "foreignCurrency": "美元",
+        "totalValue": 176749
+      },
+      {
+        "name": "霸 菱 東 歐 基 金 ( 再 投 資 )( 美 元 )( 側 袋 專 戶 )( 不 開 放 交 易)",
+        "owner": "詹文馨",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 114.511,
+        "unitValue": 0.0001,
+        "foreignCurrency": "美元",
+        "totalValue": 0
+      },
+      {
+        "name": "富蘭克林坦伯頓 成長基金（再投 資）（美元）",
+        "owner": "詹文馨",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 46.324,
+        "unitValue": 27.38,
+        "foreignCurrency": "美元",
+        "totalValue": 40535
+      },
+      {
+        "name": "富蘭克林坦伯頓 成長基金（再投 資）（美元）",
+        "owner": "詹文馨",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 45.981,
+        "unitValue": 27.38,
+        "foreignCurrency": "美元",
+        "totalValue": 40235
+      },
+      {
+        "name": "富蘭克林坦伯頓 全球投資系列 穩定月收益基金 F（月配現）（美 元）（後收）",
+        "owner": "詹文馨",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 2029.733,
+        "unitValue": 7.95,
+        "foreignCurrency": "美元",
+        "totalValue": 515702
+      },
+      {
+        "name": "富達全球多重資 產收益基金 A 股 F1 穩定月配息美 元(特金)",
+        "owner": "詹文馨",
+        "institution": "富邦證券",
+        "units": 16553.56,
+        "unitValue": 7.639,
+        "foreignCurrency": "美元",
+        "totalValue": 4051543
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 富 貴 長 紅 分 紅 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○300",
+        "holder": "詹文馨",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 05 月 22 日/153 年 05 月 21 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 78951091,
+    "items": [
+      {
+        "type": "現金",
+        "creditor": "吳秉叡",
+        "debtor": "冠虹投資有限公司 新北市新莊區化成路",
+        "amount": 24243536,
+        "date": "102年07月15日",
+        "reason": "股東代墊款"
+      },
+      {
+        "type": "現金",
+        "creditor": "吳秉叡",
+        "debtor": "聖裕投資有限公司 新北市新莊區新泰路",
+        "amount": 54707555,
+        "date": "105年01月01日",
+        "reason": "股東代墊款"
+      }
+    ]
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 11676300,
+    "items": [
+      {
+        "investor": "吳秉叡",
+        "company": "冠虹投資有限公司",
+        "address": "新北市新莊區化成路 814 巷 1 號",
+        "amount": 2940000,
+        "date": "101年11月30日",
+        "reason": "個 人 投 資 (102/07/15 增資)"
+      },
+      {
+        "investor": "吳秉叡",
+        "company": "聖裕投資有限公司",
+        "address": "新北市新莊區新泰路 2-21 號 2 樓",
+        "amount": 8736300,
+        "date": "100年08月09日",
+        "reason": "個 人 投 資 (101/05/08 增資)"
+      }
+    ]
+  }
+}

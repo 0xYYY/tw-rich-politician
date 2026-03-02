@@ -1,0 +1,556 @@
+{
+  "name": "王定宇",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李淑吟"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "王○恩"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市仁德區中洲段",
+      "area": 732,
+      "share": "全部",
+      "owner": "王定宇",
+      "date": "109年11月17日",
+      "reason": "買賣",
+      "price": "2,890,000"
+    },
+    {
+      "location": "臺南市仁德區中洲段",
+      "area": 3598,
+      "share": "全部",
+      "owner": "王定宇",
+      "date": "109年11月17日",
+      "reason": "買賣",
+      "price": "6,116,600"
+    },
+    {
+      "location": "臺南市仁德區公園段",
+      "area": 3285.18,
+      "share": "37 分之 1",
+      "owner": "李淑吟",
+      "date": "102年07月10日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市仁德區公園段",
+      "area": 215.08,
+      "share": "全部",
+      "owner": "李淑吟",
+      "date": "102年07月10日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市仁德區公園段",
+      "area": 94.61,
+      "share": "37 分之 1",
+      "owner": "李淑吟",
+      "date": "102年07月10日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市仁德區公園段",
+      "area": 341.08,
+      "share": "全部",
+      "owner": "李淑吟",
+      "date": "102年07月10日",
+      "reason": "買賣",
+      "price": "含陽台6.44平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺南市仁德區公園段",
+      "area": 164.31,
+      "share": "37 分之 1",
+      "owner": "李淑吟",
+      "date": "102年07月10日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "SUBARU",
+      "cc": 2150,
+      "owner": "王定宇",
+      "date": "112年01月31日",
+      "reason": "買賣",
+      "price": 1798000
+    },
+    {
+      "brand": "VOLVO",
+      "cc": 4080,
+      "owner": "李淑吟",
+      "date": "112年11月22日",
+      "reason": "買賣",
+      "price": 2120000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6614367,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 4823765
+      },
+      {
+        "institution": "合庫商業銀行東高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 1790
+      },
+      {
+        "institution": "合庫商業銀行屏南分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 390
+      },
+      {
+        "institution": "第一銀行竹溪分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "第一銀行金城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 70
+      },
+      {
+        "institution": "彰化銀行南台南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 210
+      },
+      {
+        "institution": "台北富邦商業銀行東城分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 29
+      },
+      {
+        "institution": "國泰世華銀行台南分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 969
+      },
+      {
+        "institution": "高雄銀行建國分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 741
+      },
+      {
+        "institution": "臺灣新光銀行東台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 3393
+      },
+      {
+        "institution": "陽信銀行健康分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 10227
+      },
+      {
+        "institution": "臺南市仁德區農會信用部 中洲分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 83748
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 12620
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 146
+      },
+      {
+        "institution": "元大銀行府城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 272
+      },
+      {
+        "institution": "中信銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王定宇",
+        "foreignAmount": 0,
+        "amount": 39240
+      },
+      {
+        "institution": "華南銀行東台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 202345
+      },
+      {
+        "institution": "台北富邦銀行東寧分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 75692
+      },
+      {
+        "institution": "台北富邦商業銀行東城分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 611392
+      },
+      {
+        "institution": "陽信銀行健康分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 104852
+      },
+      {
+        "institution": "聯邦銀行富強分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 44156
+      },
+      {
+        "institution": "遠東國際銀行台北信義分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 99968
+      },
+      {
+        "institution": "元大銀行府東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 58
+      },
+      {
+        "institution": "永豐銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 7729
+      },
+      {
+        "institution": "永豐銀行台南分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "李淑吟",
+        "foreignAmount": 920,
+        "amount": 29443
+      },
+      {
+        "institution": "玉山銀行東台南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 58002
+      },
+      {
+        "institution": "玉山銀行鹽行分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李淑吟",
+        "foreignAmount": 1661,
+        "amount": 53139
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 156454
+      },
+      {
+        "institution": "台新國際銀行後甲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 47053
+      },
+      {
+        "institution": "中信銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 36631
+      },
+      {
+        "institution": "連線商業銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 54901
+      },
+      {
+        "institution": "樂天國際商業銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李淑吟",
+        "foreignAmount": 0,
+        "amount": 10120
+      },
+      {
+        "institution": "台新國際銀行後甲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王○恩",
+        "foreignAmount": 0,
+        "amount": 44755
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2056300,
+    "items": [
+      {
+        "name": "台玻",
+        "owner": "李淑吟",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "大成鋼",
+        "owner": "李淑吟",
+        "shares": 55630,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 556300
+      },
+      {
+        "name": "聯電",
+        "owner": "李淑吟",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "新興",
+        "owner": "李淑吟",
+        "shares": 23000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 230000
+      },
+      {
+        "name": "大國鋼",
+        "owner": "李淑吟",
+        "shares": 125000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1250000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽活力一 生終身醫療健康 保險",
+        "policyNumber": "",
+        "holder": "王定宇",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 02 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽失扶好 照終身保險（H 版）",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 10 日/180 年 05 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽安養久 久終身保險（A 型）",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 19 日/152 年 01 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "雙瑞豐盈外幣變 額萬能壽險",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "投資型壽險",
+        "period": "107 年 03 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽多美寶 美元利率變動型 終身保險（定期 給付型）",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 05 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鑫添鑫終身壽險",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 05 月 05 日/180 年 05 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽加倍平 安終身壽險",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 13 日/169 年 12 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽永保安 康終身壽險",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 13 日/169 年 12 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽健康久 久終身醫療健康 保險",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 13 日/169 年 12 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽鑫富雙 喜利率變動型終 身壽險",
+        "policyNumber": "",
+        "holder": "李淑吟",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 09 月 01 日/179 年 09 月 01 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 8814359,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王定宇",
+        "creditor": "玉山商業銀行金華分行 臺南市南區金華路",
+        "amount": 1874032,
+        "date": "107年03月12日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "王定宇",
+        "creditor": "玉山商業銀行鹽行分行 臺南市永康區鹽行里中正北 路",
+        "amount": 6940327,
+        "date": "113年03月09日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

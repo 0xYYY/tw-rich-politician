@@ -1,0 +1,681 @@
+{
+  "name": "黃偉哲",
+  "org": "臺南市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "劉育菁"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市善化區善中段(自用房屋 之坐落基地)",
+      "area": 99.45,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "104年12月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市善化區善進段(自用房屋 之坐落基地)",
+      "area": 5720.02,
+      "share": "100000 分 之 233",
+      "owner": "劉育菁",
+      "date": "113年03月07日",
+      "reason": "買賣",
+      "price": "6,660,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市善化區善中段(未交付信 託原因：自用房屋)",
+      "area": 252.59,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "104年12月26日",
+      "reason": "買賣",
+      "price": "含陽台 30.78 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺南市善化區善進段(未交付信 託原因：自用房屋)",
+      "area": 60.6,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "113年03月07日",
+      "reason": "買賣",
+      "price": "4,462,200(含 陽台 2.3 平方 公尺)"
+    },
+    {
+      "location": "臺南市善化區善進段(未交付信 託原因：自用房屋之共同使用部 分)",
+      "area": 29775.85,
+      "share": "100000 分 之 237",
+      "owner": "劉育菁",
+      "date": "113年03月07日",
+      "reason": "買賣",
+      "price": "2,197,800(共 同使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "SUBARU",
+      "cc": 1995,
+      "owner": "劉育菁",
+      "date": "106年01月10日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "SUZUKI",
+      "cc": 1197,
+      "owner": "劉育菁",
+      "date": "111年05月30日",
+      "reason": "買賣",
+      "price": 1000000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 15660872,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "黃偉哲",
+        "foreignAmount": 5926,
+        "amount": 189453
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "澳幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "紐西蘭幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 11473275
+      },
+      {
+        "institution": "土地銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 701
+      },
+      {
+        "institution": "土地銀行新營分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 32567
+      },
+      {
+        "institution": "土地銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 82303
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 121021
+      },
+      {
+        "institution": "第一銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 806
+      },
+      {
+        "institution": "第一銀行新營分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 705145
+      },
+      {
+        "institution": "第一銀行佳里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 703
+      },
+      {
+        "institution": "華南銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 82
+      },
+      {
+        "institution": "彰化銀行宜蘭分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 811
+      },
+      {
+        "institution": "台北富邦銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 496
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 3665
+      },
+      {
+        "institution": "國泰世華銀行民權分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 26
+      },
+      {
+        "institution": "國泰世華銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 475
+      },
+      {
+        "institution": "臺灣企銀台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 12
+      },
+      {
+        "institution": "京城商業銀行佳里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 1265
+      },
+      {
+        "institution": "匯豐台灣古亭分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 1112
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 88604
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 7017
+      },
+      {
+        "institution": "聯邦銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 2198
+      },
+      {
+        "institution": "元大銀行大安分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃偉哲",
+        "foreignAmount": 144,
+        "amount": 4620
+      },
+      {
+        "institution": "元大銀行新營分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃偉哲",
+        "foreignAmount": 23374,
+        "amount": 748410
+      },
+      {
+        "institution": "永豐銀行南門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 275
+      },
+      {
+        "institution": "台新國際銀行建北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 71
+      },
+      {
+        "institution": "安泰銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 3233
+      },
+      {
+        "institution": "安泰銀行南門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃偉哲",
+        "foreignAmount": 0,
+        "amount": 69
+      },
+      {
+        "institution": "臺灣銀行新營分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 7699
+      },
+      {
+        "institution": "土地銀行新市分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "劉育菁",
+        "foreignAmount": 37006,
+        "amount": 7678
+      },
+      {
+        "institution": "第一銀行赤崁分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 615521
+      },
+      {
+        "institution": "第一銀行鹽水分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "劉育菁",
+        "foreignAmount": 278001,
+        "amount": 57657
+      },
+      {
+        "institution": "第一銀行鹽水分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 2564
+      },
+      {
+        "institution": "彰化銀行新營分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 326
+      },
+      {
+        "institution": "臺灣企銀台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 819
+      },
+      {
+        "institution": "京城商業銀行佳里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "京城商業銀行善化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 142
+      },
+      {
+        "institution": "臺南市善化區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 233
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 699922
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 405973
+      },
+      {
+        "institution": "元大銀行新營分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "劉育菁",
+        "foreignAmount": 12776,
+        "amount": 269466
+      },
+      {
+        "institution": "元大銀行新營分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "劉育菁",
+        "foreignAmount": 412,
+        "amount": 14389
+      },
+      {
+        "institution": "元大銀行新營分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "劉育菁",
+        "foreignAmount": 8000,
+        "amount": 1688
+      },
+      {
+        "institution": "元大銀行新營分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "劉育菁",
+        "foreignAmount": 1,
+        "amount": 32
+      },
+      {
+        "institution": "元大銀行新營分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 32310
+      },
+      {
+        "institution": "台新國際銀行府城分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 73734
+      },
+      {
+        "institution": "中信銀行台南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "劉育菁",
+        "foreignAmount": 0,
+        "amount": 1295
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "匯豐成功基金",
+        "owner": "黃偉哲",
+        "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 1000,
+        "unitValue": 52.8,
+        "foreignCurrency": "",
+        "totalValue": 52800
+      },
+      {
+        "name": "貝萊德新興歐洲 基金 A2 歐元",
+        "owner": "劉育菁",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 10.7,
+        "unitValue": 0.72,
+        "foreignCurrency": "歐元",
+        "totalValue": 266
+      },
+      {
+        "name": "貝萊德新興歐洲 基金 A2 歐元",
+        "owner": "劉育菁",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 0.86,
+        "unitValue": 0.72,
+        "foreignCurrency": "歐元",
+        "totalValue": 21
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○503",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "96 年 08 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安心保住院醫療 終身保",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 12 月 02 日/151 年 12 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 202 終 身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 22 日/151 年 07 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新守護一生長期 照顧",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 07 月 14 日/151 年 07 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新美事年年利變",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 08 月 14 日/157 年 08 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "樂事年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 08 月 11 日/157 年 08 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "樂事年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 08 月 15 日/157 年 08 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美好一 生外幣終身壽險 (美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "黃偉哲",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 03 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀丙型",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "劉育菁",
+        "contractType": "投資型壽險",
+        "period": "95 年 09 月 25 日/187 年 09 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美意年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "劉育菁",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 10 月 24 日/153 年 10 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "劉育菁",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 11 月 30 日/153 年 11 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾愛終身",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "劉育菁",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 09 月 27 日/187 年 09 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "保誠人壽喜悅人 生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "劉育菁",
+        "contractType": "投資型壽險",
+        "period": "94 年 01 月 24 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：臺灣銀 行群賢分行)",
+        "quantity": "1",
+        "owner": "黃偉哲",
+        "value": 56120
+      },
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "劉育菁",
+        "value": 500
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 19888972,
+    "items": [
+      {
+        "type": "私人債務",
+        "debtor": "黃偉哲",
+        "creditor": "潘○傳 臺南市南區新興路",
+        "amount": 17000000,
+        "date": "105年12月01日",
+        "reason": "選舉"
+      },
+      {
+        "type": "授信",
+        "debtor": "劉育菁",
+        "creditor": "第一商業銀行赤崁分行 臺南市中西區成功路",
+        "amount": 2888972,
+        "date": "113年03月21日",
+        "reason": "購屋貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

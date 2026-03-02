@@ -1,0 +1,831 @@
+[
+  {
+    "name": "華隆",
+    "originalNames": [
+      "華隆 (未交付信託原因：已 下市)",
+      "華隆"
+    ],
+    "count": 5,
+    "people": [
+      "王忠銘",
+      "羅明才",
+      "鍾佳濱",
+      "陳菁徽",
+      "馬文君"
+    ]
+  },
+  {
+    "name": "偉盟",
+    "originalNames": [
+      "偉盟",
+      "偉盟 (未交付信託原因：下 櫃)"
+    ],
+    "count": 4,
+    "people": [
+      "傅崐萁",
+      "吳琪銘",
+      "徐榛蔚",
+      "謝衣鳯"
+    ]
+  },
+  {
+    "name": "長億實業",
+    "originalNames": [
+      "長億實業"
+    ],
+    "count": 3,
+    "people": [
+      "吳宗憲",
+      "王育敏",
+      "羅明才"
+    ]
+  },
+  {
+    "name": "寶華",
+    "originalNames": [
+      "寶華 (未交付信託原因：非 國內上市、上櫃股票)",
+      "寶華"
+    ],
+    "count": 3,
+    "people": [
+      "王惠美",
+      "邱議瑩"
+    ]
+  },
+  {
+    "name": "善德生技",
+    "originalNames": [
+      "善德生技"
+    ],
+    "count": 3,
+    "people": [
+      "王惠美"
+    ]
+  },
+  {
+    "name": "國璽幹細胞",
+    "originalNames": [
+      "國璽幹細胞"
+    ],
+    "count": 3,
+    "people": [
+      "王惠美"
+    ]
+  },
+  {
+    "name": "秀育",
+    "originalNames": [
+      "秀育"
+    ],
+    "count": 3,
+    "people": [
+      "王惠美"
+    ]
+  },
+  {
+    "name": "啟阜工程",
+    "originalNames": [
+      "啟阜工程"
+    ],
+    "count": 3,
+    "people": [
+      "許宇甄"
+    ]
+  },
+  {
+    "name": "嘉新食化",
+    "originalNames": [
+      "嘉新食化"
+    ],
+    "count": 2,
+    "people": [
+      "傅崐萁",
+      "郭國文"
+    ]
+  },
+  {
+    "name": "漢恩建設股份有限公司",
+    "originalNames": [
+      "漢恩建設股份有限公司"
+    ],
+    "count": 2,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "碧悠電子",
+    "originalNames": [
+      "碧悠電子"
+    ],
+    "count": 2,
+    "people": [
+      "林德福",
+      "葉元之"
+    ]
+  },
+  {
+    "name": "東雲",
+    "originalNames": [
+      "東雲"
+    ],
+    "count": 2,
+    "people": [
+      "林憶君",
+      "郭國文"
+    ]
+  },
+  {
+    "name": "易宏",
+    "originalNames": [
+      "易宏 (未交付信託原因：非 國內上市、上櫃股票)",
+      "易宏"
+    ],
+    "count": 2,
+    "people": [
+      "王惠美",
+      "馬文君"
+    ]
+  },
+  {
+    "name": "耀文電子",
+    "originalNames": [
+      "耀文電子"
+    ],
+    "count": 2,
+    "people": [
+      "王義川",
+      "王鴻薇"
+    ]
+  },
+  {
+    "name": "微狄亞視訊",
+    "originalNames": [
+      "微狄亞視訊"
+    ],
+    "count": 2,
+    "people": [
+      "陳菁徽"
+    ]
+  },
+  {
+    "name": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+    "originalNames": [
+      "新 泰伸 (未 交付 信託 原 因：為下市股票)"
+    ],
+    "count": 2,
+    "people": [
+      "饒慶鈴"
+    ]
+  },
+  {
+    "name": "仕欽",
+    "originalNames": [
+      "仕欽"
+    ],
+    "count": 1,
+    "people": [
+      "吳宗憲"
+    ]
+  },
+  {
+    "name": "嘉新畜產",
+    "originalNames": [
+      "嘉新畜產"
+    ],
+    "count": 1,
+    "people": [
+      "吳琪銘"
+    ]
+  },
+  {
+    "name": "新燕",
+    "originalNames": [
+      "新燕"
+    ],
+    "count": 1,
+    "people": [
+      "吳琪銘"
+    ]
+  },
+  {
+    "name": "長銘",
+    "originalNames": [
+      "長銘"
+    ],
+    "count": 1,
+    "people": [
+      "吳琪銘"
+    ]
+  },
+  {
+    "name": "台開",
+    "originalNames": [
+      "台開 (未交付信託原因：下 市)"
+    ],
+    "count": 1,
+    "people": [
+      "周春米"
+    ]
+  },
+  {
+    "name": "長谷",
+    "originalNames": [
+      "長谷 (未交付信託原因：下 市)"
+    ],
+    "count": 1,
+    "people": [
+      "周春米"
+    ]
+  },
+  {
+    "name": "創意能源股份有限公司(未 上市股票)",
+    "originalNames": [
+      "創意能源股份有限公司(未 上市股票)"
+    ],
+    "count": 1,
+    "people": [
+      "廖偉翔"
+    ]
+  },
+  {
+    "name": "訊智海國際",
+    "originalNames": [
+      "訊智海國際"
+    ],
+    "count": 1,
+    "people": [
+      "廖先翔"
+    ]
+  },
+  {
+    "name": "富圓采",
+    "originalNames": [
+      "富圓采"
+    ],
+    "count": 1,
+    "people": [
+      "張嘉郡"
+    ]
+  },
+  {
+    "name": "光晟生技",
+    "originalNames": [
+      "光晟生技"
+    ],
+    "count": 1,
+    "people": [
+      "張嘉郡"
+    ]
+  },
+  {
+    "name": "基鴻建設股份有限公司",
+    "originalNames": [
+      "基鴻建設股份有限公司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "漢傑營造工程股份有限公 司",
+    "originalNames": [
+      "漢傑營造工程股份有限公 司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "漢堡開發建設股份有限公 司",
+    "originalNames": [
+      "漢堡開發建設股份有限公 司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "漢親建設股份有限公司",
+    "originalNames": [
+      "漢親建設股份有限公司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "漢寶開發建設股份有限公 司",
+    "originalNames": [
+      "漢寶開發建設股份有限公 司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "繁盛投資股份有限公司",
+    "originalNames": [
+      "繁盛投資股份有限公司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "元熙科技股份有限公司",
+    "originalNames": [
+      "元熙科技股份有限公司"
+    ],
+    "count": 1,
+    "people": [
+      "張智倫"
+    ]
+  },
+  {
+    "name": "嘉新食化 (未交付信託原 因：下市)",
+    "originalNames": [
+      "嘉新食化 (未交付信託原 因：下市)"
+    ],
+    "count": 1,
+    "people": [
+      "徐榛蔚"
+    ]
+  },
+  {
+    "name": "三鼎生技",
+    "originalNames": [
+      "三鼎生技"
+    ],
+    "count": 1,
+    "people": [
+      "徐欣瑩"
+    ]
+  },
+  {
+    "name": "雲云科技股份有限公司",
+    "originalNames": [
+      "雲云科技股份有限公司"
+    ],
+    "count": 1,
+    "people": [
+      "徐欣瑩"
+    ]
+  },
+  {
+    "name": "糖話國際股份有限公司",
+    "originalNames": [
+      "糖話國際股份有限公司"
+    ],
+    "count": 1,
+    "people": [
+      "徐欣瑩"
+    ]
+  },
+  {
+    "name": "環拓",
+    "originalNames": [
+      "環拓"
+    ],
+    "count": 1,
+    "people": [
+      "林俊憲"
+    ]
+  },
+  {
+    "name": "敏成健康",
+    "originalNames": [
+      "敏成健康"
+    ],
+    "count": 1,
+    "people": [
+      "林國成"
+    ]
+  },
+  {
+    "name": "安特羅",
+    "originalNames": [
+      "安特羅"
+    ],
+    "count": 1,
+    "people": [
+      "林憶君"
+    ]
+  },
+  {
+    "name": "仁新",
+    "originalNames": [
+      "仁新"
+    ],
+    "count": 1,
+    "people": [
+      "林憶君"
+    ]
+  },
+  {
+    "name": "佳錄科技",
+    "originalNames": [
+      "佳錄科技"
+    ],
+    "count": 1,
+    "people": [
+      "林月琴"
+    ]
+  },
+  {
+    "name": "和昇",
+    "originalNames": [
+      "和昇"
+    ],
+    "count": 1,
+    "people": [
+      "林楚茵"
+    ]
+  },
+  {
+    "name": "碩聯創投",
+    "originalNames": [
+      "碩聯創投"
+    ],
+    "count": 1,
+    "people": [
+      "柯建銘"
+    ]
+  },
+  {
+    "name": "鋰科",
+    "originalNames": [
+      "鋰科 (未交付信託原因：非 國內上市、上櫃股票)"
+    ],
+    "count": 1,
+    "people": [
+      "楊文科"
+    ]
+  },
+  {
+    "name": "中國力霸",
+    "originalNames": [
+      "中國力霸"
+    ],
+    "count": 1,
+    "people": [
+      "楊曜"
+    ]
+  },
+  {
+    "name": "尖美",
+    "originalNames": [
+      "尖美"
+    ],
+    "count": 1,
+    "people": [
+      "楊曜"
+    ]
+  },
+  {
+    "name": "亞基科",
+    "originalNames": [
+      "亞基科"
+    ],
+    "count": 1,
+    "people": [
+      "游顥"
+    ]
+  },
+  {
+    "name": "齊民",
+    "originalNames": [
+      "齊民"
+    ],
+    "count": 1,
+    "people": [
+      "王育敏"
+    ]
+  },
+  {
+    "name": "太一",
+    "originalNames": [
+      "太一"
+    ],
+    "count": 1,
+    "people": [
+      "王鴻薇"
+    ]
+  },
+  {
+    "name": "美合國際",
+    "originalNames": [
+      "美合國際"
+    ],
+    "count": 1,
+    "people": [
+      "盧縣一"
+    ]
+  },
+  {
+    "name": "彥武",
+    "originalNames": [
+      "彥武"
+    ],
+    "count": 1,
+    "people": [
+      "葉元之"
+    ]
+  },
+  {
+    "name": "昶虹",
+    "originalNames": [
+      "昶虹"
+    ],
+    "count": 1,
+    "people": [
+      "葉元之"
+    ]
+  },
+  {
+    "name": "工礦",
+    "originalNames": [
+      "工礦"
+    ],
+    "count": 1,
+    "people": [
+      "許宇甄"
+    ]
+  },
+  {
+    "name": "鴻運電",
+    "originalNames": [
+      "鴻運電"
+    ],
+    "count": 1,
+    "people": [
+      "許宇甄"
+    ]
+  },
+  {
+    "name": "聯笙",
+    "originalNames": [
+      "聯笙 (未交付信託原因：非 國內上市、上櫃股票)"
+    ],
+    "count": 1,
+    "people": [
+      "謝國樑"
+    ]
+  },
+  {
+    "name": "欣錩",
+    "originalNames": [
+      "欣錩"
+    ],
+    "count": 1,
+    "people": [
+      "謝衣鳯"
+    ]
+  },
+  {
+    "name": "中興商銀",
+    "originalNames": [
+      "中興商銀"
+    ],
+    "count": 1,
+    "people": [
+      "邱議瑩"
+    ]
+  },
+  {
+    "name": "宏總",
+    "originalNames": [
+      "宏總"
+    ],
+    "count": 1,
+    "people": [
+      "鍾佳濱"
+    ]
+  },
+  {
+    "name": "誠洲",
+    "originalNames": [
+      "誠洲"
+    ],
+    "count": 1,
+    "people": [
+      "鍾佳濱"
+    ]
+  },
+  {
+    "name": "中日",
+    "originalNames": [
+      "中日"
+    ],
+    "count": 1,
+    "people": [
+      "陳俊宇"
+    ]
+  },
+  {
+    "name": "茂德科技",
+    "originalNames": [
+      "茂德科技"
+    ],
+    "count": 1,
+    "people": [
+      "陳俊宇"
+    ]
+  },
+  {
+    "name": "臺鳳",
+    "originalNames": [
+      "臺鳳 (未交付信託原因：年 代久遠遺失)"
+    ],
+    "count": 1,
+    "people": [
+      "陳光復"
+    ]
+  },
+  {
+    "name": "中紡",
+    "originalNames": [
+      "中紡"
+    ],
+    "count": 1,
+    "people": [
+      "陳玉珍"
+    ]
+  },
+  {
+    "name": "世紀樺欣",
+    "originalNames": [
+      "世紀樺欣"
+    ],
+    "count": 1,
+    "people": [
+      "陳瑩"
+    ]
+  },
+  {
+    "name": "台睿",
+    "originalNames": [
+      "台睿"
+    ],
+    "count": 1,
+    "people": [
+      "陳菁徽"
+    ]
+  },
+  {
+    "name": "陽信商銀",
+    "originalNames": [
+      "陽信商銀"
+    ],
+    "count": 1,
+    "people": [
+      "陳菁徽"
+    ]
+  },
+  {
+    "name": "強普",
+    "originalNames": [
+      "強普 (未交付信託原因：未 上市、上櫃股票)"
+    ],
+    "count": 1,
+    "people": [
+      "韓國瑜"
+    ]
+  },
+  {
+    "name": "晶隼",
+    "originalNames": [
+      "晶隼 (未交付信託原因：未 上市、上櫃股票)"
+    ],
+    "count": 1,
+    "people": [
+      "韓國瑜"
+    ]
+  },
+  {
+    "name": "聯勝",
+    "originalNames": [
+      "聯勝"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "智微",
+    "originalNames": [
+      "智微"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "佐臻",
+    "originalNames": [
+      "佐臻"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "榮炭",
+    "originalNames": [
+      "榮炭"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "昱厚生技",
+    "originalNames": [
+      "昱厚生技"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "台泥循環",
+    "originalNames": [
+      "台泥循環"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "精碟",
+    "originalNames": [
+      "精碟"
+    ],
+    "count": 1,
+    "people": [
+      "顏寬恒"
+    ]
+  },
+  {
+    "name": "萬有",
+    "originalNames": [
+      "萬有"
+    ],
+    "count": 1,
+    "people": [
+      "馬文君"
+    ]
+  },
+  {
+    "name": "高企",
+    "originalNames": [
+      "高企"
+    ],
+    "count": 1,
+    "people": [
+      "馬文君"
+    ]
+  },
+  {
+    "name": "瑞圓",
+    "originalNames": [
+      "瑞圓"
+    ],
+    "count": 1,
+    "people": [
+      "馬文君"
+    ]
+  },
+  {
+    "name": "長鴻營造",
+    "originalNames": [
+      "長鴻營造"
+    ],
+    "count": 1,
+    "people": [
+      "馬文君"
+    ]
+  },
+  {
+    "name": "喬本",
+    "originalNames": [
+      "喬本"
+    ],
+    "count": 1,
+    "people": [
+      "黃捷"
+    ]
+  }
+]

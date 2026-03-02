@@ -1,0 +1,403 @@
+{
+  "name": "黃健豪",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "葉季青"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "黃○菲"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "三一東林",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 1000,
+        "pricePerShare": "49.90",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 49900
+      },
+      {
+        "name": "欣大健康",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 150,
+        "pricePerShare": "47.35",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 7103
+      },
+      {
+        "name": "欣大健康",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 150,
+        "pricePerShare": "47.35",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 7103
+      },
+      {
+        "name": "欣大健康",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 80,
+        "pricePerShare": "47.35",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 3788
+      },
+      {
+        "name": "欣大健康",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 20,
+        "pricePerShare": "47.35",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 947
+      },
+      {
+        "name": "盛群",
+        "broker": "永豐金-忠孝",
+        "owner": "黃健豪",
+        "shares": 1000,
+        "pricePerShare": "60",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 60000
+      },
+      {
+        "name": "元隆",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 500,
+        "pricePerShare": "12.05",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 6025
+      },
+      {
+        "name": "元隆",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 180,
+        "pricePerShare": "12.05",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 2169
+      },
+      {
+        "name": "元隆",
+        "broker": "永豐金忠孝",
+        "owner": "黃健豪",
+        "shares": 70,
+        "pricePerShare": "12.05",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 844
+      },
+      {
+        "name": "台中銀",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 3,
+        "pricePerShare": "17.80",
+        "changeDate": "113年08月21日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 53
+      },
+      {
+        "name": "玉山金",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 56,
+        "pricePerShare": "27.95",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 1565
+      },
+      {
+        "name": "第一金",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 2,
+        "pricePerShare": "27.15",
+        "changeDate": "113年09月18日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 54
+      },
+      {
+        "name": "聯詠",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 122,
+        "pricePerShare": "602",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 73444
+      },
+      {
+        "name": "聯詠",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 44,
+        "pricePerShare": "602",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 26488
+      },
+      {
+        "name": "聯詠",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 13,
+        "pricePerShare": "602",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 7826
+      },
+      {
+        "name": "聯詠",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 10,
+        "pricePerShare": "602",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 6020
+      },
+      {
+        "name": "聯詠",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 10,
+        "pricePerShare": "602",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 6020
+      },
+      {
+        "name": "聯詠",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 1,
+        "pricePerShare": "602",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 602
+      },
+      {
+        "name": "群創舊",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 860,
+        "pricePerShare": "14.55",
+        "changeDate": "113年08月19日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 12513
+      },
+      {
+        "name": "群創舊",
+        "broker": "元大證券竹科分公 司",
+        "owner": "葉季青",
+        "shares": 859,
+        "pricePerShare": "14.55",
+        "changeDate": "113年08月19日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 12498
+      },
+      {
+        "name": "群創舊",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 860,
+        "pricePerShare": "16.65",
+        "changeDate": "113年08月26日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 14319
+      },
+      {
+        "name": "群創舊",
+        "broker": "元大證券竹科分公 司",
+        "owner": "葉季青",
+        "shares": 859,
+        "pricePerShare": "16.65",
+        "changeDate": "113年08月26日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 14302
+      },
+      {
+        "name": "群創",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 860,
+        "pricePerShare": "14.55",
+        "changeDate": "113年08月19日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 12513
+      },
+      {
+        "name": "群創",
+        "broker": "元大證券竹科分公 司",
+        "owner": "葉季青",
+        "shares": 859,
+        "pricePerShare": "14.55",
+        "changeDate": "113年08月19日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 12498
+      },
+      {
+        "name": "群創",
+        "broker": "玉山證券台中分公 司",
+        "owner": "葉季青",
+        "shares": 757,
+        "pricePerShare": "16.65",
+        "changeDate": "113年08月26日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 12604
+      },
+      {
+        "name": "群創",
+        "broker": "元大證券竹科分公 司",
+        "owner": "葉季青",
+        "shares": 755,
+        "pricePerShare": "16.65",
+        "changeDate": "113年08月26日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 12570
+      },
+      {
+        "name": "穎崴",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 10,
+        "pricePerShare": "743",
+        "changeDate": "113年03月18日",
+        "changeReason": "賣",
+        "totalValue": 7430
+      },
+      {
+        "name": "愛普*",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 200,
+        "pricePerShare": "496.50",
+        "changeDate": "113年01月05日",
+        "changeReason": "賣",
+        "totalValue": 99300
+      },
+      {
+        "name": "愛普*",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 59,
+        "pricePerShare": "496.50",
+        "changeDate": "113年01月05日",
+        "changeReason": "賣",
+        "totalValue": 29293
+      },
+      {
+        "name": "愛普*",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 41,
+        "pricePerShare": "496.50",
+        "changeDate": "113年01月05日",
+        "changeReason": "賣",
+        "totalValue": 20356
+      },
+      {
+        "name": "晶心科",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 100,
+        "pricePerShare": "523",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 52300
+      },
+      {
+        "name": "晶心科",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 87,
+        "pricePerShare": "523",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 45501
+      },
+      {
+        "name": "晶心科",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 13,
+        "pricePerShare": "523",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 6799
+      },
+      {
+        "name": "晶心科",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 10,
+        "pricePerShare": "523",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 5230
+      },
+      {
+        "name": "晶心科",
+        "broker": "富邦-建國",
+        "owner": "葉季青",
+        "shares": 5,
+        "pricePerShare": "523",
+        "changeDate": "113年02月02日",
+        "changeReason": "賣",
+        "totalValue": 2615
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

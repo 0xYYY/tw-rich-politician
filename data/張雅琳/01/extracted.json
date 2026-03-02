@@ -1,0 +1,551 @@
+{
+  "name": "張雅琳",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "周晉弘"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "周○辰"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "周○為"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "周○瑾"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "area": 1630,
+      "share": "10000 分之 75",
+      "owner": "周晉弘",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "area": 590,
+      "share": "10000 分之 75",
+      "owner": "周晉弘",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "area": 4007.28,
+      "share": "10000 分之 74",
+      "owner": "周晉弘",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "area": 4007.28,
+      "share": "10000 分之 52",
+      "owner": "周晉弘",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "area": 133.11,
+      "share": "全部",
+      "owner": "周晉弘",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "area": 1743.15,
+      "share": "52 分之 1",
+      "owner": "周晉弘",
+      "date": "98年04月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "中華",
+      "cc": 2998,
+      "owner": "周晉弘",
+      "date": "107年11月27日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 3456,
+      "owner": "周晉弘",
+      "date": "108年08月02日",
+      "reason": "買賣",
+      "price": 550000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 4403995,
+    "items": [
+      {
+        "institution": "土地銀行信義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 1593
+      },
+      {
+        "institution": "第一銀行新湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 41162
+      },
+      {
+        "institution": "第一銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 3247
+      },
+      {
+        "institution": "華南銀行敦化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 855104
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 43648
+      },
+      {
+        "institution": "國泰世華銀行信義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 11902
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 378072
+      },
+      {
+        "institution": "玉山銀行內湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 168700
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 425665
+      },
+      {
+        "institution": "中信銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 2409
+      },
+      {
+        "institution": "中信銀行丹鳳分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張雅琳",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "台北富邦銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 125
+      },
+      {
+        "institution": "台北富邦銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 20
+      },
+      {
+        "institution": "台北富邦銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 231
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 48
+      },
+      {
+        "institution": "國泰世華銀行安和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 196
+      },
+      {
+        "institution": "兆豐國際商業銀行安和分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "周晉弘",
+        "foreignAmount": 47000,
+        "amount": 1485866
+      },
+      {
+        "institution": "兆豐國際商業銀行安和分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 805
+      },
+      {
+        "institution": "臺灣企銀忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 10221
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 195
+      },
+      {
+        "institution": "元大銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 104
+      },
+      {
+        "institution": "玉山銀行敦南分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "周晉弘",
+        "foreignAmount": 28650,
+        "amount": 905741
+      },
+      {
+        "institution": "玉山銀行敦南分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "玉山銀行敦南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 58872
+      },
+      {
+        "institution": "安泰銀行台北 101 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周晉弘",
+        "foreignAmount": 0,
+        "amount": 6044
+      },
+      {
+        "institution": "聯邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周○辰",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "聯邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周○為",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "聯邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周○瑾",
+        "foreignAmount": 0,
+        "amount": 2000
+      }
+    ]
+  },
+  "stocks": {
+    "total": 82700,
+    "items": [
+      {
+        "name": "中鋼",
+        "owner": "張雅琳",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "台積電",
+        "owner": "張雅琳",
+        "shares": 73,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 730
+      },
+      {
+        "name": "瑞昱",
+        "owner": "張雅琳",
+        "shares": 1150,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11500
+      },
+      {
+        "name": "玉山金",
+        "owner": "張雅琳",
+        "shares": 1037,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10370
+      },
+      {
+        "name": "玉晶光",
+        "owner": "張雅琳",
+        "shares": 885,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8850
+      },
+      {
+        "name": "欣銓",
+        "owner": "周晉弘",
+        "shares": 125,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1250
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "安聯收益成長多 重資產基金 A（美 元）（累積）（本 基金有相當比重",
+        "owner": "張雅琳",
+        "institution": "台 新 國 際 銀 行 敦南分行",
+        "units": 2.1,
+        "unitValue": 12.61,
+        "foreignCurrency": "美元",
+        "totalValue": 837
+      },
+      {
+        "name": "高盛投資級公司 債基金 X（本基金 之配息來源可能 為本金）",
+        "owner": "張雅琳",
+        "institution": "台 新 國 際 銀 行 敦南分行",
+        "units": 0.007,
+        "unitValue": 1423.05,
+        "foreignCurrency": "美元",
+        "totalValue": 315
+      },
+      {
+        "name": "貝萊德環球資產 配置基金 A2（美 元）",
+        "owner": "張雅琳",
+        "institution": "台 新 國 際 銀 行 敦南分行",
+        "units": 0.22,
+        "unitValue": 75.63,
+        "foreignCurrency": "美元",
+        "totalValue": 526
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "元 大 人 壽 永 愛 終身壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "張雅琳",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 11 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "保 誠 人 壽 喜 悅 人生變額壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "張雅琳",
+        "contractType": "投資型壽險",
+        "period": "96 年 01 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 優 質 理 財 變 額 萬 能 壽險乙型",
+        "policyNumber": "○○○○○○○ ○○202",
+        "holder": "張雅琳",
+        "contractType": "投資型壽險",
+        "period": "96 年 09 月 30 日/180 年 09 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "元 大 人 壽 永 愛 終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "周晉弘",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 10 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南 山 康 樂 限 期 繳費終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "周晉弘",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 02 月 05 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "Cartier 手環",
+        "quantity": "1",
+        "owner": "張雅琳",
+        "value": 224000
+      },
+      {
+        "type": "Cartier 鑽戒",
+        "quantity": "1",
+        "owner": "張雅琳",
+        "value": 369000
+      },
+      {
+        "type": "Chaumet 項鍊",
+        "quantity": "1",
+        "owner": "張雅琳",
+        "value": 220000
+      },
+      {
+        "type": "De Beers 鑽戒",
+        "quantity": "1",
+        "owner": "張雅琳",
+        "value": 650000
+      },
+      {
+        "type": "Van Cleef & Arpels 項鍊",
+        "quantity": "1",
+        "owner": "張雅琳",
+        "value": 645000
+      },
+      {
+        "type": "古董(水月觀音雕像)",
+        "quantity": "1",
+        "owner": "周晉弘",
+        "value": 360000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 29520604,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "周晉弘",
+        "creditor": "玉山商業銀行敦南分行 臺北市大安區敦化南路",
+        "amount": 24517620,
+        "date": "110年02月08日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "周晉弘",
+        "creditor": "玉山商業銀行敦南分行 臺北市大安區敦化南路",
+        "amount": 3025573,
+        "date": "106年06月29日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "周晉弘",
+        "creditor": "玉山商業銀行敦南分行 臺北市大安區敦化南路",
+        "amount": 998484,
+        "date": "98年04月29日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "周晉弘",
+        "creditor": "玉山商業銀行敦南分行 臺北市大安區敦化南路",
+        "amount": 978927,
+        "date": "106年07月28日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "廖先翔",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 3919841
+    },
+    {
+      "currency": "日圓",
+      "amount": 10469
+    },
+    {
+      "currency": "英鎊",
+      "amount": 4
+    },
+    {
+      "currency": "美元",
+      "amount": 0
+    }
+  ],
+  "depositsTotal": 3930315,
+  "insurance": [
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽傳家樂 (253)終身還本壽 險",
+      "holder": "廖先翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "陳婉倩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 120,
+      "owner": "廖先翔",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "台亞",
+      "cleanName": "台亞",
+      "ticker": "2340",
+      "shares": 2000,
+      "owner": "廖先翔",
+      "priceAtDisclosure": 35.85,
+      "latestPrice": 27.55
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 5,
+      "owner": "廖先翔",
+      "priceAtDisclosure": 1290,
+      "latestPrice": 1945
+    },
+    {
+      "name": "王品",
+      "cleanName": "王品",
+      "ticker": "2727",
+      "shares": 1,
+      "owner": "廖先翔",
+      "priceAtDisclosure": 240,
+      "latestPrice": 219
+    },
+    {
+      "name": "世芯-KY",
+      "cleanName": "世芯-KY",
+      "ticker": "3661",
+      "shares": 10,
+      "owner": "廖先翔",
+      "priceAtDisclosure": 2030,
+      "latestPrice": 3490
+    },
+    {
+      "name": "元晶",
+      "cleanName": "元晶",
+      "ticker": "6443",
+      "shares": 20000,
+      "owner": "廖先翔",
+      "priceAtDisclosure": 22.65,
+      "latestPrice": 45.1
+    },
+    {
+      "name": "訊智海國際",
+      "cleanName": "訊智海國際",
+      "ticker": null,
+      "shares": 200,
+      "owner": "廖先翔",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市汐止區智興段",
+      "owner": "廖先翔",
+      "date": "2015-08-13",
+      "effectiveAreaPing": 64.36,
+      "entryCount": 2,
+      "price": "含陽台6.82平 方公尺，雨遮 7.67 平 方 公 尺，與第 2 筆 建物是同一間 房子(超過五 年)"
+    }
+  ]
+}

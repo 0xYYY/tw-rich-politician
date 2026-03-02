@@ -1,0 +1,467 @@
+{
+  "name": "葉元之",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 31647806
+    },
+    {
+      "currency": "美元",
+      "amount": 1155901
+    }
+  ],
+  "depositsTotal": 32803709,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "躉繳金利 High 利 率變動型養老保 險",
+      "holder": "葉元之",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "躉繳金利 High 利 率變動型養老保 險",
+      "holder": "葉元之",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "躉繳金利 High 利 率變動型養老保 險",
+      "holder": "葉元之",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "葉元之",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰喬壽還本終 身壽險（繳費 20 年）",
+      "holder": "葉元之",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽金得意 變額萬能壽險",
+      "holder": "葉元之",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽好吉利 利率變動型增額 終身壽險",
+      "holder": "葉○瑜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽好吉利 利率變動型增額 終身壽險",
+      "holder": "葉○熙",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中纖",
+      "cleanName": "中纖",
+      "ticker": "1718",
+      "shares": 4512,
+      "owner": "葉元之",
+      "priceAtDisclosure": 7.81,
+      "latestPrice": 7.14
+    },
+    {
+      "name": "盛餘",
+      "cleanName": "盛餘",
+      "ticker": "2029",
+      "shares": 1010,
+      "owner": "葉元之",
+      "priceAtDisclosure": 26.4,
+      "latestPrice": 21.85
+    },
+    {
+      "name": "彥武",
+      "cleanName": "彥武",
+      "ticker": null,
+      "shares": 4400,
+      "owner": "葉元之",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 10000,
+      "owner": "葉元之",
+      "priceAtDisclosure": 58.3,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "金寶",
+      "cleanName": "金寶",
+      "ticker": "2312",
+      "shares": 1072,
+      "owner": "葉元之",
+      "priceAtDisclosure": 24.8,
+      "latestPrice": 25.75
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 2558,
+      "owner": "葉元之",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 2080,
+      "owner": "葉元之",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "碧悠電子",
+      "cleanName": "碧悠電子",
+      "ticker": null,
+      "shares": 46,
+      "owner": "葉元之",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "勝華",
+      "cleanName": "勝華",
+      "ticker": "2384",
+      "shares": 1099,
+      "owner": "葉元之",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "毅嘉",
+      "cleanName": "毅嘉",
+      "ticker": "2402",
+      "shares": 2040,
+      "owner": "葉元之",
+      "priceAtDisclosure": 40.3,
+      "latestPrice": 57
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 10032,
+      "owner": "葉元之",
+      "priceAtDisclosure": 122,
+      "latestPrice": 134
+    },
+    {
+      "name": "昶虹",
+      "cleanName": "昶虹",
+      "ticker": null,
+      "shares": 3295,
+      "owner": "葉元之",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "華映",
+      "cleanName": "華映",
+      "ticker": "2475",
+      "shares": 53,
+      "owner": "葉元之",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 20000,
+      "owner": "葉元之",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "威強電",
+      "cleanName": "威強電",
+      "ticker": "3022",
+      "shares": 1809,
+      "owner": "葉元之",
+      "priceAtDisclosure": 77.5,
+      "latestPrice": 60.1
+    },
+    {
+      "name": "威健",
+      "cleanName": "威健",
+      "ticker": "3033",
+      "shares": 10000,
+      "owner": "葉元之",
+      "priceAtDisclosure": 35.05,
+      "latestPrice": 31.85
+    },
+    {
+      "name": "台灣大",
+      "cleanName": "台灣大",
+      "ticker": "3045",
+      "shares": 10267,
+      "owner": "葉元之",
+      "priceAtDisclosure": 113.5,
+      "latestPrice": 107.5
+    },
+    {
+      "name": "昇銳",
+      "cleanName": "昇銳",
+      "ticker": "3128",
+      "shares": 2000,
+      "owner": "葉元之",
+      "priceAtDisclosure": 27.8,
+      "latestPrice": 27
+    },
+    {
+      "name": "神達",
+      "cleanName": "神達",
+      "ticker": "3706",
+      "shares": 1572,
+      "owner": "葉元之",
+      "priceAtDisclosure": 46.35,
+      "latestPrice": 80
+    },
+    {
+      "name": "神達",
+      "cleanName": "神達",
+      "ticker": "3706",
+      "shares": 1345,
+      "owner": "葉元之",
+      "priceAtDisclosure": 46.35,
+      "latestPrice": 80
+    },
+    {
+      "name": "康和證",
+      "cleanName": "康和證",
+      "ticker": "6016",
+      "shares": 12706,
+      "owner": "葉元之",
+      "priceAtDisclosure": 13.7,
+      "latestPrice": 18.05
+    },
+    {
+      "name": "大宇資",
+      "cleanName": "大宇資",
+      "ticker": "6111",
+      "shares": 1131,
+      "owner": "葉元之",
+      "priceAtDisclosure": 64.6,
+      "latestPrice": 44.8
+    },
+    {
+      "name": "新普",
+      "cleanName": "新普",
+      "ticker": "6121",
+      "shares": 15000,
+      "owner": "葉元之",
+      "priceAtDisclosure": 342.5,
+      "latestPrice": 333
+    },
+    {
+      "name": "精誠",
+      "cleanName": "精誠",
+      "ticker": "6214",
+      "shares": 160,
+      "owner": "葉元之",
+      "priceAtDisclosure": 135,
+      "latestPrice": 115
+    },
+    {
+      "name": "精誠",
+      "cleanName": "精誠",
+      "ticker": "6214",
+      "shares": 127,
+      "owner": "葉元之",
+      "priceAtDisclosure": 135,
+      "latestPrice": 115
+    },
+    {
+      "name": "久元",
+      "cleanName": "久元",
+      "ticker": "6261",
+      "shares": 1120,
+      "owner": "葉元之",
+      "priceAtDisclosure": 70.9,
+      "latestPrice": 75.2
+    },
+    {
+      "name": "英格爾",
+      "cleanName": "英格爾",
+      "ticker": "8287",
+      "shares": 19,
+      "owner": "葉元之",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "寶成",
+      "cleanName": "寶成",
+      "ticker": "9904",
+      "shares": 20000,
+      "owner": "葉元之",
+      "priceAtDisclosure": 37.95,
+      "latestPrice": 31.05
+    },
+    {
+      "name": "潤泰新",
+      "cleanName": "潤泰新",
+      "ticker": "9945",
+      "shares": 299,
+      "owner": "葉元之",
+      "priceAtDisclosure": 47.15,
+      "latestPrice": 29.5
+    },
+    {
+      "name": "潤泰新",
+      "cleanName": "潤泰新",
+      "ticker": "9945",
+      "shares": 108,
+      "owner": "葉元之",
+      "priceAtDisclosure": 47.15,
+      "latestPrice": 29.5
+    },
+    {
+      "name": "佳龍",
+      "cleanName": "佳龍",
+      "ticker": "9955",
+      "shares": 5465,
+      "owner": "葉元之",
+      "priceAtDisclosure": 34.25,
+      "latestPrice": 33.6
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "凱基金",
+      "owner": "葉元之",
+      "shares": 1736,
+      "declaredValue": 17360,
+      "source": "stock"
+    },
+    {
+      "name": "群益台灣精選高 息",
+      "owner": "葉元之",
+      "institution": "永 豐 金 證 券 敦 南分公司",
+      "units": 70000,
+      "unitValue": 23.26,
+      "currency": "",
+      "declaredValue": 1628200,
+      "source": "fund"
+    },
+    {
+      "name": "富達新興市場基 金",
+      "owner": "葉元之",
+      "institution": "彰 化 銀 行 南 港 科學園區分行",
+      "units": 212.64,
+      "unitValue": 30.01,
+      "currency": "美元",
+      "declaredValue": 203858,
+      "source": "fund"
+    },
+    {
+      "name": "富達新興市場基 金",
+      "owner": "葉元之",
+      "institution": "彰 化 銀 行 南 港 科學園區分行",
+      "units": 210.19,
+      "unitValue": 30.01,
+      "currency": "美元",
+      "declaredValue": 201509,
+      "source": "fund"
+    },
+    {
+      "name": "富達新興市場基 金",
+      "owner": "葉元之",
+      "institution": "彰 化 銀 行 南 港 科學園區分行",
+      "units": 189.86,
+      "unitValue": 30.01,
+      "currency": "美元",
+      "declaredValue": 182019,
+      "source": "fund"
+    },
+    {
+      "name": "摩根新興科技一 般",
+      "owner": "葉元之",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 3747.5,
+      "unitValue": 144.15,
+      "currency": "",
+      "declaredValue": 540202,
+      "source": "fund"
+    },
+    {
+      "name": "摩根新興 35 台累",
+      "owner": "葉元之",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 50128.3,
+      "unitValue": 15.34,
+      "currency": "",
+      "declaredValue": 768968,
+      "source": "fund"
+    },
+    {
+      "name": "摩根中國 A 股台 累",
+      "owner": "葉元之",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 94833.4,
+      "unitValue": 15.94,
+      "currency": "",
+      "declaredValue": 1511644,
+      "source": "fund"
+    },
+    {
+      "name": "泛亞太配息",
+      "owner": "葉元之",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 221848,
+      "unitValue": 9.74,
+      "currency": "",
+      "declaredValue": 2160799,
+      "source": "fund"
+    },
+    {
+      "name": "環球收益月配",
+      "owner": "葉元之",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 165216.6,
+      "unitValue": 11.82,
+      "currency": "",
+      "declaredValue": 1952860,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市板橋區新板段三小段",
+      "owner": "葉元之",
+      "date": "2021-04-08",
+      "effectiveAreaPing": 1985.9,
+      "entryCount": 7,
+      "price": "36,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市信義區永春段一小段",
+      "owner": "葉元之",
+      "date": "2014-07-17",
+      "effectiveAreaPing": 20.86,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

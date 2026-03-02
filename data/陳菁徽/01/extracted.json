@@ -1,0 +1,1697 @@
+{
+  "name": "陳菁徽",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "蔡政哲"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔡○言"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔡○桓"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "蔡○岐"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市左營區新庄段一小段",
+      "area": 2,
+      "share": "全部",
+      "owner": "陳菁徽",
+      "date": "85年02月29日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市左營區新庄段一小段",
+      "area": 90,
+      "share": "全部",
+      "owner": "陳菁徽",
+      "date": "85年02月29日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段五小段",
+      "area": 1634,
+      "share": "1000000 分 之 12516",
+      "owner": "陳菁徽",
+      "date": "94年08月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段五小段",
+      "area": 1740,
+      "share": "1000000 分 之 12516",
+      "owner": "陳菁徽",
+      "date": "94年08月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區雅祥段一小段",
+      "area": 1820,
+      "share": "100000 分 之 3428",
+      "owner": "陳菁徽",
+      "date": "105年08月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市蘆竹區羊稠段",
+      "area": 6788.14,
+      "share": "10000 分之 64",
+      "owner": "蔡政哲",
+      "date": "90年08月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "area": 3206,
+      "share": "10000 分之 640",
+      "owner": "蔡政哲",
+      "date": "95年08月07日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段一小段",
+      "area": 192.17,
+      "share": "全部",
+      "owner": "陳菁徽",
+      "date": "85年02月29日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段五小段",
+      "area": 93.23,
+      "share": "全部",
+      "owner": "陳菁徽",
+      "date": "94年08月19日",
+      "reason": "買賣",
+      "price": "含陽台11.2平 方公尺,花台 1.23 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段五小段",
+      "area": 5650.48,
+      "share": "1000000 分 之 12516",
+      "owner": "陳菁徽",
+      "date": "94年08月19日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市信義區雅祥段一小段",
+      "area": 198.9,
+      "share": "全部",
+      "owner": "陳菁徽",
+      "date": "105年08月23日",
+      "reason": "買賣",
+      "price": "含陽台 19.22 平方公尺,雨 遮 16.33 平方 公尺(超過五 年)"
+    },
+    {
+      "location": "臺北市信義區雅祥段一小段",
+      "area": 6666.33,
+      "share": "100000 分 之 3309",
+      "owner": "陳菁徽",
+      "date": "105年08月23日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市蘆竹區羊稠段",
+      "area": 174.53,
+      "share": "全部",
+      "owner": "蔡政哲",
+      "date": "90年08月17日",
+      "reason": "買賣",
+      "price": "含陽台18.6平 方公尺(超過 五年)"
+    },
+    {
+      "location": "桃園市蘆竹區羊稠段",
+      "area": 3651.49,
+      "share": "10000 分之 65",
+      "owner": "蔡政哲",
+      "date": "90年08月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市蘆竹區羊稠段",
+      "area": 753.57,
+      "share": "10000 分之 406",
+      "owner": "蔡政哲",
+      "date": "90年08月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市蘆竹區羊稠段",
+      "area": 7952.1,
+      "share": "229 分之 1",
+      "owner": "蔡政哲",
+      "date": "90年08月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "area": 454.55,
+      "share": "全部",
+      "owner": "蔡政哲",
+      "date": "95年08月07日",
+      "reason": "買賣",
+      "price": "含陽台 38.23 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "area": 1281.7,
+      "share": "100000 分 之 8079",
+      "owner": "蔡政哲",
+      "date": "95年08月07日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市信義區信義段三小段",
+      "area": 2561.42,
+      "share": "100000 分 之 13543",
+      "owner": "蔡政哲",
+      "date": "95年08月07日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺南市中西區永華段",
+      "area": 246.62,
+      "share": "2 分之 1",
+      "owner": "蔡政哲",
+      "date": "90年05月09日",
+      "reason": "第一次登 記",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "cc": 2979,
+      "owner": "蔡政哲",
+      "date": "94年01月03日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "JAGUAR",
+      "cc": 4196,
+      "owner": "蔡政哲",
+      "date": "98年12月14日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 39225992,
+    "items": [
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 120000,
+        "amount": 526560
+      },
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 100000,
+        "amount": 438800
+      },
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 100000,
+        "amount": 438800
+      },
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 100000,
+        "amount": 438800
+      },
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 106650,
+        "amount": 467983
+      },
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 461338
+      },
+      {
+        "institution": "臺灣銀行博愛分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳菁徽",
+        "foreignAmount": 7796,
+        "amount": 246449
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 42304
+      },
+      {
+        "institution": "合庫商業銀行東台北分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 11
+      },
+      {
+        "institution": "華南銀行南京東路分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 620
+      },
+      {
+        "institution": "彰化銀行光隆分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 81691
+      },
+      {
+        "institution": "上海銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 172100
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 19247
+      },
+      {
+        "institution": "台北富邦銀行瑞湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 6065231
+      },
+      {
+        "institution": "台北富邦銀行瑞湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "日圓",
+        "owner": "陳菁徽",
+        "foreignAmount": 455416,
+        "amount": 96745
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 200
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳菁徽",
+        "foreignAmount": 3486,
+        "amount": 110322
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期存款",
+        "currency": "港幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 22523,
+        "amount": 91557
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "陳菁徽",
+        "foreignAmount": 2,
+        "amount": 101
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 10524587
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 4514848
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 269785
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 81219
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 49542
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 37486
+      },
+      {
+        "institution": "永豐銀行松德分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 1042129
+      },
+      {
+        "institution": "玉山銀行古亭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 18372
+      },
+      {
+        "institution": "星展市府分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳菁徽",
+        "foreignAmount": 100412,
+        "amount": 3162792
+      },
+      {
+        "institution": "星展市府分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 91105
+      },
+      {
+        "institution": "星展市府分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "中信銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳菁徽",
+        "foreignAmount": 0,
+        "amount": 316873
+      },
+      {
+        "institution": "合庫商業銀行新店分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 3498
+      },
+      {
+        "institution": "第一銀行丹鳳分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 98
+      },
+      {
+        "institution": "華南銀行南京東路分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 3609
+      },
+      {
+        "institution": "彰化銀行光隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 13313
+      },
+      {
+        "institution": "彰化銀行光隆分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 1710
+      },
+      {
+        "institution": "彰化銀行光隆分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "蔡政哲",
+        "foreignAmount": 14,
+        "amount": 455
+      },
+      {
+        "institution": "彰化銀行台南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 58
+      },
+      {
+        "institution": "上海銀行世貿分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蔡政哲",
+        "foreignAmount": 802,
+        "amount": 25312
+      },
+      {
+        "institution": "上海銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 384401
+      },
+      {
+        "institution": "國泰世華銀行忠孝分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 110
+      },
+      {
+        "institution": "國泰世華銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 66537
+      },
+      {
+        "institution": "兆豐國際商業銀行城中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 44863
+      },
+      {
+        "institution": "匯豐台灣光復分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 29
+      },
+      {
+        "institution": "華泰銀行新莊分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 11266
+      },
+      {
+        "institution": "華泰銀行新莊分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "陽信銀行信義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 1017233
+      },
+      {
+        "institution": "永豐銀行興大分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 23812
+      },
+      {
+        "institution": "永豐銀行長安分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 1030
+      },
+      {
+        "institution": "玉山銀行松山分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蔡政哲",
+        "foreignAmount": 108,
+        "amount": 3444
+      },
+      {
+        "institution": "玉山銀行松山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 51720
+      },
+      {
+        "institution": "台新國際銀行南京東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 8029
+      },
+      {
+        "institution": "台新國際銀行三重分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 373
+      },
+      {
+        "institution": "台新國際銀行江翠分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 500159
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 434
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "蔡政哲",
+        "foreignAmount": 0,
+        "amount": 608
+      },
+      {
+        "institution": "上海銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡○言",
+        "foreignAmount": 0,
+        "amount": 49120
+      },
+      {
+        "institution": "陽信銀行板橋分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○言",
+        "foreignAmount": 0,
+        "amount": 207332
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡○言",
+        "foreignAmount": 0,
+        "amount": 2300041
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○言",
+        "foreignAmount": 0,
+        "amount": 36526
+      },
+      {
+        "institution": "上海銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡○桓",
+        "foreignAmount": 0,
+        "amount": 72868
+      },
+      {
+        "institution": "陽信銀行板橋分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○桓",
+        "foreignAmount": 0,
+        "amount": 14630
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡○桓",
+        "foreignAmount": 0,
+        "amount": 2280064
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○桓",
+        "foreignAmount": 0,
+        "amount": 78253
+      },
+      {
+        "institution": "陽信銀行信義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "蔡○岐",
+        "foreignAmount": 0,
+        "amount": 16388
+      },
+      {
+        "institution": "元大銀行大和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡○岐",
+        "foreignAmount": 0,
+        "amount": 2200060
+      }
+    ]
+  },
+  "stocks": {
+    "total": 49289355,
+    "items": [
+      {
+        "name": "台泥",
+        "owner": "陳菁徽",
+        "shares": 291,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2910
+      },
+      {
+        "name": "台積電",
+        "owner": "陳菁徽",
+        "shares": 462,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4620
+      },
+      {
+        "name": "矽統",
+        "owner": "陳菁徽",
+        "shares": 821,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8210
+      },
+      {
+        "name": "國泰金",
+        "owner": "陳菁徽",
+        "shares": 242,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2420
+      },
+      {
+        "name": "開發金",
+        "owner": "陳菁徽",
+        "shares": 55000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 550000
+      },
+      {
+        "name": "元大金",
+        "owner": "陳菁徽",
+        "shares": 513,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5130
+      },
+      {
+        "name": "兆豐金",
+        "owner": "陳菁徽",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "永豐金",
+        "owner": "陳菁徽",
+        "shares": 5297,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 52970
+      },
+      {
+        "name": "蘋果電腦",
+        "owner": "陳菁徽",
+        "shares": 500,
+        "faceValue": 172,
+        "foreignCurrency": "美元",
+        "totalValue": 2718592
+      },
+      {
+        "name": "蘋果電腦",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 172,
+        "foreignCurrency": "美元",
+        "totalValue": 543718
+      },
+      {
+        "name": "蘋果電腦",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 172,
+        "foreignCurrency": "美元",
+        "totalValue": 543718
+      },
+      {
+        "name": "蘋果電腦",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 172,
+        "foreignCurrency": "美元",
+        "totalValue": 543718
+      },
+      {
+        "name": "蘋果電腦",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 172,
+        "foreignCurrency": "美元",
+        "totalValue": 543718
+      },
+      {
+        "name": "蘋果電腦",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 172,
+        "foreignCurrency": "美元",
+        "totalValue": 543718
+      },
+      {
+        "name": "超微",
+        "owner": "陳菁徽",
+        "shares": 200,
+        "faceValue": 191,
+        "foreignCurrency": "美元",
+        "totalValue": 1203601
+      },
+      {
+        "name": "超微",
+        "owner": "陳菁徽",
+        "shares": 200,
+        "faceValue": 191,
+        "foreignCurrency": "美元",
+        "totalValue": 1203601
+      },
+      {
+        "name": "超微",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 191,
+        "foreignCurrency": "美元",
+        "totalValue": 601800
+      },
+      {
+        "name": "波音公司",
+        "owner": "陳菁徽",
+        "shares": 200,
+        "faceValue": 182,
+        "foreignCurrency": "美元",
+        "totalValue": 1149865
+      },
+      {
+        "name": "波音公司",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 182,
+        "foreignCurrency": "美元",
+        "totalValue": 574932
+      },
+      {
+        "name": "波音公司",
+        "owner": "陳菁徽",
+        "shares": 65,
+        "faceValue": 182,
+        "foreignCurrency": "美元",
+        "totalValue": 373706
+      },
+      {
+        "name": "波音公司",
+        "owner": "陳菁徽",
+        "shares": 50,
+        "faceValue": 182,
+        "foreignCurrency": "美元",
+        "totalValue": 287466
+      },
+      {
+        "name": "波音公司",
+        "owner": "陳菁徽",
+        "shares": 35,
+        "faceValue": 182,
+        "foreignCurrency": "美元",
+        "totalValue": 201226
+      },
+      {
+        "name": "阿里巴巴集團",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 73,
+        "foreignCurrency": "美元",
+        "totalValue": 231258
+      },
+      {
+        "name": "阿里巴巴集團",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 73,
+        "foreignCurrency": "美元",
+        "totalValue": 231258
+      },
+      {
+        "name": "阿里巴巴集團",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 73,
+        "foreignCurrency": "美元",
+        "totalValue": 231258
+      },
+      {
+        "name": "阿里巴巴集團",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 73,
+        "foreignCurrency": "美元",
+        "totalValue": 231258
+      },
+      {
+        "name": "阿里巴巴集團",
+        "owner": "陳菁徽",
+        "shares": 98,
+        "faceValue": 73,
+        "foreignCurrency": "美元",
+        "totalValue": 226633
+      },
+      {
+        "name": "阿里巴巴集團",
+        "owner": "陳菁徽",
+        "shares": 30,
+        "faceValue": 73,
+        "foreignCurrency": "美元",
+        "totalValue": 69377
+      },
+      {
+        "name": "BAIDU INC-CHINA ADR",
+        "owner": "陳菁徽",
+        "shares": 120,
+        "faceValue": 103,
+        "foreignCurrency": "美元",
+        "totalValue": 392565
+      },
+      {
+        "name": "BAIDU INC-CHINA ADR",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 103,
+        "foreignCurrency": "美元",
+        "totalValue": 327138
+      },
+      {
+        "name": "BAIDU INC-CHINA ADR",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 103,
+        "foreignCurrency": "美元",
+        "totalValue": 327138
+      },
+      {
+        "name": "微狄亞視訊",
+        "owner": "陳菁徽",
+        "shares": 700,
+        "faceValue": 878,
+        "foreignCurrency": "美元",
+        "totalValue": 19366718
+      },
+      {
+        "name": "微狄亞視訊",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 878,
+        "foreignCurrency": "美元",
+        "totalValue": 2766674
+      },
+      {
+        "name": "TESLA INC",
+        "owner": "陳菁徽",
+        "shares": 510,
+        "faceValue": 163,
+        "foreignCurrency": "美元",
+        "totalValue": 2627585
+      },
+      {
+        "name": "台積電 ADR",
+        "owner": "陳菁徽",
+        "shares": 200,
+        "faceValue": 136,
+        "foreignCurrency": "美元",
+        "totalValue": 862919
+      },
+      {
+        "name": "台積電 ADR",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 136,
+        "foreignCurrency": "美元",
+        "totalValue": 431459
+      },
+      {
+        "name": "台積電 ADR",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 136,
+        "foreignCurrency": "美元",
+        "totalValue": 431459
+      },
+      {
+        "name": "台積電 ADR",
+        "owner": "陳菁徽",
+        "shares": 100,
+        "faceValue": 136,
+        "foreignCurrency": "美元",
+        "totalValue": 431459
+      },
+      {
+        "name": "NIO INC",
+        "owner": "陳菁徽",
+        "shares": 300,
+        "faceValue": 5,
+        "foreignCurrency": "美元",
+        "totalValue": 52727
+      },
+      {
+        "name": "NIO INC",
+        "owner": "陳菁徽",
+        "shares": 300,
+        "faceValue": 5,
+        "foreignCurrency": "美元",
+        "totalValue": 52727
+      },
+      {
+        "name": "SHOPIFY INC",
+        "owner": "陳菁徽",
+        "shares": 200,
+        "faceValue": 77,
+        "foreignCurrency": "美元",
+        "totalValue": 486014
+      },
+      {
+        "name": "PALANTIR TECHNOLOGIES INC-A",
+        "owner": "陳菁徽",
+        "shares": 500,
+        "faceValue": 23,
+        "foreignCurrency": "美元",
+        "totalValue": 369944
+      },
+      {
+        "name": "AMERICAN WELL CORP",
+        "owner": "陳菁徽",
+        "shares": 126,
+        "faceValue": 0,
+        "foreignCurrency": "美元",
+        "totalValue": 3533
+      },
+      {
+        "name": "AMERICAN WELL CORP",
+        "owner": "陳菁徽",
+        "shares": 80,
+        "faceValue": 0,
+        "foreignCurrency": "美元",
+        "totalValue": 2243
+      },
+      {
+        "name": "AMERICAN WELL CORP",
+        "owner": "陳菁徽",
+        "shares": 65,
+        "faceValue": 0,
+        "foreignCurrency": "美元",
+        "totalValue": 1822
+      },
+      {
+        "name": "AMERICAN WELL CORP",
+        "owner": "陳菁徽",
+        "shares": 15,
+        "faceValue": 0,
+        "foreignCurrency": "美元",
+        "totalValue": 420
+      },
+      {
+        "name": "AMERICAN WELL CORP",
+        "owner": "陳菁徽",
+        "shares": 14,
+        "faceValue": 0,
+        "foreignCurrency": "美元",
+        "totalValue": 392
+      },
+      {
+        "name": "彩晶",
+        "owner": "陳菁徽",
+        "shares": 25000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 250000
+      },
+      {
+        "name": "台郡",
+        "owner": "陳菁徽",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "台睿",
+        "owner": "陳菁徽",
+        "shares": 100000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1000000
+      },
+      {
+        "name": "欣高",
+        "owner": "陳菁徽",
+        "shares": 374785,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3747850
+      },
+      {
+        "name": "欣高",
+        "owner": "陳菁徽",
+        "shares": 11024,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 110240
+      },
+      {
+        "name": "華隆",
+        "owner": "蔡政哲",
+        "shares": 497,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4970
+      },
+      {
+        "name": "旅天下",
+        "owner": "蔡政哲",
+        "shares": 50000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 500000
+      },
+      {
+        "name": "陽信商銀",
+        "owner": "蔡○言",
+        "shares": 168066,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1680660
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "群益安穩貨幣市 場基金",
+        "owner": "陳菁徽",
+        "institution": "臺 灣 銀 行 博 愛 分行",
+        "units": 127878.9,
+        "unitValue": 16.6318,
+        "foreignCurrency": "",
+        "totalValue": 2126856
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商美邦人 壽 保 險股份有 限 公司",
+        "name": "二十年繳費真心 安終身保險",
+        "policyNumber": "○○○○○○○ ○○088",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 07 月 24 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商美邦人 壽 保 險股份有 限 公司",
+        "name": "二十年繳費祥安 心終身壽險",
+        "policyNumber": "○○○○○○○ ○○485",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 01 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商美邦人 壽 保 險股份有 限 公司",
+        "name": "六年繳費美添鑽 美元利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○729",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 09 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽健康御 守醫療帳戶終身 保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "312 還本終身壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 09 月 28 日/167 年 09 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "安安醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 18 日/208 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "美意年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 09 月 28 日/167 年 09 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "常樂美利利變美 元",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 25 日/214 年 06 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "新真安順手術醫 療終身",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 08 月 18 日/167 年 08 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "新超安順手術醫 療終身",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 18 日/208 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "漾安心住院醫療 終身",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 08 月 18 日/167 年 08 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "鍾心呵護重大傷 病定期",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 08 月 18 日/153 年 08 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "鍾生呵護重大傷 病",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 18 日/208 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "鍾生呵護重大傷 病",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 18 日/201 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "鍾生呵護重大傷 病",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 18 日/204 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦人壽保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 15 年）",
+        "policyNumber": "○○○○○○○ ○○302",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 05 月 04 日/174 年 05 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦人壽保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 20 年）",
+        "policyNumber": "○○○○○○○ ○○301",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 05 月 04 日/174 年 05 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀人壽保 險 股份有限公司",
+        "name": "守護久久手術醫 療終身健康保險 (109A)",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 01 月 26 日/214 年 01 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀人壽保 險 股份有限公司",
+        "name": "守護久久手術醫 療終身健康保險 (109A)",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳菁徽",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 01 月 26 日/216 年 01 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽樂活寶 倍醫療終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽樂活寶 倍醫療終身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽樂活寶 倍醫療終身保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽樂活寶 倍醫療終身保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "英 屬百慕達 商 友 邦人壽保 險 股 份有限公 司 台灣分公司",
+        "name": "友邦人壽超友心 終身保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 30 日/170 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "第 一金人壽 保 險 股份有限 公 司",
+        "name": "第一金人壽前後 給利變額年金保 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "蔡政哲",
+        "contractType": "投資型壽險",
+        "period": "111 年 12 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "第 一金人壽 保 險 股份有限 公 司",
+        "name": "第一金人壽美世 傳富美元利率變 動型終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 01 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基人壽保 險 股份有限公司",
+        "name": "中國人壽多多利 終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 10 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基人壽保 險 股份有限公司",
+        "name": "中國人壽多美鑫 旺美元利率變動 型終身壽險－定 期給付型",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦人壽保 險 股份有限公司",
+        "name": "富邦人壽新平安 福保本保險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 02 日/171 年 04 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "美利豐盛美元利 率變動型終身壽 險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "蔡政哲",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 01 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠 雄人壽保 險 事 業股份有 限 公司",
+        "name": "遠雄人壽富貴超 多利終身還本保 險 JQ1",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "蔡○言",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 04 月 11 日/213 年 04 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "三 商美邦人 壽 保 險股份有 限 公司",
+        "name": "十五年繳費新祥 富增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○108",
+        "holder": "蔡○岐",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 07 月 27 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：臺灣銀 行博愛分行)",
+        "quantity": "1",
+        "owner": "陳菁徽",
+        "value": 3399230
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 396262331,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳菁徽",
+        "creditor": "台新國際商業銀行忠孝分行 台北市大安區忠孝東路",
+        "amount": 9441304,
+        "date": "112年09月22日",
+        "reason": "個人投資理 財"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳菁徽",
+        "creditor": "玉山商業銀行民生分行 臺北市中山區江山里民生東 路",
+        "amount": 26401878,
+        "date": "109年08月26日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳菁徽",
+        "creditor": "玉山商業銀行民權分行 臺北市中山區民權西路",
+        "amount": 6875949,
+        "date": "110年12月24日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳菁徽",
+        "creditor": "玉山商業銀行營業部 臺北市松山區民生東路",
+        "amount": 2584056,
+        "date": "109年08月26日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳菁徽",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 73000000,
+        "date": "112年12月26日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳菁徽",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 8878816,
+        "date": "111年01月21日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "永豐商業銀行中山分行 台北市中山區中山北路",
+        "amount": 5544052,
+        "date": "109年07月10日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "永豐商業銀行中山分行 台北市中山區中山北路",
+        "amount": 4416003,
+        "date": "109年07月10日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "永豐商業銀行中山分行 台北市中山區中山北路",
+        "amount": 1885771,
+        "date": "102年09月16日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 197000000,
+        "date": "112年09月27日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 36769158,
+        "date": "100年11月15日",
+        "reason": "購 置 / 修 繕 不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 13000000,
+        "date": "113年02月20日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 10000000,
+        "date": "112年12月26日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 268596,
+        "date": "108年11月01日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡政哲",
+        "creditor": "彰化商業銀行光隆分行 臺北市信義區光復南路",
+        "amount": 196748,
+        "date": "103年10月30日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 111250000,
+    "items": [
+      {
+        "investor": "蔡政哲",
+        "company": "宜蘊生醫股份有限公司",
+        "address": "臺北市大安區仁愛路 3 段 136 號 7 樓",
+        "amount": 41250000,
+        "date": "113年02月25日",
+        "reason": "贈與"
+      },
+      {
+        "investor": "蔡政哲",
+        "company": "牧盛投資股份有限公司",
+        "address": "臺北市大安區仁愛路 3 段 136 號 7 樓",
+        "amount": 62800000,
+        "date": "112年11月25日",
+        "reason": "投資"
+      },
+      {
+        "investor": "蔡○言",
+        "company": "牧盛投資股份有限公司",
+        "address": "臺北市大安區仁愛路 3 段 136 號 7 樓",
+        "amount": 2400000,
+        "date": "111年02月11日",
+        "reason": "投資"
+      },
+      {
+        "investor": "蔡○桓",
+        "company": "牧盛投資股份有限公司",
+        "address": "臺北市大安區仁愛路 3 段 136 號 7 樓",
+        "amount": 2400000,
+        "date": "111年02月11日",
+        "reason": "投資"
+      },
+      {
+        "investor": "蔡○岐",
+        "company": "牧盛投資股份有限公司",
+        "address": "臺北市大安區仁愛路 3 段 136 號 7 樓",
+        "amount": 2400000,
+        "date": "111年02月11日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

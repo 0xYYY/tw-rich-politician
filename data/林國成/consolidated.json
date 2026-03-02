@@ -1,0 +1,96 @@
+{
+  "name": "林國成",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1569175
+    }
+  ],
+  "depositsTotal": 1569175,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 防 癌 終身健康保險",
+      "holder": "林國成",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠 雄 人 壽 新 終 身壽險",
+      "holder": "林國成",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "信大",
+      "cleanName": "信大",
+      "ticker": "1109",
+      "shares": 262,
+      "owner": "林國成",
+      "priceAtDisclosure": 18.65,
+      "latestPrice": 15.85
+    },
+    {
+      "name": "中工",
+      "cleanName": "中工",
+      "ticker": "2515",
+      "shares": 150,
+      "owner": "林國成",
+      "priceAtDisclosure": 12.35,
+      "latestPrice": 17.4
+    },
+    {
+      "name": "達欣工",
+      "cleanName": "達欣工",
+      "ticker": "2535",
+      "shares": 500,
+      "owner": "林國成",
+      "priceAtDisclosure": 51,
+      "latestPrice": 73.5
+    },
+    {
+      "name": "欣欣",
+      "cleanName": "欣欣",
+      "ticker": "2901",
+      "shares": 426,
+      "owner": "林國成",
+      "priceAtDisclosure": 26.75,
+      "latestPrice": 23.95
+    },
+    {
+      "name": "敏成健康",
+      "cleanName": "敏成健康",
+      "ticker": null,
+      "shares": 1000,
+      "owner": "林國成",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 1224,
+      "owner": "林國成",
+      "priceAtDisclosure": 78.7,
+      "latestPrice": 92
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市中山區吉林段一小段",
+      "owner": "林國成",
+      "date": "2018-02-13",
+      "effectiveAreaPing": 38.9,
+      "entryCount": 2,
+      "price": "含陽台 31.41 平方公尺(超 過五年)"
+    }
+  ]
+}

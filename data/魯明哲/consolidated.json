@@ -1,0 +1,63 @@
+{
+  "name": "魯明哲",
+  "date": "2024-12-31",
+  "type": "legislator",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 9873422
+    }
+  ],
+  "depositsTotal": 9873422,
+  "insurance": [
+    {
+      "company": "南山人壽",
+      "name": "南山新康祥終身 壽險",
+      "holder": "魯明哲",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山新康祥終身 壽險",
+      "holder": "汪玉仙",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山新康祥終身 壽險",
+      "holder": "汪玉仙",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山新康祥終身 壽險",
+      "holder": "汪玉仙",
+      "contractType": "儲蓄型"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "泰豐輪胎",
+      "cleanName": "泰豐輪胎",
+      "ticker": "2102",
+      "shares": 17041,
+      "owner": "魯明哲",
+      "priceAtDisclosure": 18.95,
+      "latestPrice": 20.85
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市中壢區仁德段",
+      "owner": "汪玉仙",
+      "date": "2005-01-21",
+      "effectiveAreaPing": 61.37,
+      "entryCount": 1,
+      "price": "2,500,000"
+    }
+  ]
+}

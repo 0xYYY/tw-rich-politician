@@ -1,0 +1,488 @@
+{
+  "name": "郭國文",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月30日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "湯靜雯"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市永康區兵北段",
+      "area": 85.98,
+      "share": "全部",
+      "owner": "郭國文",
+      "date": "94年09月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市永康區兵北段",
+      "area": 209.71,
+      "share": "10000 分之 475",
+      "owner": "郭國文",
+      "date": "94年09月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市歸仁區沙崙段",
+      "area": 119,
+      "share": "全部",
+      "owner": "郭國文",
+      "date": "111年01月27日",
+      "reason": "買賣",
+      "price": "1,800,000"
+    },
+    {
+      "location": "臺南市歸仁區沙崙段",
+      "area": 90,
+      "share": "全部",
+      "owner": "郭國文",
+      "date": "111年01月27日",
+      "reason": "買賣",
+      "price": "1,100,000"
+    },
+    {
+      "location": "臺南市歸仁區沙崙段",
+      "area": 1193,
+      "share": "全部",
+      "owner": "郭國文",
+      "date": "111年01月27日",
+      "reason": "買賣",
+      "price": "18,000,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市永康區兵北段",
+      "area": 229.43,
+      "share": "全部",
+      "owner": "郭國文",
+      "date": "94年09月13日",
+      "reason": "買賣",
+      "price": "含陽台39.2平 方公尺,雨遮 1.63 平方公尺 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "volvo",
+      "cc": 2380,
+      "owner": "郭國文",
+      "date": "112年12月26日",
+      "reason": "買賣",
+      "price": 1930000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 4867844,
+    "items": [
+      {
+        "institution": "臺灣銀行新營分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 111196
+      },
+      {
+        "institution": "合作金庫商業銀行永康分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 303
+      },
+      {
+        "institution": "第一商業銀行大灣分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 4379
+      },
+      {
+        "institution": "彰化商業銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "彰化商業銀行九如路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 39
+      },
+      {
+        "institution": "台北富邦商業銀行港都分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 292
+      },
+      {
+        "institution": "國泰世華商業銀行新興分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 4789
+      },
+      {
+        "institution": "國泰世華商業銀行營業部",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 174
+      },
+      {
+        "institution": "京城商業銀行股份有限公 司",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 6351
+      },
+      {
+        "institution": "京城商業銀行股份有限公 司",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 125160
+      },
+      {
+        "institution": "陽信商業銀行永康分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 1640
+      },
+      {
+        "institution": "台南市歸仁區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 38352
+      },
+      {
+        "institution": "中華郵政公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 78
+      },
+      {
+        "institution": "聯邦商業銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 149
+      },
+      {
+        "institution": "聯邦商業銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "元大商業銀行新生分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 2376699
+      },
+      {
+        "institution": "玉山商業銀行台南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 417
+      },
+      {
+        "institution": "玉山商業銀行建成分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 2189933
+      },
+      {
+        "institution": "凱基商業銀行股份有限公 司",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 6745
+      },
+      {
+        "institution": "日盛國際商業銀行板橋分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 102
+      },
+      {
+        "institution": "中國信託商業銀行公館分 行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "郭國文",
+        "foreignAmount": 0,
+        "amount": 941
+      }
+    ]
+  },
+  "stocks": {
+    "total": 240,
+    "items": [
+      {
+        "name": "嘉新食化",
+        "owner": "郭國文",
+        "shares": 16,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160
+      },
+      {
+        "name": "東雲",
+        "owner": "郭國文",
+        "shares": 8,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣價值高 息",
+        "owner": "郭國文",
+        "institution": "元 大 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 60000,
+        "unitValue": 9.44,
+        "foreignCurrency": "",
+        "totalValue": 566400
+      },
+      {
+        "name": "元大多福基金",
+        "owner": "郭國文",
+        "institution": "元 大 證 券 股 份 有限公司",
+        "units": 810.8,
+        "unitValue": 115.33,
+        "foreignCurrency": "",
+        "totalValue": 93509
+      },
+      {
+        "name": "元大高科技基金",
+        "owner": "郭國文",
+        "institution": "元 大 證 券 股 份 有限公司",
+        "units": 2282.2,
+        "unitValue": 41.38,
+        "foreignCurrency": "",
+        "totalValue": 94437
+      },
+      {
+        "name": "元大日本龍頭企 業 基 金 - 新 臺 幣 A 類型",
+        "owner": "郭國文",
+        "institution": "元 大 證 券 股 份 有限公司",
+        "units": 34273.2,
+        "unitValue": 10.61,
+        "foreignCurrency": "",
+        "totalValue": 363638
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中 國 人 壽 保 險 股份有限公司",
+        "name": "保誠百樂福單利 增額終身壽險乙 型",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "郭國文",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 11 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "PHB",
+        "policyNumber": "○○○○○○○ ○○64",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "加倍醫靠終身醫 療健康保險",
+        "policyNumber": "○○○○○○○ ○○61",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 01 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "加倍醫靠終身醫 療健康保險",
+        "policyNumber": "○○○○○○○ ○○61",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "精準守護防癌定 期健康保險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/121 年 12 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠得意人生終 身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠新新百樂福 單利增額終身壽 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "保 誠 人 壽 保 險 股份有限公司",
+        "name": "保誠滿意人生終 身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "好 easy 終身醫療 健康保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "美滿人生長期照 顧終身保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "美滿人生長期照 顧終身保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 10 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "福氣康祥終身保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "CLO",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 100000,
+    "items": [
+      {
+        "type": "借貸",
+        "creditor": "郭國文",
+        "debtor": "韓○助 臺南市中西區藥王里濟生街",
+        "amount": 100000,
+        "date": "111年10月13日",
+        "reason": "借貸"
+      }
+    ]
+  },
+  "debts": {
+    "total": 22943370,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "郭國文",
+        "creditor": "台南市歸仁區農會信用部 台南市歸仁區中正北路",
+        "amount": 15000000,
+        "date": "111年02月07日",
+        "reason": "購買其他不 動產"
+      },
+      {
+        "type": "擔保貸款",
+        "debtor": "郭國文",
+        "creditor": "元大銀行永康分行 台南市永康區小東路",
+        "amount": 666664,
+        "date": "112年12月26日",
+        "reason": "購車"
+      },
+      {
+        "type": "授信",
+        "debtor": "郭國文",
+        "creditor": "臺灣銀行永康分行 台南市永康區小東路",
+        "amount": 7276706,
+        "date": "109年06月19日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "name": "蘇清泉",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 86706310
+    },
+    {
+      "currency": "港幣",
+      "amount": 39160
+    },
+    {
+      "currency": "美元",
+      "amount": 7536476
+    },
+    {
+      "currency": "人民幣",
+      "amount": 832959
+    },
+    {
+      "currency": "日圓",
+      "amount": 212613
+    }
+  ],
+  "depositsTotal": 95327520,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "十年繳費新祥富 增額終身壽險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費金富利 終身保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費祥威利 利率變動型增額 終身壽險(新)",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽新美利 利率變動型美元 增額終身壽險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊還 本終身保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山美滿還本終 身保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽多美鑫 旺美元利率變動 型終身壽險－定 期給付型",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽遨翔人 生外幣終身保險 （丙型）",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽永保安 康終身壽險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽金滿意 二八八八還本保 險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽新百齡 終身壽險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "增有利增額終身 壽險",
+      "holder": "蘇清泉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊還 本終身保險",
+      "holder": "蘇主榮",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽得意理 財變額壽險",
+      "holder": "蘇主榮",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽美好外 幣終身壽險",
+      "holder": "蘇主榮",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽美利好 鑽外幣利率變動 型終身還本保險",
+      "holder": "蘇主榮",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新 光 人 壽 美 添 109 外幣利率變 動 型 終 身 壽 險 （定期給付型）",
+      "holder": "蘇主榮",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "蘇主榮",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽鑫富一 生利率變動型終 身壽險",
+      "holder": "蘇主榮",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 117000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 23000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 54.5,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 280000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 20000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 4000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 6739,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 26.2,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "可寧衛",
+      "cleanName": "可寧衛",
+      "ticker": "8422",
+      "shares": 5000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 11959,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 31.95,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 18000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 3100,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 54.5,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 25,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 1,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 353,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 68.5,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 15,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 68.5,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "台達電",
+      "cleanName": "台達電",
+      "ticker": "2308",
+      "shares": 23000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 303,
+      "latestPrice": null
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 3640,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "國巨",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 3183,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 583,
+      "latestPrice": 298
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 14000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "大同",
+      "cleanName": "大同",
+      "ticker": "2371",
+      "shares": 5000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 47.1,
+      "latestPrice": 37.6
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 2000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 1135,
+      "latestPrice": 1945
+    },
+    {
+      "name": "華新科",
+      "cleanName": "華新科",
+      "ticker": "2492",
+      "shares": 14000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 106.5,
+      "latestPrice": 156
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 1200,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 166.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 6000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 46.5,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "穩懋",
+      "cleanName": "穩懋",
+      "ticker": "3105",
+      "shares": 5000,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 145.5,
+      "latestPrice": 338
+    },
+    {
+      "name": "大樹",
+      "cleanName": "大樹",
+      "ticker": "6469",
+      "shares": 49784,
+      "owner": "蘇清泉",
+      "priceAtDisclosure": 304,
+      "latestPrice": 86.9
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "owner": "蘇清泉",
+      "date": "1993-02-08",
+      "effectiveAreaPing": 967.44,
+      "entryCount": 1,
+      "price": "含防空避難室 509.02 平方公 尺(超過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "owner": "蘇清泉",
+      "date": "2001-01-29",
+      "effectiveAreaPing": 42.97,
+      "entryCount": 1,
+      "price": "含屋頂突出物 14.99 平方公 尺(超過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "owner": "蘇清泉",
+      "date": "2010-07-29",
+      "effectiveAreaPing": 33.37,
+      "entryCount": 2,
+      "price": "含陽台 5.77 平 方公尺,花台 0.46 平方公尺 (超過五年)"
+    },
+    {
+      "location": "屏東縣高樹鄉豐源段",
+      "owner": "蘇清泉",
+      "date": "2020-05-14",
+      "effectiveAreaPing": 98.2,
+      "entryCount": 1,
+      "price": "16,810,000(房 地總價額)"
+    },
+    {
+      "location": "高雄市新興區新興段一小段",
+      "owner": "蘇清泉",
+      "date": "1998-12-09",
+      "effectiveAreaPing": 351.36,
+      "entryCount": 5,
+      "price": "含陽台 15.41 平方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市大安區仁愛段一小段",
+      "owner": "蘇清泉",
+      "date": "1986-11-22",
+      "effectiveAreaPing": 37.52,
+      "entryCount": 1,
+      "price": "含陽台 22.33 平方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "owner": "蘇清泉",
+      "date": "2017-11-24",
+      "effectiveAreaPing": 28.6,
+      "entryCount": 3,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮新愛段",
+      "owner": "蘇主榮",
+      "date": "2014-03-04",
+      "effectiveAreaPing": 166.72,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣林邊鄉永樂段",
+      "owner": "蘇主榮",
+      "date": "2021-02-26",
+      "effectiveAreaPing": 90.56,
+      "entryCount": 1,
+      "price": "8,100,000"
+    },
+    {
+      "location": "桃園市龜山區興華段",
+      "owner": "蘇主榮",
+      "date": "2014-03-25",
+      "effectiveAreaPing": 37.92,
+      "entryCount": 3,
+      "price": "含陽台 3.12 平 方公尺,雨遮 5.68 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺中市北區錦村段",
+      "owner": "蘇主榮",
+      "date": "1976-07-31",
+      "effectiveAreaPing": 21.5,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮東光里新學路",
+      "owner": "蘇清泉",
+      "date": "2000-03-09",
+      "effectiveAreaPing": 219.86,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮新街里中正路",
+      "owner": "蘇清泉",
+      "date": "2000-09-11",
+      "effectiveAreaPing": 350.9,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣東港鎮新街里明禮路",
+      "owner": "蘇主榮 蘇清泉",
+      "date": "2021-12-10",
+      "effectiveAreaPing": 97.42,
+      "entryCount": 1,
+      "price": "3,445,212"
+    },
+    {
+      "location": "臺中市中區光復里光復路",
+      "owner": "蘇主榮",
+      "date": "1986-06-04",
+      "effectiveAreaPing": 38.69,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "陳培瑜",
+  "date": "2024-12-24",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 5079996
+    },
+    {
+      "currency": "美元",
+      "amount": 388877
+    },
+    {
+      "currency": "日圓",
+      "amount": 142795
+    },
+    {
+      "currency": "澳幣",
+      "amount": 65598
+    }
+  ],
+  "depositsTotal": 5677266,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山人壽 B1 還 本終身保險",
+      "holder": "王得泰",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山人壽 B2 還 本終身保險",
+      "holder": "王得泰",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣 50",
+      "owner": "陳培瑜",
+      "institution": "中國信託證券",
+      "units": 1000,
+      "unitValue": 198.4,
+      "currency": "",
+      "declaredValue": 198400,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台 50",
+      "owner": "陳培瑜",
+      "institution": "中國信託證券",
+      "units": 6000,
+      "unitValue": 114.9,
+      "currency": "",
+      "declaredValue": 689400,
+      "source": "fund"
+    },
+    {
+      "name": "統一 FANG+",
+      "owner": "陳培瑜",
+      "institution": "中國信託證券",
+      "units": 1000,
+      "unitValue": 107.65,
+      "currency": "",
+      "declaredValue": 107650,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台灣半導體",
+      "owner": "陳培瑜",
+      "institution": "中國信託證券",
+      "units": 5000,
+      "unitValue": 17.73,
+      "currency": "",
+      "declaredValue": 88650,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "花蓮縣花蓮市樹人段",
+      "owner": "陳培瑜",
+      "date": "2008-01-03",
+      "effectiveAreaPing": 40.29,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區永昌段二小段",
+      "owner": "陳培瑜",
+      "date": "2023-08-11",
+      "effectiveAreaPing": 24.1,
+      "entryCount": 1,
+      "price": "19,000,000 (含陽台 7.69 平方公尺；土 地 跟 建 物 一 起)"
+    }
+  ]
+}

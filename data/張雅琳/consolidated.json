@@ -1,0 +1,154 @@
+{
+  "name": "張雅琳",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2012377
+    },
+    {
+      "currency": "美元",
+      "amount": 2391607
+    },
+    {
+      "currency": "澳幣",
+      "amount": 10
+    }
+  ],
+  "depositsTotal": 4403995,
+  "insurance": [
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "元 大 人 壽 永 愛 終身壽險",
+      "holder": "張雅琳",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "保 誠 人 壽 喜 悅 人生變額壽險",
+      "holder": "張雅琳",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 優 質 理 財 變 額 萬 能 壽險乙型",
+      "holder": "張雅琳",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "元 大 人 壽 永 愛 終身壽險",
+      "holder": "周晉弘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南 山 康 樂 限 期 繳費終身壽險",
+      "holder": "周晉弘",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 5000,
+      "owner": "張雅琳",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 73,
+      "owner": "張雅琳",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "瑞昱",
+      "cleanName": "瑞昱",
+      "ticker": "2379",
+      "shares": 1150,
+      "owner": "張雅琳",
+      "priceAtDisclosure": 594,
+      "latestPrice": 481.5
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 1037,
+      "owner": "張雅琳",
+      "priceAtDisclosure": 26.2,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "玉晶光",
+      "cleanName": "玉晶光",
+      "ticker": "3406",
+      "shares": 885,
+      "owner": "張雅琳",
+      "priceAtDisclosure": 417.5,
+      "latestPrice": 442
+    },
+    {
+      "name": "欣銓",
+      "cleanName": "欣銓",
+      "ticker": "3264",
+      "shares": 125,
+      "owner": "張雅琳",
+      "priceAtDisclosure": 76.8,
+      "latestPrice": 157.5
+    }
+  ],
+  "bonds": [
+    {
+      "name": "高盛投資級公司 債基金 X（本基金 之配息來源可能 為本金）",
+      "owner": "張雅琳",
+      "institution": "台 新 國 際 銀 行 敦南分行",
+      "units": 0.007,
+      "unitValue": 1423.05,
+      "currency": "美元",
+      "declaredValue": 315,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "安聯收益成長多 重資產基金 A（美 元）（累積）（本 基金有相當比重",
+      "owner": "張雅琳",
+      "institution": "台 新 國 際 銀 行 敦南分行",
+      "units": 2.1,
+      "unitValue": 12.61,
+      "currency": "美元",
+      "declaredValue": 837,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德環球資產 配置基金 A2（美 元）",
+      "owner": "張雅琳",
+      "institution": "台 新 國 際 銀 行 敦南分行",
+      "units": 0.22,
+      "unitValue": 75.63,
+      "currency": "美元",
+      "declaredValue": 526,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區仁愛段四小段",
+      "owner": "周晉弘",
+      "date": "2009-04-28",
+      "effectiveAreaPing": 65.68,
+      "entryCount": 4,
+      "price": "共同使用部分 (超過五年)"
+    }
+  ]
+}

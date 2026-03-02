@@ -1,0 +1,239 @@
+{
+  "name": "許智傑",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 11033493
+    },
+    {
+      "currency": "美元",
+      "amount": 2248957
+    },
+    {
+      "currency": "南非幣",
+      "amount": 55658
+    }
+  ],
+  "depositsTotal": 13338110,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費金富 泰終身保險",
+      "holder": "許智傑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "許智傑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "許智傑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽厚利旺 利率變動型年金 保險（甲型）",
+      "holder": "周桂香",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽年年鑽 利率變動型養老 保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美利珍 鑫美元利率變動 型還本終身保險 （定期給付型）",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美鑫外 幣終身分紅壽險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美鑫年 年美元利率變動 型還本終身保險 （定期給付型）",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽富貴年 年 3 醫療終身保 險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽意帆風 順保本終身保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽滿鑫美 利美元還本終身 保險（定期給付 型）",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增安心 終身防癌保險",
+      "holder": "周桂香",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中石化",
+      "cleanName": "中石化",
+      "ticker": "1314",
+      "shares": 5957,
+      "owner": "許智傑",
+      "priceAtDisclosure": 8.19,
+      "latestPrice": 8.31
+    },
+    {
+      "name": "勝華",
+      "cleanName": "勝華",
+      "ticker": "2384",
+      "shares": 8199,
+      "owner": "許智傑",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "力銘",
+      "cleanName": "力銘",
+      "ticker": "3593",
+      "shares": 202,
+      "owner": "許智傑",
+      "priceAtDisclosure": null,
+      "latestPrice": 12.25
+    },
+    {
+      "name": "松瑞藥",
+      "cleanName": "松瑞藥",
+      "ticker": "4167",
+      "shares": 265,
+      "owner": "許智傑",
+      "priceAtDisclosure": 21.75,
+      "latestPrice": 18.95
+    },
+    {
+      "name": "高端疫苗",
+      "cleanName": "高端疫苗",
+      "ticker": "6547",
+      "shares": 3042,
+      "owner": "許智傑",
+      "priceAtDisclosure": 42.35,
+      "latestPrice": 35.5
+    },
+    {
+      "name": "台康生技",
+      "cleanName": "台康生技",
+      "ticker": "6589",
+      "shares": 4508,
+      "owner": "許智傑",
+      "priceAtDisclosure": 91.8,
+      "latestPrice": 60.6
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣高股息 優質龍頭不配息",
+      "owner": "許智傑",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 528.6,
+      "unitValue": 18.13,
+      "currency": "",
+      "declaredValue": 9583,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "owner": "許智傑",
+      "date": "1994-09-09",
+      "effectiveAreaPing": 29.41,
+      "entryCount": 1,
+      "price": "含陽台 12.22 平方公尺(超 過五年)"
+    },
+    {
+      "location": "高雄市鳳山區五甲段",
+      "owner": "許智傑",
+      "date": "2012-03-22",
+      "effectiveAreaPing": 36.74,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "owner": "周桂香",
+      "date": "2010-02-24",
+      "effectiveAreaPing": 29.41,
+      "entryCount": 1,
+      "price": "含陽台 12.22 平方公尺(超 過五年)"
+    }
+  ]
+}

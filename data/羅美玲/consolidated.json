@@ -1,0 +1,23 @@
+{
+  "name": "羅美玲",
+  "date": "2024-12-05",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市大里區大明里中興路 (公同共有)",
+      "owner": "吳棋祥",
+      "date": "2019-04-25",
+      "effectiveAreaPing": 49.07,
+      "entryCount": 1,
+      "price": "59,050 (超過五年)"
+    }
+  ]
+}

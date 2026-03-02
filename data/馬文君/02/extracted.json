@@ -1,0 +1,58 @@
+{
+  "name": "馬文君",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "108年11月14日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王俊國"
+    }
+  ],
+  "land": [
+    {
+      "location": "1★南投縣埔里鎮忠信段",
+      "area": 983.42,
+      "share": "全部",
+      "owner": "王俊國",
+      "date": "100年1月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

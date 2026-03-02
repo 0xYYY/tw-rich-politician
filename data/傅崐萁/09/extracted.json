@@ -1,0 +1,109 @@
+{
+  "name": "傅崐萁",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月31日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年12月31日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "徐榛蔚"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台新金",
+        "broker": "元富證券「交付臺 灣銀行信託」",
+        "owner": "徐榛蔚",
+        "shares": 1852,
+        "pricePerShare": "17.50",
+        "changeDate": "113年08月06日",
+        "changeReason": "配股",
+        "totalValue": 32410
+      },
+      {
+        "name": "2★玉山金",
+        "broker": "元富證券「交付臺 灣銀行信託」",
+        "owner": "徐榛蔚",
+        "shares": 591,
+        "pricePerShare": "28.05",
+        "changeDate": "113年07月26日",
+        "changeReason": "配股",
+        "totalValue": 16577
+      },
+      {
+        "name": "兆豐金",
+        "broker": "元富證券「交付臺 灣銀行信託」",
+        "owner": "徐榛蔚",
+        "shares": 224,
+        "pricePerShare": "38.90",
+        "changeDate": "113年08月08日",
+        "changeReason": "配股",
+        "totalValue": 8713
+      },
+      {
+        "name": "國巨",
+        "broker": "元富證券「交付臺 灣銀行信託」",
+        "owner": "徐榛蔚",
+        "shares": 219,
+        "pricePerShare": "624",
+        "changeDate": "113年08月15日",
+        "changeReason": "配股",
+        "totalValue": 136656
+      },
+      {
+        "name": "2★富邦金",
+        "broker": "元富證券「交付臺 灣銀行信託」",
+        "owner": "徐榛蔚",
+        "shares": 210,
+        "pricePerShare": "88.10",
+        "changeDate": "113年09月09日",
+        "changeReason": "配股",
+        "totalValue": 18501
+      },
+      {
+        "name": "寶雅",
+        "broker": "元富證券「交付臺 灣銀行信託」",
+        "owner": "徐榛蔚",
+        "shares": 44,
+        "pricePerShare": "500",
+        "changeDate": "113年06月21日",
+        "changeReason": "配股",
+        "totalValue": 22000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

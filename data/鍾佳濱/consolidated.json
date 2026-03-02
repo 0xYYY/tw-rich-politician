@@ -1,0 +1,549 @@
+{
+  "name": "鍾佳濱",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "屏東縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 19998297
+    },
+    {
+      "currency": "南非幣",
+      "amount": 361128
+    },
+    {
+      "currency": "美元",
+      "amount": 173108
+    },
+    {
+      "currency": "澳幣",
+      "amount": 36621
+    },
+    {
+      "currency": "墨西哥披索",
+      "amount": 25916
+    },
+    {
+      "currency": "日圓",
+      "amount": 188728
+    },
+    {
+      "currency": "歐元",
+      "amount": 17154
+    },
+    {
+      "currency": "英鎊",
+      "amount": 10
+    }
+  ],
+  "depositsTotal": 20800970,
+  "insurance": [
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽富貴長 紅終身保險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽快樂兒 童外幣增額還本 終身保險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽佳多鑽 利率變動型終身 保險（定期給付 型）",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽佳美滿 美元利率變動型 終身壽險（定期 給付型）",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽金鑽久 久利率變動型增 額終身壽險（定 期給付型）",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美滿人 生長期照顧終身 保險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新優利 鑽利率變動型終 身保險（定期給 付型）",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增利久 久外幣增額終身 壽險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增集利 增額終身壽險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽鑫利年 年 2 增額終身壽 險（定期給付型）",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 際 康 健 人 壽 保 險 股 份 有 限 公司",
+      "name": "康健人壽新一生 醫事終身醫療保 險 WLC",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽三得利 利率變動型終身 壽險",
+      "holder": "楊茹憶",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "華隆",
+      "cleanName": "華隆",
+      "ticker": null,
+      "shares": 268,
+      "owner": "鍾佳濱",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "宏總",
+      "cleanName": "宏總",
+      "ticker": null,
+      "shares": 3200,
+      "owner": "鍾佳濱",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "誠洲",
+      "cleanName": "誠洲",
+      "ticker": null,
+      "shares": 97,
+      "owner": "鍾佳濱",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [
+    {
+      "name": "元大美債 20 年",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 20000,
+      "unitValue": 28.8143,
+      "currency": "",
+      "declaredValue": 576286,
+      "source": "fund"
+    },
+    {
+      "name": "國泰 20 年美債",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 6000,
+      "unitValue": 29.9927,
+      "currency": "",
+      "declaredValue": 179956,
+      "source": "fund"
+    },
+    {
+      "name": "國泰投資級公司 債",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 6000,
+      "unitValue": 36.7042,
+      "currency": "",
+      "declaredValue": 220225,
+      "source": "fund"
+    },
+    {
+      "name": "元大 AAA 至 A 公 司債",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 29000,
+      "unitValue": 33.7341,
+      "currency": "",
+      "declaredValue": 978288,
+      "source": "fund"
+    },
+    {
+      "name": "中信美國公債 20 年",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 30000,
+      "unitValue": 29.3914,
+      "currency": "",
+      "declaredValue": 881742,
+      "source": "fund"
+    },
+    {
+      "name": "統一美債 20 年",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 4000,
+      "unitValue": 14.3586,
+      "currency": "",
+      "declaredValue": 57434,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "統一黑馬基金",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 279.85,
+      "unitValue": 223.17,
+      "currency": "",
+      "declaredValue": 62454,
+      "source": "fund"
+    },
+    {
+      "name": "野村優質基金",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 418.6,
+      "unitValue": 148.19,
+      "currency": "",
+      "declaredValue": 62032,
+      "source": "fund"
+    },
+    {
+      "name": "野村成長基金",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 471.1,
+      "unitValue": 121.55,
+      "currency": "",
+      "declaredValue": 57262,
+      "source": "fund"
+    },
+    {
+      "name": "野村中小基金",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 341.9,
+      "unitValue": 181.33,
+      "currency": "",
+      "declaredValue": 61996,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界科技 基金美元",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 17.84,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 51034,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界科技 基金 HEDGED A2 澳幣",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 136.86,
+      "unitValue": 12.24,
+      "currency": "澳幣",
+      "declaredValue": 35133,
+      "source": "fund"
+    },
+    {
+      "name": "瀚亞日本動力股 票基金 AJ 日圓",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 147.271,
+      "unitValue": 2438,
+      "currency": "日圓",
+      "declaredValue": 75148,
+      "source": "fund"
+    },
+    {
+      "name": "野村愛爾蘭日本 策略價值基金（T 日圓類股）",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 49.0467,
+      "unitValue": 17997.9357,
+      "currency": "日圓",
+      "declaredValue": 184757,
+      "source": "fund"
+    },
+    {
+      "name": "安聯收益成長基 金-AM 穩定月收 類股（美元）",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 943.336,
+      "unitValue": 8.2617,
+      "currency": "美元",
+      "declaredValue": 249245,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台 50",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 1551,
+      "unitValue": 111.26,
+      "currency": "",
+      "declaredValue": 172564,
+      "source": "fund"
+    },
+    {
+      "name": "元大 S&P500",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 170,
+      "unitValue": 57.04,
+      "currency": "",
+      "declaredValue": 9696,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣高息低 波",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 3000,
+      "unitValue": 56.39,
+      "currency": "",
+      "declaredValue": 169170,
+      "source": "fund"
+    },
+    {
+      "name": "富邦臺灣中小",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 1830,
+      "unitValue": 53.74,
+      "currency": "",
+      "declaredValue": 98344,
+      "source": "fund"
+    },
+    {
+      "name": "期元大道瓊白銀",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 1200,
+      "unitValue": 29.06,
+      "currency": "",
+      "declaredValue": 34872,
+      "source": "fund"
+    },
+    {
+      "name": "國泰費城半導體",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 5000,
+      "unitValue": 44.95,
+      "currency": "",
+      "declaredValue": 224750,
+      "source": "fund"
+    },
+    {
+      "name": "元大臺灣 ESG 永 續",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 2000,
+      "unitValue": 45.56,
+      "currency": "",
+      "declaredValue": 91120,
+      "source": "fund"
+    },
+    {
+      "name": "台新全球 AI",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 2000,
+      "unitValue": 46.92,
+      "currency": "",
+      "declaredValue": 93840,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 13000,
+      "unitValue": 22.73,
+      "currency": "",
+      "declaredValue": 295490,
+      "source": "fund"
+    },
+    {
+      "name": "富邦越南",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 2000,
+      "unitValue": 11.62,
+      "currency": "",
+      "declaredValue": 23240,
+      "source": "fund"
+    },
+    {
+      "name": "富邦未來車",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 1000,
+      "unitValue": 28.96,
+      "currency": "",
+      "declaredValue": 28960,
+      "source": "fund"
+    },
+    {
+      "name": "國泰基因免疫革 命",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 1000,
+      "unitValue": 7.34,
+      "currency": "",
+      "declaredValue": 7340,
+      "source": "fund"
+    },
+    {
+      "name": "中信電池及儲能",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 1000,
+      "unitValue": 10.21,
+      "currency": "",
+      "declaredValue": 10210,
+      "source": "fund"
+    },
+    {
+      "name": "FT 臺灣 SMART",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 3000,
+      "unitValue": 13.61,
+      "currency": "",
+      "declaredValue": 40830,
+      "source": "fund"
+    },
+    {
+      "name": "群益台灣精選高 息",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 18000,
+      "unitValue": 23.26,
+      "currency": "",
+      "declaredValue": 418680,
+      "source": "fund"
+    },
+    {
+      "name": "國泰台灣領袖 50",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 10000,
+      "unitValue": 21.25,
+      "currency": "",
+      "declaredValue": 212500,
+      "source": "fund"
+    },
+    {
+      "name": "群益台 ESG 低碳 50",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 7000,
+      "unitValue": 21.37,
+      "currency": "",
+      "declaredValue": 149590,
+      "source": "fund"
+    },
+    {
+      "name": "復華 S&P500 成長",
+      "owner": "鍾佳濱",
+      "institution": "玉 山 證 券 高 雄 分公司",
+      "units": 2000,
+      "unitValue": 23.08,
+      "currency": "",
+      "declaredValue": 46160,
+      "source": "fund"
+    },
+    {
+      "name": "統一黑馬基金",
+      "owner": "鍾佳濱",
+      "institution": "高 雄 銀 行 九 如 分行",
+      "units": 83.78,
+      "unitValue": 223.17,
+      "currency": "",
+      "declaredValue": 18697,
+      "source": "fund"
+    },
+    {
+      "name": "統一黑馬基金",
+      "owner": "鍾佳濱",
+      "institution": "高 雄 銀 行 九 如 分行",
+      "units": 54.78,
+      "unitValue": 223.17,
+      "currency": "",
+      "declaredValue": 12225,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣屏東巿北平段",
+      "owner": "鍾佳濱",
+      "date": "2015-11-17",
+      "effectiveAreaPing": 77,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市三民區三塊厝段四小段 (交付玉山銀行信託部信託)",
+      "owner": "鍾佳濱",
+      "date": "2008-06-03",
+      "effectiveAreaPing": 29,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "芳村區芳村大道(○○○○圖○ 幅)",
+      "owner": "鍾佳濱",
+      "date": "1999-03-29",
+      "effectiveAreaPing": 25.92,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

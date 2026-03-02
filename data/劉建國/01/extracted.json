@@ -1,0 +1,186 @@
+{
+  "name": "劉建國",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 16696440,
+    "items": [
+      {
+        "institution": "臺灣銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 11607488
+      },
+      {
+        "institution": "合庫商業銀行斗六分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 275
+      },
+      {
+        "institution": "華南銀行斗六分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 7728
+      },
+      {
+        "institution": "華南銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 2479827
+      },
+      {
+        "institution": "臺灣企銀斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 153156
+      },
+      {
+        "institution": "京城商業銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 408636
+      },
+      {
+        "institution": "京城商業銀行崙背分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 58909
+      },
+      {
+        "institution": "雲林縣斗六市農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 307032
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 287933
+      },
+      {
+        "institution": "中信銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 1369490
+      },
+      {
+        "institution": "中信銀行復興分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 6000
+      },
+      {
+        "institution": "中信銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉建國",
+        "foreignAmount": 0,
+        "amount": 9966
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀丙型",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "劉建國",
+        "contractType": "投資型壽險",
+        "period": "94 年 08 月 21 日/157 年 08 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "真安心住院醫療 終身",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "劉建國",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 19 日/156 年 11 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "真安順手術醫療 終身",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "劉建國",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 06 日/156 年 11 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "劉建國",
+        "contractType": "儲蓄型壽險",
+        "period": "79 年 08 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽富利高 升終身壽險",
+        "policyNumber": "○○○○○○○ ○○001",
+        "holder": "劉建國",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 04 日/169 年 01 月 03 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

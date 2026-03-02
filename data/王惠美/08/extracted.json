@@ -1,0 +1,359 @@
+{
+  "name": "王惠美",
+  "org": "彰化縣政府",
+  "title": "縣長",
+  "date": "",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "周明亞"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "新麥",
+        "owner": "10",
+        "shares": 1000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "合機",
+        "owner": "10",
+        "shares": 25000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "豐興",
+        "owner": "10",
+        "shares": 16000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "六暉-KY",
+        "owner": "10",
+        "shares": 20149,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "為升",
+        "owner": "10",
+        "shares": 11049,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "鴻海",
+        "owner": "10",
+        "shares": 3000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "英業達",
+        "owner": "10",
+        "shares": 22000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "廣達",
+        "owner": "10",
+        "shares": 1000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "中工",
+        "owner": "10",
+        "shares": 17000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "元大金",
+        "owner": "10",
+        "shares": 20400,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "第一金",
+        "owner": "10",
+        "shares": 10317,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "夆典",
+        "owner": "10",
+        "shares": 16320,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "景岳",
+        "owner": "10",
+        "shares": 8000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "緯創",
+        "owner": "10",
+        "shares": 20000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "先進光",
+        "owner": "10",
+        "shares": 3000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "明泰",
+        "owner": "10",
+        "shares": 9000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "洋華",
+        "owner": "10",
+        "shares": 13000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "善德生技",
+        "owner": "10",
+        "shares": 168400,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "全訊",
+        "owner": "10",
+        "shares": 1100,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "寶島科",
+        "owner": "10",
+        "shares": 21000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "聖暉",
+        "owner": "10",
+        "shares": 1000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "中租-KY",
+        "owner": "10",
+        "shares": 10180,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "合庫金",
+        "owner": "10",
+        "shares": 31050,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "高僑",
+        "owner": "10",
+        "shares": 40000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "國璽幹細胞",
+        "owner": "10",
+        "shares": 3000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "上洋",
+        "owner": "10",
+        "shares": 1000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "秀育",
+        "owner": "10",
+        "shares": 13000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "衛司特",
+        "owner": "10",
+        "shares": 5000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "百和興業-KY",
+        "owner": "10",
+        "shares": 10000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "百和",
+        "owner": "10",
+        "shares": 9000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "宏洲",
+        "owner": "10",
+        "shares": 24000,
+        "trustee": "王惠美",
+        "transferDate": "3個月內售出",
+        "faceValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

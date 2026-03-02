@@ -1,0 +1,668 @@
+{
+  "name": "陳秀",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳瑞斌"
+    }
+  ],
+  "land": [
+    {
+      "location": "彰化縣福興鄉福鹿段",
+      "area": 107.26,
+      "share": "全部",
+      "owner": "陳秀",
+      "date": "106年11月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉福鹿段",
+      "area": 117.78,
+      "share": "6 分之 1",
+      "owner": "陳秀",
+      "date": "106年11月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣鹿港鎮洛津段",
+      "area": 70.14,
+      "share": "全部",
+      "owner": "陳瑞斌",
+      "date": "96年04月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉元興段",
+      "area": 1613,
+      "share": "2 分之 1",
+      "owner": "陳瑞斌",
+      "date": "97年11月12日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉福園段",
+      "area": 946.1,
+      "share": "76 分之 1",
+      "owner": "陳瑞斌",
+      "date": "86年01月31日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉福園段",
+      "area": 67.26,
+      "share": "2 分之 1",
+      "owner": "陳瑞斌",
+      "date": "86年05月16日",
+      "reason": "交換",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "彰化縣福興鄉福鹿段",
+      "area": 184.13,
+      "share": "全部",
+      "owner": "陳秀",
+      "date": "106年11月30日",
+      "reason": "買賣",
+      "price": "含陽台12.5平 方公尺(超過 五年)"
+    },
+    {
+      "location": "彰化縣鹿港鎮洛津段",
+      "area": 94,
+      "share": "全部",
+      "owner": "陳瑞斌",
+      "date": "96年04月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉福園段",
+      "area": 540.23,
+      "share": "38 分之 1",
+      "owner": "陳瑞斌",
+      "date": "86年05月16日",
+      "reason": "交換",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉福園段",
+      "area": 250.9,
+      "share": "2 分之 1",
+      "owner": "陳瑞斌",
+      "date": "86年05月16日",
+      "reason": "交換",
+      "price": "含陽台 15.92 平方公尺,平 台3.67平方公 尺(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1798,
+      "owner": "陳瑞斌",
+      "date": "106年12月29日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 122250
+  },
+  "deposits": {
+    "total": 1955350,
+    "items": [
+      {
+        "institution": "臺灣銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 47509
+      },
+      {
+        "institution": "合庫商業銀行彰化分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "合庫商業銀行中興分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 483
+      },
+      {
+        "institution": "合庫商業銀行彰營分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 193
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 70577
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 662
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "陳秀",
+        "foreignAmount": 639513,
+        "amount": 132635
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳秀",
+        "foreignAmount": 1477,
+        "amount": 47143
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 24726
+      },
+      {
+        "institution": "華南銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 202
+      },
+      {
+        "institution": "彰化銀行鹿港分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 312
+      },
+      {
+        "institution": "國泰世華銀行彰化分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳秀",
+        "foreignAmount": 2030,
+        "amount": 64896
+      },
+      {
+        "institution": "國泰世華銀行彰美分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 63389
+      },
+      {
+        "institution": "兆豐國際商業銀行北彰化 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 616
+      },
+      {
+        "institution": "臺灣企銀彰化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 180
+      },
+      {
+        "institution": "臺灣新光銀行彰化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 4350
+      },
+      {
+        "institution": "彰化縣鹿港信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 44318
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 202066
+      },
+      {
+        "institution": "元大銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 18492
+      },
+      {
+        "institution": "元大銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 9751
+      },
+      {
+        "institution": "元大銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀",
+        "foreignAmount": 0,
+        "amount": 709
+      },
+      {
+        "institution": "臺灣銀行鹿港分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "臺灣銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 8220
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 4660
+      },
+      {
+        "institution": "彰化銀行總部分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 112772
+      },
+      {
+        "institution": "彰化銀行鹿港分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 159
+      },
+      {
+        "institution": "上海銀行東台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 1001
+      },
+      {
+        "institution": "國泰世華銀行彰美分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 4512
+      },
+      {
+        "institution": "匯豐台灣彰化分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 2760
+      },
+      {
+        "institution": "彰化縣鹿港信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 3788
+      },
+      {
+        "institution": "彰化縣彰化區漁會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "彰化縣鹿港鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 1082
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 1082964
+      },
+      {
+        "institution": "元大銀行鹿港分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳瑞斌",
+        "foreignAmount": 0,
+        "amount": 5
+      }
+    ]
+  },
+  "stocks": {
+    "total": 42680,
+    "items": [
+      {
+        "name": "美吾華",
+        "owner": "陳秀",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "官田鋼",
+        "owner": "陳秀",
+        "shares": 1102,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11020
+      },
+      {
+        "name": "旺宏",
+        "owner": "陳秀",
+        "shares": 20,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200
+      },
+      {
+        "name": "華碩",
+        "owner": "陳秀",
+        "shares": 25,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 250
+      },
+      {
+        "name": "研華",
+        "owner": "陳秀",
+        "shares": 21,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 210
+      },
+      {
+        "name": "亞航",
+        "owner": "陳秀",
+        "shares": 41,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 410
+      },
+      {
+        "name": "大立光",
+        "owner": "陳秀",
+        "shares": 24,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 240
+      },
+      {
+        "name": "合庫金",
+        "owner": "陳秀",
+        "shares": 1035,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10350
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "國泰永續高股息",
+        "owner": "陳秀",
+        "institution": "元 大 證 券 鹿 港 分公司",
+        "units": 1000,
+        "unitValue": 22.73,
+        "foreignCurrency": "",
+        "totalValue": 22730
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中 華 郵 政 股 份 有限公司",
+        "name": "郵政安家定期還 本終身壽險（十 年付費）",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 06 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中 華 郵 政 股 份 有限公司",
+        "name": "郵政簡易人壽常 樂增額保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 04 月 26 日/131 年 04 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增富年 年外幣增額還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山年年春還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 12 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 12 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美利成對美元",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 04 月 10 日/201 年 04 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美利成雙美元",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 04 月 10 日/201 年 04 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 09 月 09 日/160 年 09 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（繳費 10 年）",
+        "policyNumber": "○○○○○○○ ○○302",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "85 年 07 月 24 日/167 年 07 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽臻美利 美元利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "陳秀",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 08 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月康利變額年 金",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳瑞斌",
+        "contractType": "年金型保險",
+        "period": "106 年 10 月 24 日/157 年 10 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月康利變額年 金",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳瑞斌",
+        "contractType": "年金型保險",
+        "period": "106 年 10 月 24 日/157 年 10 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月康利變額年 金",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳瑞斌",
+        "contractType": "年金型保險",
+        "period": "106 年 12 月 25 日/157 年 12 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月康利變額年 金",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳瑞斌",
+        "contractType": "年金型保險",
+        "period": "106 年 12 月 25 日/157 年 12 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○003",
+        "holder": "陳瑞斌",
+        "contractType": "投資型壽險",
+        "period": "93 年 06 月 24 日/164 年 06 月 24 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 1000252,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳秀",
+        "creditor": "鹿港信用合作社營業部 彰化縣鹿港鎮中興里中山路",
+        "amount": 1000252,
+        "date": "106年12月04日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 9000,
+    "items": [
+      {
+        "investor": "陳秀",
+        "company": "彰化縣鹿港信用合作社",
+        "address": "彰化縣鹿港鎮中興里中山路 234 號",
+        "amount": 3000,
+        "date": "108年12月06日",
+        "reason": "股金"
+      },
+      {
+        "investor": "陳瑞斌",
+        "company": "彰化縣鹿港信用合作社",
+        "address": "彰化縣鹿港鎮中興里中山路 234 號",
+        "amount": 6000,
+        "date": "108年12月06日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

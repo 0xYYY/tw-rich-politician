@@ -1,0 +1,103 @@
+{
+  "name": "李彥秀",
+  "date": "2024-12-25",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 10462204
+    },
+    {
+      "currency": "日圓",
+      "amount": 184588
+    },
+    {
+      "currency": "美元",
+      "amount": 24535156
+    }
+  ],
+  "depositsTotal": 35181955,
+  "insurance": [],
+  "stocks": [
+    {
+      "name": "1★nvda",
+      "cleanName": "nvda",
+      "ticker": "NVDA",
+      "shares": 265,
+      "owner": "李彥秀",
+      "priceAtDisclosure": 4586.6,
+      "latestPrice": 5558.45
+    },
+    {
+      "name": "亞太電信股份有限公司",
+      "cleanName": "亞太電信股份有限公司",
+      "ticker": "3682",
+      "shares": 225000,
+      "owner": "李彥秀",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市南港區中南段二小段",
+      "owner": "李彥秀",
+      "date": "2003-03-27",
+      "effectiveAreaPing": 32.8,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市南港區中南段二小段",
+      "owner": "李彥秀",
+      "date": "1992-04-22",
+      "effectiveAreaPing": 32.8,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市南港區經貿段",
+      "owner": "李彥秀",
+      "date": "2011-10-14",
+      "effectiveAreaPing": 53.08,
+      "entryCount": 2,
+      "price": "920,500 (土地經貿段 四小段○○○ ○地號合建分 得之建物，超 過五年)"
+    },
+    {
+      "location": "桃園市桃園區和平段",
+      "owner": "侯冠群",
+      "date": "2001-07-18",
+      "effectiveAreaPing": 40,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段 5 小段",
+      "owner": "侯○寶",
+      "date": "2020-04-01",
+      "effectiveAreaPing": 4.5,
+      "entryCount": 1,
+      "price": "1,907,953"
+    },
+    {
+      "location": "三亞市金雞嶺路",
+      "owner": "李彥秀",
+      "date": "2005-02-04",
+      "effectiveAreaPing": 54.45,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "1★○○○candleglow Irvine ○○○○○",
+      "owner": "李彥秀",
+      "date": "2016-06-02",
+      "effectiveAreaPing": 144.51,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

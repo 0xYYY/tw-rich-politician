@@ -1,0 +1,475 @@
+{
+  "name": "王義川",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月16日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 5432.43,
+      "share": "100000 分 之 337",
+      "owner": "王義川",
+      "date": "110年08月05日",
+      "reason": "買賣",
+      "price": "6,766,000"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 2643.27,
+      "share": "100000 分 之 259",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 18342.58,
+      "share": "100000 分 之 259",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 1991.14,
+      "share": "100000 分 之 259",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 6810.3,
+      "share": "100000 分 之 714",
+      "owner": "王義川",
+      "date": "110年05月13日",
+      "reason": "塗銷信託",
+      "price": "1,998,421 (塗銷信託，以 土地公告現值 計算。)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 65.84,
+      "share": "全部",
+      "owner": "王義川",
+      "date": "110年08月05日",
+      "reason": "買賣",
+      "price": "3,834,000 (與第2筆建物 合購，含陽台 4.23 平方公 尺,雨遮1.4平 方公尺)"
+    },
+    {
+      "location": "桃園市中壢區青溪段",
+      "area": 25698.77,
+      "share": "1000000 分 之 4018",
+      "owner": "王義川",
+      "date": "110年08月05日",
+      "reason": "買賣",
+      "price": "3,834,000 (與第1筆建物 合購，共同使 用部分)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 119.87,
+      "share": "全部",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "含陽台 13.38 平方公尺(超 過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 27.18,
+      "share": "4 分之 1",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 2439.02,
+      "share": "336 分之 1",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 2132.72,
+      "share": "336 分之 1",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 332.3,
+      "share": "336 分之 1",
+      "owner": "王義川",
+      "date": "88年05月05日",
+      "reason": "拍賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 102.48,
+      "share": "全部",
+      "owner": "王義川",
+      "date": "110年05月13日",
+      "reason": "塗銷信託",
+      "price": "1,998,421(與 第 5 筆土地合 購)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 108.43,
+      "share": "10000 分之 519",
+      "owner": "王義川",
+      "date": "110年05月13日",
+      "reason": "塗銷信託",
+      "price": "1,998,421(與 第 5 筆土地合 購，共同使用 部分)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 4361.98,
+      "share": "132 分之 1",
+      "owner": "王義川",
+      "date": "110年05月13日",
+      "reason": "塗銷信託",
+      "price": "1,998,421(與 第 5 筆土地合 購，共同使用 部分)"
+    },
+    {
+      "location": "新北市新店區玫瑰段",
+      "area": 912.24,
+      "share": "100000 分 之 700",
+      "owner": "王義川",
+      "date": "110年05月13日",
+      "reason": "塗銷信託",
+      "price": "1,998,421(與 第 5 筆土地合 購，共同使用 部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1998,
+      "owner": "王義川",
+      "date": "112年04月19日",
+      "reason": "買賣",
+      "price": 650000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 548999,
+    "items": [
+      {
+        "institution": "臺灣銀行木柵分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 42816
+      },
+      {
+        "institution": "臺灣銀行中都分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 4155
+      },
+      {
+        "institution": "臺灣銀行中都分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "王義川",
+        "foreignAmount": 38,
+        "amount": 1266
+      },
+      {
+        "institution": "臺灣銀行中都分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 262
+      },
+      {
+        "institution": "臺灣銀行中都分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "王義川",
+        "foreignAmount": 621,
+        "amount": 133
+      },
+      {
+        "institution": "土地銀行平鎮分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 35200
+      },
+      {
+        "institution": "合庫商業銀行新店分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 71110
+      },
+      {
+        "institution": "第一銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 519
+      },
+      {
+        "institution": "華南銀行台大分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 140
+      },
+      {
+        "institution": "國泰世華銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 26
+      },
+      {
+        "institution": "兆豐國際商業銀行桃園國 際機場分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 79557
+      },
+      {
+        "institution": "兆豐國際商業銀行松南分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 792
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 163469
+      },
+      {
+        "institution": "玉山銀行朴子分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "王義川",
+        "foreignAmount": 151,
+        "amount": 4931
+      },
+      {
+        "institution": "玉山銀行朴子分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 1680
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 705
+      },
+      {
+        "institution": "台新國際銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 694
+      },
+      {
+        "institution": "台新國際銀行文心分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "王義川",
+        "foreignAmount": 7,
+        "amount": 31
+      },
+      {
+        "institution": "安泰銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "中信銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王義川",
+        "foreignAmount": 0,
+        "amount": 141506
+      }
+    ]
+  },
+  "stocks": {
+    "total": 61430,
+    "items": [
+      {
+        "name": "華新",
+        "owner": "王義川",
+        "shares": 2510,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 25100
+      },
+      {
+        "name": "光寶科",
+        "owner": "王義川",
+        "shares": 535,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5350
+      },
+      {
+        "name": "國巨",
+        "owner": "王義川",
+        "shares": 35,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 350
+      },
+      {
+        "name": "精英",
+        "owner": "王義川",
+        "shares": 992,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9920
+      },
+      {
+        "name": "旺宏",
+        "owner": "王義川",
+        "shares": 355,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3550
+      },
+      {
+        "name": "錸德",
+        "owner": "王義川",
+        "shares": 101,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1010
+      },
+      {
+        "name": "云辰",
+        "owner": "王義川",
+        "shares": 996,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9960
+      },
+      {
+        "name": "友達",
+        "owner": "王義川",
+        "shares": 346,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3460
+      },
+      {
+        "name": "華映",
+        "owner": "王義川",
+        "shares": 127,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1270
+      },
+      {
+        "name": "耀文電子",
+        "owner": "王義川",
+        "shares": 146,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1460
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山年年春還本 終身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "王義川",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 07 月 16 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 13414248,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王義川",
+        "creditor": "兆豐國際商銀桃園國際機場 分行 桃園市大園區航站南路",
+        "amount": 10070849,
+        "date": "110年08月11日",
+        "reason": "購不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "王義川",
+        "creditor": "臺灣銀行木柵分行 台北市文山區新光路",
+        "amount": 2875733,
+        "date": "105年05月09日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "王義川",
+        "creditor": "臺灣銀行木柵分行 台北市文山區新光路",
+        "amount": 467666,
+        "date": "105年05月09日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "name": "鍾東錦",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "苗栗縣",
+  "party": "無黨籍",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 282310213
+    },
+    {
+      "currency": "港幣",
+      "amount": 1368059
+    },
+    {
+      "currency": "美元",
+      "amount": 17282477
+    },
+    {
+      "currency": "南非幣",
+      "amount": 2300
+    },
+    {
+      "currency": "澳幣",
+      "amount": 2040
+    },
+    {
+      "currency": "歐元",
+      "amount": 124
+    }
+  ],
+  "depositsTotal": 300965216,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽快樂兒 童外幣增額還本 終身保險",
+      "holder": "鍾東錦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽金利雙 享利率變動型還 本終身保險(定期 給付型)",
+      "holder": "鍾東錦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美事年年利變",
+      "holder": "鍾東錦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "鍾東錦",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "增如意增額終身 壽險",
+      "holder": "鍾東錦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "悠富人生美元還 本終身保險(104)",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 優 利 520 還本終身保 險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽五五升 豐增額終身壽險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽五五登 峰增額終身壽險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽金美滿 外幣增額終身壽 險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽美利人 生外幣終身壽險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽富貴長 紅終身保險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽富貴長 紅終身保險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽鑫利發 終身保險(定期給 付型)",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽鑫富美 利美元利率變動 型 年 金 保 險 ( 甲 型)",
+      "holder": "陳美琦",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽鑫富雙 享變額年金保險",
+      "holder": "陳美琦",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽享美鑽 美元利率變動型 終身壽險(定期給 付型)",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽珍美利 發 2 美元利率變 動型增額終身壽 險(定期給付型)",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "兒童終身",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "泰美好利變美元",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "益美雙喜利變美 元",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添樂 111",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新美事年年利變",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鑫得利利變終身 壽",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鑫添鑫終身壽險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "新家樂 555 增值 終身壽險(乙型)",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽鑫好鑽 利率變動型增額 還本終身保險",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽新美滿 旺旺美元利率變 動型增額終身壽 險 ZY1",
+      "holder": "陳美琦",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "苗栗縣頭份市中央段",
+      "owner": "鍾東錦",
+      "date": "2021-09-01",
+      "effectiveAreaPing": 122.77,
+      "entryCount": 2,
+      "price": "18,654,642(含 陽台 11.94 平 方公尺)"
+    },
+    {
+      "location": "苗栗縣頭份市成功段",
+      "owner": "鍾東錦",
+      "date": "2007-05-29",
+      "effectiveAreaPing": 26.36,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣南庄鄉南富村",
+      "owner": "鍾東錦",
+      "date": "2019-08-28",
+      "effectiveAreaPing": 49.07,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣卓蘭鎮上新里水廠段○ ○○○地號上(稅籍號碼:○○ ○○○○○○○○○)(未交付 信託原因：未登記建物)",
+      "owner": "鍾東錦",
+      "date": "2015-10-27",
+      "effectiveAreaPing": 11.81,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣湖口鄉波羅村",
+      "owner": "陳美琦",
+      "date": "2016-11-16",
+      "effectiveAreaPing": 24.89,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣新埔鎮下寮里新湖路",
+      "owner": "陳美琦",
+      "date": "2008-04-22",
+      "effectiveAreaPing": 148.71,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣竹北市大學段",
+      "owner": "陳美琦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 169.22,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "新竹縣竹北市縣華段",
+      "owner": "陳美琦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 360.79,
+      "entryCount": 7,
+      "price": null
+    },
+    {
+      "location": "苗栗縣三灣鄉內灣段",
+      "owner": "鍾東錦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 242,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "苗栗縣卓蘭鎮水廠段",
+      "owner": "鍾東錦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 92.46,
+      "entryCount": 3,
+      "price": null
+    },
+    {
+      "location": "苗栗縣南庄鄉南埔段",
+      "owner": "鍾東錦",
+      "date": "2024-02-01",
+      "effectiveAreaPing": 129.27,
+      "entryCount": 9,
+      "price": null
+    },
+    {
+      "location": "苗栗縣後龍鎮崎頂段",
+      "owner": "鍾東錦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 54.15,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "苗栗縣銅鑼鄉老雞隆段",
+      "owner": "鍾東錦",
+      "date": "2024-02-01",
+      "effectiveAreaPing": 15225.35,
+      "entryCount": 5,
+      "price": null
+    },
+    {
+      "location": "苗栗縣頭份市尖山下段",
+      "owner": "鍾東錦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 1593.33,
+      "entryCount": 17,
+      "price": null
+    },
+    {
+      "location": "苗栗縣頭份市成功段",
+      "owner": "鍾東錦",
+      "date": "2024-02-01",
+      "effectiveAreaPing": 0.35,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "苗栗縣頭份市德義段",
+      "owner": "鍾東錦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 0.06,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "苗栗縣南庄鄉四灣段",
+      "owner": "陳美琦",
+      "date": "2024-02-01",
+      "effectiveAreaPing": 1184.75,
+      "entryCount": 7,
+      "price": null
+    },
+    {
+      "location": "苗栗縣南庄鄉四灣段",
+      "owner": "陳美琦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 2319.11,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "苗栗縣頭份市中興段",
+      "owner": "陳美琦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 79.94,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "苗栗縣頭份市顯會段",
+      "owner": "陳美琦",
+      "date": "2024-02-01",
+      "effectiveAreaPing": 374.01,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "新竹縣湖口鄉北湖段",
+      "owner": "陳美琦",
+      "date": "2023-12-27",
+      "effectiveAreaPing": 9.67,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "新竹縣新埔鎮下寮段",
+      "owner": "陳美琦",
+      "date": "2024-02-02",
+      "effectiveAreaPing": 61.41,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "新竹縣新埔鎮和平段",
+      "owner": "陳美琦",
+      "date": "2023-12-20",
+      "effectiveAreaPing": 219.29,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "苗栗縣竹南鎮新南段",
+      "owner": "鍾東錦",
+      "date": null,
+      "effectiveAreaPing": 94.37,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "新竹縣竹北市中興段",
+      "owner": "陳美琦",
+      "date": "2024-02-02",
+      "effectiveAreaPing": 5.03,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

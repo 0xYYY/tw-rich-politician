@@ -1,0 +1,49 @@
+{
+  "name": "林姿妙",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "宜蘭縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 999363
+    }
+  ],
+  "depositsTotal": 999363,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "全福 101 終身",
+      "holder": "林姿妙",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 202 終 身",
+      "holder": "林姿妙",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "宜蘭縣羅東鎮興東段",
+      "owner": "林姿妙",
+      "date": "2020-07-29",
+      "effectiveAreaPing": 164.61,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "宜蘭縣羅東鎮東安段",
+      "owner": "林姿妙",
+      "date": "2020-07-29",
+      "effectiveAreaPing": 64.13,
+      "entryCount": 2,
+      "price": null
+    }
+  ]
+}

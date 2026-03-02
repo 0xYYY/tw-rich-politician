@@ -1,0 +1,929 @@
+{
+  "name": "林思銘",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳靜芳"
+    }
+  ],
+  "land": [
+    {
+      "location": "新竹縣北埔鄉湖西段",
+      "area": 485,
+      "share": "2 分之 1",
+      "owner": "林思銘",
+      "date": "96年06月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣北埔鄉湖西段",
+      "area": 1872,
+      "share": "2 分之 1",
+      "owner": "林思銘",
+      "date": "96年06月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣竹東鎮東寧段",
+      "area": 124,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "111年05月04日",
+      "reason": "買賣",
+      "price": "14,000,000"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 757,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 3293,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 7371,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 829,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 199,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 228,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 5379,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 6172,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣寶山鄉大壢段下大壢小 段",
+      "area": 242,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "107年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣竹東鎮鷄油林段",
+      "area": 792,
+      "share": "100000 分 之 3510",
+      "owner": "陳靜芳",
+      "date": "104年01月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣竹東鎮鷄油林段",
+      "area": 71,
+      "share": "全部",
+      "owner": "陳靜芳",
+      "date": "104年01月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣竹東鎮鷄油林段",
+      "area": 7,
+      "share": "10000 分之 339",
+      "owner": "陳靜芳",
+      "date": "104年01月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹縣竹東鎮東寧段",
+      "area": 214.65,
+      "share": "全部",
+      "owner": "林思銘",
+      "date": "111年05月04日",
+      "reason": "買賣",
+      "price": "6,000,000(含 陽台5.78平方 公尺)"
+    },
+    {
+      "location": "新竹縣竹東鎮鷄油林段",
+      "area": 16.82,
+      "share": "10000 分之 339",
+      "owner": "陳靜芳",
+      "date": "104年01月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹縣竹東鎮鷄油林段",
+      "area": 242.38,
+      "share": "全部",
+      "owner": "陳靜芳",
+      "date": "104年01月20日",
+      "reason": "買賣",
+      "price": "含陽台6.06平 方公尺(超過 五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "cc": 1995,
+      "owner": "林思銘",
+      "date": "113年10月28日",
+      "reason": "買賣",
+      "price": 900000
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "cc": 1595,
+      "owner": "陳靜芳",
+      "date": "104年05月05日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "納智捷",
+      "cc": 1556,
+      "owner": "陳靜芳",
+      "date": "107年04月12日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "BMW",
+      "cc": 1998,
+      "owner": "陳靜芳",
+      "date": "113年02月16日",
+      "reason": "買賣",
+      "price": 1480000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1503098,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 1083721
+      },
+      {
+        "institution": "土地銀行竹東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 964
+      },
+      {
+        "institution": "合庫商業銀行北新竹分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 56
+      },
+      {
+        "institution": "合庫商業銀行北新竹分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 182989
+      },
+      {
+        "institution": "第一銀行竹東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 567
+      },
+      {
+        "institution": "上海銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 55
+      },
+      {
+        "institution": "國泰世華銀行中正分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 789
+      },
+      {
+        "institution": "國泰世華銀行竹城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 1360
+      },
+      {
+        "institution": "臺灣企銀竹北分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 170
+      },
+      {
+        "institution": "臺灣新光銀行竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 3275
+      },
+      {
+        "institution": "臺灣新光銀行竹科分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 42
+      },
+      {
+        "institution": "陽信銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 369
+      },
+      {
+        "institution": "新竹第三信用合作社西門 分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 4903
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 2082
+      },
+      {
+        "institution": "永豐銀行大里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 2400
+      },
+      {
+        "institution": "玉山銀行雙和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 851
+      },
+      {
+        "institution": "凱基銀行風城分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 8851
+      },
+      {
+        "institution": "台新國際銀行關東橋分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 52
+      },
+      {
+        "institution": "中信銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 8
+      },
+      {
+        "institution": "中信銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 230
+      },
+      {
+        "institution": "新竹縣芎林鄉農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 5386
+      },
+      {
+        "institution": "新竹縣橫山地區農會信用 部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林思銘",
+        "foreignAmount": 0,
+        "amount": 4957
+      },
+      {
+        "institution": "臺灣銀行民生分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "合庫商業銀行新竹分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 132
+      },
+      {
+        "institution": "合庫商業銀行中和分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 92
+      },
+      {
+        "institution": "合庫商業銀行北新竹分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 131
+      },
+      {
+        "institution": "合庫商業銀行北新竹分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "第一銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 261
+      },
+      {
+        "institution": "第一銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 72
+      },
+      {
+        "institution": "上海銀行儲蓄部分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 15320
+      },
+      {
+        "institution": "上海銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 3687
+      },
+      {
+        "institution": "國泰世華銀行建成分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 53
+      },
+      {
+        "institution": "國泰世華銀行新竹分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 20
+      },
+      {
+        "institution": "國泰世華銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 613
+      },
+      {
+        "institution": "國泰世華銀行後埔分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 43
+      },
+      {
+        "institution": "兆豐國際商業銀行竹北分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳靜芳",
+        "foreignAmount": 3,
+        "amount": 125
+      },
+      {
+        "institution": "兆豐國際商業銀行竹北分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 1627
+      },
+      {
+        "institution": "臺灣新光銀行竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 56305
+      },
+      {
+        "institution": "臺灣新光銀行竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 5758
+      },
+      {
+        "institution": "新竹第一信用合作社營業 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 36172
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 393
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 8298
+      },
+      {
+        "institution": "聯邦銀行南京東路分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 66
+      },
+      {
+        "institution": "聯邦銀行南京東路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 112
+      },
+      {
+        "institution": "元大銀行台北分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 1624
+      },
+      {
+        "institution": "元大銀行台北分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 11115
+      },
+      {
+        "institution": "元大銀行大同分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 22948
+      },
+      {
+        "institution": "凱基銀行竹科分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 29786
+      },
+      {
+        "institution": "台新國際銀行新竹分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 1240
+      },
+      {
+        "institution": "台新國際銀行復興分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "安泰銀行新竹分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳靜芳",
+        "foreignAmount": 12,
+        "amount": 397
+      },
+      {
+        "institution": "安泰銀行新竹分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 814
+      },
+      {
+        "institution": "中信銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 140
+      },
+      {
+        "institution": "中信銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 529
+      },
+      {
+        "institution": "中信銀行北新莊分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳靜芳",
+        "foreignAmount": 0,
+        "amount": 77
+      }
+    ]
+  },
+  "stocks": {
+    "total": 41860,
+    "items": [
+      {
+        "name": "臺化",
+        "owner": "陳靜芳",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中纖",
+        "owner": "陳靜芳",
+        "shares": 341,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3410
+      },
+      {
+        "name": "中纖",
+        "owner": "陳靜芳",
+        "shares": 80,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 800
+      },
+      {
+        "name": "正新",
+        "owner": "陳靜芳",
+        "shares": 285,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2850
+      },
+      {
+        "name": "裕隆",
+        "owner": "陳靜芳",
+        "shares": 129,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1290
+      },
+      {
+        "name": "裕隆",
+        "owner": "陳靜芳",
+        "shares": 5,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50
+      },
+      {
+        "name": "聯電",
+        "owner": "陳靜芳",
+        "shares": 641,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6410
+      },
+      {
+        "name": "聯電",
+        "owner": "陳靜芳",
+        "shares": 561,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5610
+      },
+      {
+        "name": "仲琦",
+        "owner": "陳靜芳",
+        "shares": 802,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8020
+      },
+      {
+        "name": "新光金",
+        "owner": "陳靜芳",
+        "shares": 200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2000
+      },
+      {
+        "name": "新光金",
+        "owner": "陳靜芳",
+        "shares": 15,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150
+      },
+      {
+        "name": "永豐金",
+        "owner": "陳靜芳",
+        "shares": 96,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 960
+      },
+      {
+        "name": "永豐金",
+        "owner": "陳靜芳",
+        "shares": 31,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 310
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽心安防 癌養老保險",
+        "policyNumber": "○○○○○○○ ○○203",
+        "holder": "林思銘",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 04 月 25 日/121 年 04 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "法 商 法 國 巴 黎 人 壽 保 險 股 份 有 限 公 司 台 灣 分公司",
+        "name": "法商法國巴黎人 壽健康醫靠終身 健康保險(甲型)",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳靜芳",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 04 月 28 日/163 年 04 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金來寶 小額終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "陳靜芳",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 04 月 27 日/195 年 04 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金來寶 小額終身壽險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "陳靜芳",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 04 月 27 日/197 年 04 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "永鑫安終身保險 乙型",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳靜芳",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 06 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "百利終身壽險乙 型",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "陳靜芳",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 07 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "富加寶保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳靜芳",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 10 月 03 日/122 年 10 月 03 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 62350974,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林思銘",
+        "creditor": "凱基商業銀行股份有限公司 臺北市松山區敦化北路",
+        "amount": 3286871,
+        "date": "111年03月18日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "林思銘",
+        "creditor": "新竹縣橫山地區農會信用部 新竹縣橫山鄉新興村新興街",
+        "amount": 35000000,
+        "date": "107年05月16日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "林思銘",
+        "creditor": "臺灣土地銀行竹東分行 新竹縣竹東鎮東林路",
+        "amount": 15034751,
+        "date": "111年05月20日",
+        "reason": "購買住宅貸 款(自用)"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳靜芳",
+        "creditor": "臺灣新光商業銀行竹北分行 新竹縣竹北市中華路",
+        "amount": 7610741,
+        "date": "110年09月02日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳靜芳",
+        "creditor": "臺灣新光商業銀行竹北分行 新竹縣竹北市中華路",
+        "amount": 752676,
+        "date": "110年09月02日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳靜芳",
+        "creditor": "臺灣新光商業銀行竹北分行 新竹縣竹北市中華路",
+        "amount": 665935,
+        "date": "110年09月02日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 4000,
+    "items": [
+      {
+        "investor": "林思銘",
+        "company": "新竹第三信用合作社",
+        "address": "新竹市北大路 282 號",
+        "amount": 2000,
+        "date": "99年03月31日",
+        "reason": "股金"
+      },
+      {
+        "investor": "陳靜芳",
+        "company": "新竹第一信用合作社",
+        "address": "新竹市大同路 130 號",
+        "amount": 2000,
+        "date": "104年01月14日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

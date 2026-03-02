@@ -1,0 +1,118 @@
+{
+  "name": "賴惠員",
+  "date": "2024-11-30",
+  "type": "legislator",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "國泰人壽",
+      "name": "富貴年年終身壽 險",
+      "holder": "張志仁",
+      "contractType": "儲蓄年金"
+    },
+    {
+      "company": "新光人壽",
+      "name": "傳家寶終身還本",
+      "holder": "張志仁",
+      "contractType": "儲蓄年金"
+    },
+    {
+      "company": "新光人壽",
+      "name": "金寶貝終身還本",
+      "holder": "張志仁",
+      "contractType": "儲蓄年金"
+    },
+    {
+      "company": "新光人壽",
+      "name": "傳家寶終身還本",
+      "holder": "張志仁",
+      "contractType": "儲蓄年金"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "磐儀",
+      "cleanName": "磐儀",
+      "ticker": "3594",
+      "shares": 37000,
+      "owner": "賴惠員",
+      "priceAtDisclosure": 45.9,
+      "latestPrice": 39.2
+    },
+    {
+      "name": "前鼎",
+      "cleanName": "前鼎",
+      "ticker": "4908",
+      "shares": 4000,
+      "owner": "賴惠員",
+      "priceAtDisclosure": 88.9,
+      "latestPrice": 87.1
+    },
+    {
+      "name": "天鈺",
+      "cleanName": "天鈺",
+      "ticker": "4961",
+      "shares": 2600,
+      "owner": "賴惠員",
+      "priceAtDisclosure": 240,
+      "latestPrice": 148.5
+    },
+    {
+      "name": "十銓",
+      "cleanName": "十銓",
+      "ticker": "4967",
+      "shares": 12000,
+      "owner": "賴惠員",
+      "priceAtDisclosure": 85.8,
+      "latestPrice": 204.5
+    },
+    {
+      "name": "北基",
+      "cleanName": "北基",
+      "ticker": "8927",
+      "shares": 5000,
+      "owner": "賴惠員",
+      "priceAtDisclosure": 52.7,
+      "latestPrice": 24.1
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺南市新營區大同段(四層樓)",
+      "owner": "張志仁",
+      "date": "1993-01-30",
+      "effectiveAreaPing": 103.15,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市後壁區頭前段(二層樓)",
+      "owner": "張志仁",
+      "date": "1979-08-01",
+      "effectiveAreaPing": 33.88,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市東區竹篙厝段",
+      "owner": "賴惠員",
+      "date": "2016-06-27",
+      "effectiveAreaPing": 72.02,
+      "entryCount": 1,
+      "price": "20,880,000"
+    },
+    {
+      "location": "臺南市東區竹篙厝段(車位)",
+      "owner": "賴惠員",
+      "date": "2016-06-27",
+      "effectiveAreaPing": 11.71,
+      "entryCount": 1,
+      "price": "1,150,000"
+    }
+  ]
+}

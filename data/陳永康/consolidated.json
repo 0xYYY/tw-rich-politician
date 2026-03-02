@@ -1,0 +1,243 @@
+{
+  "name": "陳永康",
+  "date": "2024-04-26",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 19070539
+    },
+    {
+      "currency": "美元",
+      "amount": 222927
+    }
+  ],
+  "depositsTotal": 19293466,
+  "insurance": [
+    {
+      "company": "南山人壽",
+      "name": "年年鑽利率變動 型養老保險",
+      "holder": "陳永康",
+      "contractType": "年金型"
+    },
+    {
+      "company": "中華郵政",
+      "name": "郵政簡易人壽常 春增額還本保險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "中華郵政",
+      "name": "郵政簡易人壽常 春增額還本保險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "XLG 富利豐終身 壽險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "XLJ 安康久久殘 廢照護終身壽險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "富邦人壽",
+      "name": "AHNZ 新 平 安 福 保本保險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "安泰人壽",
+      "name": "LPL 分紅終身壽 險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "安泰人壽",
+      "name": "LESA 還 本 終 身 壽險",
+      "holder": "王森",
+      "contractType": "儲蓄型"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 782,
+      "latestPrice": 1995
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 49.8,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "中華開發",
+      "cleanName": "中華開發",
+      "ticker": "2883",
+      "shares": 3000,
+      "owner": "陳永康",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "五鼎",
+      "cleanName": "五鼎",
+      "ticker": "1733",
+      "shares": 1000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 33.75,
+      "latestPrice": 30.25
+    },
+    {
+      "name": "鋐寶",
+      "cleanName": "鋐寶",
+      "ticker": "6674",
+      "shares": 1000,
+      "owner": "陳永康",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "耀華",
+      "cleanName": "耀華",
+      "ticker": "2367",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "春源",
+      "cleanName": "春源",
+      "ticker": "2010",
+      "shares": 3000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 21.5,
+      "latestPrice": 22.9
+    },
+    {
+      "name": "中鴻",
+      "cleanName": "中鴻",
+      "ticker": "2014",
+      "shares": 4000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 23.2,
+      "latestPrice": 18.15
+    },
+    {
+      "name": "萬泰科",
+      "cleanName": "萬泰科",
+      "ticker": "6190",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 38.7,
+      "latestPrice": 51.1
+    },
+    {
+      "name": "美琪瑪",
+      "cleanName": "美琪瑪",
+      "ticker": "4721",
+      "shares": 1000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 69,
+      "latestPrice": 67.3
+    },
+    {
+      "name": "普誠",
+      "cleanName": "普誠",
+      "ticker": "6129",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 24,
+      "latestPrice": 15.85
+    },
+    {
+      "name": "鈺創",
+      "cleanName": "鈺創",
+      "ticker": "5351",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 47.45,
+      "latestPrice": 58.8
+    },
+    {
+      "name": "星宇航空",
+      "cleanName": "星宇航空",
+      "ticker": "2646",
+      "shares": 3000,
+      "owner": "陳永康",
+      "priceAtDisclosure": null,
+      "latestPrice": 22.9
+    },
+    {
+      "name": "益得",
+      "cleanName": "益得",
+      "ticker": "6461",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 27.3,
+      "latestPrice": 23.9
+    },
+    {
+      "name": "萬海航運",
+      "cleanName": "萬海航運",
+      "ticker": "2615",
+      "shares": 1000,
+      "owner": "陳永康",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "合晶",
+      "cleanName": "合晶",
+      "ticker": "6182",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 39.2,
+      "latestPrice": 36.25
+    },
+    {
+      "name": "永捷",
+      "cleanName": "永捷",
+      "ticker": "4714",
+      "shares": 2000,
+      "owner": "陳永康",
+      "priceAtDisclosure": 20,
+      "latestPrice": 16.85
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市樹林區大學段二小段",
+      "owner": "陳永康",
+      "date": "2009-01-12",
+      "effectiveAreaPing": 27.62,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市前金區博孝段",
+      "owner": "陳永康",
+      "date": "2016-06-04",
+      "effectiveAreaPing": 28.15,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

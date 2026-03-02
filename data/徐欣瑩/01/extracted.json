@@ -1,0 +1,209 @@
+{
+  "name": "徐欣瑩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年04月30日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [
+    {
+      "location": "新竹縣竹北市竹仁段",
+      "area": 3417.67,
+      "share": "10000 分之 93",
+      "owner": "徐欣瑩",
+      "date": "110年04月16日",
+      "reason": "買賣",
+      "price": "3,000,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹縣竹北市竹仁段",
+      "area": 91.17,
+      "share": "全部",
+      "owner": "徐欣瑩",
+      "date": "110年04月16日",
+      "reason": "買賣",
+      "price": "3,000,000(房 地總價額)"
+    },
+    {
+      "location": "新竹縣竹北市竹仁段",
+      "area": 10.19,
+      "share": "142 分之 1",
+      "owner": "徐欣瑩",
+      "date": "110年04月16日",
+      "reason": "買賣",
+      "price": "3,000,000(房 地總價額)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 708566,
+    "items": [
+      {
+        "institution": "★臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐欣瑩",
+        "foreignAmount": 0,
+        "amount": 581978
+      },
+      {
+        "institution": "★臺灣銀行六家分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "徐欣瑩",
+        "foreignAmount": 3894,
+        "amount": 126571
+      },
+      {
+        "institution": "★臺灣銀行六家分行",
+        "type": "活期存款",
+        "currency": "港幣",
+        "owner": "徐欣瑩",
+        "foreignAmount": 4,
+        "amount": 17
+      }
+    ]
+  },
+  "stocks": {
+    "total": 548990,
+    "items": [
+      {
+        "name": "中鋼",
+        "owner": "徐欣瑩",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "聯電",
+        "owner": "徐欣瑩",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "國巨",
+        "owner": "徐欣瑩",
+        "shares": 795,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7950
+      },
+      {
+        "name": "玉晶光",
+        "owner": "徐欣瑩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "佳凌",
+        "owner": "徐欣瑩",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "三鼎生技",
+        "owner": "徐欣瑩",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "雲云科技股份有限公司",
+        "owner": "徐欣瑩",
+        "shares": 10290,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 102900
+      },
+      {
+        "name": "糖話國際股份有限公司",
+        "owner": "徐欣瑩",
+        "shares": 23814,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 238140
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "JP 美科權",
+        "owner": "徐欣瑩",
+        "institution": "臺 灣 銀 行 股 份 有限公司",
+        "units": 110.125,
+        "unitValue": 48.2,
+        "foreignCurrency": "美元",
+        "totalValue": 170626
+      },
+      {
+        "name": "安聯收益南息",
+        "owner": "徐欣瑩",
+        "institution": "臺 灣 銀 行 股 份 有限公司",
+        "units": 3819.926,
+        "unitValue": 104.09,
+        "foreignCurrency": "南非幣",
+        "totalValue": 675152
+      },
+      {
+        "name": "安聯收益美息",
+        "owner": "徐欣瑩",
+        "institution": "臺 灣 銀 行 股 份 有限公司",
+        "units": 1613.91,
+        "unitValue": 8.1195,
+        "foreignCurrency": "美元",
+        "totalValue": 421232
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "增 美 利 外 幣 增 額終身壽險",
+        "policyNumber": "○○○○○○○ ○○4-01",
+        "holder": "徐欣瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "金 美 利 美 元 還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "徐欣瑩",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 30 日/172 年 04 月 23 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

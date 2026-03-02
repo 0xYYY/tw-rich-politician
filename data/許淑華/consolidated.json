@@ -1,0 +1,38 @@
+{
+  "name": "許淑華",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "南投縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8172283
+    }
+  ],
+  "depositsTotal": 8172283,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 金 富多終身保險",
+      "holder": "許淑華",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 鑫 滿 利 足 利 率 變 動 型終身壽險",
+      "holder": "許淑華",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南 山 新 年 年 春 還本終身保險",
+      "holder": "許淑華",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

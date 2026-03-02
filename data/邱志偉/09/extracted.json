@@ -1,0 +1,99 @@
+{
+  "name": "邱志偉",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月05日",
+  "type": "前次申報日期民國112年11月16日起，本次定期申報日113年12月05日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "安田陽子"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "新興",
+        "broker": "臺銀證券",
+        "owner": "邱志偉",
+        "shares": 24000,
+        "pricePerShare": "36.25",
+        "changeDate": "113年05月29日",
+        "changeReason": "賣出",
+        "totalValue": 870000
+      },
+      {
+        "name": "熒茂",
+        "broker": "臺銀證券",
+        "owner": "邱志偉",
+        "shares": 6000,
+        "pricePerShare": "19.05",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣出",
+        "totalValue": 114300
+      },
+      {
+        "name": "熒茂",
+        "broker": "臺銀證券",
+        "owner": "邱志偉",
+        "shares": 2000,
+        "pricePerShare": "18.35",
+        "changeDate": "113年04月03日",
+        "changeReason": "賣出",
+        "totalValue": 36700
+      },
+      {
+        "name": "熒茂",
+        "broker": "臺銀證券",
+        "owner": "邱志偉",
+        "shares": 8000,
+        "pricePerShare": "17.30",
+        "changeDate": "113年04月22日",
+        "changeReason": "賣出",
+        "totalValue": 138400
+      },
+      {
+        "name": "頎邦科技",
+        "broker": "臺銀證券",
+        "owner": "邱志偉",
+        "shares": 26000,
+        "pricePerShare": "77.77",
+        "changeDate": "112年12月14日",
+        "changeReason": "賣出",
+        "totalValue": 2022020
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

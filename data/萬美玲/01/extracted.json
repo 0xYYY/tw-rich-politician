@@ -1,0 +1,595 @@
+{
+  "name": "萬美玲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "佀同似"
+    }
+  ],
+  "land": [
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 3968.84,
+      "share": "100000 分 之 436",
+      "owner": "萬美玲",
+      "date": "93年04月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 44.3,
+      "share": "100000 分 之 436",
+      "owner": "萬美玲",
+      "date": "93年04月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": 41906,
+      "share": "410000 分 之 2",
+      "owner": "萬美玲",
+      "date": "105年09月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市中壢區上嶺段",
+      "area": 6966.57,
+      "share": "30 分之 1",
+      "owner": "佀同似",
+      "date": "113年05月16日",
+      "reason": "信託",
+      "price": "3,000,000"
+    },
+    {
+      "location": "桃園市中壢區永清段",
+      "area": 457.11,
+      "share": "500 分 之 197",
+      "owner": "佀同似",
+      "date": "103年03月19日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市中壢區富強段",
+      "area": 736.8,
+      "share": "2 分之 1",
+      "owner": "佀同似",
+      "date": "107年11月21日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 3968.84,
+      "share": "100000 分 之 436",
+      "owner": "佀同似",
+      "date": "87年09月10日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 44.3,
+      "share": "100000 分 之 436",
+      "owner": "佀同似",
+      "date": "87年12月14日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 90.14,
+      "share": "全部",
+      "owner": "萬美玲",
+      "date": "93年04月02日",
+      "reason": "買賣",
+      "price": "含陽台9.77平 方公尺(超過 五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 3206.66,
+      "share": "85 分之 1",
+      "owner": "萬美玲",
+      "date": "93年04月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 4916.35,
+      "share": "100000 分 之 436",
+      "owner": "萬美玲",
+      "date": "93年04月02日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 90.14,
+      "share": "全部",
+      "owner": "佀同似",
+      "date": "87年09月10日",
+      "reason": "夫妻贈與",
+      "price": "含陽台9.77平 方公尺(超過 五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "area": 4916.35,
+      "share": "100000 分 之 436",
+      "owner": "佀同似",
+      "date": "87年09月10日",
+      "reason": "夫妻贈與",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 29899584,
+    "items": [
+      {
+        "institution": "臺灣銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 16715496
+      },
+      {
+        "institution": "土地銀行北桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 750
+      },
+      {
+        "institution": "合庫商業銀行三重分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 998
+      },
+      {
+        "institution": "合庫商業銀行南桃園分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 445
+      },
+      {
+        "institution": "第一銀行大坪林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 57
+      },
+      {
+        "institution": "第一銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 1247
+      },
+      {
+        "institution": "華南銀行北新分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 373
+      },
+      {
+        "institution": "華南銀行壢昌分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 369
+      },
+      {
+        "institution": "上海銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 9
+      },
+      {
+        "institution": "台北富邦銀行南港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 132
+      },
+      {
+        "institution": "臺灣企銀桃園分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 1169
+      },
+      {
+        "institution": "渣打國際商銀三民分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "渣打國際商銀三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 200
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 821
+      },
+      {
+        "institution": "元大銀行成功分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "萬美玲",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "臺灣銀行桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 420056
+      },
+      {
+        "institution": "臺灣銀行桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 10456
+      },
+      {
+        "institution": "土地銀行八德分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1159
+      },
+      {
+        "institution": "土地銀行北桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 7211
+      },
+      {
+        "institution": "華南銀行北新分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 3421
+      },
+      {
+        "institution": "華南銀行北桃園分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 4620
+      },
+      {
+        "institution": "上海銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 931
+      },
+      {
+        "institution": "兆豐國際商業銀行北中壢 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 16
+      },
+      {
+        "institution": "台中銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 2309031
+      },
+      {
+        "institution": "台中銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 262264
+      },
+      {
+        "institution": "台中銀行南崁分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1384
+      },
+      {
+        "institution": "台中銀行南崁分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 446
+      },
+      {
+        "institution": "臺灣新光銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "陽信銀行南桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 331465
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 4615435
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "佀同似",
+        "foreignAmount": 6,
+        "amount": 201
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 4163322
+      },
+      {
+        "institution": "聯邦銀行桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1564
+      },
+      {
+        "institution": "聯邦銀行迴龍分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 2956
+      },
+      {
+        "institution": "遠東國際銀行桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 6769
+      },
+      {
+        "institution": "玉山銀行桃園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 32300
+      },
+      {
+        "institution": "星展台灣資訊暨營運管理 處",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1485
+      },
+      {
+        "institution": "星展大興分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "星展大興分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "安泰銀行北桃園簡易型分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "中信銀行藝文分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "佀同似",
+        "foreignAmount": 0,
+        "amount": 1000
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美滿人 生長期照顧終身 保險",
+        "policyNumber": "",
+        "holder": "萬美玲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "",
+        "holder": "萬美玲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "",
+        "holder": "萬美玲",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山重大疾病終 身壽險",
+        "policyNumber": "",
+        "holder": "萬美玲",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 10 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美滿人 生長期照顧終身 保險",
+        "policyNumber": "",
+        "holder": "佀同似",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "",
+        "holder": "佀同似",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "",
+        "holder": "佀同似",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽美多傳 家外幣利率變動 型終身壽險（定 期給付型）",
+        "policyNumber": "",
+        "holder": "佀同似",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 04 月 21 日/163 年 04 月 21 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 5000000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "佀同似",
+        "creditor": "聯邦商業銀行桃園分行 桃園市桃園區縣府路",
+        "amount": 5000000,
+        "date": "113年10月25日",
+        "reason": "週 轉 金 - 投 資理財"
+      }
+    ]
+  },
+  "investments": {
+    "total": 20000000,
+    "items": [
+      {
+        "investor": "佀同似",
+        "company": "傳洋有限公司",
+        "address": "桃園市桃園區中正路 1351 號 6 樓",
+        "amount": 20000000,
+        "date": "109年03月16日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

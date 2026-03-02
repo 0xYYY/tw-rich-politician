@@ -1,0 +1,51 @@
+{
+  "name": "牛煦庭",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1619797
+    }
+  ],
+  "depositsTotal": 1619797,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+      "holder": "牛煦庭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "卓越理財",
+      "holder": "楊貞儀",
+      "contractType": "投資型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "崧騰",
+      "cleanName": "崧騰",
+      "ticker": "3484",
+      "shares": 10000,
+      "owner": "牛煦庭",
+      "priceAtDisclosure": 52.7,
+      "latestPrice": 48.95
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市龜山區文化段",
+      "owner": "牛煦庭",
+      "date": "2024-03-29",
+      "effectiveAreaPing": 54.93,
+      "entryCount": 2,
+      "price": "24,800,000(與 土地合購)"
+    }
+  ]
+}

@@ -1,0 +1,1269 @@
+{
+  "name": "賴惠員",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月30日",
+  "type": "前次申報日期民國112年12月13日起，本次定期申報日113年11月30日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張志仁"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "陽明",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "56",
+        "changeDate": "112年12月22日",
+        "changeReason": "賣",
+        "totalValue": 168000
+      },
+      {
+        "name": "光洋科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 110,
+        "pricePerShare": "38.80",
+        "changeDate": "112年12月27日",
+        "changeReason": "賣",
+        "totalValue": 4268
+      },
+      {
+        "name": "日勝生",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 104,
+        "pricePerShare": "9.97",
+        "changeDate": "112年12月27日",
+        "changeReason": "賣",
+        "totalValue": 1036
+      },
+      {
+        "name": "博士旺",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 126,
+        "pricePerShare": "30.95",
+        "changeDate": "112年12月27日",
+        "changeReason": "賣",
+        "totalValue": 3899
+      },
+      {
+        "name": "緯創",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "94.90",
+        "changeDate": "113年01月08日",
+        "changeReason": "買",
+        "totalValue": 474500
+      },
+      {
+        "name": "緯創",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "94.90",
+        "changeDate": "113年01月08日",
+        "changeReason": "買",
+        "totalValue": 474500
+      },
+      {
+        "name": "緯創",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 10000,
+        "pricePerShare": "99.50",
+        "changeDate": "113年01月15日",
+        "changeReason": "賣",
+        "totalValue": 995000
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "290.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "買",
+        "totalValue": 1452500
+      },
+      {
+        "name": "南電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "227.50",
+        "changeDate": "113年01月29日",
+        "changeReason": "買",
+        "totalValue": 455000
+      },
+      {
+        "name": "昇貿",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "71.90",
+        "changeDate": "113年02月16日",
+        "changeReason": "賣",
+        "totalValue": 143800
+      },
+      {
+        "name": "昇貿",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "75.70",
+        "changeDate": "113年02月19日",
+        "changeReason": "賣",
+        "totalValue": 151400
+      },
+      {
+        "name": "昇貿",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "77.90",
+        "changeDate": "113年02月20日",
+        "changeReason": "賣",
+        "totalValue": 77900
+      },
+      {
+        "name": "來頡",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "197.50",
+        "changeDate": "113年02月20日",
+        "changeReason": "買",
+        "totalValue": 197500
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "293",
+        "changeDate": "113年02月23日",
+        "changeReason": "賣",
+        "totalValue": 586000
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "293.50",
+        "changeDate": "113年02月23日",
+        "changeReason": "賣",
+        "totalValue": 293500
+      },
+      {
+        "name": "前鼎",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "123",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 246000
+      },
+      {
+        "name": "前鼎",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "122",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 122000
+      },
+      {
+        "name": "乙盛-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 10000,
+        "pricePerShare": "56",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 560000
+      },
+      {
+        "name": "前鼎",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "128.50",
+        "changeDate": "113年02月26日",
+        "changeReason": "賣",
+        "totalValue": 385500
+      },
+      {
+        "name": "前鼎",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "118.50",
+        "changeDate": "113年02月27日",
+        "changeReason": "買",
+        "totalValue": 355500
+      },
+      {
+        "name": "前鼎",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "117.50",
+        "changeDate": "113年02月27日",
+        "changeReason": "買",
+        "totalValue": 235000
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "296",
+        "changeDate": "113年03月04日",
+        "changeReason": "買",
+        "totalValue": 888000
+      },
+      {
+        "name": "飛宏",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "60.30",
+        "changeDate": "113年03月05日",
+        "changeReason": "買",
+        "totalValue": 301500
+      },
+      {
+        "name": "昇貿",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "70",
+        "changeDate": "113年03月06日",
+        "changeReason": "賣",
+        "totalValue": 350000
+      },
+      {
+        "name": "優盛",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "25.90",
+        "changeDate": "113年03月06日",
+        "changeReason": "買",
+        "totalValue": 129500
+      },
+      {
+        "name": "優盛",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "25.90",
+        "changeDate": "113年03月06日",
+        "changeReason": "買",
+        "totalValue": 129500
+      },
+      {
+        "name": "乙盛-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "57.90",
+        "changeDate": "113年03月14日",
+        "changeReason": "賣",
+        "totalValue": 289500
+      },
+      {
+        "name": "乙盛-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "59",
+        "changeDate": "113年03月15日",
+        "changeReason": "賣",
+        "totalValue": 118000
+      },
+      {
+        "name": "乙盛-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "58.10",
+        "changeDate": "113年03月22日",
+        "changeReason": "賣",
+        "totalValue": 174300
+      },
+      {
+        "name": "優盛",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "26.25",
+        "changeDate": "113年03月28日",
+        "changeReason": "賣",
+        "totalValue": 78750
+      },
+      {
+        "name": "優盛",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "26.20",
+        "changeDate": "113年03月28日",
+        "changeReason": "賣",
+        "totalValue": 52400
+      },
+      {
+        "name": "優盛",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "24.95",
+        "changeDate": "113年04月09日",
+        "changeReason": "賣",
+        "totalValue": 124750
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "91.70",
+        "changeDate": "113年04月09日",
+        "changeReason": "買",
+        "totalValue": 91700
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "91.80",
+        "changeDate": "113年04月09日",
+        "changeReason": "買",
+        "totalValue": 183600
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "91.30",
+        "changeDate": "113年04月09日",
+        "changeReason": "買",
+        "totalValue": 182600
+      },
+      {
+        "name": "陽明",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "66.60",
+        "changeDate": "113年05月13日",
+        "changeReason": "賣",
+        "totalValue": 133200
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "320.50",
+        "changeDate": "113年05月15日",
+        "changeReason": "賣",
+        "totalValue": 320500
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "320.50",
+        "changeDate": "113年05月15日",
+        "changeReason": "賣",
+        "totalValue": 320500
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "43.70",
+        "changeDate": "113年05月22日",
+        "changeReason": "賣",
+        "totalValue": 43700
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "44.15",
+        "changeDate": "113年05月27日",
+        "changeReason": "賣",
+        "totalValue": 44150
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "347.50",
+        "changeDate": "113年05月28日",
+        "changeReason": "賣",
+        "totalValue": 695000
+      },
+      {
+        "name": "台達電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "346.50",
+        "changeDate": "113年05月28日",
+        "changeReason": "賣",
+        "totalValue": 346500
+      },
+      {
+        "name": "神盾",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "240.50",
+        "changeDate": "113年05月28日",
+        "changeReason": "買",
+        "totalValue": 1202500
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "49",
+        "changeDate": "113年05月29日",
+        "changeReason": "賣",
+        "totalValue": 49000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "49.40",
+        "changeDate": "113年05月31日",
+        "changeReason": "賣",
+        "totalValue": 49400
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "132.50",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 265000
+      },
+      {
+        "name": "南電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "192.50",
+        "changeDate": "113年06月12日",
+        "changeReason": "買",
+        "totalValue": 385000
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "166",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 332000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "44.90",
+        "changeDate": "113年06月18日",
+        "changeReason": "賣",
+        "totalValue": 44900
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "41",
+        "changeDate": "113年06月19日",
+        "changeReason": "賣",
+        "totalValue": 205000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "44.20",
+        "changeDate": "113年06月20日",
+        "changeReason": "賣",
+        "totalValue": 44200
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "147",
+        "changeDate": "113年06月21日",
+        "changeReason": "買",
+        "totalValue": 294000
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "147",
+        "changeDate": "113年06月21日",
+        "changeReason": "買",
+        "totalValue": 294000
+      },
+      {
+        "name": "南電",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 4000,
+        "pricePerShare": "197.50",
+        "changeDate": "113年06月21日",
+        "changeReason": "賣",
+        "totalValue": 790000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "44.55",
+        "changeDate": "113年06月24日",
+        "changeReason": "賣",
+        "totalValue": 44550
+      },
+      {
+        "name": "廣積",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "86.10",
+        "changeDate": "113年06月24日",
+        "changeReason": "買",
+        "totalValue": 430500
+      },
+      {
+        "name": "神盾",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "261.50",
+        "changeDate": "113年06月26日",
+        "changeReason": "賣",
+        "totalValue": 261500
+      },
+      {
+        "name": "神盾",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "263",
+        "changeDate": "113年06月26日",
+        "changeReason": "賣",
+        "totalValue": 263000
+      },
+      {
+        "name": "神盾",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "257",
+        "changeDate": "113年06月26日",
+        "changeReason": "賣",
+        "totalValue": 257000
+      },
+      {
+        "name": "神盾",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "256",
+        "changeDate": "113年06月26日",
+        "changeReason": "賣",
+        "totalValue": 256000
+      },
+      {
+        "name": "神盾",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "256.50",
+        "changeDate": "113年06月26日",
+        "changeReason": "賣",
+        "totalValue": 256500
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 321,
+        "pricePerShare": "43.95",
+        "changeDate": "113年06月28日",
+        "changeReason": "賣",
+        "totalValue": 14107
+      },
+      {
+        "name": "廣積",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "86.90",
+        "changeDate": "113年07月03日",
+        "changeReason": "賣",
+        "totalValue": 434500
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 347,
+        "pricePerShare": "49",
+        "changeDate": "113年07月08日",
+        "changeReason": "賣",
+        "totalValue": 17003
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "53.60",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 107200
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "54.10",
+        "changeDate": "113年07月16日",
+        "changeReason": "賣",
+        "totalValue": 108200
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "53.30",
+        "changeDate": "113年07月16日",
+        "changeReason": "賣",
+        "totalValue": 53300
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "149.50",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 299000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "164",
+        "changeDate": "113年07月17日",
+        "changeReason": "買",
+        "totalValue": 328000
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "133",
+        "changeDate": "113年07月19日",
+        "changeReason": "買",
+        "totalValue": 266000
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "129",
+        "changeDate": "113年07月22日",
+        "changeReason": "買",
+        "totalValue": 258000
+      },
+      {
+        "name": "十銓",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "128.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "買",
+        "totalValue": 257000
+      },
+      {
+        "name": "永彰",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "47",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 235000
+      },
+      {
+        "name": "永彰",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "48.70",
+        "changeDate": "113年08月15日",
+        "changeReason": "賣",
+        "totalValue": 97400
+      },
+      {
+        "name": "永彰",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "48.60",
+        "changeDate": "113年08月15日",
+        "changeReason": "賣",
+        "totalValue": 97200
+      },
+      {
+        "name": "永彰",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "48.35",
+        "changeDate": "113年08月15日",
+        "changeReason": "賣",
+        "totalValue": 48350
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "91.40",
+        "changeDate": "113年08月15日",
+        "changeReason": "賣",
+        "totalValue": 182800
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "94.10",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 94100
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "93.50",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 93500
+      },
+      {
+        "name": "豐藝",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "93.40",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 93400
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "43.20",
+        "changeDate": "113年08月27日",
+        "changeReason": "賣",
+        "totalValue": 216000
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "40",
+        "changeDate": "113年08月27日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "39.35",
+        "changeDate": "113年08月28日",
+        "changeReason": "賣",
+        "totalValue": 196750
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "39.55",
+        "changeDate": "113年08月28日",
+        "changeReason": "賣",
+        "totalValue": 197750
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "39.45",
+        "changeDate": "113年08月28日",
+        "changeReason": "賣",
+        "totalValue": 197250
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "39.90",
+        "changeDate": "113年08月30日",
+        "changeReason": "賣",
+        "totalValue": 39900
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 4000,
+        "pricePerShare": "39.65",
+        "changeDate": "113年08月30日",
+        "changeReason": "賣",
+        "totalValue": 158600
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "43",
+        "changeDate": "113年09月25日",
+        "changeReason": "賣",
+        "totalValue": 86000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "44.30",
+        "changeDate": "113年09月25日",
+        "changeReason": "賣",
+        "totalValue": 44300
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "44.20",
+        "changeDate": "113年09月25日",
+        "changeReason": "賣",
+        "totalValue": 88400
+      },
+      {
+        "name": "中租-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 40,
+        "pricePerShare": "164.50",
+        "changeDate": "113年09月27日",
+        "changeReason": "賣",
+        "totalValue": 6580
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "40.30",
+        "changeDate": "113年09月27日",
+        "changeReason": "賣",
+        "totalValue": 201500
+      },
+      {
+        "name": "中租-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "164.50",
+        "changeDate": "113年09月27日",
+        "changeReason": "賣",
+        "totalValue": 164500
+      },
+      {
+        "name": "金洲",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 100,
+        "pricePerShare": "41.10",
+        "changeDate": "113年10月07日",
+        "changeReason": "賣",
+        "totalValue": 4110
+      },
+      {
+        "name": "長科",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "pricePerShare": "39.20",
+        "changeDate": "113年10月07日",
+        "changeReason": "賣",
+        "totalValue": 196000
+      },
+      {
+        "name": "中租-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 26,
+        "pricePerShare": "153.50",
+        "changeDate": "113年10月11日",
+        "changeReason": "賣",
+        "totalValue": 3991
+      },
+      {
+        "name": "中租-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "152.50",
+        "changeDate": "113年10月11日",
+        "changeReason": "賣",
+        "totalValue": 152500
+      },
+      {
+        "name": "來頡",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "111",
+        "changeDate": "113年10月11日",
+        "changeReason": "賣",
+        "totalValue": 111000
+      },
+      {
+        "name": "前鼎",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "115",
+        "changeDate": "113年10月15日",
+        "changeReason": "賣",
+        "totalValue": 115000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "39.80",
+        "changeDate": "113年10月16日",
+        "changeReason": "賣",
+        "totalValue": 39800
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "39.90",
+        "changeDate": "113年10月16日",
+        "changeReason": "賣",
+        "totalValue": 79800
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "39.95",
+        "changeDate": "113年10月16日",
+        "changeReason": "賣",
+        "totalValue": 39950
+      },
+      {
+        "name": "東明-KY",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 410,
+        "pricePerShare": "37",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 15170
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "41.15",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 41150
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "40.70",
+        "changeDate": "113年10月18日",
+        "changeReason": "賣",
+        "totalValue": 40700
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 4000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年10月18日",
+        "changeReason": "賣",
+        "totalValue": 162000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "41.15",
+        "changeDate": "113年10月21日",
+        "changeReason": "賣",
+        "totalValue": 41150
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "42",
+        "changeDate": "113年10月22日",
+        "changeReason": "賣",
+        "totalValue": 42000
+      },
+      {
+        "name": "飛宏",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "37.80",
+        "changeDate": "113年10月28日",
+        "changeReason": "賣",
+        "totalValue": 37800
+      },
+      {
+        "name": "飛宏",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "37.90",
+        "changeDate": "113年10月28日",
+        "changeReason": "賣",
+        "totalValue": 37900
+      },
+      {
+        "name": "飛宏",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "37.85",
+        "changeDate": "113年10月28日",
+        "changeReason": "賣",
+        "totalValue": 37850
+      },
+      {
+        "name": "飛宏",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "37.10",
+        "changeDate": "113年10月29日",
+        "changeReason": "賣",
+        "totalValue": 74200
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "39.90",
+        "changeDate": "113年11月01日",
+        "changeReason": "買",
+        "totalValue": 39900
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 4000,
+        "pricePerShare": "39.95",
+        "changeDate": "113年11月01日",
+        "changeReason": "買",
+        "totalValue": 159800
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "40.20",
+        "changeDate": "113年11月01日",
+        "changeReason": "買",
+        "totalValue": 80400
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "40",
+        "changeDate": "113年11月01日",
+        "changeReason": "買",
+        "totalValue": 80000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "49.20",
+        "changeDate": "113年11月20日",
+        "changeReason": "賣",
+        "totalValue": 49200
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "48",
+        "changeDate": "113年11月20日",
+        "changeReason": "賣",
+        "totalValue": 48000
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "48.40",
+        "changeDate": "113年11月21日",
+        "changeReason": "賣",
+        "totalValue": 96800
+      },
+      {
+        "name": "北基",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 3000,
+        "pricePerShare": "51.90",
+        "changeDate": "113年11月21日",
+        "changeReason": "買",
+        "totalValue": 155700
+      },
+      {
+        "name": "北基",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 2000,
+        "pricePerShare": "51.90",
+        "changeDate": "113年11月21日",
+        "changeReason": "買",
+        "totalValue": 103800
+      },
+      {
+        "name": "磐儀",
+        "broker": "統一",
+        "owner": "賴惠員",
+        "shares": 1000,
+        "pricePerShare": "48",
+        "changeDate": "113年11月25日",
+        "changeReason": "賣",
+        "totalValue": 48000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

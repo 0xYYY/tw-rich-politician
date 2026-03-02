@@ -1,0 +1,67 @@
+{
+  "name": "林德福",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "曾月桂"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市永和區永平段",
+      "area": 381.21,
+      "share": "10000 分之 47",
+      "owner": "曾月桂",
+      "date": "113年04月12日",
+      "reason": "買進",
+      "price": "1,083,810"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 39.32,
+      "share": "10000 分之 47",
+      "owner": "曾月桂",
+      "date": "113年04月12日",
+      "reason": "買進",
+      "price": "111,990"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

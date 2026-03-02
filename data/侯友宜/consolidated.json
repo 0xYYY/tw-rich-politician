@@ -1,0 +1,119 @@
+{
+  "name": "侯友宜",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 39849964
+    },
+    {
+      "currency": "港幣",
+      "amount": 58369
+    },
+    {
+      "currency": "加拿大幣",
+      "amount": 28
+    },
+    {
+      "currency": "日圓",
+      "amount": 7
+    },
+    {
+      "currency": "美元",
+      "amount": 4
+    }
+  ],
+  "depositsTotal": 39908374,
+  "insurance": [
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽新百齡 終身壽險",
+      "holder": "侯友宜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "珍鑫福終身壽險",
+      "holder": "任美鈴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "添采終身壽險",
+      "holder": "任美鈴",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市中正區南海段一小段",
+      "owner": "任美鈴",
+      "date": "2004-01-08",
+      "effectiveAreaPing": 57.82,
+      "entryCount": 1,
+      "price": "含陽台 17.15 平方公尺,雨 遮0.93平方公 尺(超過五年)"
+    },
+    {
+      "location": "嘉義縣朴子市安福里山通路",
+      "owner": "侯友宜",
+      "date": "2021-12-20",
+      "effectiveAreaPing": 13.46,
+      "entryCount": 1,
+      "price": "7,800"
+    },
+    {
+      "location": "新北市新莊區中美里中港路",
+      "owner": "任美鈴",
+      "date": "2008-05-31",
+      "effectiveAreaPing": 101.97,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣朴子市安福段",
+      "owner": "侯友宜",
+      "date": "2024-05-16",
+      "effectiveAreaPing": 43.2,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "嘉義縣朴子市安福段",
+      "owner": "侯友宜",
+      "date": "2023-03-01",
+      "effectiveAreaPing": 19.29,
+      "entryCount": 3,
+      "price": null
+    },
+    {
+      "location": "新北市新莊區復興段",
+      "owner": "任美鈴",
+      "date": "2012-03-01",
+      "effectiveAreaPing": 12.45,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "新北市新莊區復興段二小段",
+      "owner": "任美鈴",
+      "date": "2011-03-21",
+      "effectiveAreaPing": 61.78,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市士林區華岡段二小段",
+      "owner": "任美鈴",
+      "date": "2011-03-21",
+      "effectiveAreaPing": 431.28,
+      "entryCount": 4,
+      "price": null
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "name": "王育敏",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "楊明哲"
+    }
+  ],
+  "land": [],
+  "buildings": [
+    {
+      "location": "臺北市大同區市府段一小段",
+      "area": 27.9,
+      "share": "10000 分之 1",
+      "owner": "王育敏",
+      "date": "98年09月02日",
+      "reason": "買賣",
+      "price": "5,000,000 (為地上權房 屋，僅有使用 權 45 年，無土 地所有權，超 過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1987,
+      "owner": "楊明哲",
+      "date": "112年12月18日",
+      "reason": "買賣",
+      "price": 1810000
+    }
+  ],
+  "cash": {
+    "total": 20000
+  },
+  "deposits": {
+    "total": 21011343,
+    "items": [
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 59803,
+        "amount": 1911602
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 20133,
+        "amount": 643559
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 20108,
+        "amount": 642783
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 2131,
+        "amount": 68139
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 700000
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 712586
+      },
+      {
+        "institution": "臺灣銀行中山分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "王育敏",
+        "foreignAmount": 303,
+        "amount": 1361
+      },
+      {
+        "institution": "土地銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 18136
+      },
+      {
+        "institution": "上海銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 21332
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 1449
+      },
+      {
+        "institution": "台北富邦商業銀行思源分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 52138
+      },
+      {
+        "institution": "台北富邦商業銀行思源分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 628
+      },
+      {
+        "institution": "兆豐國際商業銀行台中分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 449
+      },
+      {
+        "institution": "京城商業銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 27344
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 522
+      },
+      {
+        "institution": "聯邦銀行長春分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 423
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 38528,
+        "amount": 1232221
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 30000,
+        "amount": 959475
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 30000,
+        "amount": 959475
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 30000,
+        "amount": 959475
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 30000,
+        "amount": 959475
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 30000,
+        "amount": 959475
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 26884,
+        "amount": 859846
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "澳幣",
+        "owner": "王育敏",
+        "foreignAmount": 19003,
+        "amount": 398797
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 8551,
+        "amount": 273509
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 1300000
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 342501
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "王育敏",
+        "foreignAmount": 599479,
+        "amount": 2686877
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "王育敏",
+        "foreignAmount": 35902,
+        "amount": 1148246
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "王育敏",
+        "foreignAmount": 67852,
+        "amount": 14206
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "綜合存款",
+        "currency": "澳幣",
+        "owner": "王育敏",
+        "foreignAmount": 155,
+        "amount": 3273
+      },
+      {
+        "institution": "永豐銀行建成分行",
+        "type": "綜合存款",
+        "currency": "南非幣",
+        "owner": "王育敏",
+        "foreignAmount": 10,
+        "amount": 19
+      },
+      {
+        "institution": "中信銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王育敏",
+        "foreignAmount": 0,
+        "amount": 3237
+      },
+      {
+        "institution": "臺灣銀行內湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊明哲",
+        "foreignAmount": 0,
+        "amount": 121264
+      },
+      {
+        "institution": "台北富邦銀行建成分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊明哲",
+        "foreignAmount": 0,
+        "amount": 559
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊明哲",
+        "foreignAmount": 0,
+        "amount": 114
+      },
+      {
+        "institution": "國泰世華銀行營業部",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "楊明哲",
+        "foreignAmount": 36,
+        "amount": 1172
+      },
+      {
+        "institution": "國泰世華銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊明哲",
+        "foreignAmount": 0,
+        "amount": 500
+      },
+      {
+        "institution": "臺灣企銀松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊明哲",
+        "foreignAmount": 0,
+        "amount": 1072
+      },
+      {
+        "institution": "永豐銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊明哲",
+        "foreignAmount": 0,
+        "amount": 24097
+      }
+    ]
+  },
+  "stocks": {
+    "total": 690990,
+    "items": [
+      {
+        "name": "中石化",
+        "owner": "王育敏",
+        "shares": 160,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1600
+      },
+      {
+        "name": "東元",
+        "owner": "王育敏",
+        "shares": 1243,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12430
+      },
+      {
+        "name": "太電",
+        "owner": "王育敏",
+        "shares": 247,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2470
+      },
+      {
+        "name": "中鋼",
+        "owner": "王育敏",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "宏碁",
+        "owner": "王育敏",
+        "shares": 783,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7830
+      },
+      {
+        "name": "英業達",
+        "owner": "王育敏",
+        "shares": 1480,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14800
+      },
+      {
+        "name": "友達",
+        "owner": "王育敏",
+        "shares": 13600,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 136000
+      },
+      {
+        "name": "宏達電",
+        "owner": "王育敏",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "陽明",
+        "owner": "王育敏",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "華航",
+        "owner": "王育敏",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "凱基金",
+        "owner": "王育敏",
+        "shares": 2256,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22560
+      },
+      {
+        "name": "中信金",
+        "owner": "王育敏",
+        "shares": 10612,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 106120
+      },
+      {
+        "name": "第一金",
+        "owner": "王育敏",
+        "shares": 1081,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10810
+      },
+      {
+        "name": "中信",
+        "owner": "王育敏",
+        "shares": 1120,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11200
+      },
+      {
+        "name": "遠傳",
+        "owner": "王育敏",
+        "shares": 796,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7960
+      },
+      {
+        "name": "彩晶",
+        "owner": "王育敏",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "長億實業",
+        "owner": "王育敏",
+        "shares": 1170,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11700
+      },
+      {
+        "name": "台光",
+        "owner": "楊明哲",
+        "shares": 16000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160000
+      },
+      {
+        "name": "齊民",
+        "owner": "楊明哲",
+        "shares": 2245,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22450
+      },
+      {
+        "name": "遠傳",
+        "owner": "楊明哲",
+        "shares": 306,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3060
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "景順環球關鍵聚 焦基金（再投資） （美元）（在台未 提供銷售）",
+        "owner": "王育敏",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 199.93,
+        "unitValue": 9.64,
+        "foreignCurrency": "美元",
+        "totalValue": 61595
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 真 安 心 醫 療 養 老 保 險",
+        "policyNumber": "○○○○○○○ ○○501",
+        "holder": "楊明哲",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 07 月 21 日/115 年 07 月 20 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：臺灣銀 行中山分行)",
+        "quantity": "1",
+        "owner": "王育敏",
+        "value": 42090
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 934598,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王育敏",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 934598,
+        "date": "98年10月27日",
+        "reason": "購置其他不 動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 2000000,
+    "items": [
+      {
+        "investor": "楊明哲",
+        "company": "盛創投資控股有限公司",
+        "address": "台北市市民大道一段 203 號 9 樓之 7",
+        "amount": 2000000,
+        "date": "107年05月24日",
+        "reason": "事業投資"
+      }
+    ]
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "name": "王鴻薇",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陶允正"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市林口區力行段",
+      "area": 3234.8,
+      "share": "950000 分 之 12388",
+      "owner": "王鴻薇",
+      "date": "104年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "area": 1506,
+      "share": "9000 分 之 220",
+      "owner": "王鴻薇",
+      "date": "102年02月06日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "area": 133,
+      "share": "10000 分之 1652",
+      "owner": "王鴻薇",
+      "date": "86年04月02日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市林口區力行段",
+      "area": 154.97,
+      "share": "全部",
+      "owner": "王鴻薇",
+      "date": "104年12月17日",
+      "reason": "買賣",
+      "price": "含陽台 13.59 平方公尺,雨 遮2.98平方公 尺(超過五年)"
+    },
+    {
+      "location": "新北市林口區力行段",
+      "area": 8650.73,
+      "share": "950000 分 之 11801",
+      "owner": "王鴻薇",
+      "date": "104年12月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "area": 104.04,
+      "share": "全部",
+      "owner": "王鴻薇",
+      "date": "102年02月06日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "area": 69.21,
+      "share": "全部",
+      "owner": "王鴻薇",
+      "date": "86年04月02日",
+      "reason": "買賣",
+      "price": "含瞭望台 30.35 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "area": 78.61,
+      "share": "10000 分之 1200",
+      "owner": "王鴻薇",
+      "date": "86年04月02日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1987,
+      "owner": "王鴻薇",
+      "date": "110年04月27日",
+      "reason": "買賣",
+      "price": 1570000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7338733,
+    "items": [
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 399588
+      },
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 92688
+      },
+      {
+        "institution": "土地銀行北三重分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 25886
+      },
+      {
+        "institution": "第一銀行城東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 136
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 2400099
+      },
+      {
+        "institution": "台北富邦銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 128
+      },
+      {
+        "institution": "國泰世華銀行三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 142548
+      },
+      {
+        "institution": "國泰世華銀行三民分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 1286512
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 73
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 637
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王鴻薇",
+        "foreignAmount": 0,
+        "amount": 652
+      },
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 805091
+      },
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "綜合存款",
+        "currency": "英鎊",
+        "owner": "陶允正",
+        "foreignAmount": 10178,
+        "amount": 419742
+      },
+      {
+        "institution": "臺灣銀行松山分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "陶允正",
+        "foreignAmount": 612,
+        "amount": 2746
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 71189
+      },
+      {
+        "institution": "國泰世華銀行三民分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陶允正",
+        "foreignAmount": 8708,
+        "amount": 278402
+      },
+      {
+        "institution": "國泰世華銀行三民分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 319960
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 41
+      },
+      {
+        "institution": "元大銀行南京東路分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "元大銀行民生三民分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陶允正",
+        "foreignAmount": 2,
+        "amount": 88
+      },
+      {
+        "institution": "元大銀行民生三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 734482
+      },
+      {
+        "institution": "中信銀行富錦分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陶允正",
+        "foreignAmount": 0,
+        "amount": 358036
+      }
+    ]
+  },
+  "stocks": {
+    "total": 8049650,
+    "items": [
+      {
+        "name": "南僑",
+        "owner": "王鴻薇",
+        "shares": 27,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 270
+      },
+      {
+        "name": "台積電",
+        "owner": "王鴻薇",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "陽明",
+        "owner": "王鴻薇",
+        "shares": 65,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 650
+      },
+      {
+        "name": "台新金",
+        "owner": "王鴻薇",
+        "shares": 62,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 620
+      },
+      {
+        "name": "台新金",
+        "owner": "王鴻薇",
+        "shares": 43,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 430
+      },
+      {
+        "name": "統一實",
+        "owner": "王鴻薇",
+        "shares": 31,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 310
+      },
+      {
+        "name": "聯華",
+        "owner": "陶允正",
+        "shares": 56000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 560000
+      },
+      {
+        "name": "南亞",
+        "owner": "陶允正",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "亞聚",
+        "owner": "陶允正",
+        "shares": 35000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 350000
+      },
+      {
+        "name": "中砂",
+        "owner": "陶允正",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "太電",
+        "owner": "陶允正",
+        "shares": 302,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3020
+      },
+      {
+        "name": "聯電",
+        "owner": "陶允正",
+        "shares": 110000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1100000
+      },
+      {
+        "name": "鴻海",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "仁寶",
+        "owner": "陶允正",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "台積電",
+        "owner": "陶允正",
+        "shares": 2200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22000
+      },
+      {
+        "name": "金像電",
+        "owner": "陶允正",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "金像電",
+        "owner": "陶允正",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "佳能",
+        "owner": "陶允正",
+        "shares": 22000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 220000
+      },
+      {
+        "name": "技嘉",
+        "owner": "陶允正",
+        "shares": 11000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 110000
+      },
+      {
+        "name": "技嘉",
+        "owner": "陶允正",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "台光電",
+        "owner": "陶允正",
+        "shares": 14000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 140000
+      },
+      {
+        "name": "台光電",
+        "owner": "陶允正",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "勝華",
+        "owner": "陶允正",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "精元",
+        "owner": "陶允正",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "友達",
+        "owner": "陶允正",
+        "shares": 16000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160000
+      },
+      {
+        "name": "超豐",
+        "owner": "陶允正",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "義隆",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "長榮",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "慧洋-KY",
+        "owner": "陶允正",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "玉山金",
+        "owner": "陶允正",
+        "shares": 10200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 102000
+      },
+      {
+        "name": "第一金",
+        "owner": "陶允正",
+        "shares": 55000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 550000
+      },
+      {
+        "name": "匯僑",
+        "owner": "陶允正",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "聯詠",
+        "owner": "陶允正",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "緯創",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "威剛",
+        "owner": "陶允正",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "群創",
+        "owner": "陶允正",
+        "shares": 6160,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 61600
+      },
+      {
+        "name": "凡甲",
+        "owner": "陶允正",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "貿聯-KY",
+        "owner": "陶允正",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "日月光投控",
+        "owner": "陶允正",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "致伸",
+        "owner": "陶允正",
+        "shares": 24000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 240000
+      },
+      {
+        "name": "泰鼎-KY",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "泰鼎-KY",
+        "owner": "陶允正",
+        "shares": 40000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 400000
+      },
+      {
+        "name": "和碩",
+        "owner": "陶允正",
+        "shares": 14000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 140000
+      },
+      {
+        "name": "太一",
+        "owner": "陶允正",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "耀文電子",
+        "owner": "陶允正",
+        "shares": 1269,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12690
+      },
+      {
+        "name": "松翰",
+        "owner": "陶允正",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "遠雄港",
+        "owner": "陶允正",
+        "shares": 54000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 540000
+      },
+      {
+        "name": "中租-KY 甲特",
+        "owner": "陶允正",
+        "shares": 180,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1800
+      },
+      {
+        "name": "中租-KY",
+        "owner": "陶允正",
+        "shares": 26000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 260000
+      },
+      {
+        "name": "浪凡",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "瑞儀",
+        "owner": "陶允正",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "華孚",
+        "owner": "陶允正",
+        "shares": 39000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 390000
+      },
+      {
+        "name": "華孚",
+        "owner": "陶允正",
+        "shares": 426,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4260
+      },
+      {
+        "name": "台表科",
+        "owner": "陶允正",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "騰輝電子-KY",
+        "owner": "陶允正",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "志超",
+        "owner": "陶允正",
+        "shares": 25000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 250000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "摩根台灣增長",
+        "owner": "王鴻薇",
+        "institution": "第 一 銀 行 城 東 分行",
+        "units": 6147.5,
+        "unitValue": 99.85,
+        "foreignCurrency": "",
+        "totalValue": 613827
+      },
+      {
+        "name": "駿利亨德森資產 管理-平衡基金 A2 美元",
+        "owner": "陶允正",
+        "institution": "中租投顧",
+        "units": 759.654,
+        "unitValue": 44.75,
+        "foreignCurrency": "美元",
+        "totalValue": 1087400
+      },
+      {
+        "name": "摩根士丹利美國 增 長 基 金 A( 美 元)",
+        "owner": "陶允正",
+        "institution": "中租投顧",
+        "units": 3.389,
+        "unitValue": 183.82,
+        "foreignCurrency": "美元",
+        "totalValue": 19927
+      },
+      {
+        "name": "富蘭克林坦伯頓 全球投資系列 穩定月收益基金 美元 A(Mdis)股 (月配)",
+        "owner": "陶允正",
+        "institution": "中租投顧",
+        "units": 3254.837,
+        "unitValue": 9.9,
+        "foreignCurrency": "美元",
+        "totalValue": 1030730
+      },
+      {
+        "name": "摩根基金-美國 科 技 基 金 ( 美 元)-A 股(累計)",
+        "owner": "陶允正",
+        "institution": "中租投顧",
+        "units": 92.491,
+        "unitValue": 106.32,
+        "foreignCurrency": "美元",
+        "totalValue": 314554
+      },
+      {
+        "name": "百達-能源轉型 -R 美元",
+        "owner": "陶允正",
+        "institution": "中租投顧",
+        "units": 42.831,
+        "unitValue": 146.81,
+        "foreignCurrency": "美元",
+        "totalValue": 201138
+      },
+      {
+        "name": "元大 0 至 2 年投 資級企業債券基 金-新臺幣 A 類型",
+        "owner": "陶允正",
+        "institution": "元大證券",
+        "units": 100000,
+        "unitValue": 11.0899,
+        "foreignCurrency": "",
+        "totalValue": 1108990
+      },
+      {
+        "name": "元大卓越基金",
+        "owner": "陶允正",
+        "institution": "元大證券",
+        "units": 3121.6,
+        "unitValue": 71.56,
+        "foreignCurrency": "",
+        "totalValue": 223382
+      },
+      {
+        "name": "元大日本龍頭企 業基金-新臺幣 A 類型",
+        "owner": "陶允正",
+        "institution": "元大證券",
+        "units": 199700.9,
+        "unitValue": 10.06,
+        "foreignCurrency": "",
+        "totalValue": 2008991
+      },
+      {
+        "name": "元大高股息",
+        "owner": "陶允正",
+        "institution": "元 大 證 券 民 生 三民分公司",
+        "units": 35000,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 1304800
+      },
+      {
+        "name": "中信綠能及電動 車",
+        "owner": "陶允正",
+        "institution": "元 大 證 券 民 生 三民分公司",
+        "units": 10000,
+        "unitValue": 17.8,
+        "foreignCurrency": "",
+        "totalValue": 178000
+      }
+    ]
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3795555,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王鴻薇",
+        "creditor": "臺灣土地銀行北三重分行 新北市三重區重陽路",
+        "amount": 3795555,
+        "date": "104年12月22日",
+        "reason": "購買住宅貸 款(非自用)"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

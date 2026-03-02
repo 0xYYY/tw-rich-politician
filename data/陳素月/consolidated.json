@@ -1,0 +1,99 @@
+{
+  "name": "陳素月",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "彰化縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 7151618
+    }
+  ],
+  "depositsTotal": 7151618,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "陳素月",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "陳素月",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "陳素月",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰喬壽還本終 身壽險（繳費 20 年）",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰新增額養老 壽險（六十五歲滿 期）",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 10 年）",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 15 年）",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 20 年）",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新連馨 長期照顧終身健 康保險",
+      "holder": "陳素月",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "群聯",
+      "cleanName": "群聯",
+      "ticker": "8299",
+      "shares": 12000,
+      "owner": "陳素月",
+      "priceAtDisclosure": 474,
+      "latestPrice": 1890
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "彰化縣永靖鄉永南段",
+      "owner": "陳素月",
+      "date": "2019-01-31",
+      "effectiveAreaPing": 133.93,
+      "entryCount": 1,
+      "price": "含陽台 42.95 平方公尺(超 過五年)"
+    }
+  ]
+}

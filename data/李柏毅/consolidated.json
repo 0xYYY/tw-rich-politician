@@ -1,0 +1,281 @@
+{
+  "name": "李柏毅",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6572638
+    },
+    {
+      "currency": "美元",
+      "amount": 104794
+    },
+    {
+      "currency": "日圓",
+      "amount": 167611
+    }
+  ],
+  "depositsTotal": 6845043,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽佳美利 美元利率變動型 還 本 終 身 保 險 （定期給付型）",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美滿人 生長期照顧終身 保險",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "312 還本終身壽 險",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安家保本定期保 險",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安順手術醫療終 身",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新增美滿 312",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "萬代福 211",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平安 福保本保險",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平安 福保本保險",
+      "holder": "李柏毅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "真安順手術醫療 終身",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美利美元",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新真安心住院醫 療終身",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾意終身壽險",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽多多利 終身保險",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽安心寶 倍終身健康保險",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美利富 貴外幣利率變動 型終身壽險",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "增好鑫利率變動 型增額終身壽險",
+      "holder": "葉瑋玲",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "和大",
+      "cleanName": "和大",
+      "ticker": "1536",
+      "shares": 181,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 56.8,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "錩新",
+      "cleanName": "錩新",
+      "ticker": "2415",
+      "shares": 787,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 26.95,
+      "latestPrice": 27.7
+    },
+    {
+      "name": "中天",
+      "cleanName": "中天",
+      "ticker": "4128",
+      "shares": 2087,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 39.1,
+      "latestPrice": 18.65
+    },
+    {
+      "name": "龍巖",
+      "cleanName": "龍巖",
+      "ticker": "5530",
+      "shares": 1000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 47.3,
+      "latestPrice": 52.8
+    },
+    {
+      "name": "伍豐",
+      "cleanName": "伍豐",
+      "ticker": "8076",
+      "shares": 2702,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 32.4,
+      "latestPrice": 23.4
+    },
+    {
+      "name": "華友聯",
+      "cleanName": "華友聯",
+      "ticker": "1436",
+      "shares": 6000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 140.5,
+      "latestPrice": 56.8
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 3000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "華航",
+      "cleanName": "華航",
+      "ticker": "2610",
+      "shares": 1705,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 22.5,
+      "latestPrice": 21
+    },
+    {
+      "name": "永崴投控",
+      "cleanName": "永崴投控",
+      "ticker": "3712",
+      "shares": 20000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 50.5,
+      "latestPrice": 25.05
+    },
+    {
+      "name": "SY HOLDINGS",
+      "cleanName": "SY HOLDINGS",
+      "ticker": "SY",
+      "shares": 32000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 27.4,
+      "latestPrice": 97.56
+    },
+    {
+      "name": "森崴能源",
+      "cleanName": "森崴能源",
+      "ticker": "6806",
+      "shares": 5000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 119.5,
+      "latestPrice": 44.45
+    },
+    {
+      "name": "北基",
+      "cleanName": "北基",
+      "ticker": "8927",
+      "shares": 30000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 61.5,
+      "latestPrice": 24.1
+    },
+    {
+      "name": "國統",
+      "cleanName": "國統",
+      "ticker": "8936",
+      "shares": 10000,
+      "owner": "李柏毅",
+      "priceAtDisclosure": 62.7,
+      "latestPrice": 53.7
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "owner": "李柏毅",
+      "date": "2016-11-30",
+      "effectiveAreaPing": 81.57,
+      "entryCount": 4,
+      "price": "含陽台8.02平 方公尺,雨遮 3.52 平方公尺 (超過五年)"
+    },
+    {
+      "location": "高雄市前金區民生段",
+      "owner": "李柏毅",
+      "date": "2009-12-17",
+      "effectiveAreaPing": 75.52,
+      "entryCount": 4,
+      "price": "含陽台 11.12 平方公尺(超 過五年)"
+    },
+    {
+      "location": "高雄市左營區新博段",
+      "owner": "葉瑋玲",
+      "date": "2017-04-17",
+      "effectiveAreaPing": 155.38,
+      "entryCount": 2,
+      "price": "含陽台 23.94 平方公尺,雨 遮9.21平方公 尺(超過五年)"
+    },
+    {
+      "location": "高雄市鼓山區龍中段",
+      "owner": "葉瑋玲",
+      "date": "2006-04-17",
+      "effectiveAreaPing": 29.78,
+      "entryCount": 2,
+      "price": "含陽台6.51平 方公尺,雨遮 1.42 平方公尺 (超過五年)"
+    }
+  ]
+}

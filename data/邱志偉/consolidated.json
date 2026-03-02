@@ -1,0 +1,117 @@
+{
+  "name": "邱志偉",
+  "date": "2024-12-05",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8212424
+    },
+    {
+      "currency": "美元",
+      "amount": 63117
+    },
+    {
+      "currency": "人民幣",
+      "amount": 1
+    },
+    {
+      "currency": "日圓",
+      "amount": 321159
+    }
+  ],
+  "depositsTotal": 8596702,
+  "insurance": [
+    {
+      "company": "南山人壽",
+      "name": "312 還本終身保 險",
+      "holder": "邱志偉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽好鑽年 年還本終身保險",
+      "holder": "邱志偉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美年紅 旺外幣分紅終身 保險",
+      "holder": "邱志偉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美利大 順外幣利率變動 型終身壽險",
+      "holder": "邱志偉",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "增多利增額終身 壽險",
+      "holder": "安田陽子",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "美年紅旺外幣分 紅終身保險",
+      "holder": "安田陽子",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "美利大順外幣利 率變動型終身壽 險",
+      "holder": "安田陽子",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "鑫鑽年年還本終 身保險",
+      "holder": "安田陽子",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "寶利旺利率變動 型增額終身壽險",
+      "holder": "安田陽子",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "寶利旺利率變動 型增額終身壽險",
+      "holder": "安田陽子",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "高雄市前鎮區愛群段",
+      "owner": "邱志偉",
+      "date": "2014-12-17",
+      "effectiveAreaPing": 70.79,
+      "entryCount": 3,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市橋頭區後壁田段",
+      "owner": "安田陽子",
+      "date": "2019-03-15",
+      "effectiveAreaPing": 43.94,
+      "entryCount": 2,
+      "price": "一併合購 (超過五年)"
+    },
+    {
+      "location": "新北市中和區華中段",
+      "owner": "安田陽子",
+      "date": "2020-08-28",
+      "effectiveAreaPing": 56.62,
+      "entryCount": 3,
+      "price": "17,014,400 (一併購買總 額)"
+    }
+  ]
+}

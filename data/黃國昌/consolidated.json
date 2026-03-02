@@ -1,0 +1,82 @@
+{
+  "name": "黃國昌",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南 山 人 壽 快 樂 兒 童 外 幣 增 額 還本終身保險",
+      "holder": "高翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+      "holder": "高翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+      "holder": "高翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+      "holder": "高翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+      "holder": "高翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 安 富 久 久 失 能 照 護 終身壽險",
+      "holder": "高翔",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新 光 人 壽 五 動 鑫 富 利 率 變 動 型終身壽險",
+      "holder": "黃○芸",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市汐止區白雲段",
+      "owner": "黃國昌",
+      "date": "2011-08-02",
+      "effectiveAreaPing": 81.89,
+      "entryCount": 2,
+      "price": "(1)113 年 2 月 16 日新北市政 府工務局核准 動工，現正拆 除中。(2)免填 價額。(超過五 年)"
+    },
+    {
+      "location": "新北市汐止區白雲段",
+      "owner": "黃國昌",
+      "date": "2006-11-23",
+      "effectiveAreaPing": 82.1,
+      "entryCount": 2,
+      "price": "(1)113 年 2 月 16 日新北市政 府工務局核准 動工，現正拆 除中。(2)免填 價額。(超過五 年)"
+    },
+    {
+      "location": "新北市板橋區港子嘴段",
+      "owner": "高翔",
+      "date": "2009-12-30",
+      "effectiveAreaPing": 67.94,
+      "entryCount": 4,
+      "price": "免填價額。(超 過五年)"
+    }
+  ]
+}

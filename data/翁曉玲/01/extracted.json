@@ -1,0 +1,800 @@
+{
+  "name": "翁曉玲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳春生"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 11,
+      "share": "10000 分之 40",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000(房 地總價額)"
+    },
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 3,
+      "share": "10000 分之 40",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000"
+    },
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 1018,
+      "share": "10000 分之 40",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000"
+    },
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 40,
+      "share": "10000 分之 40",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 1141.53,
+      "share": "10000 分之 25",
+      "owner": "翁曉玲",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 631.47,
+      "share": "10000 分之 25",
+      "owner": "翁曉玲",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 1014,
+      "share": "10000 分之 442",
+      "owner": "翁曉玲",
+      "date": "101年06月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 1141.53,
+      "share": "10000 分之 25",
+      "owner": "陳春生",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 631.47,
+      "share": "10000 分之 25",
+      "owner": "陳春生",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 28.58,
+      "share": "全部",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000"
+    },
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 1595.96,
+      "share": "10000 分之 45",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000(共 同使用部分)"
+    },
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "area": 1119.03,
+      "share": "10000 分之 50",
+      "owner": "翁曉玲",
+      "date": "109年08月21日",
+      "reason": "買賣",
+      "price": "7,000,000(共 同使用部分)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 25.87,
+      "share": "全部",
+      "owner": "翁曉玲",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "含雨遮 1.3 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 1711.96,
+      "share": "10000 分之 25",
+      "owner": "翁曉玲",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 3198.31,
+      "share": "10000 分之 31",
+      "owner": "翁曉玲",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 150.88,
+      "share": "全部",
+      "owner": "翁曉玲",
+      "date": "101年06月20日",
+      "reason": "買賣",
+      "price": "含陽台9.31平 方公尺,雨遮 12.61 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 2342.14,
+      "share": "116 分之 4",
+      "owner": "翁曉玲",
+      "date": "101年06月20日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 1574.28,
+      "share": "10000 分之 444",
+      "owner": "翁曉玲",
+      "date": "101年06月20日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 26.07,
+      "share": "全部",
+      "owner": "陳春生",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "含雨遮 1.5 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 1711.96,
+      "share": "10000 分之 25",
+      "owner": "陳春生",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "area": 3198.31,
+      "share": "10000 分之 31",
+      "owner": "陳春生",
+      "date": "105年12月02日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1998,
+      "owner": "翁曉玲",
+      "date": "92年11月25日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "國瑞",
+      "cc": 1798,
+      "owner": "翁曉玲",
+      "date": "107年06月27日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "納智捷",
+      "cc": 1556,
+      "owner": "翁曉玲",
+      "date": "109年02月12日",
+      "reason": "買賣",
+      "price": 100000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6994499,
+    "items": [
+      {
+        "institution": "第一銀行鶯歌分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "翁曉玲",
+        "foreignAmount": 4398,
+        "amount": 138826
+      },
+      {
+        "institution": "第一銀行鶯歌分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "翁曉玲",
+        "foreignAmount": 200012,
+        "amount": 42142
+      },
+      {
+        "institution": "第一銀行鶯歌分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 31394
+      },
+      {
+        "institution": "彰化銀行古亭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 71290
+      },
+      {
+        "institution": "彰化銀行雙園分行",
+        "type": "定期存款",
+        "currency": "澳幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 8242,
+        "amount": 170768
+      },
+      {
+        "institution": "彰化銀行雙園分行",
+        "type": "定期存款",
+        "currency": "南非幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 78844,
+        "amount": 132774
+      },
+      {
+        "institution": "彰化銀行雙園分行",
+        "type": "定期存款",
+        "currency": "澳幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 3403,
+        "amount": 70521
+      },
+      {
+        "institution": "彰化銀行雙園分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 516603
+      },
+      {
+        "institution": "彰化銀行雙園分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "翁曉玲",
+        "foreignAmount": 900000,
+        "amount": 191340
+      },
+      {
+        "institution": "彰化銀行雙園分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "翁曉玲",
+        "foreignAmount": 1142,
+        "amount": 36094
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 322
+      },
+      {
+        "institution": "國泰世華銀行中和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 996016
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "翁曉玲",
+        "foreignAmount": 870006,
+        "amount": 185224
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "翁曉玲",
+        "foreignAmount": 4,
+        "amount": 156
+      },
+      {
+        "institution": "兆豐國際商業銀行思源分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 123091
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "翁曉玲",
+        "foreignAmount": 0,
+        "amount": 3589605
+      },
+      {
+        "institution": "臺灣銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 378647
+      },
+      {
+        "institution": "臺灣銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 2619
+      },
+      {
+        "institution": "臺灣銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 31413
+      },
+      {
+        "institution": "第一銀行延吉分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 890
+      },
+      {
+        "institution": "第一銀行建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 93007
+      },
+      {
+        "institution": "彰化銀行古亭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 5754
+      },
+      {
+        "institution": "國泰世華銀行中和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 163524
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 83
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 16640
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳春生",
+        "foreignAmount": 0,
+        "amount": 5752
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1676280,
+    "items": [
+      {
+        "name": "台泥",
+        "owner": "翁曉玲",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "大成",
+        "owner": "翁曉玲",
+        "shares": 2294,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22940
+      },
+      {
+        "name": "卜蜂",
+        "owner": "翁曉玲",
+        "shares": 2200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22000
+      },
+      {
+        "name": "統一",
+        "owner": "翁曉玲",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "台塑",
+        "owner": "翁曉玲",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "臺化",
+        "owner": "翁曉玲",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "鴻海",
+        "owner": "翁曉玲",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      },
+      {
+        "name": "台積電",
+        "owner": "翁曉玲",
+        "shares": 1463,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14630
+      },
+      {
+        "name": "微星",
+        "owner": "翁曉玲",
+        "shares": 1500,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 15000
+      },
+      {
+        "name": "廣達",
+        "owner": "翁曉玲",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中華電",
+        "owner": "翁曉玲",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "長榮航",
+        "owner": "翁曉玲",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "台灣高鐵",
+        "owner": "翁曉玲",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      },
+      {
+        "name": "玉山金",
+        "owner": "翁曉玲",
+        "shares": 16529,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 165290
+      },
+      {
+        "name": "大立光",
+        "owner": "翁曉玲",
+        "shares": 160,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1600
+      },
+      {
+        "name": "大聯大",
+        "owner": "翁曉玲",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "遠傳",
+        "owner": "翁曉玲",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "瑞儀",
+        "owner": "翁曉玲",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "關貿",
+        "owner": "翁曉玲",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "精誠",
+        "owner": "翁曉玲",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "鴻海",
+        "owner": "陳春生",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "台積電",
+        "owner": "陳春生",
+        "shares": 9753,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 97530
+      },
+      {
+        "name": "中華電",
+        "owner": "陳春生",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "聯發科",
+        "owner": "陳春生",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "元大金",
+        "owner": "陳春生",
+        "shares": 8729,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 87290
+      },
+      {
+        "name": "遠傳",
+        "owner": "陳春生",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "崇越",
+        "owner": "陳春生",
+        "shares": 7000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 70000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "owner": "翁曉玲",
+        "institution": "凱 基 證 券 三 峽 分公司",
+        "units": 1000,
+        "unitValue": 152.96,
+        "foreignCurrency": "",
+        "totalValue": 152960
+      },
+      {
+        "name": "元大高股息",
+        "owner": "翁曉玲",
+        "institution": "凱 基 證 券 三 峽 分公司",
+        "units": 15000,
+        "unitValue": 39.2,
+        "foreignCurrency": "",
+        "totalValue": 588000
+      },
+      {
+        "name": "中信中國高股息",
+        "owner": "翁曉玲",
+        "institution": "凱 基 證 券 三 峽 分公司",
+        "units": 15000,
+        "unitValue": 10.41,
+        "foreignCurrency": "",
+        "totalValue": 156150
+      },
+      {
+        "name": "凱基優選高股息 30",
+        "owner": "翁曉玲",
+        "institution": "凱 基 證 券 三 峽 分公司",
+        "units": 10000,
+        "unitValue": 25.54,
+        "foreignCurrency": "",
+        "totalValue": 255400
+      },
+      {
+        "name": "元大高股息",
+        "owner": "陳春生",
+        "institution": "凱 基 證 券 三 峽 分公司",
+        "units": 40000,
+        "unitValue": 39.2,
+        "foreignCurrency": "",
+        "totalValue": 1568000
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽鑫創世 紀外幣變額年金 保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "翁曉玲",
+        "contractType": "年金型保險",
+        "period": "108 年 08 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽富利美 外幣利率變動型 終身壽險(美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "翁曉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 10 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○702",
+        "holder": "翁曉玲",
+        "contractType": "投資型壽險",
+        "period": "96 年 05 月 24 日/164 年 05 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽雙福還 本分紅終身壽險 （繳費十年）",
+        "policyNumber": "○○○○○○○ ○○302",
+        "holder": "翁曉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 09 月 12 日/199 年 09 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽鑫富利 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○303",
+        "holder": "翁曉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 06 月 13 日/199 年 06 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳春生",
+        "contractType": "儲蓄型壽險",
+        "period": "79 年 08 月 20 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 836115,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "翁曉玲",
+        "creditor": "彰化商業銀行古亭分行 臺北市大安區羅斯福路",
+        "amount": 836115,
+        "date": "101年06月21日",
+        "reason": "購 置 / 修 繕 不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

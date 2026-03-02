@@ -1,0 +1,95 @@
+{
+  "name": "黃珊珊",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 779385
+    },
+    {
+      "currency": "紐西蘭幣",
+      "amount": 137
+    },
+    {
+      "currency": "美元",
+      "amount": 3307
+    },
+    {
+      "currency": "澳幣",
+      "amount": 5
+    }
+  ],
+  "depositsTotal": 782834,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "黃珊珊",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀甲型",
+      "holder": "黃珊珊",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾意終身壽險",
+      "holder": "黃珊珊",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "黃珊珊",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰喬壽還本終 身壽險（繳費二 十年）",
+      "holder": "黃珊珊",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽平準終 身壽險",
+      "holder": "黃珊珊",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "聯嘉",
+      "cleanName": "聯嘉",
+      "ticker": "3717",
+      "shares": 30000,
+      "owner": "黃珊珊",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市汐止區金龍段",
+      "owner": "黃珊珊",
+      "date": "2003-04-23",
+      "effectiveAreaPing": 80.4,
+      "entryCount": 4,
+      "price": "含陽台 19.32 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市北投區行義段四小段",
+      "owner": "黃珊珊",
+      "date": "2022-12-23",
+      "effectiveAreaPing": 12.21,
+      "entryCount": 2,
+      "price": "5,000,000(含 陽台 2.8 平方 公尺,雨遮 0.86 平方公 尺)"
+    }
+  ]
+}

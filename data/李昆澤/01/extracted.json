@@ -1,0 +1,315 @@
+{
+  "name": "李昆澤",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "廖翊百"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○霖"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○容"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市鼓山區龍中段",
+      "area": 1888.42,
+      "share": "10000 分之 97",
+      "owner": "李昆澤",
+      "date": "94年12月12日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市三民區灣內段",
+      "area": 1275.23,
+      "share": "10000 分之 145",
+      "owner": "廖翊百",
+      "date": "100年10月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區西屯段",
+      "area": 500,
+      "share": "3150 分之 1",
+      "owner": "廖翊百",
+      "date": "88年09月23日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區西屯段",
+      "area": 2412,
+      "share": "3150 分之 1",
+      "owner": "廖翊百",
+      "date": "88年09月23日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鼓山區龍中段",
+      "area": 126.89,
+      "share": "全部",
+      "owner": "李昆澤",
+      "date": "94年12月15日",
+      "reason": "買賣",
+      "price": "含陽台 12.37 平方公尺,雨 遮3.18平方公 尺(超過五年)"
+    },
+    {
+      "location": "高雄市鼓山區龍中段",
+      "area": 6829.8,
+      "share": "100000 分 之 1192",
+      "owner": "李昆澤",
+      "date": "94年12月15日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市三民區灣內段",
+      "area": 99.47,
+      "share": "全部",
+      "owner": "廖翊百",
+      "date": "100年10月14日",
+      "reason": "買賣",
+      "price": "含陽台9.82平 方公尺,雨遮 2.08 平方公尺 (超過五年)"
+    },
+    {
+      "location": "高雄市三民區灣內段",
+      "area": 3881.76,
+      "share": "10000 分之 175",
+      "owner": "廖翊百",
+      "date": "100年10月14日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "VOLKSWAGEN",
+      "cc": 1968,
+      "owner": "廖翊百",
+      "date": "106年08月09日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 12171751,
+    "items": [
+      {
+        "institution": "高雄銀行三民分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "李昆澤",
+        "foreignAmount": 0,
+        "amount": 106
+      },
+      {
+        "institution": "高雄銀行三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李昆澤",
+        "foreignAmount": 0,
+        "amount": 6198000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "李昆澤",
+        "foreignAmount": 0,
+        "amount": 112
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李昆澤",
+        "foreignAmount": 0,
+        "amount": 1791009
+      },
+      {
+        "institution": "臺灣銀行高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 99
+      },
+      {
+        "institution": "華南銀行高雄分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 119294
+      },
+      {
+        "institution": "彰化銀行高雄分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "廖翊百",
+        "foreignAmount": 17400,
+        "amount": 556198
+      },
+      {
+        "institution": "彰化銀行博愛分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "彰化銀行博愛分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 1002890
+      },
+      {
+        "institution": "高雄銀行前金分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 54
+      },
+      {
+        "institution": "陽信銀行大公分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 46
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 271792
+      },
+      {
+        "institution": "星展台灣資訊暨營運管理 處",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 954
+      },
+      {
+        "institution": "中信銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖翊百",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李○霖",
+        "foreignAmount": 0,
+        "amount": 231193
+      }
+    ]
+  },
+  "stocks": {
+    "total": 90000,
+    "items": [
+      {
+        "name": "台灣高鐵",
+        "owner": "廖翊百",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "91APP*-KY",
+        "owner": "廖翊百",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "中信電池及儲能",
+        "owner": "廖翊百",
+        "institution": "華 南 永 昌 證 券 高雄分公司",
+        "units": 10000,
+        "unitValue": 10.21,
+        "foreignCurrency": "",
+        "totalValue": 102100
+      },
+      {
+        "name": "富邦元宇宙",
+        "owner": "廖翊百",
+        "institution": "華 南 永 昌 證 券 高雄分公司",
+        "units": 10000,
+        "unitValue": 14.06,
+        "foreignCurrency": "",
+        "totalValue": 140600
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "添美發年年美元",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "廖翊百",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 03 月 11 日/208 年 03 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽保險股 份有限公司",
+        "name": "新光人壽美富旺 外幣利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "廖翊百",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 12 月 07 日/176 年 12 月 07 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

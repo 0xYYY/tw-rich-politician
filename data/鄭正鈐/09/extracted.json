@@ -1,0 +1,84 @@
+{
+  "name": "鄭正鈐",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "聯邦銀",
+        "broker": "集保專戶",
+        "owner": "鄭正鈐",
+        "shares": 1937,
+        "pricePerShare": "14.85",
+        "changeDate": "113年09月11日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 28764
+      },
+      {
+        "name": "玉山金",
+        "broker": "大昌證券新竹分公 司",
+        "owner": "鄭正鈐",
+        "shares": 12,
+        "pricePerShare": "27.95",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 335
+      },
+      {
+        "name": "元大金",
+        "broker": "大昌證券新竹分公 司",
+        "owner": "鄭正鈐",
+        "shares": 48,
+        "pricePerShare": "30.25",
+        "changeDate": "113年09月13日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 1452
+      },
+      {
+        "name": "台新金",
+        "broker": "富邦綜合證券木柵 分公司",
+        "owner": "鄭正鈐",
+        "shares": 101,
+        "pricePerShare": "18.40",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 1858
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

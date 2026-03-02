@@ -1,0 +1,552 @@
+{
+  "name": "陳永康",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年04月26日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王森"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市樹林區大學段二小段",
+      "area": 12168.03,
+      "share": "100000 分 之 128",
+      "owner": "陳永康",
+      "date": "98年01月13日",
+      "reason": "自購",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市前金區博孝段",
+      "area": 2124,
+      "share": "100000 分 之 562",
+      "owner": "陳永康",
+      "date": "105年06月04日",
+      "reason": "自購",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市林口區頂福段",
+      "area": 1850.9,
+      "share": "100000 分 之 22",
+      "owner": "陳永康",
+      "date": "102年04月02日",
+      "reason": "自購",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市樹林區大學段二小段",
+      "area": 91.3,
+      "share": "全部",
+      "owner": "陳永康",
+      "date": "98年01月12日",
+      "reason": "自購",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市前金區博孝段",
+      "area": 93.05,
+      "share": "全部",
+      "owner": "陳永康",
+      "date": "105年06月04日",
+      "reason": "自購",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "VOLVO S60 2,0T TURBO",
+      "cc": 1984,
+      "owner": "陳永康",
+      "date": "104年04月22日",
+      "reason": "自購",
+      "price": 0
+    },
+    {
+      "brand": "SKODA SUPERB 1,4 TSI",
+      "cc": 1395,
+      "owner": "王森",
+      "date": "106年12月11日",
+      "reason": "自購",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 19293466,
+    "items": [
+      {
+        "institution": "臺灣銀行總行營業部",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 3000000
+      },
+      {
+        "institution": "臺灣銀行總行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 3120883
+      },
+      {
+        "institution": "臺灣銀行總行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 1192911
+      },
+      {
+        "institution": "中華郵政股份有限公司國 防部郵局",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 966732
+      },
+      {
+        "institution": "中國信託商業銀行土城分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 649550
+      },
+      {
+        "institution": "中國信託商業銀行土城分 行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "合作金庫商業銀行介壽分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 111603
+      },
+      {
+        "institution": "玉山商業銀行三峽分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳永康",
+        "foreignAmount": 0,
+        "amount": 31485
+      },
+      {
+        "institution": "玉山商業銀行三峽分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳永康",
+        "foreignAmount": 6931,
+        "amount": 222927
+      },
+      {
+        "institution": "合作金庫商業銀行三峽分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 5674
+      },
+      {
+        "institution": "合作金庫商業銀行復興分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 3859773
+      },
+      {
+        "institution": "合作金庫商業銀行三峽分 行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 600000
+      },
+      {
+        "institution": "中華郵政股份有限公司青 田郵局",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 25203
+      },
+      {
+        "institution": "台北富邦商業銀行三峽分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 9584
+      },
+      {
+        "institution": "台北富邦商業銀行三峽分 行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "國泰世華商業銀行東門分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 167128
+      },
+      {
+        "institution": "國泰世華商業銀行東門分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 330013
+      },
+      {
+        "institution": "國泰世華商業銀行東門分 行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "王森",
+        "foreignAmount": 0,
+        "amount": 1000000
+      }
+    ]
+  },
+  "stocks": {
+    "total": 350000,
+    "items": [
+      {
+        "name": "台積電",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "聯電",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "中華開發",
+        "owner": "王森",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "五鼎",
+        "owner": "王森",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "鋐寶",
+        "owner": "王森",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "耀華",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "春源",
+        "owner": "王森",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "中鴻",
+        "owner": "王森",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "萬泰科",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "美琪瑪",
+        "owner": "王森",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "普誠",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "鈺創",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "星宇航空",
+        "owner": "王森",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "益得",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "萬海航運",
+        "owner": "王森",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "合晶",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "永捷",
+        "owner": "王森",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽",
+        "name": "年年鑽利率變動 型養老保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳永康",
+        "contractType": "年金型",
+        "period": "105 年 05 月 24 日/112 年 05 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政",
+        "name": "郵政簡易人壽常 春增額還本保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "103 年 01 月 16 日/121 年 01 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政",
+        "name": "郵政簡易人壽常 春增額還本保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "108 年 06 月 03 日/120 年 06 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "XLG 富利豐終身 壽險",
+        "policyNumber": "○○○○○○○ ○○3-00",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "104 年 04 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "XLJ 安康久久殘 廢照護終身壽險",
+        "policyNumber": "○○○○○○○ ○○7-00",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "104 年 11 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "AHNZ 新 平 安 福 保本保險",
+        "policyNumber": "○○○○○○○ ○○2-00",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "108 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安泰人壽",
+        "name": "LPL 分紅終身壽 險",
+        "policyNumber": "○○○○○○○ ○○3-01",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "86 年 10 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安泰人壽",
+        "name": "LESA 還 本 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○3-02",
+        "holder": "王森",
+        "contractType": "儲蓄型",
+        "period": "88 年 04 月 12 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "乾隆 20 吋龍盤",
+        "quantity": "乙對",
+        "owner": "陳永康",
+        "value": 600000
+      },
+      {
+        "type": "張大千畫作",
+        "quantity": "三幅",
+        "owner": "陳永康",
+        "value": 6000000
+      },
+      {
+        "type": "黃君璧畫作",
+        "quantity": "二幅",
+        "owner": "陳永康",
+        "value": 3000000
+      },
+      {
+        "type": "溥心畬畫作",
+        "quantity": "二幅",
+        "owner": "陳永康",
+        "value": 2000000
+      },
+      {
+        "type": "林風眠畫作",
+        "quantity": "二幅",
+        "owner": "陳永康",
+        "value": 2000000
+      },
+      {
+        "type": "吳冠中畫作",
+        "quantity": "三幅",
+        "owner": "陳永康",
+        "value": 3000000
+      },
+      {
+        "type": "齊白石畫作",
+        "quantity": "二幅",
+        "owner": "陳永康",
+        "value": 1200000
+      },
+      {
+        "type": "唐寅畫作",
+        "quantity": "乙幅",
+        "owner": "陳永康",
+        "value": 3000000
+      },
+      {
+        "type": "黃冑雙驢畫作",
+        "quantity": "四幅",
+        "owner": "陳永康",
+        "value": 1200000
+      },
+      {
+        "type": "顏文樑油畫",
+        "quantity": "二幅",
+        "owner": "陳永康",
+        "value": 2000000
+      },
+      {
+        "type": "傅抱石畫作",
+        "quantity": "乙幅",
+        "owner": "陳永康",
+        "value": 500000
+      },
+      {
+        "type": "傅抱石冊頁",
+        "quantity": "乙本",
+        "owner": "陳永康",
+        "value": 150000
+      },
+      {
+        "type": "張大千冊頁",
+        "quantity": "乙本",
+        "owner": "陳永康",
+        "value": 600000
+      },
+      {
+        "type": "吳冠中冊頁",
+        "quantity": "乙本",
+        "owner": "陳永康",
+        "value": 300000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "name": "楊曜",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林君倩"
+    }
+  ],
+  "land": [
+    {
+      "location": "澎湖縣西嶼鄉合界段",
+      "area": 131.54,
+      "share": "3 分之 1",
+      "owner": "楊曜",
+      "date": "83年04月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣西嶼鄉合界段",
+      "area": 193.16,
+      "share": "3 分之 1",
+      "owner": "楊曜",
+      "date": "93年10月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣西嶼鄉合界段",
+      "area": 210.09,
+      "share": "3 分之 1",
+      "owner": "楊曜",
+      "date": "83年04月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市苓雅區五塊厝段",
+      "area": 887,
+      "share": "100000 分 之 948",
+      "owner": "林君倩",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "3,325,000"
+    },
+    {
+      "location": "澎湖縣馬公市六合段",
+      "area": 205.68,
+      "share": "全部",
+      "owner": "林君倩",
+      "date": "106年06月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣馬公市埕西段",
+      "area": 70.09,
+      "share": "全部",
+      "owner": "林君倩",
+      "date": "97年03月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市苓雅區五塊厝段",
+      "area": 66.8,
+      "share": "全部",
+      "owner": "林君倩",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "50,250,000 (含陽台 7.19 平方公尺,雨 遮2.88平方公 尺，與第 4 筆 土地、第 2 筆 建物合購)"
+    },
+    {
+      "location": "高雄市苓雅區五塊厝段",
+      "area": 6016.34,
+      "share": "100000 分 之 1108",
+      "owner": "林君倩",
+      "date": "111年10月25日",
+      "reason": "買賣",
+      "price": "8,350,000 (與第 4 筆土 地、第 1 筆建 物合購，總價 8,350,000)"
+    },
+    {
+      "location": "澎湖縣馬公市埕西段",
+      "area": 88.52,
+      "share": "全部",
+      "owner": "林君倩",
+      "date": "97年03月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "日產",
+      "cc": 1598,
+      "owner": "林君倩",
+      "date": "99年05月13日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6735759,
+    "items": [
+      {
+        "institution": "臺灣銀行澎湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 5896929
+      },
+      {
+        "institution": "合庫商業銀行南高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 1153
+      },
+      {
+        "institution": "澎湖縣第二信用合作社中 興分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 2356
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 2105
+      },
+      {
+        "institution": "聯邦銀行北台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 89
+      },
+      {
+        "institution": "聯邦銀行北台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 70
+      },
+      {
+        "institution": "元大銀行大昌分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊曜",
+        "foreignAmount": 0,
+        "amount": 3931
+      },
+      {
+        "institution": "臺灣銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 159028
+      },
+      {
+        "institution": "臺灣銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 96214
+      },
+      {
+        "institution": "臺灣銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "林君倩",
+        "foreignAmount": 200000,
+        "amount": 41980
+      },
+      {
+        "institution": "土地銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 27000
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 83629
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 15064
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林君倩",
+        "foreignAmount": 212,
+        "amount": 6779
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 633
+      },
+      {
+        "institution": "第一銀行長泰分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 46
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 56257
+      },
+      {
+        "institution": "華南銀行三重分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 205
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 254
+      },
+      {
+        "institution": "兆豐國際商業銀行松山機 場分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 33
+      },
+      {
+        "institution": "臺灣企銀南京東路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 94
+      },
+      {
+        "institution": "澎湖縣第一信用合作社民 權分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 2785
+      },
+      {
+        "institution": "澎湖縣第二信用合作社營 業部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "澎湖縣第二信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 63511
+      },
+      {
+        "institution": "澎湖縣第二信用合作社漁 港分社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 1368
+      },
+      {
+        "institution": "澎湖縣第二信用合作社漁 港分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 195825
+      },
+      {
+        "institution": "澎湖縣農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 46059
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 20600
+      },
+      {
+        "institution": "玉山銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 11700
+      },
+      {
+        "institution": "台新國際銀行南京東路分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林君倩",
+        "foreignAmount": 0,
+        "amount": 43
+      }
+    ]
+  },
+  "stocks": {
+    "total": 406890,
+    "items": [
+      {
+        "name": "圓剛",
+        "owner": "林君倩",
+        "shares": 30,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300
+      },
+      {
+        "name": "飛宏",
+        "owner": "林君倩",
+        "shares": 38,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 380
+      },
+      {
+        "name": "希華",
+        "owner": "林君倩",
+        "shares": 4314,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 43140
+      },
+      {
+        "name": "中國力霸",
+        "owner": "林君倩",
+        "shares": 1307,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 13070
+      },
+      {
+        "name": "尖美",
+        "owner": "林君倩",
+        "shares": 35000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 350000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "中小成長",
+        "owner": "楊曜",
+        "institution": "國 泰 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 1000,
+        "unitValue": 131.58,
+        "foreignCurrency": "",
+        "totalValue": 131580
+      },
+      {
+        "name": "富達美國基金美 元",
+        "owner": "林君倩",
+        "institution": "合 庫 商 業 銀 行 信託部",
+        "units": 294.05,
+        "unitValue": 16.36,
+        "foreignCurrency": "美元",
+        "totalValue": 153527
+      },
+      {
+        "name": "元大經貿基金",
+        "owner": "林君倩",
+        "institution": "合 庫 商 業 銀 行 信託部",
+        "units": 5001.7,
+        "unitValue": 63.02,
+        "foreignCurrency": "",
+        "totalValue": 315207
+      },
+      {
+        "name": "元大台灣加權股 價指數基金 A 不 配息台幣",
+        "owner": "林君倩",
+        "institution": "合 庫 商 業 銀 行 信託部",
+        "units": 5685.5,
+        "unitValue": 63.813,
+        "foreignCurrency": "",
+        "totalValue": 362809
+      },
+      {
+        "name": "凱基台灣精五門 基金",
+        "owner": "林君倩",
+        "institution": "臺 灣 銀 行 澎 湖 分行",
+        "units": 176.15,
+        "unitValue": 57.88,
+        "foreignCurrency": "",
+        "totalValue": 10195
+      },
+      {
+        "name": "元 大 台 卓 越 50ETF",
+        "owner": "林君倩",
+        "institution": "臺 灣 銀 行 澎 湖 分行",
+        "units": 134.4,
+        "unitValue": 186.4375,
+        "foreignCurrency": "",
+        "totalValue": 25057
+      },
+      {
+        "name": "元 大 台 卓 越 50ETF",
+        "owner": "林君倩",
+        "institution": "臺 灣 銀 行 澎 湖 分行",
+        "units": 15.48,
+        "unitValue": 186.4375,
+        "foreignCurrency": "",
+        "totalValue": 2886
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "世紀理財變額萬 能終身壽險二十 年期 A 型",
+        "policyNumber": "○○○○○○○ ○○208",
+        "holder": "楊曜",
+        "contractType": "投資型壽險",
+        "period": "95 年 12 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費 33 長 期看護終身保險",
+        "policyNumber": "○○○○○○○ ○○872",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 08 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費真安 康防癌保險",
+        "policyNumber": "○○○○○○○ ○○134",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 12 月 10 日/162 年 12 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○496",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 05 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○737",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 06 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽加倍醫 靠終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○80",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 06 月 26 日/165 年 06 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽安養久 久 終 身 保 險 （ A 型）",
+        "policyNumber": "○○○○○○○ ○○21",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 12 月 31 日/197 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "21 世紀終身",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 05 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新安心保住院醫 療終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 27 日/154 年 06 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新安順手術醫療 終身",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 27 日/154 年 06 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新鍾情終身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "楊曜",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 12 月 19 日/154 年 12 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "世紀理財變額萬 能終身壽險二十 年期 A 型",
+        "policyNumber": "○○○○○○○ ○○215",
+        "holder": "林君倩",
+        "contractType": "投資型壽險",
+        "period": "95 年 12 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費 33 長 期看護終身保險",
+        "policyNumber": "○○○○○○○ ○○889",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 08 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 心終身壽險",
+        "policyNumber": "○○○○○○○ ○○360",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○744",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 06 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "六年繳費金富利 終身保險",
+        "policyNumber": "○○○○○○○ ○○437",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 07 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "六年繳費祥威利 利率變動型增額 終身壽險(新)",
+        "policyNumber": "○○○○○○○ ○○384",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽加倍醫 靠終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○00",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 06 月 26 日/166 年 06 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "吉利長紅變額萬 能壽險",
+        "policyNumber": "○○○○○○○ ○○4",
+        "holder": "林君倩",
+        "contractType": "投資型壽險",
+        "period": "96 年 08 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新吉富 養老保險",
+        "policyNumber": "○○○○○○○ ○○102",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 04 月 29 日/114 年 04 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新嘉樂 養老保險",
+        "policyNumber": "○○○○○○○ ○○103",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 01 月 19 日/121 年 01 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽一路發 終身還本保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 05 月 22 日/166 年 05 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "福鑫 200 殘廢照 護終身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 07 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽富貴一 生終身還本保險 -10 年期(JE1)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 04 月 21 日/167 年 04 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽富貴一 生終身還本保險 -10 年期(JE2)",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 12 月 15 日/166 年 12 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽富貴一 生終身還本保險 -10 年期(JE5)",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "林君倩",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 02 月 13 日/167 年 02 月 13 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "自地自建房屋",
+        "quantity": "1",
+        "owner": "林君倩",
+        "value": 15000000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 5077589,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林君倩",
+        "creditor": "合作金庫商業銀行澎湖分行 澎湖縣馬公市仁愛路",
+        "amount": 478486,
+        "date": "97年03月14日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "林君倩",
+        "creditor": "臺灣土地銀行左營分行 高雄市左營區華夏路",
+        "amount": 4599103,
+        "date": "111年10月26日",
+        "reason": "購買住宅貸 款(非自用)"
+      }
+    ]
+  },
+  "investments": {
+    "total": 18000,
+    "items": [
+      {
+        "investor": "林君倩",
+        "company": "澎湖第二信用合作社",
+        "address": "澎湖縣馬公市西文里文學路 240 號",
+        "amount": 8000,
+        "date": "98年06月29日",
+        "reason": "股金"
+      },
+      {
+        "investor": "林君倩",
+        "company": "澎湖縣第一信用合作社",
+        "address": "澎湖縣馬公市民權路 44 號",
+        "amount": 10000,
+        "date": "93年11月25日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

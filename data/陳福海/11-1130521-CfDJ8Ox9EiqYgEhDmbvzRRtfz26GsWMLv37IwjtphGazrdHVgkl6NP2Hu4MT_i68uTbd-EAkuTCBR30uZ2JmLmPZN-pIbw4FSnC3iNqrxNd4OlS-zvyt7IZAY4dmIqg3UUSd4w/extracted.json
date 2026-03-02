@@ -1,0 +1,58 @@
+{
+  "name": "陳福海",
+  "org": "金門縣政府",
+  "title": "縣長",
+  "date": "112年11月24日",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "許梨羡"
+    }
+  ],
+  "land": [
+    {
+      "location": "金門縣金湖鎮湖前段",
+      "area": 45.82,
+      "share": "全部",
+      "owner": "陳福海",
+      "date": "112年11月24日",
+      "reason": "受託人:臺灣土地銀 行",
+      "price": ""
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

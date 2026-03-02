@@ -1,0 +1,272 @@
+{
+  "name": "林姿妙",
+  "org": "宜蘭縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 999363,
+    "items": [
+      {
+        "institution": "臺灣銀行宜蘭分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 2991
+      },
+      {
+        "institution": "臺灣銀行宜蘭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 122153
+      },
+      {
+        "institution": "土地銀行宜蘭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 1510
+      },
+      {
+        "institution": "土地銀行羅東分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 403
+      },
+      {
+        "institution": "土地銀行羅東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 3651
+      },
+      {
+        "institution": "合庫商業銀行蘇澳分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 4159
+      },
+      {
+        "institution": "合庫商業銀行羅東分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 270
+      },
+      {
+        "institution": "合庫商業銀行松興分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 66029
+      },
+      {
+        "institution": "合庫商業銀行北羅東分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 2689
+      },
+      {
+        "institution": "華南銀行羅東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 3103
+      },
+      {
+        "institution": "彰化銀行羅東分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 11
+      },
+      {
+        "institution": "彰化銀行羅東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 9170
+      },
+      {
+        "institution": "兆豐國際商業銀行羅東分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 6483
+      },
+      {
+        "institution": "兆豐國際商業銀行羅東分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 2626
+      },
+      {
+        "institution": "臺灣企銀蘇澳分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 565
+      },
+      {
+        "institution": "臺灣新光銀行宜蘭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 2022
+      },
+      {
+        "institution": "羅東鎮農會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 450010
+      },
+      {
+        "institution": "羅東鎮農會民權分部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 259
+      },
+      {
+        "institution": "羅東鎮農會東門分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 903
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 250946
+      },
+      {
+        "institution": "永豐銀行羅東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 1757
+      },
+      {
+        "institution": "中信銀行宜蘭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 5688
+      },
+      {
+        "institution": "冬山鄉農會信用部羅東分 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 2538
+      },
+      {
+        "institution": "冬山鄉農會信用部廣興分 部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 51035
+      },
+      {
+        "institution": "冬山鄉農會信用部廣興分 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林姿妙",
+        "foreignAmount": 0,
+        "amount": 8392
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "全福 101 終身",
+        "policyNumber": "",
+        "holder": "林姿妙",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 11 月 22 日/139 年 11 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 202 終 身",
+        "policyNumber": "",
+        "holder": "林姿妙",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 26 日/167 年 08 月 25 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 16300587,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林姿妙",
+        "creditor": "臺灣銀行宜蘭分行 宜蘭縣宜蘭市舊城南路",
+        "amount": 16300587,
+        "date": "109年07月13日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

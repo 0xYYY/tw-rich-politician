@@ -1,0 +1,676 @@
+{
+  "name": "許智傑",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "周桂香"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "area": 211,
+      "share": "10 分之 1",
+      "owner": "許智傑",
+      "date": "83年09月09日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "area": 434,
+      "share": "10000 分之 276",
+      "owner": "許智傑",
+      "date": "83年09月09日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳳山區五甲段",
+      "area": 74,
+      "share": "全部",
+      "owner": "許智傑",
+      "date": "101年03月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "area": 211,
+      "share": "10 分之 1",
+      "owner": "周桂香",
+      "date": "99年02月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "area": 434,
+      "share": "10000 分之 276",
+      "owner": "周桂香",
+      "date": "99年02月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "area": 97.22,
+      "share": "全部",
+      "owner": "許智傑",
+      "date": "83年09月09日",
+      "reason": "買賣",
+      "price": "含陽台 12.22 平方公尺(超 過五年)"
+    },
+    {
+      "location": "高雄市鳳山區五甲段",
+      "area": 121.44,
+      "share": "全部",
+      "owner": "許智傑",
+      "date": "101年03月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鳳山區七老爺段一甲小 段",
+      "area": 97.22,
+      "share": "全部",
+      "owner": "周桂香",
+      "date": "99年02月24日",
+      "reason": "買賣",
+      "price": "含陽台 12.22 平方公尺(超 過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "VOLVO",
+      "cc": 1969,
+      "owner": "周桂香",
+      "date": "111年05月23日",
+      "reason": "買賣",
+      "price": 2800000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 13338110,
+    "items": [
+      {
+        "institution": "臺灣銀行鳳山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 2010757
+      },
+      {
+        "institution": "土地銀行石門分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "土地銀行岡山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 1443
+      },
+      {
+        "institution": "土地銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 34264
+      },
+      {
+        "institution": "合庫商業銀行五甲分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 142538
+      },
+      {
+        "institution": "第一銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 726
+      },
+      {
+        "institution": "華南銀行新興分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 117
+      },
+      {
+        "institution": "彰化銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 447
+      },
+      {
+        "institution": "國泰世華銀行前金分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 102
+      },
+      {
+        "institution": "高雄銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 284
+      },
+      {
+        "institution": "臺灣企銀鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 47
+      },
+      {
+        "institution": "板信銀行高新莊分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 1087
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 3270
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 551265
+      },
+      {
+        "institution": "中信銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 399
+      },
+      {
+        "institution": "中信銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許智傑",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "臺灣銀行五甲分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 130000
+      },
+      {
+        "institution": "臺灣銀行五甲分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 110000
+      },
+      {
+        "institution": "臺灣銀行五甲分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "臺灣銀行五甲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 1192431
+      },
+      {
+        "institution": "臺灣銀行五甲分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "周桂香",
+        "foreignAmount": 4720,
+        "amount": 150894
+      },
+      {
+        "institution": "合庫商業銀行五甲分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "周桂香",
+        "foreignAmount": 262,
+        "amount": 8398
+      },
+      {
+        "institution": "合庫商業銀行五甲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 27973
+      },
+      {
+        "institution": "華南銀行籬仔內分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 424
+      },
+      {
+        "institution": "高雄市鳳山區農會信用部 五甲分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 152542
+      },
+      {
+        "institution": "高雄市大寮區農會信用部 潮寮分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 56
+      },
+      {
+        "institution": "高雄市鳳山區農會信用部 老爺分部",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 20
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 700000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 658079
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 647710
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 652179
+      },
+      {
+        "institution": "聯邦銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 1233498
+      },
+      {
+        "institution": "元大銀行前鎮中山分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "周桂香",
+        "foreignAmount": 65264,
+        "amount": 2089626
+      },
+      {
+        "institution": "元大銀行前鎮中山分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "周桂香",
+        "foreignAmount": 29499,
+        "amount": 55658
+      },
+      {
+        "institution": "元大銀行前鎮中山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 1728649
+      },
+      {
+        "institution": "中信銀行五甲分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "周桂香",
+        "foreignAmount": 1,
+        "amount": 39
+      },
+      {
+        "institution": "中信銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周桂香",
+        "foreignAmount": 0,
+        "amount": 3175
+      }
+    ]
+  },
+  "stocks": {
+    "total": 221730,
+    "items": [
+      {
+        "name": "中石化",
+        "owner": "許智傑",
+        "shares": 5957,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 59570
+      },
+      {
+        "name": "勝華",
+        "owner": "許智傑",
+        "shares": 8199,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 81990
+      },
+      {
+        "name": "力銘",
+        "owner": "許智傑",
+        "shares": 202,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2020
+      },
+      {
+        "name": "松瑞藥",
+        "owner": "許智傑",
+        "shares": 265,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2650
+      },
+      {
+        "name": "高端疫苗",
+        "owner": "許智傑",
+        "shares": 3042,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30420
+      },
+      {
+        "name": "台康生技",
+        "owner": "許智傑",
+        "shares": 4508,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 45080
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣高股息 優質龍頭不配息",
+        "owner": "周桂香",
+        "institution": "元 大 銀 行 信 託 部",
+        "units": 528.6,
+        "unitValue": 18.13,
+        "foreignCurrency": "",
+        "totalValue": 9583
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費金富 泰終身保險",
+        "policyNumber": "○○○○○○○ ○○121",
+        "holder": "許智傑",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "許智傑",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "許智傑",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 03 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽厚利旺 利率變動型年金 保險（甲型）",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "周桂香",
+        "contractType": "年金型保險",
+        "period": "106 年 09 月 16 日/124 年 09 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽年年鑽 利率變動型養老 保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 02 日/121 年 03 月 02 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美利珍 鑫美元利率變動 型還本終身保險 （定期給付型）",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 10 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美鑫外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 12 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美鑫年 年美元利率變動 型還本終身保險 （定期給付型）",
+        "policyNumber": "○○○○○○○ ○○4",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 02 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 09 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 09 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽富貴年 年 3 醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽意帆風 順保本終身保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 07 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 06 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 12 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 03 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 04 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 01 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽滿鑫美 利美元還本終身 保險（定期給付 型）",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 10 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增安心 終身防癌保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "周桂香",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 08 月 03 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "name": "黃敏惠",
+  "org": "嘉義市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "蔡宗佑"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市士林區三玉段一小段(自 用房屋之坐落基地)",
+      "area": 735,
+      "share": "10000 分之 373",
+      "owner": "黃敏惠",
+      "date": "73年11月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市士林區三玉段一小段(未 交付信託原因：自用房屋)",
+      "area": 112.9,
+      "share": "全部",
+      "owner": "黃敏惠",
+      "date": "73年11月22日",
+      "reason": "買賣",
+      "price": "含平台 15.68 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市士林區三玉段一小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 335.81,
+      "share": "1000 分 之 218",
+      "owner": "黃敏惠",
+      "date": "73年11月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區三玉段一小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 495.59,
+      "share": "10000 分之 373",
+      "owner": "黃敏惠",
+      "date": "73年11月22日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市士林區三玉段一小段(未 交付信託原因：自用房屋之共同 使用部分)",
+      "area": 335.81,
+      "share": "1000 分 之 78",
+      "owner": "蔡宗佑",
+      "date": "73年11月22日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 3291238,
+    "items": [
+      {
+        "institution": "臺灣銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 270125
+      },
+      {
+        "institution": "合庫商業銀行南嘉義分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 3382
+      },
+      {
+        "institution": "第一銀行嘉義分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 244
+      },
+      {
+        "institution": "第一銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 313875
+      },
+      {
+        "institution": "華南銀行嘉南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 16450
+      },
+      {
+        "institution": "國泰世華銀行嘉泰分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 215414
+      },
+      {
+        "institution": "臺灣新光銀行北嘉義簡易 型分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 510
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 124921
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃敏惠",
+        "foreignAmount": 0,
+        "amount": 48763
+      },
+      {
+        "institution": "合庫商業銀行新店分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 1426
+      },
+      {
+        "institution": "第一銀行嘉義分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 86
+      },
+      {
+        "institution": "第一銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 106222
+      },
+      {
+        "institution": "彰化銀行中山北路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 81679
+      },
+      {
+        "institution": "國泰世華銀行嘉泰分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 2855
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 95197
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 30000,
+        "amount": 134460
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 272722
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 679,
+        "amount": 3043
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "蔡宗佑",
+        "foreignAmount": 947,
+        "amount": 198
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "港幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 17,
+        "amount": 69
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "歐元",
+        "owner": "蔡宗佑",
+        "foreignAmount": 1,
+        "amount": 44
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "紐西蘭幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 17
+      },
+      {
+        "institution": "永豐銀行嘉義分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 13
+      },
+      {
+        "institution": "玉山銀行東嘉義分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 40000,
+        "amount": 179276
+      },
+      {
+        "institution": "玉山銀行東嘉義分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蔡宗佑",
+        "foreignAmount": 225,
+        "amount": 7199
+      },
+      {
+        "institution": "玉山銀行東嘉義分行",
+        "type": "活期存款",
+        "currency": "人民幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 423,
+        "amount": 1897
+      },
+      {
+        "institution": "玉山銀行東嘉義分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 658011
+      },
+      {
+        "institution": "中信銀行嘉義分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "蔡宗佑",
+        "foreignAmount": 48396,
+        "amount": 10134
+      },
+      {
+        "institution": "中信銀行嘉義分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蔡宗佑",
+        "foreignAmount": 20,
+        "amount": 650
+      },
+      {
+        "institution": "中信銀行嘉義分行",
+        "type": "活期存款",
+        "currency": "離岸人民幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 1,
+        "amount": 8
+      },
+      {
+        "institution": "中信銀行嘉義分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蔡宗佑",
+        "foreignAmount": 0,
+        "amount": 742344
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "南山康樂限期繳 費終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "蔡宗佑",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 06 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "新二十年限期繳 費特別增值分紅 終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "蔡宗佑",
+        "contractType": "儲蓄型壽險",
+        "period": "79 年 07 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺銀人壽保險股 份有限公司",
+        "name": "鴻福還本終身壽 險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "蔡宗佑",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 07 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險股 份有限公司",
+        "name": "台灣人壽臻美利 美元利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "蔡宗佑",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 07 月 03 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險股 份有限公司",
+        "name": "真鑫安保險甲型",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "蔡宗佑",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 11 月 11 日/117 年 11 月 11 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 11620266,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "蔡宗佑",
+        "creditor": "玉山商業銀行民權分行 臺北市中山區民權西路",
+        "amount": 2670000,
+        "date": "113年10月22日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡宗佑",
+        "creditor": "玉山商業銀行東嘉義分行 嘉義市東區新開里垂楊路",
+        "amount": 7005503,
+        "date": "106年07月27日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "蔡宗佑",
+        "creditor": "玉山商業銀行東嘉義分行 嘉義市東區新開里垂楊路",
+        "amount": 1944763,
+        "date": "106年07月27日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

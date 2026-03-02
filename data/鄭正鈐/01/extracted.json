@@ -1,0 +1,723 @@
+{
+  "name": "鄭正鈐",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "新竹市高翠段",
+      "area": 9.45,
+      "share": "全部",
+      "owner": "鄭正鈐",
+      "date": "101年06月21日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市翠湖段",
+      "area": 2025.76,
+      "share": "10000 分之 360",
+      "owner": "鄭正鈐",
+      "date": "101年01月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市翠湖段",
+      "area": 180.18,
+      "share": "全部",
+      "owner": "鄭正鈐",
+      "date": "101年01月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市翠湖段",
+      "area": 303.9,
+      "share": "10000 分之 360",
+      "owner": "鄭正鈐",
+      "date": "101年01月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市翠湖段",
+      "area": 20.14,
+      "share": "10000 分之 360",
+      "owner": "鄭正鈐",
+      "date": "101年01月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新竹市翠湖段",
+      "area": 0.74,
+      "share": "10000 分之 360",
+      "owner": "鄭正鈐",
+      "date": "101年01月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "area": 1276.18,
+      "share": "10000 分之 382",
+      "owner": "鄭正鈐",
+      "date": "105年05月24日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹市翠湖段",
+      "area": 255.75,
+      "share": "全部",
+      "owner": "鄭正鈐",
+      "date": "101年01月05日",
+      "reason": "買賣",
+      "price": "含陽台 16.78 平方公尺,雨 遮 19.83 平方 公尺(超過五 年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "area": 140.07,
+      "share": "全部",
+      "owner": "鄭正鈐",
+      "date": "105年05月24日",
+      "reason": "塗銷信託",
+      "price": "含陽台8.28平 方公尺,雨遮 11.21 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "area": 384.19,
+      "share": "10000 分之 778",
+      "owner": "鄭正鈐",
+      "date": "105年05月24日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "area": 740.69,
+      "share": "52 分之 2",
+      "owner": "鄭正鈐",
+      "date": "105年05月24日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "area": 162.71,
+      "share": "10000 分之 382",
+      "owner": "鄭正鈐",
+      "date": "105年05月24日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市內湖區潭美段五小段",
+      "area": 1624.9,
+      "share": "10000 分之 382",
+      "owner": "鄭正鈐",
+      "date": "105年05月24日",
+      "reason": "塗銷信託",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "AUDI",
+      "cc": 1984,
+      "owner": "鄭正鈐",
+      "date": "105年11月09日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 220030
+  },
+  "deposits": {
+    "total": 724167,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 3736
+      },
+      {
+        "institution": "土地銀行頭份分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 123528
+      },
+      {
+        "institution": "合庫商業銀行古亭分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 7094
+      },
+      {
+        "institution": "合庫商業銀行新湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 24159
+      },
+      {
+        "institution": "華南銀行新竹分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 900
+      },
+      {
+        "institution": "彰化銀行敦化分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 19028
+      },
+      {
+        "institution": "上海銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 311
+      },
+      {
+        "institution": "台北富邦銀行西湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 25135
+      },
+      {
+        "institution": "台北富邦銀行風城分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "鄭正鈐",
+        "foreignAmount": 1455,
+        "amount": 46559
+      },
+      {
+        "institution": "台北富邦銀行風城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 21081
+      },
+      {
+        "institution": "台北富邦銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 890
+      },
+      {
+        "institution": "台北富邦商業銀行長安分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 25474
+      },
+      {
+        "institution": "渣打國際商銀光復分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐 (新竹市山風 複式童軍團)",
+        "foreignAmount": 0,
+        "amount": 78
+      },
+      {
+        "institution": "臺灣新光銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 2340
+      },
+      {
+        "institution": "新北市淡水信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 13064
+      },
+      {
+        "institution": "新竹第一信用合作社營業 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 62108
+      },
+      {
+        "institution": "新竹第一信用合作社營業 部",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 25658
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 244
+      },
+      {
+        "institution": "聯邦銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 149
+      },
+      {
+        "institution": "聯邦銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 94003
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 9545
+      },
+      {
+        "institution": "元大銀行大同分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "元大銀行南屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 14560
+      },
+      {
+        "institution": "中信銀行城東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 2103
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 132
+      },
+      {
+        "institution": "中信銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "新竹市農會信用部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 5625
+      },
+      {
+        "institution": "新竹市農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭正鈐",
+        "foreignAmount": 0,
+        "amount": 194663
+      }
+    ]
+  },
+  "stocks": {
+    "total": 396830,
+    "items": [
+      {
+        "name": "大東",
+        "owner": "鄭正鈐",
+        "shares": 75,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 750
+      },
+      {
+        "name": "中興電",
+        "owner": "鄭正鈐",
+        "shares": 962,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9620
+      },
+      {
+        "name": "金像電",
+        "owner": "鄭正鈐",
+        "shares": 303,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3030
+      },
+      {
+        "name": "天蔥",
+        "owner": "鄭正鈐",
+        "shares": 627,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6270
+      },
+      {
+        "name": "聯邦銀",
+        "owner": "鄭正鈐",
+        "shares": 15061,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150610
+      },
+      {
+        "name": "聯邦銀",
+        "owner": "鄭正鈐",
+        "shares": 14555,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 145550
+      },
+      {
+        "name": "安泰銀",
+        "owner": "鄭正鈐",
+        "shares": 191,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1910
+      },
+      {
+        "name": "安泰銀",
+        "owner": "鄭正鈐",
+        "shares": 32,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 320
+      },
+      {
+        "name": "凱基金",
+        "owner": "鄭正鈐",
+        "shares": 1066,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10660
+      },
+      {
+        "name": "凱基金",
+        "owner": "鄭正鈐",
+        "shares": 20,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200
+      },
+      {
+        "name": "玉山金",
+        "owner": "鄭正鈐",
+        "shares": 618,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6180
+      },
+      {
+        "name": "玉山金",
+        "owner": "鄭正鈐",
+        "shares": 15,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150
+      },
+      {
+        "name": "元大金",
+        "owner": "鄭正鈐",
+        "shares": 2470,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 24700
+      },
+      {
+        "name": "台新金",
+        "owner": "鄭正鈐",
+        "shares": 2101,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 21010
+      },
+      {
+        "name": "台新金",
+        "owner": "鄭正鈐",
+        "shares": 543,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5430
+      },
+      {
+        "name": "旭品",
+        "owner": "鄭正鈐",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "富采",
+        "owner": "鄭正鈐",
+        "shares": 44,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 440
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽快活人 生變額年金保險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "投資型壽險",
+        "period": "97 年 02 月 20 日/128 年 02 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新終身 醫療保險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 03 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "好運年年終身保 險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "93 年 02 月 10 日/157 年 02 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安心保住院醫療 終身保",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 18 日/157 年 05 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安順手術醫療終 身",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 18 日/157 年 05 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 04 月 22 日/157 年 04 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "雙囍年年",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 01 日/157 年 04 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽金寶貝 終身還本壽險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 05 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽健康久 久終身醫療健康 保險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 19 日/158 年 05 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "全心保本防癌保 險",
+        "policyNumber": "",
+        "holder": "鄭正鈐",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 12 月 11 日/117 年 12 月 11 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 57125716,
+    "items": [
+      {
+        "type": "保單質借",
+        "debtor": "鄭正鈐",
+        "creditor": "台灣人壽保險股份有限公司 台北市南港區經貿二路",
+        "amount": 789012,
+        "date": "106年04月11日",
+        "reason": "全心保本防 癌保險保單 質借"
+      },
+      {
+        "type": "授信",
+        "debtor": "鄭正鈐",
+        "creditor": "合作金庫商業銀行新湖分行 台北市內湖區新湖二路",
+        "amount": 34172213,
+        "date": "99年11月26日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "鄭正鈐",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 200738,
+        "date": "100年05月20日",
+        "reason": "南山 312 還 本終身保險 保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "鄭正鈐",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 171666,
+        "date": "100年05月20日",
+        "reason": "南山新康祥 終身壽險-B 型保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "鄭正鈐",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 81944,
+        "date": "100年05月20日",
+        "reason": "南山新康祥 終身壽險-C 型保單質借"
+      },
+      {
+        "type": "授信",
+        "debtor": "鄭正鈐",
+        "creditor": "淡水信用合作社營業部 新北市淡水區中正路",
+        "amount": 13829143,
+        "date": "110年06月25日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "鄭正鈐",
+        "creditor": "淡水信用合作社營業部 新北市淡水區中正路",
+        "amount": 7700000,
+        "date": "110年06月28日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "鄭正鈐",
+        "creditor": "新光人壽保險股份有限公司 臺北市中正區忠孝西路",
+        "amount": 112000,
+        "date": "100年05月18日",
+        "reason": "新光人壽長 安終身壽險 保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "鄭正鈐",
+        "creditor": "新光人壽保險股份有限公司 臺北市中正區忠孝西路",
+        "amount": 69000,
+        "date": "100年05月18日",
+        "reason": "新光人壽金 寶貝終身還 本壽險保單 質借"
+      }
+    ]
+  },
+  "investments": {
+    "total": 4000,
+    "items": [
+      {
+        "investor": "鄭正鈐",
+        "company": "新北市淡水信用合作社",
+        "address": "新北市淡水區中正路 67,69,71 號",
+        "amount": 2000,
+        "date": "111年11月11日",
+        "reason": "股金"
+      },
+      {
+        "investor": "鄭正鈐",
+        "company": "新竹第一信用合作社",
+        "address": "新竹市大同路 130 號",
+        "amount": 2000,
+        "date": "100年12月21日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

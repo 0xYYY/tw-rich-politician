@@ -1,0 +1,58 @@
+{
+  "name": "鍾佳濱",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "111年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "楊茹憶"
+    }
+  ],
+  "land": [],
+  "buildings": [
+    {
+      "location": "3★芳村區芳村大道(○○○○ 圖○幅)",
+      "area": 85.67,
+      "share": "全部",
+      "owner": "鍾佳濱",
+      "date": "88年03月29日",
+      "reason": "受贈",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,1228 @@
+{
+  "name": "陳光復",
+  "org": "澎湖縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳淑瑾"
+    }
+  ],
+  "land": [
+    {
+      "location": "澎湖縣湖西鄉沙港北段(耕地， 特定區域農牧用地)",
+      "area": 915.19,
+      "share": "12 分之 1",
+      "owner": "陳光復",
+      "date": "88年12月14日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣湖西鄉沙港北段(耕地， 特定區域農牧用地)",
+      "area": 689.8,
+      "share": "6 分之 1",
+      "owner": "陳光復",
+      "date": "88年12月14日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣湖西鄉鼎灣新段(耕地， 特定區域農牧用地)",
+      "area": 461.05,
+      "share": "6 分之 1",
+      "owner": "陳光復",
+      "date": "88年12月14日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣馬公市中衛段(自用房屋 之坐落基地)",
+      "area": 137.09,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "107年12月11日",
+      "reason": "夫妻贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "澎湖縣湖西鄉沙港北段(耕地， 特定區域農牧用地)",
+      "area": 184.62,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "109年05月07日",
+      "reason": "贈與",
+      "price": "258,468 (地 價:258,468 沒有地上物)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "澎湖縣馬公市中衛段(未交付信 託原因：自用房屋)",
+      "area": 262.55,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "107年12月11日",
+      "reason": "夫妻贈與",
+      "price": "含見其他登記 事項 11.36 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "澎湖縣馬公市西文里(未交付信 託原因：自用房屋)",
+      "area": 240.77,
+      "share": "全部",
+      "owner": "吳淑瑾",
+      "date": "107年12月03日",
+      "reason": "夫妻贈與",
+      "price": "591,600(超過 五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1798,
+      "owner": "吳淑瑾",
+      "date": "102年04月30日",
+      "reason": "買賣",
+      "price": 600000
+    },
+    {
+      "brand": "中華",
+      "cc": 1499,
+      "owner": "吳淑瑾",
+      "date": "106年07月20日",
+      "reason": "買賣",
+      "price": 550000
+    },
+    {
+      "brand": "國瑞",
+      "cc": 1497,
+      "owner": "吳淑瑾",
+      "date": "111年05月20日",
+      "reason": "買賣",
+      "price": 90000
+    },
+    {
+      "brand": "國瑞",
+      "cc": 1497,
+      "owner": "吳淑瑾",
+      "date": "112年04月26日",
+      "reason": "買賣",
+      "price": 30000
+    }
+  ],
+  "cash": {
+    "total": 500000
+  },
+  "deposits": {
+    "total": 13802507,
+    "items": [
+      {
+        "institution": "合庫商業銀行新興分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 29
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 193116
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "第一銀行新興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 1040
+      },
+      {
+        "institution": "第一銀行新興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 134
+      },
+      {
+        "institution": "第一銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 223
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 934426
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 2068
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 29
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "華南銀行光華分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 166
+      },
+      {
+        "institution": "彰化銀行南高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 1770
+      },
+      {
+        "institution": "彰化銀行博愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 814
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 330
+      },
+      {
+        "institution": "台北富邦商業銀行前金分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 62143
+      },
+      {
+        "institution": "國泰世華銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 2505
+      },
+      {
+        "institution": "國泰世華銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 1378
+      },
+      {
+        "institution": "國泰世華銀行四維分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 859
+      },
+      {
+        "institution": "高雄銀行南高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 886
+      },
+      {
+        "institution": "臺灣企銀高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 3548
+      },
+      {
+        "institution": "陽信銀行五甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "板信銀行陽明分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 20000
+      },
+      {
+        "institution": "板信銀行陽明分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 226
+      },
+      {
+        "institution": "澎湖縣第一信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 312
+      },
+      {
+        "institution": "澎湖縣第一信用合作社港 都分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 1005
+      },
+      {
+        "institution": "澎湖縣第一信用合作社朝 陽分社",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 500
+      },
+      {
+        "institution": "澎湖縣第二信用合作社民 生分社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳光復 (澎湖縣中小 企 業 服 務 中 心)",
+        "foreignAmount": 0,
+        "amount": 84588
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 187
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 57
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 1186284
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 277
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 147
+      },
+      {
+        "institution": "聯邦銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "聯邦銀行苓雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 275
+      },
+      {
+        "institution": "聯邦銀行三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 822
+      },
+      {
+        "institution": "元大銀行公館分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 36921
+      },
+      {
+        "institution": "元大銀行苓雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 556
+      },
+      {
+        "institution": "永豐銀行三民分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 109
+      },
+      {
+        "institution": "玉山銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 9639
+      },
+      {
+        "institution": "星展台灣資訊暨營運管理 處",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 117
+      },
+      {
+        "institution": "星展高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳光復",
+        "foreignAmount": 0,
+        "amount": 109993
+      },
+      {
+        "institution": "土地銀行中正分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 4531
+      },
+      {
+        "institution": "合庫商業銀行澎湖分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 239654
+      },
+      {
+        "institution": "第一銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 5435
+      },
+      {
+        "institution": "第一銀行鳳山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 72338
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 1489737
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 400840
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "吳淑瑾",
+        "foreignAmount": 2599,
+        "amount": 82970
+      },
+      {
+        "institution": "第一銀行澎湖分行",
+        "type": "綜合存款",
+        "currency": "澳幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 3604,
+        "amount": 75210
+      },
+      {
+        "institution": "台北富邦商業銀行前金分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 42698
+      },
+      {
+        "institution": "國泰世華銀行南高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 141019
+      },
+      {
+        "institution": "國泰世華銀行四維分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 75011
+      },
+      {
+        "institution": "國泰世華銀行四維分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 95046
+      },
+      {
+        "institution": "高雄銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 78051
+      },
+      {
+        "institution": "高雄銀行前金分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 15700
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 74791
+      },
+      {
+        "institution": "臺灣企銀苓雅分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 26317
+      },
+      {
+        "institution": "澎湖縣第一信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 238
+      },
+      {
+        "institution": "高雄市高雄地區農會信用 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 2003981
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 9278
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 5948691
+      },
+      {
+        "institution": "聯邦銀行苓雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 686
+      },
+      {
+        "institution": "元大銀行苓雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 26737
+      },
+      {
+        "institution": "玉山銀行高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 136449
+      },
+      {
+        "institution": "星展港都分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 473
+      },
+      {
+        "institution": "台新國際銀行七賢分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳淑瑾",
+        "foreignAmount": 0,
+        "amount": 98030
+      }
+    ]
+  },
+  "stocks": {
+    "total": 57170,
+    "items": [
+      {
+        "name": "中 石化 (未 交付 信託 原 因：年代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 800,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8000
+      },
+      {
+        "name": "佳和 (未交付信託原因：年 代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 24,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 240
+      },
+      {
+        "name": "華電 (未交付信託原因：年 代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 1400,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14000
+      },
+      {
+        "name": "興農 (未交付信託原因：年 代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 22,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 220
+      },
+      {
+        "name": "興農 (未交付信託原因：年 代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 9,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 90
+      },
+      {
+        "name": "聚亨 (未交付信託原因：年 代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 792,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7920
+      },
+      {
+        "name": "華 南金 (未 交付 信託 原 因：年代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "華 南金 (未 交付 信託 原 因：年代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 10,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100
+      },
+      {
+        "name": "國 票金 (未 交付 信託 原 因：年代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 1456,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14560
+      },
+      {
+        "name": "國 票金 (未 交付 信託 原 因：年代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 35,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 350
+      },
+      {
+        "name": "大 眾控 (未 交付 信託 原 因：年代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 10,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100
+      },
+      {
+        "name": "臺鳳 (未交付信託原因：年 代久遠遺失)",
+        "owner": "吳淑瑾",
+        "shares": 159,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1590
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "六六大順變額萬 能壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳光復",
+        "contractType": "投資型壽險",
+        "period": "109 年 01 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "吉利亨通變額萬 能壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳光復",
+        "contractType": "投資型壽險",
+        "period": "109 年 06 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "吉利亨通變額萬 能壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳光復",
+        "contractType": "投資型壽險",
+        "period": "110 年 03 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽新終身 保險",
+        "policyNumber": "○○○○○○○ ○○35",
+        "holder": "陳光復",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "好鑫安保險甲型",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳光復",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 07 月 29 日/119 年 07 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽美滿致 富增額終身壽險 -10 年期(LI1)",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "陳光復",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 06 月 20 日/155 年 06 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "十年繳費金富多 終身保險",
+        "policyNumber": "○○○○○○○ ○○813",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 04 月 15 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "十年繳費新祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○023",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 06 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "六年繳費美滿美 元增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○838",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 02 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "六年繳費美滿美 元增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○201",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 07 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "六年繳費祥富增 額終身壽險",
+        "policyNumber": "○○○○○○○ ○○471",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 05 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽美享樂 退利率變動型美 元還本終身保險 (定額給付型)",
+        "policyNumber": "○○○○○○○ ○○40",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 03 月 02 日/194 年 03 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽鑫富雙 享變額年金保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "吳淑瑾",
+        "contractType": "投資型壽險",
+        "period": "108 年 03 月 21 日/132 年 03 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增富年 年增額還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 10 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽鴻利年 年 2 增額還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 05 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 03 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "好事年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 01 月 31 日/189 年 01 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "保本 111 終身",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 11 月 28 日/145 年 11 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "保本 111 終身",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 12 月 16 日/145 年 12 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "盈利雙年利變",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 05 月 01 日/151 年 04 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 07 月 02 日/175 年 07 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 07 月 02 日/183 年 07 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 08 月 16 日/175 年 08 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 10 月 13 日/143 年 10 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 10 月 14 日/145 年 10 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 10 月 16 日/145 年 10 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 05 月 14 日/175 年 05 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 08 月 17 日/175 年 08 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新添采終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 16 日/188 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿永年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 05 月 07 日/151 年 05 月 06 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "80 年 05 月 15 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 10 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 06 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "樂美年年美元終 身保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 08 日/151 年 06 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾愛一生 313",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 12 月 30 日/175 年 12 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾愛一生 313",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 02 月 17 日/144 年 02 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾愛一生 313",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 05 月 12 日/145 年 05 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾愛一生 313",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 27 日/175 年 12 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "雙囍年年",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 05 月 10 日/183 年 05 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鑫福終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 07 月 13 日/151 年 07 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 09 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽新終身 保險",
+        "policyNumber": "○○○○○○○ ○○92",
+        "holder": "吳淑瑾",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 12 月 16 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "戒指",
+        "quantity": "1",
+        "owner": "陳光復",
+        "value": 5500
+      },
+      {
+        "type": "戒指",
+        "quantity": "1",
+        "owner": "陳光復",
+        "value": 5500
+      },
+      {
+        "type": "項鍊",
+        "quantity": "2",
+        "owner": "吳淑瑾",
+        "value": 30000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 733276,
+    "items": [
+      {
+        "type": "保單質借",
+        "debtor": "陳光復",
+        "creditor": "安聯人壽保險股份有限公司 台北市信義區信義路",
+        "amount": 329128,
+        "date": "110年03月29日",
+        "reason": "六六大順變 額萬能壽險 保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "陳光復",
+        "creditor": "安聯人壽保險股份有限公司 台北市信義區信義路",
+        "amount": 288677,
+        "date": "110年06月03日",
+        "reason": "吉利亨通變 額萬能壽險 保單質借"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "陳光復",
+        "creditor": "安聯人壽保險股份有限公司 台北市信義區信義路",
+        "amount": 115471,
+        "date": "110年03月29日",
+        "reason": "吉利亨通變 額萬能壽險 保單質借"
+      }
+    ]
+  },
+  "investments": {
+    "total": 9214000,
+    "items": [
+      {
+        "investor": "陳光復",
+        "company": "民間投資股份有限公司",
+        "address": "臺北市八德路 3 段 30-36 號 14 樓",
+        "amount": 100000,
+        "date": "87年04月08日",
+        "reason": "買賣"
+      },
+      {
+        "investor": "吳淑瑾",
+        "company": "喬美國際網路股份有限公司",
+        "address": "臺北市忠孝東路六段 21 號 12 樓之 7",
+        "amount": 2722200,
+        "date": "96年05月25日",
+        "reason": "買賣"
+      },
+      {
+        "investor": "吳淑瑾",
+        "company": "澎湖第一生技有限公司",
+        "address": "澎湖縣馬公市西文里西文澳 113 之 25 號 1 樓",
+        "amount": 3000000,
+        "date": "96年05月25日",
+        "reason": "發展澎湖"
+      },
+      {
+        "investor": "吳淑瑾",
+        "company": "澎湖第一酒廠股份有限公司",
+        "address": "澎湖縣馬公市西文里 97 之 12 號",
+        "amount": 3391800,
+        "date": "96年05月25日",
+        "reason": "發展澎湖"
+      }
+    ]
+  }
+}

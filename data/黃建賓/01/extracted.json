@@ -1,0 +1,644 @@
+{
+  "name": "黃建賓",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張欣為"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "張○(1)"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "張○(2)"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 2481,
+      "share": "10000 分之 42",
+      "owner": "黃建賓",
+      "date": "112年03月31日",
+      "reason": "分割繼承",
+      "price": "5,000,000"
+    },
+    {
+      "location": "臺東縣大武鄉大武段",
+      "area": 27686,
+      "share": "全部",
+      "owner": "張欣為",
+      "date": "110年11月11日",
+      "reason": "權利回復",
+      "price": "1,661,100"
+    },
+    {
+      "location": "臺東縣大武鄉大鳥段",
+      "area": 26090,
+      "share": "26090 分之 6500",
+      "owner": "張欣為",
+      "date": "109年05月27日",
+      "reason": "買賣",
+      "price": "700,000"
+    },
+    {
+      "location": "臺東縣臺東市南榮段",
+      "area": 516.35,
+      "share": "10000 分之 236",
+      "owner": "張欣為",
+      "date": "113年04月19日",
+      "reason": "買賣",
+      "price": "11,250,000(房 地總價額，第 4、5、6、7 筆 土地合購)"
+    },
+    {
+      "location": "臺東縣臺東市南榮段",
+      "area": 29.63,
+      "share": "10000 分之 236",
+      "owner": "張欣為",
+      "date": "113年04月19日",
+      "reason": "買賣",
+      "price": "11,250,000 (第 4、5、6、7 筆土地合購)"
+    },
+    {
+      "location": "臺東縣臺東市南榮段",
+      "area": 29.63,
+      "share": "10000 分之 236",
+      "owner": "張欣為",
+      "date": "113年04月19日",
+      "reason": "買賣",
+      "price": "11,250,000 (第 4、5、6、7 筆土地合購)"
+    },
+    {
+      "location": "臺東縣臺東市南榮段",
+      "area": 99.64,
+      "share": "全部",
+      "owner": "張欣為",
+      "date": "113年04月19日",
+      "reason": "買賣",
+      "price": "11,250,000 (第 4、5、6、7 筆土地合購)"
+    },
+    {
+      "location": "臺東縣大武鄉大武段",
+      "area": 27685,
+      "share": "全部",
+      "owner": "張○ (1)",
+      "date": "112年04月26日",
+      "reason": "權利回復",
+      "price": "1,661,100"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 4457.82,
+      "share": "10000 分之 46",
+      "owner": "黃建賓",
+      "date": "112年03月31日",
+      "reason": "分割繼承",
+      "price": "5,000,000 (共同使用部 分，與土地第 1 筆臺東縣臺東 市 新 生 段 合 購)"
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 58.08,
+      "share": "全部",
+      "owner": "黃建賓",
+      "date": "112年03月31日",
+      "reason": "分割繼承",
+      "price": "5,000,000 (含陽台 10.08 平方公尺，與 土地第 1 筆臺 東縣臺東市新 生段合購)"
+    },
+    {
+      "location": "臺東縣臺東市南榮段",
+      "area": 193.89,
+      "share": "全部",
+      "owner": "張欣為",
+      "date": "113年04月19日",
+      "reason": "買賣",
+      "price": "11,250,000 (房地總價額， 與第 4、5、6、 7 筆土地合購)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "HONDA",
+      "cc": 1140,
+      "owner": "黃建賓",
+      "date": "111年02月24日",
+      "reason": "買賣",
+      "price": 528000
+    },
+    {
+      "brand": "三陽",
+      "cc": 2199,
+      "owner": "黃建賓",
+      "date": "113年08月19日",
+      "reason": "買賣",
+      "price": 1350000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 5656044,
+    "items": [
+      {
+        "institution": "臺灣銀行臺東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 2282547
+      },
+      {
+        "institution": "合庫商業銀行士林分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 31
+      },
+      {
+        "institution": "第一銀行八德分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 15
+      },
+      {
+        "institution": "第一銀行台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 103
+      },
+      {
+        "institution": "華南銀行淡水分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 75
+      },
+      {
+        "institution": "華南銀行台東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 58783
+      },
+      {
+        "institution": "彰化銀行東台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 25
+      },
+      {
+        "institution": "彰化銀行台東分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 226
+      },
+      {
+        "institution": "彰化銀行台東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 798
+      },
+      {
+        "institution": "台北富邦商業銀行台東分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 378117
+      },
+      {
+        "institution": "台北富邦商業銀行台東分 行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "黃建賓",
+        "foreignAmount": 1346,
+        "amount": 43054
+      },
+      {
+        "institution": "國泰世華銀行台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 37684
+      },
+      {
+        "institution": "臺灣企銀台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 8257
+      },
+      {
+        "institution": "臺灣企銀台東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 600
+      },
+      {
+        "institution": "臺灣企銀台東分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "黃建賓",
+        "foreignAmount": 380039,
+        "amount": 79428
+      },
+      {
+        "institution": "臺灣企銀台東分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "黃建賓",
+        "foreignAmount": 4290,
+        "amount": 19276
+      },
+      {
+        "institution": "臺灣企銀台東分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "黃建賓",
+        "foreignAmount": 35,
+        "amount": 1128
+      },
+      {
+        "institution": "臺東縣太麻里地區農會信 用部大武分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 97958
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 67
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 633312
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 478323
+      },
+      {
+        "institution": "玉山銀行台東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 8976
+      },
+      {
+        "institution": "玉山銀行台東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓 (為樂生活企 業社黃建賓)",
+        "foreignAmount": 0,
+        "amount": 43
+      },
+      {
+        "institution": "星展台灣資訊暨營運管理 處",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 8
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 17279
+      },
+      {
+        "institution": "中信銀行西台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃建賓",
+        "foreignAmount": 0,
+        "amount": 69
+      },
+      {
+        "institution": "臺灣銀行臺東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 64461
+      },
+      {
+        "institution": "土地銀行台東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 58138
+      },
+      {
+        "institution": "合庫商業銀行台東分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 125296
+      },
+      {
+        "institution": "彰化銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 411
+      },
+      {
+        "institution": "臺東縣關山鎮農會信用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 457
+      },
+      {
+        "institution": "臺東縣太麻里地區農會信 用部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 1433
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 350012
+      },
+      {
+        "institution": "星展台灣資訊暨營運管理 處",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張欣為",
+        "foreignAmount": 0,
+        "amount": 439
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張○ (1)",
+        "foreignAmount": 0,
+        "amount": 497240
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張○ (2)",
+        "foreignAmount": 0,
+        "amount": 411974
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1138360,
+    "items": [
+      {
+        "name": "駿吉-KY",
+        "owner": "黃建賓",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "台玻",
+        "owner": "黃建賓",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "鴻海",
+        "owner": "黃建賓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "宏碁",
+        "owner": "黃建賓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "輔信",
+        "owner": "黃建賓",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "台新金",
+        "owner": "黃建賓",
+        "shares": 10836,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 108360
+      },
+      {
+        "name": "中信金",
+        "owner": "黃建賓",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "統一超",
+        "owner": "黃建賓",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "淘帝-KY",
+        "owner": "黃建賓",
+        "shares": 22000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 220000
+      },
+      {
+        "name": "德晉",
+        "owner": "黃建賓",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "浩鼎",
+        "owner": "黃建賓",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "聯博美國傘型聯 博美國多重資產 收益基金-AD 配 美(特金)",
+        "owner": "黃建賓",
+        "institution": "富邦證券",
+        "units": 133.33,
+        "unitValue": 14.44,
+        "foreignCurrency": "美元",
+        "totalValue": 61686
+      },
+      {
+        "name": "元大台灣 50 反 1",
+        "owner": "黃建賓",
+        "institution": "富 邦 證 券 台 東 分公司",
+        "units": 5000,
+        "unitValue": 3.33,
+        "foreignCurrency": "",
+        "totalValue": 16650
+      },
+      {
+        "name": "國泰臺灣加權反 1",
+        "owner": "黃建賓",
+        "institution": "富 邦 證 券 台 東 分公司",
+        "units": 10000,
+        "unitValue": 3.76,
+        "foreignCurrency": "",
+        "totalValue": 37600
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽長鴻還本 終身保險",
+        "policyNumber": "○○○○○○ ○○○4",
+        "holder": "黃建賓",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 02 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽新健康滿 分終身醫療保險",
+        "policyNumber": "○○○○○○ ○○○9",
+        "holder": "黃建賓",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 08 月 31 日/168 年 08 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台 灣 人 壽 新 滿 福 135 終身保險",
+        "policyNumber": "○○○○○○ ○○○8",
+        "holder": "黃建賓",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 08 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽長盛還本 終身保險",
+        "policyNumber": "○○○○○○ ○○○1",
+        "holder": "張欣為",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 04 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽新健康滿 分 終 身 醫 療 保 險 （0501）",
+        "policyNumber": "○○○○○○ ○○○0",
+        "holder": "張欣為",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 10 月 22 日/206 年 10 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽新健康滿 分 終 身 醫 療 保 險 （0501）",
+        "policyNumber": "○○○○○○ ○○○8",
+        "holder": "張欣為",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 09 月 09 日/208 年 09 月 09 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 8850000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "張欣為",
+        "creditor": "臺灣土地銀行臺東分行 台東縣台東市中華路",
+        "amount": 8850000,
+        "date": "113年04月23日",
+        "reason": "購買住宅貸 款(自用)"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

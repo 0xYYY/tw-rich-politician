@@ -1,0 +1,28 @@
+{
+  "name": "丁學忠",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "雲林縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 773864
+    }
+  ],
+  "depositsTotal": 773864,
+  "insurance": [],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "雲林縣虎尾鎮過溪段",
+      "owner": "丁學忠",
+      "date": "2017-12-01",
+      "effectiveAreaPing": 59.22,
+      "entryCount": 1,
+      "price": "含陽台 9.5 平 方公尺(超過 五年)"
+    }
+  ]
+}

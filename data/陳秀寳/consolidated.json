@@ -1,0 +1,233 @@
+{
+  "name": "陳秀寳",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "彰化縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1710676
+    },
+    {
+      "currency": "日圓",
+      "amount": 132635
+    },
+    {
+      "currency": "美元",
+      "amount": 112039
+    }
+  ],
+  "depositsTotal": 1955350,
+  "insurance": [
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "郵政安家定期還 本終身壽險（十 年付費）",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "郵政簡易人壽常 樂增額保險",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增富年 年外幣增額還本 終身保險",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山年年春還本 終身保險",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美利成對美元",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美利成雙美元",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（繳費 10 年）",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽臻美利 美元利率變動型 終身壽險",
+      "holder": "陳秀",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月康利變額年 金",
+      "holder": "陳瑞斌",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月康利變額年 金",
+      "holder": "陳瑞斌",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月康利變額年 金",
+      "holder": "陳瑞斌",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月康利變額年 金",
+      "holder": "陳瑞斌",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "陳瑞斌",
+      "contractType": "投資型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "美吾華",
+      "cleanName": "美吾華",
+      "ticker": "1731",
+      "shares": 2000,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 23.75,
+      "latestPrice": 22.15
+    },
+    {
+      "name": "官田鋼",
+      "cleanName": "官田鋼",
+      "ticker": "2017",
+      "shares": 1102,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 12,
+      "latestPrice": 9.73
+    },
+    {
+      "name": "旺宏",
+      "cleanName": "旺宏",
+      "ticker": "2337",
+      "shares": 20,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 22.9,
+      "latestPrice": 110
+    },
+    {
+      "name": "華碩",
+      "cleanName": "華碩",
+      "ticker": "2357",
+      "shares": 25,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 583,
+      "latestPrice": 532
+    },
+    {
+      "name": "研華",
+      "cleanName": "研華",
+      "ticker": "2395",
+      "shares": 21,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 313.5,
+      "latestPrice": 336.5
+    },
+    {
+      "name": "亞航",
+      "cleanName": "亞航",
+      "ticker": "2630",
+      "shares": 41,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 32,
+      "latestPrice": 52.9
+    },
+    {
+      "name": "大立光",
+      "cleanName": "大立光",
+      "ticker": "3008",
+      "shares": 24,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 2290,
+      "latestPrice": 2520
+    },
+    {
+      "name": "合庫金",
+      "cleanName": "合庫金",
+      "ticker": "5880",
+      "shares": 1035,
+      "owner": "陳秀寳",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 24
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "國泰永續高股息",
+      "owner": "陳秀寳",
+      "institution": "元 大 證 券 鹿 港 分公司",
+      "units": 1000,
+      "unitValue": 22.73,
+      "currency": "",
+      "declaredValue": 22730,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "彰化縣福興鄉福鹿段",
+      "owner": "陳秀",
+      "date": "2017-11-30",
+      "effectiveAreaPing": 55.7,
+      "entryCount": 1,
+      "price": "含陽台12.5平 方公尺(超過 五年)"
+    },
+    {
+      "location": "彰化縣鹿港鎮洛津段",
+      "owner": "陳瑞斌",
+      "date": "2007-04-11",
+      "effectiveAreaPing": 28.44,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣福興鄉福園段",
+      "owner": "陳瑞斌",
+      "date": "1997-05-16",
+      "effectiveAreaPing": 42.25,
+      "entryCount": 2,
+      "price": "共同使用部分 (超過五年)"
+    }
+  ]
+}

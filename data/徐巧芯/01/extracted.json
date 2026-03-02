@@ -1,0 +1,316 @@
+{
+  "name": "徐巧芯",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "劉彥澧"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 108,
+      "share": "4 分之 1",
+      "owner": "劉彥澧",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "17,800,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市松山區西松段三小段",
+      "area": 93.09,
+      "share": "全部",
+      "owner": "劉彥澧",
+      "date": "110年04月08日",
+      "reason": "買賣",
+      "price": "17,800,000(房 地總價額)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 12275445,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 38062
+      },
+      {
+        "institution": "華南銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 40
+      },
+      {
+        "institution": "台北富邦銀行瑞湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 5418580
+      },
+      {
+        "institution": "台北富邦銀行瑞湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "徐巧芯",
+        "foreignAmount": 1762,
+        "amount": 56376
+      },
+      {
+        "institution": "國泰世華銀行民權分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 742,
+        "amount": 1343
+      },
+      {
+        "institution": "國泰世華銀行民權分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "徐巧芯",
+        "foreignAmount": 3,
+        "amount": 101
+      },
+      {
+        "institution": "國泰世華銀行民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 38
+      },
+      {
+        "institution": "國泰世華銀行西松分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "徐巧芯",
+        "foreignAmount": 3289,
+        "amount": 105155
+      },
+      {
+        "institution": "國泰世華銀行西松分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 39,
+        "amount": 71
+      },
+      {
+        "institution": "國泰世華銀行西松分行",
+        "type": "活期存款",
+        "currency": "港幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 7453
+      },
+      {
+        "institution": "元大銀行東台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 4604
+      },
+      {
+        "institution": "永豐銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 30787
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 2014
+      },
+      {
+        "institution": "凱基銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 51
+      },
+      {
+        "institution": "凱基銀行國外部",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "徐巧芯",
+        "foreignAmount": 12,
+        "amount": 387
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐巧芯",
+        "foreignAmount": 0,
+        "amount": 300
+      },
+      {
+        "institution": "臺灣銀行中都分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉彥澧",
+        "foreignAmount": 0,
+        "amount": 3103264
+      },
+      {
+        "institution": "台北富邦銀行永春分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉彥澧",
+        "foreignAmount": 0,
+        "amount": 632223
+      },
+      {
+        "institution": "渣打國際商銀敦化分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉彥澧",
+        "foreignAmount": 0,
+        "amount": 534
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉彥澧",
+        "foreignAmount": 0,
+        "amount": 329836
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉彥澧",
+        "foreignAmount": 0,
+        "amount": 94
+      },
+      {
+        "institution": "中信銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉彥澧",
+        "foreignAmount": 0,
+        "amount": 2544130
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2540,
+    "items": [
+      {
+        "name": "力麗",
+        "owner": "徐巧芯",
+        "shares": 254,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2540
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "聯博全球非投資 等 級 債 券 基 金 AA-美元-穩定月 配息",
+        "owner": "徐巧芯",
+        "institution": "國泰世華銀行",
+        "units": 7925.254,
+        "unitValue": 8.02,
+        "foreignCurrency": "美元",
+        "totalValue": 2028852
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽雙喜年 年利率變動型還 本終身保險（定 期給付型）",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "徐巧芯",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 11 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平準 終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "徐巧芯",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 19 日/190 年 04 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽醫起呵 護重大傷病保險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "徐巧芯",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 14 日/138 年 04 月 13 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "南非幣保守型組合式商品～ 小募集(金融機構：國泰世華 商業銀行股份有限公司)",
+        "quantity": "1",
+        "owner": "徐巧芯",
+        "value": 352300
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 13606759,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "劉彥澧",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 13606759,
+        "date": "110年04月12日",
+        "reason": "房貸分期長 擔"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

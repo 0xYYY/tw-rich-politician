@@ -1,0 +1,588 @@
+{
+  "name": "陳雪生",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳秀蘭"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市中和區景平段",
+      "area": 90.83,
+      "share": "4 分之 1",
+      "owner": "陳雪生",
+      "date": "99年01月25日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區陽明段四小段",
+      "area": 1910,
+      "share": "10000 分之 121",
+      "owner": "陳秀蘭",
+      "date": "75年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市中和區景平段",
+      "area": 64.6,
+      "share": "全部",
+      "owner": "陳雪生",
+      "date": "99年01月25日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區陽明段四小段",
+      "area": 111.7,
+      "share": "全部",
+      "owner": "陳秀蘭",
+      "date": "75年02月13日",
+      "reason": "買賣",
+      "price": "含陽台 11.78 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市士林區陽明段四小段",
+      "area": 590.44,
+      "share": "10000 分之 98",
+      "owner": "陳秀蘭",
+      "date": "75年02月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區陽明段四小段",
+      "area": 723.89,
+      "share": "10000 分之 208",
+      "owner": "陳秀蘭",
+      "date": "75年02月13日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 2494,
+      "owner": "陳雪生",
+      "date": "101年05月09日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 37417680,
+    "items": [
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 208391
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2500000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2500000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 1830000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 3956300
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 134878
+      },
+      {
+        "institution": "連江縣農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 543
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 2531646
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳雪生",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行天母分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 139
+      },
+      {
+        "institution": "第一銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 729824
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "陳秀蘭",
+        "foreignAmount": 17441,
+        "amount": 557793
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "陳秀蘭",
+        "foreignAmount": 16092,
+        "amount": 514677
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 288548
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 1016272
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 1016272
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 1307570
+      },
+      {
+        "institution": "台北富邦銀行士林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 13022
+      },
+      {
+        "institution": "台北富邦銀行延平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 24
+      },
+      {
+        "institution": "台北富邦銀行延平分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "元大銀行忠誠分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "元大銀行忠誠分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 65
+      },
+      {
+        "institution": "永豐銀行士東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 85
+      },
+      {
+        "institution": "台新國際銀行天母分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "台新國際銀行大安分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "台新國際銀行大安分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 650000
+      },
+      {
+        "institution": "台新國際銀行大安分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 195341
+      },
+      {
+        "institution": "安泰銀行天母分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 230000
+      },
+      {
+        "institution": "安泰銀行天母分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 210000
+      },
+      {
+        "institution": "安泰銀行天母分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 210000
+      },
+      {
+        "institution": "安泰銀行天母分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 16278
+      },
+      {
+        "institution": "安泰銀行天母分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳秀蘭",
+        "foreignAmount": 0,
+        "amount": 3
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○030",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 07 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "元 大 人 壽 元 寶 325 利率變動型 養老保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 07 月 28 日/129 年 07 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球人壽新增利 利率變動型增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 11 日/150 年 07 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全球增額終身壽 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 11 月 20 日/144 年 11 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 07 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽心得意 利率變動型年金 保險（甲型）",
+        "policyNumber": "○○○○○○○ ○○208",
+        "holder": "陳秀蘭",
+        "contractType": "年金型保險",
+        "period": "99 年 09 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金開鑫 利率變動型年金 保險（甲型）",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "陳秀蘭",
+        "contractType": "年金型保險",
+        "period": "107 年 08 月 10 日/151 年 08 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽五五得 利終身壽險",
+        "policyNumber": "○○○○○○○ ○○211",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 10 月 28 日/150 年 10 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽全福還 本分紅終身保險 （繳費十年）",
+        "policyNumber": "○○○○○○○ ○○204",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 07 月 15 日/151 年 07 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽金美利 外幣利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○600",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 05 月 13 日/151 年 05 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○300",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 01 月 28 日/150 年 01 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 美 鑽 320 外幣利率變 動型養老保險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 02 月 22 日/126 年 02 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽增美利 外幣增額終身壽 險",
+        "policyNumber": "○○○○○○○ ○○215",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 02 月 10 日/151 年 02 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽雙福還 本分紅終身保險 （繳費十年）",
+        "policyNumber": "○○○○○○○ ○○203",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 07 月 15 日/151 年 07 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 終 身 壽 險 （丙型）",
+        "policyNumber": "○○○○○○○ ○○501",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 07 月 10 日/162 年 07 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽蘇黎世 終身壽險【定期 給付甲型】",
+        "policyNumber": "○○○○○○○ ○○",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 11 月 22 日/145 年 11 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+        "name": "遠雄人壽蘇黎世 終身壽險【定期 給付型】",
+        "policyNumber": "○○○○○○○ ○○",
+        "holder": "陳秀蘭",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 11 月 22 日/145 年 11 月 22 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

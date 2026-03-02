@@ -1,0 +1,59 @@
+{
+  "name": "張麗善",
+  "org": "雲林縣政府",
+  "title": "縣長",
+  "date": "113年06月05日",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張永成"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "合庫金",
+        "owner": "張麗善",
+        "shares": 500000,
+        "trustee": "臺灣銀行",
+        "transferDate": "113年06月03日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5000000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

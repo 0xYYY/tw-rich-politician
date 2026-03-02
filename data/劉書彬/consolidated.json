@@ -1,0 +1,197 @@
+{
+  "name": "劉書彬",
+  "date": "2025-03-14",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 14697801
+    },
+    {
+      "currency": "歐元",
+      "amount": 859793
+    },
+    {
+      "currency": "美元",
+      "amount": 1632974
+    },
+    {
+      "currency": "日圓",
+      "amount": 99428
+    },
+    {
+      "currency": "澳幣",
+      "amount": 542
+    }
+  ],
+  "depositsTotal": 17290541,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "祥安終身壽險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中 華 郵 政 股 份 有限公司",
+      "name": "長春增額還本保 險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "伴我一生變額壽 險",
+      "holder": "劉書彬",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "年年金喜還本終 身保險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "長盛還本終身保 險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "美年旺外幣還本 終身保險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "富利增額終身壽 險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "富貴一生增額終 身壽險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "超有利利率變動 型增額",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "增美金美元利率 變動型",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "鑫好鑽保險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "鑫美多利美元利 率變動",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "鑫美利外幣終身 壽險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "鑫美利外幣終身 壽險",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "鑫美樂外幣保險 (美元)",
+      "holder": "劉書彬",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [
+    {
+      "name": "摩根 JPM 環球企 業債",
+      "owner": "劉書彬",
+      "institution": "兆 豐 國 際 商 業 銀行松南分行",
+      "units": 97.18,
+      "unitValue": 91.27,
+      "currency": "美元",
+      "declaredValue": 294737,
+      "source": "fund"
+    },
+    {
+      "name": "聯博全非投級債 歐幣",
+      "owner": "劉書彬",
+      "institution": "第 一 商 業 銀 行 中崙分行",
+      "units": 2028.27,
+      "unitValue": 10.42,
+      "currency": "歐元",
+      "declaredValue": 769932,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "聯全非 T 美",
+      "owner": "劉書彬",
+      "institution": "合 作 金 庫 商 業 銀行松興分行",
+      "units": 3781.36,
+      "unitValue": 3.1,
+      "currency": "美元",
+      "declaredValue": 389529,
+      "source": "fund"
+    },
+    {
+      "name": "安聯全球生技趨 勢新台",
+      "owner": "劉書彬",
+      "institution": "第 一 商 業 銀 行 中崙分行",
+      "units": 5986.1,
+      "unitValue": 44.79,
+      "currency": "",
+      "declaredValue": 268117,
+      "source": "fund"
+    },
+    {
+      "name": "富達中國內需消 費 A 美",
+      "owner": "劉書彬",
+      "institution": "第 一 商 業 銀 行 中崙分行",
+      "units": 507.35,
+      "unitValue": 14.91,
+      "currency": "美元",
+      "declaredValue": 251371,
+      "source": "fund"
+    },
+    {
+      "name": "摩根印度基金美元",
+      "owner": "劉書彬",
+      "institution": "第 一 商 業 銀 行 中崙分行",
+      "units": 2.26,
+      "unitValue": 353.73,
+      "currency": "美元",
+      "declaredValue": 26565,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市內湖區東湖段三小段",
+      "owner": "劉書彬",
+      "date": "2009-06-30",
+      "effectiveAreaPing": 2.12,
+      "entryCount": 3,
+      "price": "(超過五年)"
+    }
+  ]
+}

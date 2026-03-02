@@ -1,0 +1,240 @@
+{
+  "name": "張嘉郡",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 12371017
+    },
+    {
+      "currency": "美元",
+      "amount": 2679596
+    },
+    {
+      "currency": "人民幣",
+      "amount": 114786
+    }
+  ],
+  "depositsTotal": 15165399,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳新樂活 人 生 終 身 壽 險 (非吸菸標準體)",
+      "holder": "張嘉郡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽愛美利 外 幣 終 身 壽 險 (定額給付型)",
+      "holder": "張嘉郡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "張嘉郡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽悠遊人 生變額壽險",
+      "holder": "張嘉郡",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "張嘉郡",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽金安心 卡重大傷病定期 保險",
+      "holder": "張嘉郡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "鑫世紀優利變額 萬能終身壽險 A 型",
+      "holder": "周柏吟",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費守護 久久失能照護終 身保險",
+      "holder": "周柏吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "周柏吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽添美好 美元利率變動型 終身壽險－定期 給付型",
+      "holder": "周柏吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "周柏吟",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "吉美勝美元利率 變動型終身壽險",
+      "holder": "周柏吟",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽愛美利 外 幣 終 身 壽 險 (定額給付型)",
+      "holder": "林○融",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "保 誠 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽愛美利 外 幣 終 身 壽 險 (定額給付型)",
+      "holder": "周○樂",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中鋼「交付臺灣銀行信託」",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 10000,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "長榮「交付臺灣銀行信託」",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 4000,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 166.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "厚生「交付臺灣銀行信託」",
+      "cleanName": "厚生",
+      "ticker": "2107",
+      "shares": 900,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 24.2,
+      "latestPrice": 25.85
+    },
+    {
+      "name": "華映",
+      "cleanName": "華映",
+      "ticker": "2475",
+      "shares": 940,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "富邦金丙特",
+      "cleanName": "富邦金丙特",
+      "ticker": "2881",
+      "shares": 1,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 69.6,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 58,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 69.6,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "中信金「交付臺灣銀行信 託」",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 1392,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 31.75,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "富圓采",
+      "cleanName": "富圓采",
+      "ticker": null,
+      "shares": 6000,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "富爾特",
+      "cleanName": "富爾特",
+      "ticker": "6136",
+      "shares": 855,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 23.35,
+      "latestPrice": 24
+    },
+    {
+      "name": "力積電「交付臺灣銀行信 託」",
+      "cleanName": "力積電",
+      "ticker": "6770",
+      "shares": 2000,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": 26.3,
+      "latestPrice": 76.7
+    },
+    {
+      "name": "光晟生技",
+      "cleanName": "光晟生技",
+      "ticker": null,
+      "shares": 2004,
+      "owner": "張嘉郡",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "富邦台 50",
+      "owner": "張嘉郡",
+      "institution": "兆 豐 證 券 來 福 分公司",
+      "units": 12000,
+      "unitValue": 89.8,
+      "currency": "",
+      "declaredValue": 1077600,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "owner": "張嘉郡",
+      "date": "2012-08-29",
+      "effectiveAreaPing": 117.18,
+      "entryCount": 1,
+      "price": "含見其他登記 事項 54.05 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市信義區吳興段三小段",
+      "owner": "周柏吟",
+      "date": "2016-07-05",
+      "effectiveAreaPing": 26.36,
+      "entryCount": 1,
+      "price": "112/3/28 交付 臺灣銀行信託 (超過五年)"
+    }
+  ]
+}

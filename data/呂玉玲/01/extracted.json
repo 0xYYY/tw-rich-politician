@@ -1,0 +1,826 @@
+{
+  "name": "呂玉玲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳萬得"
+    }
+  ],
+  "land": [
+    {
+      "location": "桃園市中壢區興南段中壢老小 段",
+      "area": 195,
+      "share": "48 分之 1",
+      "owner": "呂玉玲",
+      "date": "104年12月09日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市中壢區興南段中壢老小 段",
+      "area": 248,
+      "share": "48 分之 1",
+      "owner": "呂玉玲",
+      "date": "104年12月09日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 212.11,
+      "share": "10000 分之 1214",
+      "owner": "呂玉玲",
+      "date": "82年04月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 52.41,
+      "share": "10000 分之 1214",
+      "owner": "呂玉玲",
+      "date": "82年04月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 212.11,
+      "share": "10000 分之 2786",
+      "owner": "陳萬得",
+      "date": "83年11月15日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 52.41,
+      "share": "10000 分之 2786",
+      "owner": "陳萬得",
+      "date": "83年11月15日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林段中林小段",
+      "area": 2788,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "73年01月20日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林段中林小段",
+      "area": 2789,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "87年05月18日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林段中林小段",
+      "area": 3511,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "87年05月18日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林新段",
+      "area": 222.06,
+      "share": "20 分之 4",
+      "owner": "陳萬得",
+      "date": "72年05月17日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林新段",
+      "area": 186.58,
+      "share": "240 分之 11",
+      "owner": "陳萬得",
+      "date": "88年02月02日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林新段",
+      "area": 50.51,
+      "share": "2 分之 1",
+      "owner": "陳萬得",
+      "date": "88年02月02日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林新段",
+      "area": 244.22,
+      "share": "2 分之 1",
+      "owner": "陳萬得",
+      "date": "88年02月02日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林新段",
+      "area": 70.04,
+      "share": "20 分之 4",
+      "owner": "陳萬得",
+      "date": "88年02月02日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣大林鎮中林新段",
+      "area": 63.63,
+      "share": "20 分之 4",
+      "owner": "陳萬得",
+      "date": "88年02月02日",
+      "reason": "判決共有 物分割",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市中壢區興南段中壢老小 段",
+      "area": 114.86,
+      "share": "24 分之 1",
+      "owner": "呂玉玲",
+      "date": "104年12月09日",
+      "reason": "繼承",
+      "price": "含見其他登記 事項11.1平方 公尺(超過五 年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 136.71,
+      "share": "全部",
+      "owner": "呂玉玲",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "含平台 12.59 平方公尺(超 過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 6516",
+      "owner": "呂玉玲",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 89.15,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "含陽台 12.59 平方公尺(超 過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 89.15,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "含陽台 12.59 平方公尺(超 過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 61.45,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "含陽台 12.59 平方公尺(超 過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 63.01,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "含陽台 12.59 平方公尺(超 過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 16,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 16,
+      "share": "全部",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 192",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 62",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 297",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 297",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 198",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 334.24,
+      "share": "10000 分之 62",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 21.85,
+      "share": "10000 分之 3739",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 21.85,
+      "share": "10000 分之 1215",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 21.85,
+      "share": "10000 分之 3831",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "桃園市平鎮區廣平段",
+      "area": 21.85,
+      "share": "10000 分之 1215",
+      "owner": "陳萬得",
+      "date": "83年11月11日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 3456,
+      "owner": "呂玉玲",
+      "date": "109年03月16日",
+      "reason": "買賣",
+      "price": 2710000
+    },
+    {
+      "brand": "BMW",
+      "cc": 2979,
+      "owner": "陳萬得",
+      "date": "113年01月19日",
+      "reason": "買賣",
+      "price": 800000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8640089,
+    "items": [
+      {
+        "institution": "臺灣銀行中壢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 402
+      },
+      {
+        "institution": "土地銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 400
+      },
+      {
+        "institution": "合庫商業銀行龍潭分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 1393
+      },
+      {
+        "institution": "合庫商業銀行中原分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 22
+      },
+      {
+        "institution": "國泰世華銀行中壢分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 12732
+      },
+      {
+        "institution": "渣打國際商銀新明分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "呂玉玲",
+        "foreignAmount": 1,
+        "amount": 50
+      },
+      {
+        "institution": "渣打國際商銀新明分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 19
+      },
+      {
+        "institution": "渣打國際商銀新明分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 1452969
+      },
+      {
+        "institution": "桃園信用合作社會稽分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 114
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 278
+      },
+      {
+        "institution": "平鎮區農會本會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 11119
+      },
+      {
+        "institution": "平鎮區農會龍岡分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 506
+      },
+      {
+        "institution": "龍潭區農會本會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 5430
+      },
+      {
+        "institution": "聯邦銀行北中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 34893
+      },
+      {
+        "institution": "聯邦銀行北中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 5967
+      },
+      {
+        "institution": "遠東國際銀行中壢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 11
+      },
+      {
+        "institution": "玉山銀行壢新分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 27629
+      },
+      {
+        "institution": "玉山銀行壢新分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 3505681
+      },
+      {
+        "institution": "玉山銀行壢新分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 2566044
+      },
+      {
+        "institution": "中信銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "呂玉玲",
+        "foreignAmount": 0,
+        "amount": 131
+      },
+      {
+        "institution": "臺灣銀行平鎮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 62087
+      },
+      {
+        "institution": "土地銀行嘉義分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 669
+      },
+      {
+        "institution": "合庫商業銀行壢新分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 4420
+      },
+      {
+        "institution": "合庫商業銀行新明分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 977
+      },
+      {
+        "institution": "第一銀行中壢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 2765
+      },
+      {
+        "institution": "第一銀行中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 894
+      },
+      {
+        "institution": "匯豐台灣中壢分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 478
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 105
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 549
+      },
+      {
+        "institution": "平鎮區農會北勢分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 53771
+      },
+      {
+        "institution": "聯邦銀行北中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 8663
+      },
+      {
+        "institution": "玉山銀行壢新分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳萬得",
+        "foreignAmount": 0,
+        "amount": 878920
+      }
+    ]
+  },
+  "stocks": {
+    "total": 4720,
+    "items": [
+      {
+        "name": "大同",
+        "owner": "陳萬得",
+        "shares": 110,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1100
+      },
+      {
+        "name": "聯合再生",
+        "owner": "陳萬得",
+        "shares": 362,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3620
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山遞延年金保 險-平準型",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "年金型保險",
+        "period": "90 年 03 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山遞延年金保 險-平準型",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "年金型保險",
+        "period": "90 年 03 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山遞延年金保 險-平準型",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "年金型保險",
+        "period": "90 年 03 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽新多美 寶美元利率變動 型終身保險（定 期給付型）",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 03 月 14日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 03 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 03 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山十年繳費新 年年春還本終身 保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 03 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山年年春還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 08 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山美滿還本終 身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山美滿還本終 身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山美滿還本終 身保險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 12 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽安佳增 值終身還本壽險",
+        "policyNumber": "",
+        "holder": "呂玉玲",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 05 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "增值分紅二十年 限期繳費終身壽 險",
+        "policyNumber": "",
+        "holder": "陳萬得",
+        "contractType": "儲蓄型壽險",
+        "period": "75 年 11 月 28 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "good service & education （英文）及圖",
+        "quantity": "1",
+        "owner": "陳萬得",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

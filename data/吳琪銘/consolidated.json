@@ -1,0 +1,220 @@
+{
+  "name": "吳琪銘",
+  "date": "2024-12-13",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "民主進步黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "南山人壽",
+      "name": "南山年年春還 本終身保險",
+      "holder": "許素珍",
+      "contractType": "儲蓄壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山美滿還 本 終身壽險",
+      "holder": "許素珍",
+      "contractType": "保障儲蓄壽險"
+    },
+    {
+      "company": "遠雄人壽",
+      "name": "美滿致富2增額 終身壽險",
+      "holder": "許素珍",
+      "contractType": "儲蓄險"
+    },
+    {
+      "company": "新光人壽",
+      "name": "新光人壽美利 金鑽外幣利率 變動型終身還 本保險 6 年期",
+      "holder": "許素珍",
+      "contractType": "儲蓄險"
+    },
+    {
+      "company": "國泰人壽",
+      "name": "國泰人壽添美 盛美元壽險",
+      "holder": "許素珍",
+      "contractType": "儲蓄險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "嘉新畜產",
+      "cleanName": "嘉新畜產",
+      "ticker": null,
+      "shares": 100000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "新燕",
+      "cleanName": "新燕",
+      "ticker": null,
+      "shares": 100000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "長銘",
+      "cleanName": "長銘",
+      "ticker": null,
+      "shares": 300000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 120996,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 32.8,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "聯華",
+      "cleanName": "聯華",
+      "ticker": "1229",
+      "shares": 756,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 57,
+      "latestPrice": 44.85
+    },
+    {
+      "name": "大洋",
+      "cleanName": "大洋",
+      "ticker": "1321",
+      "shares": 330000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 32.85,
+      "latestPrice": 33.65
+    },
+    {
+      "name": "岱宇",
+      "cleanName": "岱宇",
+      "ticker": "1598",
+      "shares": 131250,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 27.2,
+      "latestPrice": 18.95
+    },
+    {
+      "name": "華孚",
+      "cleanName": "華孚",
+      "ticker": "6235",
+      "shares": 5000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 71.1,
+      "latestPrice": 58
+    },
+    {
+      "name": "華安",
+      "cleanName": "華安",
+      "ticker": "6657",
+      "shares": 10000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 52.1,
+      "latestPrice": 47.7
+    },
+    {
+      "name": "偉盟",
+      "cleanName": "偉盟",
+      "ticker": null,
+      "shares": 677,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "光洋科",
+      "cleanName": "光洋科",
+      "ticker": "1785",
+      "shares": 60000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 67.7,
+      "latestPrice": 62.2
+    },
+    {
+      "name": "亞通",
+      "cleanName": "亞通",
+      "ticker": "6179",
+      "shares": 10000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": 27.8,
+      "latestPrice": 25.15
+    },
+    {
+      "name": "創控",
+      "cleanName": "創控",
+      "ticker": "6909",
+      "shares": 65000,
+      "owner": "吳琪銘",
+      "priceAtDisclosure": null,
+      "latestPrice": 41.35
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市土城區青雲段+車位",
+      "owner": "吳琪銘",
+      "date": "1995-11-15",
+      "effectiveAreaPing": 50.91,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市土城區青雲段",
+      "owner": "吳琪銘",
+      "date": "1995-11-15",
+      "effectiveAreaPing": 44.53,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市土城區延吉段",
+      "owner": "吳琪銘",
+      "date": "1994-06-28",
+      "effectiveAreaPing": 50.64,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市鶯歌區二橋段",
+      "owner": "吳琪銘",
+      "date": "2008-05-12",
+      "effectiveAreaPing": 32.25,
+      "entryCount": 1,
+      "price": "購 2,600,000 (同土地，超過 五年)"
+    },
+    {
+      "location": "新北市土城區員和段",
+      "owner": "許素珍",
+      "date": "2016-09-07",
+      "effectiveAreaPing": 27,
+      "entryCount": 1,
+      "price": "27,640,000 (103 年買預售 屋/同土地買 2,764 萬，銀行 貸款 1,490 萬，土地+建物 購 2,764 萬)"
+    },
+    {
+      "location": "新北市土城區峯廷里金城路 (鐵皮屋無建號，未登記建物， 有稅籍/有繳稅)",
+      "owner": "許素珍",
+      "date": "2021-09-30",
+      "effectiveAreaPing": 40.69,
+      "entryCount": 1,
+      "price": "15,600,000 (此鐵皮屋含 土地共買 1,560 萬，貸款 1,235 萬)"
+    },
+    {
+      "location": "雲林縣東勢鄉四美村四美路",
+      "owner": "吳琪銘",
+      "date": "2024-05-09",
+      "effectiveAreaPing": 9.68,
+      "entryCount": 1,
+      "price": "6,300 (公告現值)"
+    }
+  ]
+}

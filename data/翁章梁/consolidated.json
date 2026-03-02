@@ -1,0 +1,131 @@
+{
+  "name": "翁章梁",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "嘉義縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2764060
+    }
+  ],
+  "depositsTotal": 2764060,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "翁章梁",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "翁章梁",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "翁章梁",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "翁章梁",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰年年如意還 本終身壽險(繳 費 20 年)",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰年年如意還 本終身壽險(繳 費 20 年)",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美富紅 運外幣分紅終身 壽險",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平安 福保本保險",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平安 福保本保險",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平安 福保本保險",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽鑫富利 增額終身壽險",
+      "holder": "翁章梁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "劉莉英",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽雙富利 變額年金保險",
+      "holder": "劉莉英",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽吉有利 利率變動型增額 終身壽險",
+      "holder": "劉莉英",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽安富久 久失能照護終身 壽險",
+      "holder": "劉莉英",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽增美利 外幣增額終身壽 險",
+      "holder": "劉莉英",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽醫定安 心重大傷病終身 健康保險",
+      "holder": "劉莉英",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "嘉義縣太保市嘉保段",
+      "owner": "翁章梁",
+      "date": "2007-11-22",
+      "effectiveAreaPing": 68.17,
+      "entryCount": 4,
+      "price": "含見其他登記 事項36.1平方 公尺(超過五 年)"
+    }
+  ]
+}

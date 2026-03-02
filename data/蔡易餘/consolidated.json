@@ -1,0 +1,46 @@
+{
+  "name": "蔡易餘",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "嘉義縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1233952
+    },
+    {
+      "currency": "美元",
+      "amount": 31926
+    }
+  ],
+  "depositsTotal": 1265878,
+  "insurance": [
+    {
+      "company": "合作金庫人壽保 險股份有限公司",
+      "name": "合作金庫人壽超 幸福貸定期壽險",
+      "holder": "蔡易餘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山新康樂終身 壽險",
+      "holder": "蔡易餘",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "聯合再生",
+      "cleanName": "聯合再生",
+      "ticker": "3576",
+      "shares": 164,
+      "owner": "蔡易餘",
+      "priceAtDisclosure": 11.8,
+      "latestPrice": 22.1
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": []
+}

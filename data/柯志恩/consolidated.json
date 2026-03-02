@@ -1,0 +1,838 @@
+{
+  "name": "柯志恩",
+  "date": "2024-04-30",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 12894383
+    },
+    {
+      "currency": "美元",
+      "amount": 2195369
+    }
+  ],
+  "depositsTotal": 15089753,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽卓越變 額萬能壽險",
+      "holder": "柯志恩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽新卓越 變額萬能壽險",
+      "holder": "柯志恩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽新卓越 變額萬能壽險",
+      "holder": "柯志恩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽新卓越 變額萬能壽險",
+      "holder": "柯志恩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 美元增額終身壽 險",
+      "holder": "柯志恩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+      "holder": "柯志恩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台聚",
+      "cleanName": "台聚",
+      "ticker": "1304",
+      "shares": 2000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 15.85,
+      "latestPrice": 12.3
+    },
+    {
+      "name": "宜進",
+      "cleanName": "宜進",
+      "ticker": "1457",
+      "shares": 5000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 25,
+      "latestPrice": 16
+    },
+    {
+      "name": "利奇",
+      "cleanName": "利奇",
+      "ticker": "1517",
+      "shares": 2000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 16.45,
+      "latestPrice": 12.45
+    },
+    {
+      "name": "台玻",
+      "cleanName": "台玻",
+      "ticker": "1802",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 17.15,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "上銀",
+      "cleanName": "上銀",
+      "ticker": "2049",
+      "shares": 1030,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 231.5,
+      "latestPrice": 230
+    },
+    {
+      "name": "國際中橡",
+      "cleanName": "國際中橡",
+      "ticker": "2104",
+      "shares": 2486,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 17.95,
+      "latestPrice": 13.2
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 2219,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 50.7,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "台達電",
+      "cleanName": "台達電",
+      "ticker": "2308",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 320.5,
+      "latestPrice": null
+    },
+    {
+      "name": "華通",
+      "cleanName": "華通",
+      "ticker": "2313",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 77.2,
+      "latestPrice": 204.5
+    },
+    {
+      "name": "國巨",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 159,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 625,
+      "latestPrice": 298
+    },
+    {
+      "name": "光罩",
+      "cleanName": "光罩",
+      "ticker": "2338",
+      "shares": 2000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 67.5,
+      "latestPrice": 49.2
+    },
+    {
+      "name": "華邦電",
+      "cleanName": "華邦電",
+      "ticker": "2344",
+      "shares": 2723,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 26,
+      "latestPrice": 122.5
+    },
+    {
+      "name": "凱美",
+      "cleanName": "凱美",
+      "ticker": "2375",
+      "shares": 1600,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 63.3,
+      "latestPrice": 94.9
+    },
+    {
+      "name": "微星",
+      "cleanName": "微星",
+      "ticker": "2377",
+      "shares": 220,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 159.5,
+      "latestPrice": 94.3
+    },
+    {
+      "name": "微星",
+      "cleanName": "微星",
+      "ticker": "2377",
+      "shares": 66,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 159.5,
+      "latestPrice": 94.3
+    },
+    {
+      "name": "微星",
+      "cleanName": "微星",
+      "ticker": "2377",
+      "shares": 52,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 159.5,
+      "latestPrice": 94.3
+    },
+    {
+      "name": "義隆",
+      "cleanName": "義隆",
+      "ticker": "2458",
+      "shares": 1400,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 164.5,
+      "latestPrice": 122
+    },
+    {
+      "name": "鉅祥",
+      "cleanName": "鉅祥",
+      "ticker": "2476",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 74.2,
+      "latestPrice": 84.6
+    },
+    {
+      "name": "太設",
+      "cleanName": "太設",
+      "ticker": "2506",
+      "shares": 121,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 12.75,
+      "latestPrice": 9.04
+    },
+    {
+      "name": "太設",
+      "cleanName": "太設",
+      "ticker": "2506",
+      "shares": 3,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 12.75,
+      "latestPrice": 9.04
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 1139,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 189.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "華航",
+      "cleanName": "華航",
+      "ticker": "2610",
+      "shares": 5000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 20.95,
+      "latestPrice": 21
+    },
+    {
+      "name": "東森",
+      "cleanName": "東森",
+      "ticker": "2614",
+      "shares": 2838,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 19.75,
+      "latestPrice": 20.55
+    },
+    {
+      "name": "長榮航",
+      "cleanName": "長榮航",
+      "ticker": "2618",
+      "shares": 5000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 35.55,
+      "latestPrice": 38
+    },
+    {
+      "name": "正德",
+      "cleanName": "正德",
+      "ticker": "2641",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 19.95,
+      "latestPrice": 20.2
+    },
+    {
+      "name": "富邦金丙特",
+      "cleanName": "富邦金丙特",
+      "ticker": "2881",
+      "shares": 46,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 69.1,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 2508,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 69.1,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 50.5,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "開發金",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 240,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 13.65,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "開發金",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 17,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 13.65,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 200,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 8.63,
+      "latestPrice": null
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 58,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 8.63,
+      "latestPrice": null
+    },
+    {
+      "name": "穩懋",
+      "cleanName": "穩懋",
+      "ticker": "3105",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 146,
+      "latestPrice": 338
+    },
+    {
+      "name": "耀登",
+      "cleanName": "耀登",
+      "ticker": "3138",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 128,
+      "latestPrice": 198
+    },
+    {
+      "name": "原相",
+      "cleanName": "原相",
+      "ticker": "3227",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 158.5,
+      "latestPrice": 206
+    },
+    {
+      "name": "京鼎",
+      "cleanName": "京鼎",
+      "ticker": "3413",
+      "shares": 50,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 302,
+      "latestPrice": 316
+    },
+    {
+      "name": "群創",
+      "cleanName": "群創",
+      "ticker": "3481",
+      "shares": 2579,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 14.25,
+      "latestPrice": 26.8
+    },
+    {
+      "name": "晶相光",
+      "cleanName": "晶相光",
+      "ticker": "3530",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 94.9,
+      "latestPrice": 62.7
+    },
+    {
+      "name": "湧德",
+      "cleanName": "湧德",
+      "ticker": "3689",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 63.4,
+      "latestPrice": 118.5
+    },
+    {
+      "name": "富采",
+      "cleanName": "富采",
+      "ticker": "3714",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 42.85,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "致伸",
+      "cleanName": "致伸",
+      "ticker": "4915",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 97,
+      "latestPrice": 81.8
+    },
+    {
+      "name": "世界",
+      "cleanName": "世界",
+      "ticker": "5347",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 86,
+      "latestPrice": 133.5
+    },
+    {
+      "name": "台半",
+      "cleanName": "台半",
+      "ticker": "5425",
+      "shares": 2000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 73,
+      "latestPrice": 62
+    },
+    {
+      "name": "瀚宇博",
+      "cleanName": "瀚宇博",
+      "ticker": "5469",
+      "shares": 5000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 56.1,
+      "latestPrice": 93.7
+    },
+    {
+      "name": "中美晶",
+      "cleanName": "中美晶",
+      "ticker": "5483",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 195.5,
+      "latestPrice": 118
+    },
+    {
+      "name": "頎邦",
+      "cleanName": "頎邦",
+      "ticker": "6147",
+      "shares": 1000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 76.1,
+      "latestPrice": 56.5
+    },
+    {
+      "name": "嘉聯益",
+      "cleanName": "嘉聯益",
+      "ticker": "6153",
+      "shares": 1050,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 19.85,
+      "latestPrice": 16.5
+    },
+    {
+      "name": "鈦昇",
+      "cleanName": "鈦昇",
+      "ticker": "8027",
+      "shares": 2000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 92.7,
+      "latestPrice": 96.1
+    },
+    {
+      "name": "宏捷科",
+      "cleanName": "宏捷科",
+      "ticker": "8086",
+      "shares": 2000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 138,
+      "latestPrice": 123
+    },
+    {
+      "name": "越峰",
+      "cleanName": "越峰",
+      "ticker": "8121",
+      "shares": 3000,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 32.6,
+      "latestPrice": 28.05
+    },
+    {
+      "name": "金益鼎",
+      "cleanName": "金益鼎",
+      "ticker": "8390",
+      "shares": 2400,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 56.4,
+      "latestPrice": 103
+    },
+    {
+      "name": "富堡",
+      "cleanName": "富堡",
+      "ticker": "8929",
+      "shares": 3553,
+      "owner": "柯志恩",
+      "priceAtDisclosure": 20.15,
+      "latestPrice": 16.6
+    }
+  ],
+  "bonds": [
+    {
+      "name": "新興非投雙債組 累",
+      "owner": "柯志恩",
+      "institution": "永 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 268.01,
+      "unitValue": 10.742,
+      "currency": "",
+      "declaredValue": 2878,
+      "source": "fund"
+    },
+    {
+      "name": "國泰亞洲非投資 債臺配息",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 100000,
+      "unitValue": 4.6873,
+      "currency": "",
+      "declaredValue": 468730,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "永豐永豐 A",
+      "owner": "柯志恩",
+      "institution": "永 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 8121.84,
+      "unitValue": 56.05,
+      "currency": "",
+      "declaredValue": 455229,
+      "source": "fund"
+    },
+    {
+      "name": "滬深 300",
+      "owner": "柯志恩",
+      "institution": "永 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 4854.61,
+      "unitValue": 19.27,
+      "currency": "",
+      "declaredValue": 93548,
+      "source": "fund"
+    },
+    {
+      "name": "中國品牌-台幣",
+      "owner": "柯志恩",
+      "institution": "保 德 信 證 券 投 資 信 託 股 份 有 限公司",
+      "units": 42060.5,
+      "unitValue": 9.75,
+      "currency": "",
+      "declaredValue": 410089,
+      "source": "fund"
+    },
+    {
+      "name": "中國中小-台幣",
+      "owner": "柯志恩",
+      "institution": "保 德 信 證 券 投 資 信 託 股 份 有 限公司",
+      "units": 32689.7,
+      "unitValue": 7.69,
+      "currency": "",
+      "declaredValue": 251383,
+      "source": "fund"
+    },
+    {
+      "name": "JPM 美國科技基 金 A 股-美元-累 計",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 86.856,
+      "unitValue": 98.87,
+      "currency": "美元",
+      "declaredValue": 271020,
+      "source": "fund"
+    },
+    {
+      "name": "JPM 美國科技基 金 A 股-美元-累 計",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 52.005,
+      "unitValue": 98.87,
+      "currency": "美元",
+      "declaredValue": 162273,
+      "source": "fund"
+    },
+    {
+      "name": "法巴能源轉型股 票基金 C (美元)",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 56.326,
+      "unitValue": 55,
+      "currency": "美元",
+      "declaredValue": 97770,
+      "source": "fund"
+    },
+    {
+      "name": "法巴能源轉型股 票基金 C (美元)",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 2.639,
+      "unitValue": 55,
+      "currency": "美元",
+      "declaredValue": 4580,
+      "source": "fund"
+    },
+    {
+      "name": "法巴能源轉型股",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 1.682,
+      "unitValue": 55,
+      "currency": "美元",
+      "declaredValue": 2919,
+      "source": "fund"
+    },
+    {
+      "name": "票基金 C (美元)",
+      "owner": "柯志恩",
+      "institution": "",
+      "units": 0,
+      "unitValue": 0,
+      "currency": "",
+      "declaredValue": 0,
+      "source": "fund"
+    },
+    {
+      "name": "摩根士丹利美國 增長基金 A-美元 -除息",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 42.226,
+      "unitValue": 157.64,
+      "currency": "美元",
+      "declaredValue": 210079,
+      "source": "fund"
+    },
+    {
+      "name": "摩根士丹利美國 增長基金 A-美元 -除息",
+      "owner": "柯志恩",
+      "institution": "國泰世華銀行",
+      "units": 37.51,
+      "unitValue": 157.64,
+      "currency": "美元",
+      "declaredValue": 186616,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "柯志恩",
+      "institution": "華 南 永 昌 證 券 古亭分公司",
+      "units": 10000,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 392000,
+      "source": "fund"
+    },
+    {
+      "name": "元大 S&P500",
+      "owner": "柯志恩",
+      "institution": "華 南 永 昌 證 券 古亭分公司",
+      "units": 10000,
+      "unitValue": 50.34,
+      "currency": "",
+      "declaredValue": 503400,
+      "source": "fund"
+    },
+    {
+      "name": "統一 FANG+",
+      "owner": "柯志恩",
+      "institution": "華 南 永 昌 證 券 古亭分公司",
+      "units": 5000,
+      "unitValue": 73.72,
+      "currency": "",
+      "declaredValue": 368600,
+      "source": "fund"
+    },
+    {
+      "name": "群益店頭市場",
+      "owner": "柯志恩",
+      "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 80,
+      "unitValue": 170.13,
+      "currency": "",
+      "declaredValue": 13610,
+      "source": "fund"
+    },
+    {
+      "name": "多利策略",
+      "owner": "柯志恩",
+      "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 258.8,
+      "unitValue": 10.44,
+      "currency": "",
+      "declaredValue": 2701,
+      "source": "fund"
+    },
+    {
+      "name": "印度中小台幣",
+      "owner": "柯志恩",
+      "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 19558.2,
+      "unitValue": 30.15,
+      "currency": "",
+      "declaredValue": 589679,
+      "source": "fund"
+    },
+    {
+      "name": "大中華台幣",
+      "owner": "柯志恩",
+      "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 25571.5,
+      "unitValue": 12.02,
+      "currency": "",
+      "declaredValue": 307369,
+      "source": "fund"
+    },
+    {
+      "name": "新機會台幣",
+      "owner": "柯志恩",
+      "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 36165.9,
+      "unitValue": 6.32,
+      "currency": "",
+      "declaredValue": 228568,
+      "source": "fund"
+    },
+    {
+      "name": "中國金采 A 台",
+      "owner": "柯志恩",
+      "institution": "群 益 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 28841.2,
+      "unitValue": 9.8977,
+      "currency": "",
+      "declaredValue": 285461,
+      "source": "fund"
+    },
+    {
+      "name": "野村優質基金",
+      "owner": "柯志恩",
+      "institution": "臺 灣 銀 行 群 賢 分行",
+      "units": 4489.1,
+      "unitValue": 143.81,
+      "currency": "",
+      "declaredValue": 645577,
+      "source": "fund"
+    },
+    {
+      "name": "摩根新興 35 台累",
+      "owner": "柯志恩",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 254,
+      "unitValue": 14.57,
+      "currency": "",
+      "declaredValue": 3700,
+      "source": "fund"
+    },
+    {
+      "name": "摩根中國 A 股台 累",
+      "owner": "柯志恩",
+      "institution": "摩 根 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 16598.1,
+      "unitValue": 14.64,
+      "currency": "",
+      "declaredValue": 242996,
+      "source": "fund"
+    },
+    {
+      "name": "Fidelity 500 Index Fund",
+      "owner": "柯志恩",
+      "institution": "Fidelity",
+      "units": 1,
+      "unitValue": 217016.43,
+      "currency": "美元",
+      "declaredValue": 6849038,
+      "source": "fund"
+    },
+    {
+      "name": "Fidelity MMKT Premium Class",
+      "owner": "柯志恩",
+      "institution": "Fidelity",
+      "units": 1,
+      "unitValue": 51825.22,
+      "currency": "美元",
+      "declaredValue": 1635603,
+      "source": "fund"
+    },
+    {
+      "name": "SQQQ",
+      "owner": "柯志恩",
+      "institution": "Fidelity",
+      "units": 1,
+      "unitValue": 32840.12,
+      "currency": "美元",
+      "declaredValue": 1036434,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鼓山區青海段",
+      "owner": "柯志恩",
+      "date": "2023-12-27",
+      "effectiveAreaPing": 59.86,
+      "entryCount": 1,
+      "price": "34,500,000(房 地總價額)"
+    },
+    {
+      "location": "高雄市鼓山區青海段 (共同使用部分)",
+      "owner": "柯志恩",
+      "date": "2023-12-27",
+      "effectiveAreaPing": 40.64,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

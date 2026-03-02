@@ -1,0 +1,1749 @@
+{
+  "name": "邱議瑩",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李永得"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台達電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 1000,
+        "pricePerShare": "319",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 319000
+      },
+      {
+        "name": "台達電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 1000,
+        "pricePerShare": "316",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 316000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 198,
+        "pricePerShare": "838",
+        "changeDate": "113年05月21日",
+        "changeReason": "買",
+        "totalValue": 165924
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 2,
+        "pricePerShare": "838",
+        "changeDate": "113年05月21日",
+        "changeReason": "買",
+        "totalValue": 1676
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 100,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 98000
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 80,
+        "pricePerShare": "972",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 77760
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 73,
+        "pricePerShare": "975",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 71175
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 44,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 43120
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 20,
+        "pricePerShare": "972",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 19440
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 20,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 19600
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 17,
+        "pricePerShare": "975",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 16575
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 15,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 14700
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 11,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 10780
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 10,
+        "pricePerShare": "975",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 9750
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 5,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 4900
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 3,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 2940
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 1,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 980
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 1,
+        "pricePerShare": "980",
+        "changeDate": "113年06月19日",
+        "changeReason": "買",
+        "totalValue": 980
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 88,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 85712
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 50,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 48700
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 50,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 48700
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 30,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 29220
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 26,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 25324
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 20,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 19480
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 7,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 6818
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 7,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 6818
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 6,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 5844
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 6,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 5844
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 5,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 4870
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 5,
+        "pricePerShare": "974",
+        "changeDate": "113年07月01日",
+        "changeReason": "買",
+        "totalValue": 4870
+      },
+      {
+        "name": "台積電",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 100,
+        "pricePerShare": "866",
+        "changeDate": "113年08月06日",
+        "changeReason": "買",
+        "totalValue": 86600
+      },
+      {
+        "name": "云辰",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 2000,
+        "pricePerShare": "13.20",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣",
+        "totalValue": 26400
+      },
+      {
+        "name": "云辰",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 298,
+        "pricePerShare": "13.15",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣",
+        "totalValue": 3918
+      },
+      {
+        "name": "云辰",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 257,
+        "pricePerShare": "13.15",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣",
+        "totalValue": 3379
+      },
+      {
+        "name": "云辰",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 100,
+        "pricePerShare": "13.15",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣",
+        "totalValue": 1315
+      },
+      {
+        "name": "云辰",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 100,
+        "pricePerShare": "13.15",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣",
+        "totalValue": 1315
+      },
+      {
+        "name": "云辰",
+        "broker": "元大",
+        "owner": "邱議瑩",
+        "shares": 50,
+        "pricePerShare": "13.15",
+        "changeDate": "113年03月19日",
+        "changeReason": "賣",
+        "totalValue": 657
+      },
+      {
+        "name": "華通",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "82",
+        "changeDate": "113年02月23日",
+        "changeReason": "買",
+        "totalValue": 820000
+      },
+      {
+        "name": "華通",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "78",
+        "changeDate": "113年03月08日",
+        "changeReason": "賣",
+        "totalValue": 390000
+      },
+      {
+        "name": "華通",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "77.20",
+        "changeDate": "113年04月30日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 386000
+      },
+      {
+        "name": "華通",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "78.80",
+        "changeDate": "113年05月09日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 394000
+      },
+      {
+        "name": "楠梓電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "59.40",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 594000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "750",
+        "changeDate": "113年04月19日",
+        "changeReason": "買",
+        "totalValue": 1500000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "750",
+        "changeDate": "113年04月19日",
+        "changeReason": "買",
+        "totalValue": 1500000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "750",
+        "changeDate": "113年04月19日",
+        "changeReason": "買",
+        "totalValue": 750000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "754",
+        "changeDate": "113年04月23日",
+        "changeReason": "賣",
+        "totalValue": 754000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "754",
+        "changeDate": "113年04月23日",
+        "changeReason": "賣",
+        "totalValue": 754000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "754",
+        "changeDate": "113年04月23日",
+        "changeReason": "賣",
+        "totalValue": 754000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "754",
+        "changeDate": "113年04月23日",
+        "changeReason": "賣",
+        "totalValue": 754000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "785",
+        "changeDate": "113年04月24日",
+        "changeReason": "賣",
+        "totalValue": 785000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "834",
+        "changeDate": "113年08月05日",
+        "changeReason": "買",
+        "totalValue": 834000
+      },
+      {
+        "name": "台積電",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "966",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 966000
+      },
+      {
+        "name": "精英",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 9000,
+        "pricePerShare": "36",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 324000
+      },
+      {
+        "name": "精英",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "36",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 36000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "195",
+        "changeDate": "112年11月27日",
+        "changeReason": "買",
+        "totalValue": 585000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "195",
+        "changeDate": "112年11月27日",
+        "changeReason": "買",
+        "totalValue": 195000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "195",
+        "changeDate": "112年11月27日",
+        "changeReason": "買",
+        "totalValue": 195000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "250",
+        "changeDate": "113年02月19日",
+        "changeReason": "賣",
+        "totalValue": 1250000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "262",
+        "changeDate": "113年04月15日",
+        "changeReason": "買",
+        "totalValue": 524000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "262",
+        "changeDate": "113年04月15日",
+        "changeReason": "買",
+        "totalValue": 262000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "262",
+        "changeDate": "113年04月15日",
+        "changeReason": "買",
+        "totalValue": 262000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "262",
+        "changeDate": "113年04月15日",
+        "changeReason": "買",
+        "totalValue": 262000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "238",
+        "changeDate": "113年04月23日",
+        "changeReason": "賣",
+        "totalValue": 238000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "253",
+        "changeDate": "113年04月24日",
+        "changeReason": "賣",
+        "totalValue": 253000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "290",
+        "changeDate": "113年05月14日",
+        "changeReason": "賣",
+        "totalValue": 870000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "240",
+        "changeDate": "113年08月05日",
+        "changeReason": "買",
+        "totalValue": 1200000
+      },
+      {
+        "name": "廣達",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "275",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 1375000
+      },
+      {
+        "name": "志聖",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "132",
+        "changeDate": "113年06月06日",
+        "changeReason": "買",
+        "totalValue": 396000
+      },
+      {
+        "name": "志聖",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "132",
+        "changeDate": "113年06月06日",
+        "changeReason": "買",
+        "totalValue": 264000
+      },
+      {
+        "name": "志聖",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "187.50",
+        "changeDate": "113年07月02日",
+        "changeReason": "賣",
+        "totalValue": 937500
+      },
+      {
+        "name": "三商壽",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "5.02",
+        "changeDate": "112年12月13日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 25100
+      },
+      {
+        "name": "三商壽",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "7.04",
+        "changeDate": "113年10月24日",
+        "changeReason": "賣",
+        "totalValue": 21120
+      },
+      {
+        "name": "三商壽",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "7.04",
+        "changeDate": "113年10月24日",
+        "changeReason": "賣",
+        "totalValue": 14080
+      },
+      {
+        "name": "欣興",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "186",
+        "changeDate": "113年04月25日",
+        "changeReason": "買",
+        "totalValue": 744000
+      },
+      {
+        "name": "欣興",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "186",
+        "changeDate": "113年04月25日",
+        "changeReason": "買",
+        "totalValue": 558000
+      },
+      {
+        "name": "欣興",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "186",
+        "changeDate": "113年04月25日",
+        "changeReason": "買",
+        "totalValue": 372000
+      },
+      {
+        "name": "欣興",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "186",
+        "changeDate": "113年04月25日",
+        "changeReason": "買",
+        "totalValue": 186000
+      },
+      {
+        "name": "欣興",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "192",
+        "changeDate": "113年05月28日",
+        "changeReason": "賣",
+        "totalValue": 960000
+      },
+      {
+        "name": "欣興",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "201",
+        "changeDate": "113年05月29日",
+        "changeReason": "賣",
+        "totalValue": 1005000
+      },
+      {
+        "name": "緯創",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "125",
+        "changeDate": "113年04月10日",
+        "changeReason": "買",
+        "totalValue": 250000
+      },
+      {
+        "name": "緯創",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "125",
+        "changeDate": "113年04月10日",
+        "changeReason": "買",
+        "totalValue": 125000
+      },
+      {
+        "name": "緯創",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "125",
+        "changeDate": "113年04月10日",
+        "changeReason": "買",
+        "totalValue": 125000
+      },
+      {
+        "name": "緯創",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 6000,
+        "pricePerShare": "114",
+        "changeDate": "113年04月16日",
+        "changeReason": "買",
+        "totalValue": 684000
+      },
+      {
+        "name": "緯創",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "109",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 545000
+      },
+      {
+        "name": "緯創",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 5000,
+        "pricePerShare": "107",
+        "changeDate": "113年10月11日",
+        "changeReason": "賣",
+        "totalValue": 535000
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "114",
+        "changeDate": "113年06月14日",
+        "changeReason": "買",
+        "totalValue": 228000
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "114",
+        "changeDate": "113年06月14日",
+        "changeReason": "買",
+        "totalValue": 114000
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "114",
+        "changeDate": "113年06月14日",
+        "changeReason": "買",
+        "totalValue": 114000
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "114",
+        "changeDate": "113年06月14日",
+        "changeReason": "買",
+        "totalValue": 114000
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "88.20",
+        "changeDate": "113年10月24日",
+        "changeReason": "賣",
+        "totalValue": 176400
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "88.20",
+        "changeDate": "113年10月24日",
+        "changeReason": "賣",
+        "totalValue": 176400
+      },
+      {
+        "name": "威剛",
+        "broker": "國泰-敦南二",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "88.30",
+        "changeDate": "113年10月24日",
+        "changeReason": "賣",
+        "totalValue": 88300
+      },
+      {
+        "name": "鈊象",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "1,070",
+        "changeDate": "113年03月11日",
+        "changeReason": "買",
+        "totalValue": 1070000
+      },
+      {
+        "name": "鈊象",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "1,170",
+        "changeDate": "113年06月14日",
+        "changeReason": "賣",
+        "totalValue": 1170000
+      },
+      {
+        "name": "京鼎",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "300",
+        "changeDate": "113年03月28日",
+        "changeReason": "買",
+        "totalValue": 900000
+      },
+      {
+        "name": "京鼎",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "319.50",
+        "changeDate": "113年05月07日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 319500
+      },
+      {
+        "name": "京鼎",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "307",
+        "changeDate": "113年05月17日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 307000
+      },
+      {
+        "name": "京鼎",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "308",
+        "changeDate": "113年06月11日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 308000
+      },
+      {
+        "name": "京鼎",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "317",
+        "changeDate": "113年06月13日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 317000
+      },
+      {
+        "name": "創意",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "1,570",
+        "changeDate": "113年06月24日",
+        "changeReason": "買",
+        "totalValue": 1570000
+      },
+      {
+        "name": "創意",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "1,560",
+        "changeDate": "113年06月25日",
+        "changeReason": "賣",
+        "totalValue": 1560000
+      },
+      {
+        "name": "創意",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "1,520",
+        "changeDate": "113年07月02日",
+        "changeReason": "買",
+        "totalValue": 1520000
+      },
+      {
+        "name": "創意",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "930",
+        "changeDate": "113年08月06日",
+        "changeReason": "賣",
+        "totalValue": 930000
+      },
+      {
+        "name": "世芯-KY",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "2,490",
+        "changeDate": "113年06月27日",
+        "changeReason": "買",
+        "totalValue": 2490000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 6000,
+        "pricePerShare": "80",
+        "changeDate": "113年03月15日",
+        "changeReason": "買",
+        "totalValue": 480000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "80",
+        "changeDate": "113年03月15日",
+        "changeReason": "買",
+        "totalValue": 240000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "80",
+        "changeDate": "113年03月15日",
+        "changeReason": "買",
+        "totalValue": 80000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "93.50",
+        "changeDate": "113年05月02日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 374000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "93.50",
+        "changeDate": "113年05月02日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 374000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "94.70",
+        "changeDate": "113年05月03日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 94700
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "104",
+        "changeDate": "113年05月06日",
+        "changeReason": "賣",
+        "totalValue": 104000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "117.50",
+        "changeDate": "113年05月08日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 235000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "117.50",
+        "changeDate": "113年05月08日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 235000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "110",
+        "changeDate": "113年05月09日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 440000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "110",
+        "changeDate": "113年05月09日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 110000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "106",
+        "changeDate": "113年05月23日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 318000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "106",
+        "changeDate": "113年05月23日",
+        "changeReason": "借貸轉帳(提)",
+        "totalValue": 212000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "124",
+        "changeDate": "113年05月29日",
+        "changeReason": "賣",
+        "totalValue": 496000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "131",
+        "changeDate": "113年06月03日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 131000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "131",
+        "changeDate": "113年06月04日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 131000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "131",
+        "changeDate": "113年06月04日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 131000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "131",
+        "changeDate": "113年06月04日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 131000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰綜合證券敦南 二分公司",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "131",
+        "changeDate": "113年06月04日",
+        "changeReason": "借貸轉帳(存)",
+        "totalValue": 131000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "170",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 340000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "170",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 170000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "170",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 170000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "170",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 170000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "145.50",
+        "changeDate": "113年06月18日",
+        "changeReason": "買",
+        "totalValue": 436500
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "145.50",
+        "changeDate": "113年06月18日",
+        "changeReason": "買",
+        "totalValue": 291000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "95.50",
+        "changeDate": "113年10月23日",
+        "changeReason": "賣",
+        "totalValue": 382000
+      },
+      {
+        "name": "十銓",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "95.50",
+        "changeDate": "113年10月23日",
+        "changeReason": "賣",
+        "totalValue": 95500
+      },
+      {
+        "name": "系統電",
+        "broker": "富邦南京",
+        "owner": "李永得",
+        "shares": 193,
+        "pricePerShare": "36.10",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 6967
+      },
+      {
+        "name": "系統電",
+        "broker": "富邦南京",
+        "owner": "李永得",
+        "shares": 84,
+        "pricePerShare": "36.10",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 3032
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "115",
+        "changeDate": "113年05月29日",
+        "changeReason": "買",
+        "totalValue": 460000
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 4000,
+        "pricePerShare": "115",
+        "changeDate": "113年05月29日",
+        "changeReason": "買",
+        "totalValue": 460000
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "115",
+        "changeDate": "113年05月29日",
+        "changeReason": "買",
+        "totalValue": 115000
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "115",
+        "changeDate": "113年05月29日",
+        "changeReason": "買",
+        "totalValue": 115000
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "102",
+        "changeDate": "113年06月04日",
+        "changeReason": "買",
+        "totalValue": 1020000
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "67.50",
+        "changeDate": "113年08月05日",
+        "changeReason": "賣",
+        "totalValue": 675000
+      },
+      {
+        "name": "中光電",
+        "broker": "國泰敦南二",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "70",
+        "changeDate": "113年08月07日",
+        "changeReason": "賣",
+        "totalValue": 700000
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "22",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 66000
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 44100
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 44100
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "22",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 44000
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 44100
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 44100
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22050
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22050
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22050
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22050
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22050
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22000
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "22.05",
+        "changeDate": "113年10月09日",
+        "changeReason": "賣",
+        "totalValue": 22050
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 500,
+        "pricePerShare": "21.70",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 10850
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 299,
+        "pricePerShare": "21.70",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 6488
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "24.20",
+        "changeDate": "113年10月25日",
+        "changeReason": "賣",
+        "totalValue": 242000
+      },
+      {
+        "name": "金橋",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 10000,
+        "pricePerShare": "25.60",
+        "changeDate": "113年11月01日",
+        "changeReason": "賣",
+        "totalValue": 256000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 3000,
+        "pricePerShare": "705",
+        "changeDate": "113年06月03日",
+        "changeReason": "買",
+        "totalValue": 2115000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "705",
+        "changeDate": "113年06月03日",
+        "changeReason": "買",
+        "totalValue": 705000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "705",
+        "changeDate": "113年06月03日",
+        "changeReason": "買",
+        "totalValue": 705000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "725",
+        "changeDate": "113年06月04日",
+        "changeReason": "賣",
+        "totalValue": 1450000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 2000,
+        "pricePerShare": "785",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 1570000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "785",
+        "changeDate": "113年06月13日",
+        "changeReason": "賣",
+        "totalValue": 785000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "734",
+        "changeDate": "113年07月09日",
+        "changeReason": "買",
+        "totalValue": 734000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "734",
+        "changeDate": "113年07月09日",
+        "changeReason": "買",
+        "totalValue": 734000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "700",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 700000
+      },
+      {
+        "name": "達發",
+        "broker": "國泰-敦南",
+        "owner": "李永得",
+        "shares": 1000,
+        "pricePerShare": "700",
+        "changeDate": "113年07月12日",
+        "changeReason": "買",
+        "totalValue": 700000
+      },
+      {
+        "name": "康那香",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 785,
+        "pricePerShare": "19.30",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 15150
+      },
+      {
+        "name": "康那香",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 52,
+        "pricePerShare": "19.25",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 1001
+      },
+      {
+        "name": "康那香",
+        "broker": "富邦-南京",
+        "owner": "李永得",
+        "shares": 1,
+        "pricePerShare": "19.25",
+        "changeDate": "113年10月17日",
+        "changeReason": "賣",
+        "totalValue": 19
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

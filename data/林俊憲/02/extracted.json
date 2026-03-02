@@ -1,0 +1,86 @@
+{
+  "name": "林俊憲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "105年04月20日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "未成年子女",
+      "name": "林○玄"
+    }
+  ],
+  "land": [
+    {
+      "location": "4★臺南市中西區成光段",
+      "area": 139.36,
+      "share": "全部",
+      "owner": "林俊憲",
+      "date": "108年10月05日",
+      "reason": "拍賣",
+      "price": "7,859,904"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "4★臺南市南區金華路",
+      "area": 91.6,
+      "share": "全部",
+      "owner": "林俊憲",
+      "date": "101年11月08日",
+      "reason": "BH",
+      "price": "83,000 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "2★TOYOTA-PREVIA",
+      "cc": 2397,
+      "owner": "林俊憲",
+      "date": "96年03月07日",
+      "reason": "購入",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 5415708,
+    "items": [
+      {
+        "institution": "2★臺灣銀行六甲頂分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "林俊憲",
+        "foreignAmount": 103,
+        "amount": 3090
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "王世堅",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林秀芬"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市士林區三玉段二小段",
+      "area": 339,
+      "share": "3 分之 1",
+      "owner": "王世堅",
+      "date": "113年08月20日",
+      "reason": "賣出",
+      "price": "2,368,080 (士林區三玉段 二小段第 1-3 筆總價金 $7893700 【分別分三期 支付"
+    },
+    {
+      "location": "臺北市士林區三玉段二小段",
+      "area": 12,
+      "share": "3 分之 1",
+      "owner": "王世堅",
+      "date": "113年08月20日",
+      "reason": "賣出",
+      "price": "3,946,800 (士林區三玉段 二小段第 1-3 筆總價金 $7893700 【分別分三期 支付"
+    },
+    {
+      "location": "臺北市士林區三玉段二小段",
+      "area": 1,
+      "share": "3 分之 1",
+      "owner": "王世堅",
+      "date": "113年08月20日",
+      "reason": "賣出",
+      "price": "1,578,820 (士林區三玉段 二小段第 1-3 筆總價金 $7893700 【分別分三期 支付"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "華南金",
+        "broker": "集保專戶",
+        "owner": "王世堅",
+        "shares": 19,
+        "pricePerShare": "25.50",
+        "changeDate": "113年08月30日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 484
+      },
+      {
+        "name": "台新金",
+        "broker": "富邦證券永和分公 司",
+        "owner": "王世堅",
+        "shares": 112,
+        "pricePerShare": "17.75",
+        "changeDate": "112年12月19日",
+        "changeReason": "合 併 轉 入 (存)",
+        "totalValue": 1988
+      },
+      {
+        "name": "台新金",
+        "broker": "富邦證券永和分公 司",
+        "owner": "王世堅",
+        "shares": 4,
+        "pricePerShare": "18.40",
+        "changeDate": "113年08月29日",
+        "changeReason": "劃 撥 配 發 (存)",
+        "totalValue": 73
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

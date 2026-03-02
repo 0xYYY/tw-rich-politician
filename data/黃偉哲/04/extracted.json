@@ -1,0 +1,95 @@
+{
+  "name": "黃偉哲",
+  "org": "臺南市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "劉育菁"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市永康區三村段",
+      "area": 87,
+      "share": "10000 分 之 109",
+      "owner": "劉育菁",
+      "date": "095年05月30日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺南市善化區文正段",
+      "area": 108.74,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "108年05月07日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺南市善化區光華段",
+      "area": 88.9,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "101年10月05日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市永康區三村段",
+      "area": 68.56,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "095年05月30日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺南市善化區光華段",
+      "area": 145.25,
+      "share": "全部",
+      "owner": "劉育菁",
+      "date": "102年02月07日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

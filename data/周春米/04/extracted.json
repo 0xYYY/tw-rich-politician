@@ -1,0 +1,68 @@
+{
+  "name": "周春米",
+  "org": "屏東縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "邱明弘"
+    }
+  ],
+  "land": [
+    {
+      "location": "屏東縣屏東市北平段",
+      "area": 127.92,
+      "share": "全部",
+      "owner": "周春米",
+      "date": "112年03月27日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣屏東市北平段",
+      "area": 307.22,
+      "share": "全部",
+      "owner": "周春米",
+      "date": "112年03月27日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

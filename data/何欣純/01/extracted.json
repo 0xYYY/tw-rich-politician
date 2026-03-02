@@ -1,0 +1,529 @@
+{
+  "name": "何欣純",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "謝俊雄"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "謝○恩"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "謝○均"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 73.04,
+      "share": "全部",
+      "owner": "何欣純",
+      "date": "105年10月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市大里區新仁段",
+      "area": 73,
+      "share": "全部",
+      "owner": "何欣純",
+      "date": "103年08月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 288.93,
+      "share": "10000 分之 625",
+      "owner": "謝俊雄",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "22,000,000 (與第4筆土地 或第 4 筆建物 合購)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 64.2,
+      "share": "全部",
+      "owner": "謝俊雄",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "22,000,000 (與第3筆土地 或第 3 筆建物 合購)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 288.88,
+      "share": "16 分之 1",
+      "owner": "謝俊雄",
+      "date": "93年08月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 77.76,
+      "share": "全部",
+      "owner": "謝俊雄",
+      "date": "93年08月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市清水區橋江段",
+      "area": 219.1,
+      "share": "全部",
+      "owner": "謝俊雄",
+      "date": "110年02月03日",
+      "reason": "分割繼承",
+      "price": "3,461,780"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 219.44,
+      "share": "全部",
+      "owner": "何欣純",
+      "date": "105年10月19日",
+      "reason": "買賣",
+      "price": "含陽台 15.27 平方公尺,雨 遮1.94平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市大里區新仁段",
+      "area": 283.59,
+      "share": "全部",
+      "owner": "何欣純",
+      "date": "103年08月26日",
+      "reason": "買賣",
+      "price": "含陽台 35.01 平方公尺,平 台4.91平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 254.4,
+      "share": "全部",
+      "owner": "謝俊雄",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "22,000,000 (與第4筆土地 或第 4 筆建物 合購,含陽台 24.54 平方公 尺,雨遮 8.75 平方公尺)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 22.95,
+      "share": "10000 分之 625",
+      "owner": "謝俊雄",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "22,000,000 (與第3筆土地 或第 3 筆建物 合購)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "area": 309.45,
+      "share": "全部",
+      "owner": "謝俊雄",
+      "date": "93年08月26日",
+      "reason": "買賣",
+      "price": "含陽台 38.45 平方公尺,雨 遮1.63平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市清水區橋江段",
+      "area": 184.48,
+      "share": "全部",
+      "owner": "謝俊雄",
+      "date": "89年01月14日",
+      "reason": "第一次登 記",
+      "price": "含陽台 12.87 平方公尺,雨 遮5.81平方公 尺(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "何欣純",
+      "date": "110年04月23日",
+      "reason": "買賣",
+      "price": 1117000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 2898039,
+    "items": [
+      {
+        "institution": "臺灣銀行大里分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 50460
+      },
+      {
+        "institution": "臺灣銀行大里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 347250
+      },
+      {
+        "institution": "土地銀行豐原分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 83
+      },
+      {
+        "institution": "台中銀行內新分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 132
+      },
+      {
+        "institution": "三信銀行豐信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 4606
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 66
+      },
+      {
+        "institution": "臺中市霧峰區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 1124720
+      },
+      {
+        "institution": "大里區農會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何欣純",
+        "foreignAmount": 0,
+        "amount": 151
+      },
+      {
+        "institution": "臺灣銀行大里分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 340
+      },
+      {
+        "institution": "臺灣銀行大里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 1901
+      },
+      {
+        "institution": "合庫商業銀行沙鹿分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 32
+      },
+      {
+        "institution": "第一銀行大甲分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 6885
+      },
+      {
+        "institution": "國泰世華銀行大里分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "謝俊雄",
+        "foreignAmount": 4,
+        "amount": 135
+      },
+      {
+        "institution": "國泰世華銀行大里分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 1049
+      },
+      {
+        "institution": "台中銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 136031
+      },
+      {
+        "institution": "台中銀行沙鹿分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "謝俊雄",
+        "foreignAmount": 2,
+        "amount": 90
+      },
+      {
+        "institution": "台中銀行清水分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 75229
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 1192
+      },
+      {
+        "institution": "臺中市霧峰區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝俊雄",
+        "foreignAmount": 0,
+        "amount": 115347
+      },
+      {
+        "institution": "合庫商業銀行大里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝○恩",
+        "foreignAmount": 0,
+        "amount": 506327
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "謝○恩",
+        "foreignAmount": 0,
+        "amount": 84
+      },
+      {
+        "institution": "合庫商業銀行大里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "謝○均",
+        "foreignAmount": 0,
+        "amount": 525929
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "滿添鑫利利變",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "何欣純",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 05 月 02 日/168 年 05 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中 國 人 壽 鑫 收 益 變 額 年 金 保 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "何欣純",
+        "contractType": "年金型保險",
+        "period": "111 年 02 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新 光 人 壽 鑫 利 雙 喜 利 率 變 動 型 終 身 還 本 保 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "何欣純",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 06 月 14 日/208 年 06 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新 光 人 壽 鑫 利 雙 喜 利 率 變 動 型 終 身 還 本 保 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "何欣純",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 06 月 14 日/205 年 06 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "世 紀 卓 越 變 額 萬能終身壽險 B 型",
+        "policyNumber": "○○○○○○○ ○○275",
+        "holder": "謝俊雄",
+        "contractType": "投資型壽險",
+        "period": "104 年 01 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "世 紀 富 利 變 額 萬能壽險 A 型",
+        "policyNumber": "○○○○○○○ ○○476",
+        "holder": "謝俊雄",
+        "contractType": "投資型壽險",
+        "period": "110 年 05 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "世 紀 富 利 變 額 萬能壽險 A 型",
+        "policyNumber": "○○○○○○○ ○○767",
+        "holder": "謝俊雄",
+        "contractType": "投資型壽險",
+        "period": "110 年 07 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "鑫 世 紀 經 典 變 額 萬 能 終 身 壽 險 B 型",
+        "policyNumber": "○○○○○○○ ○○770",
+        "holder": "謝俊雄",
+        "contractType": "投資型壽險",
+        "period": "104 年 12 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 守 護 久 久 失 能 照 護終身保險",
+        "policyNumber": "○○○○○○○ ○○549",
+        "holder": "謝俊雄",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 05 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 愛 安 心 重 大 傷 病 終身健康保險",
+        "policyNumber": "○○○○○○○ ○○835",
+        "holder": "謝俊雄",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 05 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 新 守 健 康 手 術 醫 療 終 身 健 康 保 險",
+        "policyNumber": "○○○○○○○ ○○860",
+        "holder": "謝俊雄",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 07 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二 十 年 繳 費 新 真 健 康 終 身 醫 療健康保險",
+        "policyNumber": "○○○○○○○ ○○853",
+        "holder": "謝俊雄",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 07 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "謝俊雄",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 11 月 21 日/160 年 11 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "傳 富 美 美 元 利 率 變 動 型 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "謝俊雄",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 18 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 29364877,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "何欣純",
+        "creditor": "臺中市霧峰區農會信用部 臺中市霧峰區中正里四德路",
+        "amount": 7916656,
+        "date": "105年10月21日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "何欣純",
+        "creditor": "臺中市霧峰區農會信用部 臺中市霧峰區中正里四德路",
+        "amount": 1998962,
+        "date": "103年09月09日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "何欣純",
+        "creditor": "臺中市霧峰區農會信用部 臺中市霧峰區中正里四德路",
+        "amount": 1125003,
+        "date": "112年01月18日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "謝俊雄",
+        "creditor": "國泰世華商業銀行大里分行 台中市大里區國光路",
+        "amount": 5900325,
+        "date": "112年12月27日",
+        "reason": "投資金融商 品 ( 如 股 票、基金及 債券等)"
+      },
+      {
+        "type": "授信",
+        "debtor": "謝俊雄",
+        "creditor": "臺中市霧峰區農會信用部 臺中市霧峰區中正里四德路",
+        "amount": 12423931,
+        "date": "110年01月04日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

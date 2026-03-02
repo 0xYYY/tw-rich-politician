@@ -1,0 +1,269 @@
+{
+  "name": "陳秀",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳瑞斌"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "美吾華",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1000,
+        "pricePerShare": "26.15",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 26150
+      },
+      {
+        "name": "美吾華",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1000,
+        "pricePerShare": "24.60",
+        "changeDate": "113年04月10日",
+        "changeReason": "買",
+        "totalValue": 24600
+      },
+      {
+        "name": "華碩",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 24,
+        "pricePerShare": "410.50",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 9852
+      },
+      {
+        "name": "華碩",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "410.50",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 410
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 2,
+        "pricePerShare": "2,920",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 5840
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 2,
+        "pricePerShare": "2,900",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 5800
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 2,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 5870
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1,
+        "pricePerShare": "2,935",
+        "changeDate": "113年09月05日",
+        "changeReason": "買",
+        "totalValue": 2935
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 2,
+        "pricePerShare": "2,750",
+        "changeDate": "113年09月06日",
+        "changeReason": "買",
+        "totalValue": 5500
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 2,
+        "pricePerShare": "2,750",
+        "changeDate": "113年09月06日",
+        "changeReason": "買",
+        "totalValue": 5500
+      },
+      {
+        "name": "大立光",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 4,
+        "pricePerShare": "2,510",
+        "changeDate": "113年09月18日",
+        "changeReason": "買",
+        "totalValue": 10040
+      },
+      {
+        "name": "合庫金",
+        "broker": "元大-鹿港",
+        "owner": "陳秀",
+        "shares": 1000,
+        "pricePerShare": "25.90",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 25900
+      },
+      {
+        "name": "合庫金",
+        "broker": "元大證券鹿港分公 司",
+        "owner": "陳秀",
+        "shares": 35,
+        "pricePerShare": "25.70",
+        "changeDate": "113年09月16日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 899
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "name": "伍麗華",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "高保羅"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市茂林區萬山段",
+      "area": 29800,
+      "share": "2 分之 1",
+      "owner": "伍麗華",
+      "date": "105年02月05日",
+      "reason": "地上權期 間屆滿",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市茂林區萬山段",
+      "area": 1690,
+      "share": "全部",
+      "owner": "伍麗華",
+      "date": "105年02月05日",
+      "reason": "地上權期 間屆滿",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市茂林區萬山段",
+      "area": 194,
+      "share": "全部",
+      "owner": "伍麗華",
+      "date": "105年02月05日",
+      "reason": "地上權期 間屆滿",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市茂林區萬山段",
+      "area": 236,
+      "share": "全部",
+      "owner": "伍麗華",
+      "date": "105年02月05日",
+      "reason": "地上權期 間屆滿",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣三地門鄉安坡段",
+      "area": 3530,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "108年02月21日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣三地門鄉安坡段",
+      "area": 15990,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "108年02月21日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣三地門鄉德文段",
+      "area": 2200,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "108年04月03日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣長治鄉長治段",
+      "area": 147,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "93年12月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣長治鄉長治段",
+      "area": 52,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "93年02月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣屏東巿瑞光段",
+      "area": 86,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "109年03月19日",
+      "reason": "買賣",
+      "price": "4,700,000"
+    },
+    {
+      "location": "屏東縣獅子鄉外獅段",
+      "area": 16292,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "107年08月28日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣萬巒鄉牛角灣段",
+      "area": 1803.53,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "99年09月06日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣瑪家鄉北葉段",
+      "area": 37352,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "107年06月06日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣瑪家鄉永樂段",
+      "area": 9190,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "104年11月20日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣瑪家鄉佳義段",
+      "area": 5100,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "104年12月16日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "屏東縣瑪家鄉佳義段",
+      "area": 4790,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "113年05月06日",
+      "reason": "買賣",
+      "price": "500,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "屏東縣長治鄉長治段",
+      "area": 186.27,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "93年12月13日",
+      "reason": "買賣",
+      "price": "含陽台6.34平 方公尺,屋頂 突出物5.59平 方公尺(超過 五年)"
+    },
+    {
+      "location": "屏東縣屏東市瑞光段",
+      "area": 102.09,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "109年03月19日",
+      "reason": "買賣",
+      "price": "4,700,000(與 第10筆土地合 購)"
+    },
+    {
+      "location": "屏東縣瑪家鄉佳義村",
+      "area": 345,
+      "share": "全部",
+      "owner": "高保羅",
+      "date": "104年12月22日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "中華",
+      "cc": 1198,
+      "owner": "高保羅",
+      "date": "105年11月24日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2494,
+      "owner": "高保羅",
+      "date": "111年05月16日",
+      "reason": "買賣",
+      "price": 520000
+    },
+    {
+      "brand": "國瑞",
+      "cc": 1998,
+      "owner": "高保羅",
+      "date": "113年02月05日",
+      "reason": "買賣",
+      "price": 460000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 9653136,
+    "items": [
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "伍麗華",
+        "foreignAmount": 0,
+        "amount": 58150
+      },
+      {
+        "institution": "土地銀行高樹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "伍麗華",
+        "foreignAmount": 0,
+        "amount": 117242
+      },
+      {
+        "institution": "第一銀行萬巒分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "伍麗華",
+        "foreignAmount": 0,
+        "amount": 84
+      },
+      {
+        "institution": "華南銀行內埔分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "伍麗華",
+        "foreignAmount": 0,
+        "amount": 2354
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "伍麗華",
+        "foreignAmount": 0,
+        "amount": 4958679
+      },
+      {
+        "institution": "屏東縣內埔地區農會信用 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "伍麗華",
+        "foreignAmount": 0,
+        "amount": 1312
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 50065
+      },
+      {
+        "institution": "臺灣銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 972021
+      },
+      {
+        "institution": "臺灣銀行潮州分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 1222
+      },
+      {
+        "institution": "土地銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 679516
+      },
+      {
+        "institution": "華南銀行潮州分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 23
+      },
+      {
+        "institution": "台北富邦銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 368337
+      },
+      {
+        "institution": "台北富邦銀行屏東分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "高保羅",
+        "foreignAmount": 532,
+        "amount": 17037
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 932
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 2425859
+      },
+      {
+        "institution": "玉山銀行屏東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "高保羅",
+        "foreignAmount": 0,
+        "amount": 303
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽豐沛一 生變額壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "伍麗華",
+        "contractType": "投資型壽險",
+        "period": "95 年 09 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽好福氣 失能照護終身保 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "伍麗華",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 05 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽新登峰 終身保險（平準 型）",
+        "policyNumber": "○○○○○○○ ○○27",
+        "holder": "伍麗華",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 10 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "伍麗華",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 03 月 28 日/168 年 03 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽好福氣 失能照護終身保 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "高保羅",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 05 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽新登峰 終身保險（平準 型）",
+        "policyNumber": "○○○○○○○ ○○34",
+        "holder": "高保羅",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 10 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽吉美利 外幣利率變動型 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "高保羅",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 09 日/163 年 01 月 08 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 2254400,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "高保羅",
+        "creditor": "臺灣銀行屏東分行 屏東縣屏東市中山路",
+        "amount": 2254400,
+        "date": "109年03月23日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,740 @@
+{
+  "name": "張啓楷",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "胡忠和"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市新店區惠國段",
+      "area": 5057.49,
+      "share": "100000 分 之 378",
+      "owner": "張啓楷",
+      "date": "106年06月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 5057.49,
+      "share": "100000 分 之 168",
+      "owner": "張啓楷",
+      "date": "106年06月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 2870,
+      "share": "5 分之 1",
+      "owner": "張啓楷",
+      "date": "105年05月23日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 2155,
+      "share": "4 分之 1",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 85,
+      "share": "48 分之 1",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 1412,
+      "share": "225920 分 之 707",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 314,
+      "share": "168 分之 1",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 49,
+      "share": "48 分之 1",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 38,
+      "share": "12 分之 1",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 256,
+      "share": "4 分之 1",
+      "owner": "張啓楷",
+      "date": "91年05月20日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 94,
+      "share": "5 分之 1",
+      "owner": "張啓楷",
+      "date": "105年05月23日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 4454.71,
+      "share": "100000 分 之 353",
+      "owner": "胡忠和",
+      "date": "98年10月07日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區福星段二小段",
+      "area": 1227.9,
+      "share": "100000 分 之 398",
+      "owner": "胡忠和",
+      "date": "113年02月15日",
+      "reason": "買賣",
+      "price": "12,790,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市新店區惠國段",
+      "area": 129.57,
+      "share": "全部",
+      "owner": "張啓楷",
+      "date": "106年06月27日",
+      "reason": "買賣",
+      "price": "含陽台7.75平 方公尺,雨遮 8.5 平方公尺 (超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 61.63,
+      "share": "全部",
+      "owner": "張啓楷",
+      "date": "106年06月27日",
+      "reason": "買賣",
+      "price": "含陽台7.03平 方公尺,雨遮 4.62 平方公尺 (超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 26225.66,
+      "share": "100000 分 之 343",
+      "owner": "張啓楷",
+      "date": "106年06月27日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 26225.66,
+      "share": "100000 分 之 215",
+      "owner": "張啓楷",
+      "date": "106年06月27日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "嘉義縣東石鄉栗子崙段東崙小 段",
+      "area": 156.25,
+      "share": "5 分之 1",
+      "owner": "張啓楷",
+      "date": "105年05月23日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 113.59,
+      "share": "全部",
+      "owner": "胡忠和",
+      "date": "98年10月07日",
+      "reason": "買賣",
+      "price": "含陽台5.19平 方公尺,雨遮 10.27 平方公 尺(超過五年)"
+    },
+    {
+      "location": "新北市新店區惠國段",
+      "area": 19797.58,
+      "share": "100000 分 之 370",
+      "owner": "胡忠和",
+      "date": "98年10月07日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市萬華區福星段二小段",
+      "area": 38.89,
+      "share": "全部",
+      "owner": "胡忠和",
+      "date": "113年02月15日",
+      "reason": "買賣",
+      "price": "12,790,000 (房地總價額， 第 8 筆與第 9 筆合購)"
+    },
+    {
+      "location": "臺北市萬華區福星段二小段",
+      "area": 9202.13,
+      "share": "100000 分 之 290",
+      "owner": "胡忠和",
+      "date": "113年02月15日",
+      "reason": "買賣",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 9255039,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 550755
+      },
+      {
+        "institution": "土地銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 562
+      },
+      {
+        "institution": "土地銀行寶中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 540061
+      },
+      {
+        "institution": "合庫商業銀行板橋分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 11011
+      },
+      {
+        "institution": "合庫商業銀行長春分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 905
+      },
+      {
+        "institution": "第一銀行忠孝路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 447
+      },
+      {
+        "institution": "華南銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 1383
+      },
+      {
+        "institution": "華南銀行東台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 98
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 1999
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 9
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 78253
+      },
+      {
+        "institution": "元大銀行民生分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "張啓楷",
+        "foreignAmount": 0,
+        "amount": 716
+      },
+      {
+        "institution": "臺灣銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 106197
+      },
+      {
+        "institution": "臺灣銀行館前分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "胡忠和",
+        "foreignAmount": 61,
+        "amount": 1946
+      },
+      {
+        "institution": "臺灣銀行館前分行",
+        "type": "綜合存款",
+        "currency": "港幣",
+        "owner": "胡忠和",
+        "foreignAmount": 2,
+        "amount": 9
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 50560
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 872522
+      },
+      {
+        "institution": "土地銀行寶中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 893215
+      },
+      {
+        "institution": "合庫商業銀行台大分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 3289
+      },
+      {
+        "institution": "華南銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 597823
+      },
+      {
+        "institution": "華南銀行國際金融部",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "胡忠和",
+        "foreignAmount": 30,
+        "amount": 959
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 996
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 661
+      },
+      {
+        "institution": "兆豐國際商業銀行台北復 興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 399845
+      },
+      {
+        "institution": "台中銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 111331
+      },
+      {
+        "institution": "匯豐台灣台北分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 37
+      },
+      {
+        "institution": "淡水第一信用合作社營業 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 306
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 2385
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 208
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "胡忠和",
+        "foreignAmount": 22,
+        "amount": 698
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 462
+      },
+      {
+        "institution": "元大銀行高鳳分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 130
+      },
+      {
+        "institution": "玉山銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 24283
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "胡忠和",
+        "foreignAmount": 9,
+        "amount": 309
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "胡忠和",
+        "foreignAmount": 0,
+        "amount": 667
+      }
+    ]
+  },
+  "stocks": {
+    "total": 885120,
+    "items": [
+      {
+        "name": "威盛",
+        "owner": "胡忠和",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "志聖",
+        "owner": "胡忠和",
+        "shares": 439,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4390
+      },
+      {
+        "name": "志聖",
+        "owner": "胡忠和",
+        "shares": 68,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 680
+      },
+      {
+        "name": "合富－KY",
+        "owner": "胡忠和",
+        "shares": 16000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 160000
+      },
+      {
+        "name": "新唐",
+        "owner": "胡忠和",
+        "shares": 40000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 400000
+      },
+      {
+        "name": "和旺",
+        "owner": "胡忠和",
+        "shares": 5,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50
+      },
+      {
+        "name": "騰輝電子－KY",
+        "owner": "胡忠和",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "終身壽險-指標 變額型(不分紅)",
+        "policyNumber": "",
+        "holder": "張啓楷",
+        "contractType": "投資型壽險",
+        "period": "92 年 12 月 19 日/156 年 12 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "終身壽險-指標 變額型(不分紅)",
+        "policyNumber": "",
+        "holder": "張啓楷",
+        "contractType": "投資型壽險",
+        "period": "94 年 11 月 10 日/156 年 11 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "年金給付型養老 壽險",
+        "policyNumber": "",
+        "holder": "胡忠和",
+        "contractType": "年金型保險",
+        "period": "90 年 08 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "台 新 人 壽 保 險 股份有限公司",
+        "name": "伴你一生終身醫 療保險",
+        "policyNumber": "",
+        "holder": "胡忠和",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 07 月 29 日/161 年 07 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀丁型",
+        "policyNumber": "",
+        "holder": "胡忠和",
+        "contractType": "投資型壽險",
+        "period": "96 年 09 月 29 日/179 年 09 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀甲型",
+        "policyNumber": "",
+        "holder": "胡忠和",
+        "contractType": "投資型壽險",
+        "period": "96 年 09 月 29 日/179 年 09 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀甲型",
+        "policyNumber": "",
+        "holder": "胡忠和",
+        "contractType": "投資型壽險",
+        "period": "96 年 09 月 29 日/150 年 09 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "創世紀甲型",
+        "policyNumber": "",
+        "holder": "胡忠和",
+        "contractType": "投資型壽險",
+        "period": "96 年 09 月 29 日/150 年 09 月 28 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 46444586,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "張啓楷",
+        "creditor": "臺灣土地銀行寶中分行",
+        "amount": 22850065,
+        "date": "106年07月03日",
+        "reason": "購買住宅貸 款(自用)"
+      },
+      {
+        "type": "授信",
+        "debtor": "張啓楷",
+        "creditor": "臺灣土地銀行寶中分行",
+        "amount": 9332607,
+        "date": "106年07月03日",
+        "reason": "購買住宅貸 款(自用)"
+      },
+      {
+        "type": "授信",
+        "debtor": "胡忠和",
+        "creditor": "台中商業銀行松山分行",
+        "amount": 8900000,
+        "date": "113年02月21日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "胡忠和",
+        "creditor": "華南商業銀行營業部",
+        "amount": 5361914,
+        "date": "99年04月29日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

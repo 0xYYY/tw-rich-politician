@@ -1,0 +1,264 @@
+{
+  "name": "羅明才",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 20533712
+    },
+    {
+      "currency": "新加坡幣",
+      "amount": 5238
+    },
+    {
+      "currency": "美元",
+      "amount": 4592136
+    },
+    {
+      "currency": "英鎊",
+      "amount": 190
+    }
+  ],
+  "depositsTotal": 25131277,
+  "insurance": [
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "金豐盛利率變動 型美元終身壽險",
+      "holder": "羅明才",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美晶外 幣利率變動型終 身壽險(美元)",
+      "holder": "羅明才",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "養老壽險",
+      "holder": "黃靜秋",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "養老壽險",
+      "holder": "黃靜秋",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "教育終身壽險",
+      "holder": "黃靜秋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "教育終身壽險",
+      "holder": "黃靜秋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台 新 人 壽 保 險 股份有限公司",
+      "name": "新享富傳家利率 變動型美元終身 壽險",
+      "holder": "黃靜秋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾愛一生 313",
+      "holder": "黃靜秋",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽富利美 外幣利率變動型 終身壽險(美元)",
+      "holder": "黃靜秋",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 100000,
+      "owner": "羅明才",
+      "priceAtDisclosure": null,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 20000,
+      "owner": "羅明才",
+      "priceAtDisclosure": null,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "統一",
+      "cleanName": "統一",
+      "ticker": "1216",
+      "shares": 2945,
+      "owner": "羅明才",
+      "priceAtDisclosure": 88.6,
+      "latestPrice": 72.5
+    },
+    {
+      "name": "統一",
+      "cleanName": "統一",
+      "ticker": "1216",
+      "shares": 1000,
+      "owner": "羅明才",
+      "priceAtDisclosure": 88.6,
+      "latestPrice": 72.5
+    },
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 50000,
+      "owner": "羅明才",
+      "priceAtDisclosure": null,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "華隆",
+      "cleanName": "華隆",
+      "ticker": null,
+      "shares": 56,
+      "owner": "羅明才",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "富邦金丙特",
+      "cleanName": "富邦金丙特",
+      "ticker": "2881",
+      "shares": 1000,
+      "owner": "羅明才",
+      "priceAtDisclosure": 90.4,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 107824,
+      "owner": "羅明才",
+      "priceAtDisclosure": 90.4,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 1176,
+      "owner": "羅明才",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 1058,
+      "owner": "羅明才",
+      "priceAtDisclosure": 38.65,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 88712,
+      "owner": "羅明才",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 6622,
+      "owner": "羅明才",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 3454,
+      "owner": "羅明才",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "長億實業",
+      "cleanName": "長億實業",
+      "ticker": null,
+      "shares": 1118,
+      "owner": "羅明才",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [
+    {
+      "name": "台新策略優選總 回報非投資等級 債券基金 N（美 元）（月配息）（基 金之配息來源可 能為本金）",
+      "owner": "羅明才",
+      "institution": "台 新 國 際 銀 行 新店分行",
+      "units": 10000,
+      "unitValue": 8.6546,
+      "currency": "美元",
+      "declaredValue": 2766875,
+      "source": "fund"
+    },
+    {
+      "name": "摩根環球非投資 等級債 A 美累計",
+      "owner": "羅明才",
+      "institution": "合 庫 商 業 銀 行 信託部",
+      "units": 2.517,
+      "unitValue": 222.34,
+      "currency": "美元",
+      "declaredValue": 17860,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "JPM 中國基金美 元",
+      "owner": "羅明才",
+      "institution": "合 庫 商 業 銀 行 信託部",
+      "units": 277.531,
+      "unitValue": 63.72,
+      "currency": "美元",
+      "declaredValue": 564376,
+      "source": "fund"
+    },
+    {
+      "name": "富坦全球科技基 金美元",
+      "owner": "羅明才",
+      "institution": "合 庫 商 業 銀 行 信託部",
+      "units": 1878.842,
+      "unitValue": 48.66,
+      "currency": "美元",
+      "declaredValue": 2917720,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "1★新北市新店區行政段",
+      "owner": "黃靜秋",
+      "date": "2023-07-24",
+      "effectiveAreaPing": 111.68,
+      "entryCount": 2,
+      "price": "32,500,000 (土地 1 筆、建 物2筆合購價, 含陽台 25.57 平方公尺,花 台5.27平方公 尺)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "張宏陸",
+  "date": "2024-12-26",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "民主進步黨",
+  "deposits": [],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富 貴 保 本 三 福 終身壽險",
+      "holder": "張宏陸",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新 安 本 養 老 保 險",
+      "holder": "王春英",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "優 質 理 財 變 額 萬能壽險",
+      "holder": "王春英",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "美 吉 利 外 幣 利 率 變 動 型 增 額 終身壽險",
+      "holder": "王春英",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市北屯區大仁段",
+      "owner": "王春英",
+      "date": "2024-10-11",
+      "effectiveAreaPing": 78.49,
+      "entryCount": 2,
+      "price": "38,200,000(與 第 3、4、5、6 筆土地及第 2 筆建物合購)"
+    },
+    {
+      "location": "臺中市神岡區岸裡里大豐路",
+      "owner": "張宏陸",
+      "date": "1994-08-10",
+      "effectiveAreaPing": 259.06,
+      "entryCount": 1,
+      "price": "604,300(超過 五年)"
+    }
+  ]
+}

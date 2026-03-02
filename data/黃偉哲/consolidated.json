@@ -1,0 +1,206 @@
+{
+  "name": "黃偉哲",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 942515
+    },
+    {
+      "currency": "澳幣",
+      "amount": 269469
+    },
+    {
+      "currency": "紐西蘭幣",
+      "amount": 0
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 14367471
+    },
+    {
+      "currency": "日圓",
+      "amount": 67023
+    },
+    {
+      "currency": "歐元",
+      "amount": 14389
+    }
+  ],
+  "depositsTotal": 15660872,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "安心保住院醫療 終身保",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 202 終 身",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新守護一生長期 照顧",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新美事年年利變",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂事年年終身保 險",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "樂事年年終身保 險",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美好一 生外幣終身壽險 (美元)",
+      "holder": "黃偉哲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "創世紀丙型",
+      "holder": "劉育菁",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美意年年終身壽 險",
+      "holder": "劉育菁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "劉育菁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾愛終身",
+      "holder": "劉育菁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽喜悅人 生變額壽險",
+      "holder": "劉育菁",
+      "contractType": "投資型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "匯豐成功基金",
+      "owner": "黃偉哲",
+      "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 1000,
+      "unitValue": 52.8,
+      "currency": "",
+      "declaredValue": 52800,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德新興歐洲 基金 A2 歐元",
+      "owner": "黃偉哲",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 10.7,
+      "unitValue": 0.72,
+      "currency": "歐元",
+      "declaredValue": 266,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德新興歐洲 基金 A2 歐元",
+      "owner": "黃偉哲",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 0.86,
+      "unitValue": 0.72,
+      "currency": "歐元",
+      "declaredValue": 21,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市善化區善中段",
+      "owner": "劉育菁",
+      "date": "2015-12-26",
+      "effectiveAreaPing": 76.41,
+      "entryCount": 1,
+      "price": "含陽台 30.78 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺南市善化區善進段",
+      "owner": "劉育菁",
+      "date": "2024-03-07",
+      "effectiveAreaPing": 39.68,
+      "entryCount": 2,
+      "price": "4,462,200(含 陽台 2.3 平方 公尺)"
+    },
+    {
+      "location": "臺南市永康區三村段",
+      "owner": "劉育菁",
+      "date": "2006-05-30",
+      "effectiveAreaPing": 21.03,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "臺南市善化區光華段",
+      "owner": "劉育菁",
+      "date": "2013-02-07",
+      "effectiveAreaPing": 43.94,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺南市善化區善進段",
+      "owner": "劉育菁",
+      "date": "2025-03-06",
+      "effectiveAreaPing": 21.67,
+      "entryCount": 3,
+      "price": null
+    },
+    {
+      "location": "臺南市善化區文正段",
+      "owner": "劉育菁",
+      "date": "2019-05-07",
+      "effectiveAreaPing": 32.89,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺南市善化區光華段",
+      "owner": "劉育菁",
+      "date": "2012-10-05",
+      "effectiveAreaPing": 26.89,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

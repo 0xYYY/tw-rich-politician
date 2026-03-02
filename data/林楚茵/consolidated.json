@@ -1,0 +1,232 @@
+{
+  "name": "林楚茵",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 756962
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 5187627
+    },
+    {
+      "currency": "日圓",
+      "amount": 1372926
+    }
+  ],
+  "depositsTotal": 7317517,
+  "insurance": [
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "六年繳費享利昇增 額終身壽險",
+      "holder": "林楚茵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台新人壽保險 股份有限公司",
+      "name": "年金給付型養老壽 險-利率變動型(不 分紅)",
+      "holder": "林楚茵",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "台新人壽保險 股份有限公司",
+      "name": "終身壽險（107）",
+      "holder": "林楚茵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台新人壽保險 股份有限公司",
+      "name": "新 美 元 終 身 壽 險 (109)",
+      "holder": "林楚茵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "台新人壽保險 股份有限公司",
+      "name": "鑫享人生利率變動 型美元還本終身保 險",
+      "holder": "林楚茵",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "得意還本終身壽險",
+      "holder": "梁文傑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "添福增額終身",
+      "holder": "梁文傑",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富邦人壽保險 股份有限公司",
+      "name": "富邦人壽安康久久 殘廢照護終身壽險",
+      "holder": "梁文傑",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥「交付臺灣銀行信託」",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 2000,
+      "owner": "林楚茵",
+      "priceAtDisclosure": null,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "信錦",
+      "cleanName": "信錦",
+      "ticker": "1582",
+      "shares": 500,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 102,
+      "latestPrice": 72.7
+    },
+    {
+      "name": "宇隆",
+      "cleanName": "宇隆",
+      "ticker": "2233",
+      "shares": 225,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 160.5,
+      "latestPrice": 233.5
+    },
+    {
+      "name": "太子",
+      "cleanName": "太子",
+      "ticker": "2511",
+      "shares": 901,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 10.55,
+      "latestPrice": 8.27
+    },
+    {
+      "name": "和昇",
+      "cleanName": "和昇",
+      "ticker": null,
+      "shares": 12959,
+      "owner": "林楚茵",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "華南金「交付臺灣銀行信 託」",
+      "cleanName": "華南金",
+      "ticker": "2880",
+      "shares": 6266,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 38.1
+    },
+    {
+      "name": "威健",
+      "cleanName": "威健",
+      "ticker": "3033",
+      "shares": 97,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 35.05,
+      "latestPrice": 31.85
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 765,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 89,
+      "latestPrice": 92
+    },
+    {
+      "name": "合庫金「交付臺灣銀行信 託」",
+      "cleanName": "合庫金",
+      "ticker": "5880",
+      "shares": 8306,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 24
+    },
+    {
+      "name": "富旺",
+      "cleanName": "富旺",
+      "ticker": "6219",
+      "shares": 42,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 37,
+      "latestPrice": 16.8
+    },
+    {
+      "name": "中華電信「交付臺灣銀行信 託」",
+      "cleanName": "中華電信",
+      "ticker": "2412",
+      "shares": 3000,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 122,
+      "latestPrice": 134
+    },
+    {
+      "name": "中鼎工程「交付臺灣銀行信 託」",
+      "cleanName": "中鼎工程",
+      "ticker": "9933",
+      "shares": 8000,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 44.1,
+      "latestPrice": 31.3
+    },
+    {
+      "name": "康聯訊科技股份有限公司 「交付臺灣銀行信託」",
+      "cleanName": "康聯訊科技股份有限公司",
+      "ticker": "6830",
+      "shares": 1180,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 200,
+      "latestPrice": 285
+    },
+    {
+      "name": "第一金融控股股份有限公 司「交付臺灣銀行信託」",
+      "cleanName": "第一金融控股股份有限公 司",
+      "ticker": "2892",
+      "shares": 15741,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "智基「交付臺灣銀行信託」",
+      "cleanName": "智基",
+      "ticker": "6294",
+      "shares": 2650,
+      "owner": "林楚茵",
+      "priceAtDisclosure": 96.5,
+      "latestPrice": 43.3
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "國泰台灣 5G+",
+      "owner": "林楚茵",
+      "institution": "富 邦 證 券 台 北 分公司",
+      "units": 10000,
+      "unitValue": 24.32,
+      "currency": "",
+      "declaredValue": 243200,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "owner": "梁文傑",
+      "date": "2022-09-26",
+      "effectiveAreaPing": 89.58,
+      "entryCount": 6,
+      "price": "51,000,000(房 地總價額)"
+    }
+  ]
+}

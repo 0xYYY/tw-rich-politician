@@ -1,0 +1,675 @@
+{
+  "name": "鄭天財",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王慧玲"
+    }
+  ],
+  "land": [
+    {
+      "location": "花蓮縣玉里鎮德武段",
+      "area": 1062.22,
+      "share": "全部",
+      "owner": "鄭天財",
+      "date": "93年09月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉青蓮段",
+      "area": 2706.27,
+      "share": "全部",
+      "owner": "鄭天財",
+      "date": "95年05月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉青蓮段",
+      "area": 3312.42,
+      "share": "全部",
+      "owner": "鄭天財",
+      "date": "95年05月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉瑞良段",
+      "area": 1633,
+      "share": "全部",
+      "owner": "鄭天財",
+      "date": "88年04月12日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉瑞良段",
+      "area": 4834,
+      "share": "9 分之 4",
+      "owner": "鄭天財",
+      "date": "95年05月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉瑞良段",
+      "area": 2021,
+      "share": "9 分之 4",
+      "owner": "鄭天財",
+      "date": "95年05月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區辛亥段三小段",
+      "area": 418,
+      "share": "10000 分之 585",
+      "owner": "鄭天財",
+      "date": "88年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區通化段二小段",
+      "area": 225,
+      "share": "16 分之 1",
+      "owner": "鄭天財",
+      "date": "98年03月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區通化段二小段",
+      "area": 225,
+      "share": "16 分之 1",
+      "owner": "王慧玲",
+      "date": "98年03月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺東縣東河鄉北八里段",
+      "area": 1522.55,
+      "share": "4 分之 3",
+      "owner": "王慧玲",
+      "date": "111年10月05日",
+      "reason": "分割繼承",
+      "price": "833,596.13"
+    },
+    {
+      "location": "臺東縣東河鄉北八里段",
+      "area": 311.36,
+      "share": "4 分之 3",
+      "owner": "王慧玲",
+      "date": "111年10月05日",
+      "reason": "分割繼承",
+      "price": "170,496.6"
+    },
+    {
+      "location": "臺東縣東河鄉南八里段",
+      "area": 41.59,
+      "share": "全部",
+      "owner": "王慧玲",
+      "date": "111年11月29日",
+      "reason": "權利取得",
+      "price": "103,975"
+    },
+    {
+      "location": "臺東縣臺東市富岡南段",
+      "area": 699.76,
+      "share": "4 分之 1",
+      "owner": "王慧玲",
+      "date": "103年04月07日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區辛亥段三小段",
+      "area": 97.6,
+      "share": "全部",
+      "owner": "鄭天財",
+      "date": "88年05月14日",
+      "reason": "買賣",
+      "price": "含陽台9.75平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市大安區辛亥段三小段",
+      "area": 97.73,
+      "share": "10000 分之 624",
+      "owner": "鄭天財",
+      "date": "88年05月14日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大安區通化段二小段",
+      "area": 83.02,
+      "share": "2 分之 1",
+      "owner": "鄭天財",
+      "date": "98年03月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區通化段二小段",
+      "area": 83.02,
+      "share": "2 分之 1",
+      "owner": "王慧玲",
+      "date": "98年03月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺東縣臺東市富岡南段",
+      "area": 139.81,
+      "share": "4 分之 1",
+      "owner": "王慧玲",
+      "date": "103年04月07日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣瑞穗鄉瑞良村中山路",
+      "area": 33.7,
+      "share": "全部",
+      "owner": "鄭天財",
+      "date": "110年07月16日",
+      "reason": "贈與",
+      "price": "800"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1998,
+      "owner": "鄭天財",
+      "date": "102年04月16日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 31317439,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 800000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 600000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 600000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 600000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 5340833
+      },
+      {
+        "institution": "合庫商業銀行西門分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 43
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 388
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 1719121
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "鄭天財",
+        "foreignAmount": 0,
+        "amount": 271109
+      },
+      {
+        "institution": "合庫商業銀行台南分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 753630
+      },
+      {
+        "institution": "合庫商業銀行新莊分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "王慧玲",
+        "foreignAmount": 11984,
+        "amount": 383075
+      },
+      {
+        "institution": "合庫商業銀行新莊分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 686978
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 1195850
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 1071366
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 1068085
+      },
+      {
+        "institution": "中華郵政",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 58309
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 5053719
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王慧玲",
+        "foreignAmount": 0,
+        "amount": 714933
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1320000,
+    "items": [
+      {
+        "name": "藍天",
+        "owner": "王慧玲",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "大同",
+        "owner": "王慧玲",
+        "shares": 26000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 260000
+      },
+      {
+        "name": "新光金",
+        "owner": "王慧玲",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "單井",
+        "owner": "王慧玲",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "御嵿",
+        "owner": "王慧玲",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "安可",
+        "owner": "王慧玲",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "正文",
+        "owner": "王慧玲",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "陞泰",
+        "owner": "王慧玲",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      },
+      {
+        "name": "伍豐",
+        "owner": "王慧玲",
+        "shares": 7000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 70000
+      },
+      {
+        "name": "智捷",
+        "owner": "王慧玲",
+        "shares": 7000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 70000
+      },
+      {
+        "name": "成霖",
+        "owner": "王慧玲",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "鄭天財",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 03 月 04 日/141 年 03 月 03 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "真心守護長期照 顧",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "鄭天財",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 12 月 09 日/144 年 12 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新安家保本定期 保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "鄭天財",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 08 月 31 日/121 年 08 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "中 華 郵 政 股 份 有限公司",
+        "name": "郵政簡易人壽常 春增額還本保險 〈10 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王慧玲",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 05 月 09 日/125 年 05 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "中 華 郵 政 股 份 有限公司",
+        "name": "郵政簡易人壽常 春增額還本保險 〈6 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王慧玲",
+        "contractType": "儲蓄型壽險",
+        "period": "103 年 02 月 12 日/126 年 02 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰雙星報喜還 本終身壽險（繳 費 20 年）",
+        "policyNumber": "○○○○○○○ ○○801",
+        "holder": "王慧玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 18 日/187 年 12 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰雙星報喜還 本終身壽險（繳 費 20 年）",
+        "policyNumber": "○○○○○○○ ○○201",
+        "holder": "王慧玲",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 12 月 18 日/182 年 12 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美利大 順外幣利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "王慧玲",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 30 日/158 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽新長榮 還本終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "王慧玲",
+        "contractType": "儲蓄型壽險",
+        "period": "80 年 04 月 20 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 3050000,
+    "items": [
+      {
+        "type": "一般借款",
+        "creditor": "鄭天財",
+        "debtor": "陳○鳳 臺中市太平區振武路",
+        "amount": 300000,
+        "date": "109年10月15日",
+        "reason": "借據"
+      },
+      {
+        "type": "一般借款",
+        "creditor": "鄭天財",
+        "debtor": "陳○民 南投縣草屯鎮民生路",
+        "amount": 2000000,
+        "date": "95年02月25日",
+        "reason": "南投地方法 院支付命令"
+      },
+      {
+        "type": "一般借款",
+        "creditor": "王慧玲",
+        "debtor": "王○美 臺南市北區北園街",
+        "amount": 750000,
+        "date": "108年11月13日",
+        "reason": "親戚借款"
+      }
+    ]
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

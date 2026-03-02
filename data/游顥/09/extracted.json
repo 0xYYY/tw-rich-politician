@@ -1,0 +1,139 @@
+{
+  "name": "游顥",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃姿倩"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "彰銀",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 4,
+        "pricePerShare": "17.90",
+        "changeDate": "113年09月19日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 71
+      },
+      {
+        "name": "麗嬰房舊",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 120,
+        "pricePerShare": "6.23",
+        "changeDate": "113年03月04日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 747
+      },
+      {
+        "name": "麗嬰房舊",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 120,
+        "pricePerShare": "8.16",
+        "changeDate": "113年03月11日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 979
+      },
+      {
+        "name": "麗嬰房舊",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 86,
+        "pricePerShare": "7.20",
+        "changeDate": "113年09月02日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 619
+      },
+      {
+        "name": "麗嬰房舊",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 86,
+        "pricePerShare": "8.98",
+        "changeDate": "113年09月09日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 772
+      },
+      {
+        "name": "麗嬰房",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 120,
+        "pricePerShare": "6.23",
+        "changeDate": "113年03月04日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 747
+      },
+      {
+        "name": "麗嬰房",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 86,
+        "pricePerShare": "8.16",
+        "changeDate": "113年03月11日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 701
+      },
+      {
+        "name": "麗嬰房",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 86,
+        "pricePerShare": "7.20",
+        "changeDate": "113年09月02日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 619
+      },
+      {
+        "name": "麗嬰房",
+        "broker": "凱基證券站前分公 司",
+        "owner": "游顥",
+        "shares": 64,
+        "pricePerShare": "8.98",
+        "changeDate": "113年09月09日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 574
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

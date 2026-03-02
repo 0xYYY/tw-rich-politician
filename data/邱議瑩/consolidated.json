@@ -1,0 +1,285 @@
+{
+  "name": "邱議瑩",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 71277
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 15728196
+    },
+    {
+      "currency": "日圓",
+      "amount": 857112
+    },
+    {
+      "currency": "加拿大幣",
+      "amount": 675272
+    },
+    {
+      "currency": "英鎊",
+      "amount": 8118
+    },
+    {
+      "currency": "澳幣",
+      "amount": 154602
+    }
+  ],
+  "depositsTotal": 17494580,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "得意還本終身壽 險",
+      "holder": "邱議瑩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴年年終身壽 險",
+      "holder": "邱議瑩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "雙好還本終身",
+      "holder": "邱議瑩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "雙星還本終身",
+      "holder": "邱議瑩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽多利年 年利率變動型年 金保險【甲型】",
+      "holder": "邱議瑩",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽鑫利年 年利率變動型年 金保險【乙型】",
+      "holder": "邱議瑩",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金豐華 利率變動型養老 保險",
+      "holder": "李永得",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美利富 貴外幣利率變動 型終身壽險",
+      "holder": "李永得",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽歲歲長 泰還本終身壽險",
+      "holder": "李永得",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台達電",
+      "cleanName": "台達電",
+      "ticker": "2308",
+      "shares": 10000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 1000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "華通",
+      "cleanName": "華通",
+      "ticker": "2313",
+      "shares": 5000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 63.1,
+      "latestPrice": 204.5
+    },
+    {
+      "name": "楠梓電",
+      "cleanName": "楠梓電",
+      "ticker": "2316",
+      "shares": 10000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 50.6,
+      "latestPrice": 112.5
+    },
+    {
+      "name": "精英",
+      "cleanName": "精英",
+      "ticker": "2331",
+      "shares": 10000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 24.7,
+      "latestPrice": 27.6
+    },
+    {
+      "name": "京鼎",
+      "cleanName": "京鼎",
+      "ticker": "3413",
+      "shares": 3000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 348.5,
+      "latestPrice": 316
+    },
+    {
+      "name": "世芯-KY",
+      "cleanName": "世芯-KY",
+      "ticker": "3661",
+      "shares": 1000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 2030,
+      "latestPrice": 3490
+    },
+    {
+      "name": "寶華",
+      "cleanName": "寶華",
+      "ticker": null,
+      "shares": 195,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "金橋",
+      "cleanName": "金橋",
+      "ticker": "6133",
+      "shares": 79000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 25.6,
+      "latestPrice": 24.65
+    },
+    {
+      "name": "達發",
+      "cleanName": "達發",
+      "ticker": "6526",
+      "shares": 4000,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": 631,
+      "latestPrice": 517
+    },
+    {
+      "name": "中興商銀",
+      "cleanName": "中興商銀",
+      "ticker": null,
+      "shares": 117,
+      "owner": "邱議瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [
+    {
+      "name": "國泰投資級公司 債",
+      "owner": "邱議瑩",
+      "institution": "元 大 證 券 經 紀 部",
+      "units": 2000,
+      "unitValue": 36.7042,
+      "currency": "",
+      "declaredValue": 73408,
+      "source": "fund"
+    },
+    {
+      "name": "元大 AAA 至 A 公 司債",
+      "owner": "邱議瑩",
+      "institution": "元 大 證 券 經 紀 部",
+      "units": 7000,
+      "unitValue": 33.7341,
+      "currency": "",
+      "declaredValue": 236138,
+      "source": "fund"
+    },
+    {
+      "name": "國泰 A 級公司債",
+      "owner": "邱議瑩",
+      "institution": "元 大 證 券 經 紀 部",
+      "units": 7000,
+      "unitValue": 36.3786,
+      "currency": "",
+      "declaredValue": 254650,
+      "source": "fund"
+    },
+    {
+      "name": "群益 ESG 投等債 20+",
+      "owner": "邱議瑩",
+      "institution": "國 泰 綜 合 證 券 敦南二分公司",
+      "units": 50000,
+      "unitValue": 15.5788,
+      "currency": "",
+      "declaredValue": 778940,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "元大台灣 50",
+      "owner": "邱議瑩",
+      "institution": "元 大 證 券 經 紀 部",
+      "units": 1000,
+      "unitValue": 190.5,
+      "currency": "",
+      "declaredValue": 190500,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50 反 1",
+      "owner": "邱議瑩",
+      "institution": "國 泰 綜 合 證 券 敦南二分公司",
+      "units": 100000,
+      "unitValue": 3.33,
+      "currency": "",
+      "declaredValue": 333000,
+      "source": "fund"
+    },
+    {
+      "name": "凱基台灣 AI50",
+      "owner": "邱議瑩",
+      "institution": "國 泰 綜 合 證 券 敦南二分公司",
+      "units": 10000,
+      "unitValue": 9.78,
+      "currency": "",
+      "declaredValue": 97800,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台灣半導體",
+      "owner": "邱議瑩",
+      "institution": "富 邦 綜 合 證 券 南京分公司",
+      "units": 60000,
+      "unitValue": 17.47,
+      "currency": "",
+      "declaredValue": 1048200,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市鳥松區育才段",
+      "owner": "邱議瑩",
+      "date": "2020-07-31",
+      "effectiveAreaPing": 108.1,
+      "entryCount": 2,
+      "price": "30,000,000 (合購第1筆土 地，含陽台 20.35 平方公 尺,雨遮 18.04 平方公尺)"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "name": "許宇甄",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 16212766
+    },
+    {
+      "currency": "日圓",
+      "amount": 16561233
+    },
+    {
+      "currency": "美元",
+      "amount": 459346
+    },
+    {
+      "currency": "人民幣",
+      "amount": 142983
+    },
+    {
+      "currency": "南非幣",
+      "amount": 66095
+    },
+    {
+      "currency": "歐元",
+      "amount": 0
+    }
+  ],
+  "depositsTotal": 33442428,
+  "insurance": [
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "元大人壽真安心 保本防癌保險",
+      "holder": "許宇甄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "紐約人壽安心保 本防癌保險",
+      "holder": "許宇甄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰喬壽還本終 身壽險（繳費 20 年）",
+      "holder": "許宇甄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽福氣久 久失能照護終身 壽險",
+      "holder": "許宇甄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "許宇甄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平準 終身壽險",
+      "holder": "林啟滄",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 100,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 51.9,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "仁寶",
+      "cleanName": "仁寶",
+      "ticker": "2324",
+      "shares": 3032,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 37,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 1000,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 122.5,
+      "latestPrice": 134
+    },
+    {
+      "name": "啟阜工程",
+      "cleanName": "啟阜工程",
+      "ticker": null,
+      "shares": 24500,
+      "owner": "許宇甄",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "啟阜工程",
+      "cleanName": "啟阜工程",
+      "ticker": null,
+      "shares": 3500,
+      "owner": "許宇甄",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "工礦",
+      "cleanName": "工礦",
+      "ticker": null,
+      "shares": 517,
+      "owner": "許宇甄",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "艾姆勒",
+      "cleanName": "艾姆勒",
+      "ticker": "2241",
+      "shares": 60017,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 38.7,
+      "latestPrice": 29.1
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 70,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 45.85,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "鴻運電",
+      "cleanName": "鴻運電",
+      "ticker": null,
+      "shares": 840,
+      "owner": "許宇甄",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "宏達電",
+      "cleanName": "宏達電",
+      "ticker": "2498",
+      "shares": 10000,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 45.15,
+      "latestPrice": 45.4
+    },
+    {
+      "name": "啟阜工程",
+      "cleanName": "啟阜工程",
+      "ticker": null,
+      "shares": 3500,
+      "owner": "許宇甄",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 25000,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 166.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 30000,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 46.5,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 110000,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 8.38,
+      "latestPrice": null
+    },
+    {
+      "name": "大國鋼",
+      "cleanName": "大國鋼",
+      "ticker": "8415",
+      "shares": 16000,
+      "owner": "許宇甄",
+      "priceAtDisclosure": 33.55,
+      "latestPrice": 33.8
+    }
+  ],
+  "bonds": [
+    {
+      "name": "NB 非投等債券基 金月配美元",
+      "owner": "許宇甄",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 558.21,
+      "unitValue": 5.99,
+      "currency": "美元",
+      "declaredValue": 105469,
+      "source": "fund"
+    },
+    {
+      "name": "NB 非投等債券基 金月配美元",
+      "owner": "許宇甄",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 558.21,
+      "unitValue": 5.99,
+      "currency": "美元",
+      "declaredValue": 105469,
+      "source": "fund"
+    },
+    {
+      "name": "NB 非投等債券基 金月配美元",
+      "owner": "許宇甄",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 558.21,
+      "unitValue": 5.99,
+      "currency": "美元",
+      "declaredValue": 105469,
+      "source": "fund"
+    },
+    {
+      "name": "NB 非投等債券基 金月配美元",
+      "owner": "許宇甄",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 558.21,
+      "unitValue": 5.99,
+      "currency": "美元",
+      "declaredValue": 105469,
+      "source": "fund"
+    },
+    {
+      "name": "NB 非投等債券基 金月配南非幣",
+      "owner": "許宇甄",
+      "institution": "元 大 銀 行 信 託 部",
+      "units": 538.442,
+      "unitValue": 59.21,
+      "currency": "南非幣",
+      "declaredValue": 51908,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "霸菱全球資源基 金（再投資）（美 元）",
+      "owner": "許宇甄",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 328.256,
+      "unitValue": 24.07,
+      "currency": "美元",
+      "declaredValue": 249564,
+      "source": "fund"
+    },
+    {
+      "name": "法巴消費創新股 票基金（累積） （美元）",
+      "owner": "許宇甄",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 22.442,
+      "unitValue": 334.73,
+      "currency": "美元",
+      "declaredValue": 237274,
+      "source": "fund"
+    },
+    {
+      "name": "施羅德新興亞洲 A1",
+      "owner": "許宇甄",
+      "institution": "台 北 富 邦 銀 行 景美分行",
+      "units": 231.38,
+      "unitValue": 42.2087,
+      "currency": "美元",
+      "declaredValue": 308140,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界黃金 基金",
+      "owner": "許宇甄",
+      "institution": "台 北 富 邦 銀 行 景美分行",
+      "units": 78.74,
+      "unitValue": 33.04,
+      "currency": "美元",
+      "declaredValue": 82083,
+      "source": "fund"
+    },
+    {
+      "name": "貝萊德世界礦業 美元",
+      "owner": "許宇甄",
+      "institution": "台 北 富 邦 銀 行 景美分行",
+      "units": 519.5,
+      "unitValue": 58.91,
+      "currency": "美元",
+      "declaredValue": 965594,
+      "source": "fund"
+    },
+    {
+      "name": "匯豐龍騰電子",
+      "owner": "許宇甄",
+      "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 4359.9,
+      "unitValue": 87.31,
+      "currency": "",
+      "declaredValue": 380662,
+      "source": "fund"
+    },
+    {
+      "name": "匯豐金磚動力",
+      "owner": "許宇甄",
+      "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 38565,
+      "unitValue": 12.63,
+      "currency": "",
+      "declaredValue": 487075,
+      "source": "fund"
+    },
+    {
+      "name": "匯豐全球關鍵",
+      "owner": "許宇甄",
+      "institution": "匯 豐 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 45591.6,
+      "unitValue": 9.66,
+      "currency": "",
+      "declaredValue": 440414,
+      "source": "fund"
+    },
+    {
+      "name": "匯豐龍騰電子基 金",
+      "owner": "許宇甄",
+      "institution": "臺 灣 銀 行 文 山 分行",
+      "units": 11803.8,
+      "unitValue": 87.31,
+      "currency": "",
+      "declaredValue": 1030589,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣斗六市大潭段大潭小段",
+      "owner": "許宇甄",
+      "date": "2004-01-30",
+      "effectiveAreaPing": 59.7,
+      "entryCount": 1,
+      "price": "含陽台 16.85 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市大同區文昌段一小段",
+      "owner": "許宇甄",
+      "date": "2023-03-22",
+      "effectiveAreaPing": 48.37,
+      "entryCount": 4,
+      "price": "288,250 (共同使用部 分，主建物建 號:○○○○ ○。112 年房屋 評定現值 576,500，持分 1/2。)"
+    },
+    {
+      "location": "臺北市文山區景美段四小段",
+      "owner": "許宇甄",
+      "date": "2010-10-07",
+      "effectiveAreaPing": 54.3,
+      "entryCount": 3,
+      "price": "含陽台 11.66 平方公尺,花 台2.24平方公 尺,見使用執 照0.36平方公 尺(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮大學段",
+      "owner": "林啟滄",
+      "date": "2013-06-19",
+      "effectiveAreaPing": 117.37,
+      "entryCount": 1,
+      "price": "含見其他登記 事項 54.44 平 方公尺(超過 五年)"
+    }
+  ]
+}

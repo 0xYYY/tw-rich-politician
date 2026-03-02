@@ -1,0 +1,716 @@
+{
+  "name": "林俊憲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "高婕寧"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○僾"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○秦"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市安平區金城段",
+      "area": 88,
+      "share": "全部",
+      "owner": "高婕寧",
+      "date": "113年04月10日",
+      "reason": "買賣",
+      "price": "6,400,000"
+    },
+    {
+      "location": "臺南市安平區新南段",
+      "area": 4921,
+      "share": "10000 分之 103",
+      "owner": "高婕寧",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "15,440,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市安平區金城段",
+      "area": 229.86,
+      "share": "全部",
+      "owner": "高婕寧",
+      "date": "113年04月10日",
+      "reason": "買賣",
+      "price": "17,600,000(含 陽台 42.44 平 方公尺,見其他 登記事項 3.5 平方公尺)"
+    },
+    {
+      "location": "臺南市安平區新南段",
+      "area": 324.8,
+      "share": "全部",
+      "owner": "高婕寧",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "6,967,600(含 陽台 45.75 平 方公尺)"
+    },
+    {
+      "location": "臺南市安平區新南段",
+      "area": 16155.23,
+      "share": "100000 分 之 910",
+      "owner": "高婕寧",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "2,764,300(共 同使用部分)"
+    },
+    {
+      "location": "臺南市安平區新南段",
+      "area": 3102.64,
+      "share": "46 分之 1",
+      "owner": "高婕寧",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "1,268,200(共 同使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "volvo",
+      "cc": 1969,
+      "owner": "高婕寧",
+      "date": "109年01月20日",
+      "reason": "買賣",
+      "price": 1600000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 12983762,
+    "items": [
+      {
+        "institution": "臺灣銀行臺南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "臺灣銀行六甲頂分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 3488
+      },
+      {
+        "institution": "臺灣銀行六甲頂分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 86278
+      },
+      {
+        "institution": "臺灣銀行六甲頂分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "林俊憲",
+        "foreignAmount": 469,
+        "amount": 15017
+      },
+      {
+        "institution": "臺灣銀行六甲頂分行",
+        "type": "綜合存款",
+        "currency": "人民幣",
+        "owner": "林俊憲",
+        "foreignAmount": 2,
+        "amount": 12
+      },
+      {
+        "institution": "合庫商業銀行府城分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲 (台南市體育 會漆彈運動委 員會林俊憲)",
+        "foreignAmount": 0,
+        "amount": 33
+      },
+      {
+        "institution": "陽信銀行中華分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 340459
+      },
+      {
+        "institution": "陽信銀行健康分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 1761519
+      },
+      {
+        "institution": "玉山銀行台南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 573
+      },
+      {
+        "institution": "中信銀行西台南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 26092
+      },
+      {
+        "institution": "中信銀行中台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林俊憲",
+        "foreignAmount": 0,
+        "amount": 47
+      },
+      {
+        "institution": "第一銀行金城分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "國泰世華銀行台南分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "高婕寧",
+        "foreignAmount": 43,
+        "amount": 1413
+      },
+      {
+        "institution": "國泰世華銀行東台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 10967
+      },
+      {
+        "institution": "陽信銀行台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 214
+      },
+      {
+        "institution": "台南第三信用合作社營業 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 271
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 338671
+      },
+      {
+        "institution": "遠東國際銀行崇德分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 21
+      },
+      {
+        "institution": "元大銀行金華分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 1872110
+      },
+      {
+        "institution": "元大銀行金華分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 902964
+      },
+      {
+        "institution": "元大銀行石牌分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 9
+      },
+      {
+        "institution": "台新國際銀行佳里分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "高婕寧",
+        "foreignAmount": 83102,
+        "amount": 2656774
+      },
+      {
+        "institution": "台新國際銀行佳里分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "高婕寧",
+        "foreignAmount": 43000,
+        "amount": 1374710
+      },
+      {
+        "institution": "台新國際銀行佳里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 630731
+      },
+      {
+        "institution": "中信銀行西台南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 88944
+      },
+      {
+        "institution": "中信銀行南台南分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "中信銀行南台南分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "中信銀行南台南分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 400000
+      },
+      {
+        "institution": "中信銀行南台南分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "中信銀行南台南分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "高婕寧",
+        "foreignAmount": 0,
+        "amount": 300000
+      },
+      {
+        "institution": "中信銀行南台南分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "高婕寧",
+        "foreignAmount": 1991,
+        "amount": 64693
+      },
+      {
+        "institution": "台新國際銀行佳里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林○僾",
+        "foreignAmount": 0,
+        "amount": 403814
+      },
+      {
+        "institution": "台新國際銀行佳里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林○秦",
+        "foreignAmount": 0,
+        "amount": 403814
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2370170,
+    "items": [
+      {
+        "name": "泰山",
+        "owner": "林俊憲",
+        "shares": 2206,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22060
+      },
+      {
+        "name": "可成",
+        "owner": "林俊憲",
+        "shares": 121,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1210
+      },
+      {
+        "name": "兆赫",
+        "owner": "林俊憲",
+        "shares": 89,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 890
+      },
+      {
+        "name": "凱基金",
+        "owner": "林俊憲",
+        "shares": 331,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3310
+      },
+      {
+        "name": "中纖",
+        "owner": "高婕寧",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "冠軍",
+        "owner": "高婕寧",
+        "shares": 9000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 90000
+      },
+      {
+        "name": "聯電",
+        "owner": "高婕寧",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "廣宇",
+        "owner": "高婕寧",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "凱美",
+        "owner": "高婕寧",
+        "shares": 24000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 240000
+      },
+      {
+        "name": "中華電",
+        "owner": "高婕寧",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "佳凌",
+        "owner": "高婕寧",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "環拓",
+        "owner": "高婕寧",
+        "shares": 165000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1650000
+      },
+      {
+        "name": "SEA LTD-ADR",
+        "owner": "高婕寧",
+        "shares": 100,
+        "faceValue": 10,
+        "foreignCurrency": "美元",
+        "totalValue": 32700
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "貝萊德世界科技 基金(累積)(美 元)",
+        "owner": "高婕寧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 117.27,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 335243
+      },
+      {
+        "name": "富達永續發展亞 洲股票基金(再 投資)(美元)",
+        "owner": "高婕寧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 445.76,
+        "unitValue": 10.83,
+        "foreignCurrency": "美元",
+        "totalValue": 154284
+      },
+      {
+        "name": "群益潛力收益多 重資產基金 N(累 積)(新台幣)(後 收)",
+        "owner": "高婕寧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 54463.2,
+        "unitValue": 12.6152,
+        "foreignCurrency": "",
+        "totalValue": 687064
+      },
+      {
+        "name": "群益潛力收益多 重資產基金 N(累 積)(新台幣)(後 收)",
+        "owner": "高婕寧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 8387.1,
+        "unitValue": 12.6152,
+        "foreignCurrency": "",
+        "totalValue": 105804
+      },
+      {
+        "name": "元大全球 ETF 成 長組合基金(累 積)(新台幣)",
+        "owner": "高婕寧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 31786.3,
+        "unitValue": 14.96,
+        "foreignCurrency": "",
+        "totalValue": 475523
+      },
+      {
+        "name": "富蘭克林華美 AI 新科技基金(累 積)(新台幣)",
+        "owner": "高婕寧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 2804.1,
+        "unitValue": 14.93,
+        "foreignCurrency": "",
+        "totalValue": 41865
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽長期看 護終身保險",
+        "policyNumber": "",
+        "holder": "林俊憲",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 07 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 202 終 身",
+        "policyNumber": "",
+        "holder": "林俊憲",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 12 月 18 日/152 年 12 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月有利外幣變 額年金",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "年金型保險",
+        "period": "107 年 03 月 01 日/170 年 02 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "月月有利變額壽 險",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "投資型壽險",
+        "period": "107 年 11 月 08 日/204 年 11 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "守護一生長期看 護",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 08 月 26 日/169 年 08 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美盛美元",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 06 月 25 日/180 年 06 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "超安心住院醫療 終身",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 13 日/205 年 07 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "超安心住院醫療 終身",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 05 月 24 日/207 年 05 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新真安順手術醫 療終身",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 13 日/205 年 07 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新真安順手術醫 療終身",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 05 月 24 日/207 年 05 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾心呵護重大傷 病定期",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 05 月 24 日/193 年 05 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾幸福特定傷病 終身保",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 13 日/205 年 07 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽百利人 生變額壽險",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "投資型壽險",
+        "period": "99 年 01 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽金美多 多外幣終身保險 （美元）",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽金美好 美元利率變動型 終身壽險－定期 給付型",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 10 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽美利一 生外幣利率變動 型終身壽險 (美 元)",
+        "policyNumber": "",
+        "holder": "高婕寧",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 07 月 17 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 25264969,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林俊憲",
+        "creditor": "臺灣銀行六甲頂分行 台南市永康區中正南路",
+        "amount": 4995333,
+        "date": "101年09月19日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "高婕寧",
+        "creditor": "台新國際商業銀行苓雅分行 高雄市前鎮區中山二路",
+        "amount": 14879856,
+        "date": "113年04月12日",
+        "reason": "自用住宅房 屋貸款"
+      },
+      {
+        "type": "授信",
+        "debtor": "高婕寧",
+        "creditor": "台新國際商業銀行苓雅分行 高雄市前鎮區中山二路",
+        "amount": 5389780,
+        "date": "109年07月24日",
+        "reason": "自用住宅房 屋貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

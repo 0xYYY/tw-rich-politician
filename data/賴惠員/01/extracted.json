@@ -1,0 +1,300 @@
+{
+  "name": "賴惠員",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月30日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "張志仁"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺南市後壁區下茄苳段",
+      "area": 2300,
+      "share": "全部",
+      "owner": "賴惠員",
+      "date": "86年06月30日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市新營區大同段",
+      "area": 151,
+      "share": "全部",
+      "owner": "張志仁",
+      "date": "80年06月29日",
+      "reason": "買",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市後壁區頭前段",
+      "area": 78,
+      "share": "全部",
+      "owner": "張志仁",
+      "date": "69年01月08日",
+      "reason": "買",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市後壁區頭前段",
+      "area": 20,
+      "share": "全部",
+      "owner": "張志仁",
+      "date": "75年04月25日",
+      "reason": "買",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市東區竹篙厝段",
+      "area": 15285,
+      "share": "100000 分 之 383",
+      "owner": "賴惠員",
+      "date": "105年06月27日",
+      "reason": "買",
+      "price": "15,770,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市新營區大同段(四層樓)",
+      "area": 341,
+      "share": "全部",
+      "owner": "張志仁",
+      "date": "82年01月30日",
+      "reason": "自建",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市後壁區頭前段(二層樓)",
+      "area": 112,
+      "share": "全部",
+      "owner": "張志仁",
+      "date": "68年08月01日",
+      "reason": "買",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市東區竹篙厝段",
+      "area": 238.07,
+      "share": "全部",
+      "owner": "賴惠員",
+      "date": "105年06月27日",
+      "reason": "買",
+      "price": "20,880,000"
+    },
+    {
+      "location": "臺南市東區竹篙厝段(車位)",
+      "area": 9331.15,
+      "share": "100000 分 之 415",
+      "owner": "賴惠員",
+      "date": "105年06月27日",
+      "reason": "買",
+      "price": "1,150,000"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW 735 IAL",
+      "cc": 3600,
+      "owner": "賴惠員",
+      "date": "94年11月",
+      "reason": "買",
+      "price": 0
+    },
+    {
+      "brand": "Lexus IS 250",
+      "cc": 2500,
+      "owner": "賴惠員",
+      "date": "95年12月",
+      "reason": "買",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 606000,
+    "items": [
+      {
+        "name": "磐儀",
+        "owner": "賴惠員",
+        "shares": 37000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 370000
+      },
+      {
+        "name": "前鼎",
+        "owner": "賴惠員",
+        "shares": 4000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40000
+      },
+      {
+        "name": "天鈺",
+        "owner": "賴惠員",
+        "shares": 2600,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 26000
+      },
+      {
+        "name": "十銓",
+        "owner": "賴惠員",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      },
+      {
+        "name": "北基",
+        "owner": "賴惠員",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽",
+        "name": "富貴年年終身壽 險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "張志仁",
+        "contractType": "儲蓄年金",
+        "period": "82 年 01 月 19 日/97 年 01 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "傳家寶終身還本",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張志仁",
+        "contractType": "儲蓄年金",
+        "period": "87 年 05 月 26 日/107 年 05 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "金寶貝終身還本",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張志仁",
+        "contractType": "儲蓄年金",
+        "period": "87 年 05 月 26 日/108 年 05 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽",
+        "name": "傳家寶終身還本",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "張志仁",
+        "contractType": "儲蓄年金",
+        "period": "87 年 04 月 14 日/97 年 04 月 13 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 55450254,
+    "items": [
+      {
+        "type": "土地貸款",
+        "debtor": "賴惠員",
+        "creditor": "合作金庫商業銀行北新營分 行 臺南市新營區民治路",
+        "amount": 961142,
+        "date": "105年5月",
+        "reason": "買房"
+      },
+      {
+        "type": "土地貸款(增貸)",
+        "debtor": "賴惠員",
+        "creditor": "合作金庫商業銀行北新營分 行 臺南市新營區民治路",
+        "amount": 2870258,
+        "date": "113年07月01日",
+        "reason": "投資"
+      },
+      {
+        "type": "信貸",
+        "debtor": "張志仁",
+        "creditor": "合作金庫商業銀行北新營分 行 臺南市新營區民治路",
+        "amount": 3000000,
+        "date": "113年11月06日",
+        "reason": "投資"
+      },
+      {
+        "type": "房貸",
+        "debtor": "張志仁",
+        "creditor": "全國農業金庫台南分行 臺南市公園北路",
+        "amount": 24749279,
+        "date": "108年6月",
+        "reason": "投資"
+      },
+      {
+        "type": "房貸(增貸)",
+        "debtor": "張志仁",
+        "creditor": "全國農業金庫台南分行 臺南市公園北路",
+        "amount": 7660000,
+        "date": "109年6月",
+        "reason": "投資"
+      },
+      {
+        "type": "房貸(轉貸)",
+        "debtor": "張志仁",
+        "creditor": "全國農業金庫台南分行 臺南市公園北路",
+        "amount": 10577902,
+        "date": "110年1月",
+        "reason": "轉貸"
+      },
+      {
+        "type": "房貸(增貸)",
+        "debtor": "張志仁",
+        "creditor": "全國農業金庫台南分行 臺南市公園北路",
+        "amount": 2362181,
+        "date": "113年6月",
+        "reason": "投資"
+      },
+      {
+        "type": "信貸",
+        "debtor": "張志仁",
+        "creditor": "玉山商業銀行新營分行 臺南市新營區民治路",
+        "amount": 3269492,
+        "date": "111年7月",
+        "reason": "投資"
+      }
+    ]
+  },
+  "investments": {
+    "total": 12000000,
+    "items": [
+      {
+        "investor": "張志仁",
+        "company": "張志仁診所",
+        "address": "臺南市新營區大同路 6-6 號",
+        "amount": 12000000,
+        "date": "84年12月",
+        "reason": "執業"
+      }
+    ]
+  }
+}

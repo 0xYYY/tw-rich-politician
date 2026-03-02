@@ -1,0 +1,357 @@
+{
+  "name": "徐榛蔚",
+  "org": "花蓮縣政府",
+  "title": "縣長",
+  "date": "113年12月31日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "傅崐萁"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市大安區復興段二小段",
+      "area": 916,
+      "share": "4914 分之 201",
+      "owner": "傅崐萁",
+      "date": "107年04月10日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市大安區復興段二小段",
+      "area": 61,
+      "share": "4914 分之 201",
+      "owner": "傅崐萁",
+      "date": "103年02月13日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區復興段二小段 (1.含附屬建物用途：陽台，面積 33.39 平方公尺； 2.共有部份：復興段二小段 ， 504.03 平方公尺，權利範圍 504 分 之 21)",
+      "area": 179.85,
+      "share": "全部",
+      "owner": "傅崐萁",
+      "date": "107年04月10日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "臺北市大安區復興段二小段 (1.建物坐落地號：復興段二小段○ ○○○； 2.此為共有部分的建號)",
+      "area": 0,
+      "share": "504 分之 21",
+      "owner": "傅崐萁",
+      "date": "107年04月10日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "得力",
+        "owner": "徐榛蔚",
+        "shares": 35950,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 359500
+      },
+      {
+        "name": "東元",
+        "owner": "徐榛蔚",
+        "shares": 20000,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "亞崴",
+        "owner": "徐榛蔚",
+        "shares": 1274,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12740
+      },
+      {
+        "name": "聲寶",
+        "owner": "徐榛蔚",
+        "shares": 7328,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 73280
+      },
+      {
+        "name": "五鼎",
+        "owner": "徐榛蔚",
+        "shares": 2983,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 29830
+      },
+      {
+        "name": "華紙",
+        "owner": "徐榛蔚",
+        "shares": 9289,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 92890
+      },
+      {
+        "name": "2★聯電",
+        "owner": "徐榛蔚",
+        "shares": 875,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8750
+      },
+      {
+        "name": "2★仁寶",
+        "owner": "徐榛蔚",
+        "shares": 392,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3920
+      },
+      {
+        "name": "2★國巨",
+        "owner": "徐榛蔚",
+        "shares": 1346,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 13460
+      },
+      {
+        "name": "2★大同",
+        "owner": "徐榛蔚",
+        "shares": 4213,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 42130
+      },
+      {
+        "name": "2★富邦金",
+        "owner": "徐榛蔚",
+        "shares": 4418,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 44180
+      },
+      {
+        "name": "2★開發金",
+        "owner": "徐榛蔚",
+        "shares": 5544,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 55440
+      },
+      {
+        "name": "2★玉山金",
+        "owner": "徐榛蔚",
+        "shares": 30101,
+        "trustee": "臺灣銀行",
+        "transferDate": "112年05月04日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 301010
+      },
+      {
+        "name": "2★兆豐金",
+        "owner": "徐榛蔚",
+        "shares": 7711,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 77110
+      },
+      {
+        "name": "2★台新金",
+        "owner": "徐榛蔚",
+        "shares": 48176,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 481760
+      },
+      {
+        "name": "2★新光金",
+        "owner": "徐榛蔚",
+        "shares": 6558,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 65580
+      },
+      {
+        "name": "2★中信金",
+        "owner": "徐榛蔚",
+        "shares": 271,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2710
+      },
+      {
+        "name": "2★智原",
+        "owner": "徐榛蔚",
+        "shares": 638,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6380
+      },
+      {
+        "name": "2★全台",
+        "owner": "徐榛蔚",
+        "shares": 204,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2040
+      },
+      {
+        "name": "2★豐謙",
+        "owner": "徐榛蔚",
+        "shares": 1595,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 15950
+      },
+      {
+        "name": "2★寶雅",
+        "owner": "徐榛蔚",
+        "shares": 4482,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 44820
+      },
+      {
+        "name": "2★成霖",
+        "owner": "徐榛蔚",
+        "shares": 6857,
+        "trustee": "臺灣銀行",
+        "transferDate": "112年03月27日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 68570
+      },
+      {
+        "name": "2★信義",
+        "owner": "徐榛蔚",
+        "shares": 3823,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 38230
+      },
+      {
+        "name": "2★台新金己",
+        "owner": "徐榛蔚",
+        "shares": 832,
+        "trustee": "臺灣銀行",
+        "transferDate": "111年08月09日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8320
+      },
+      {
+        "name": "2★合勤",
+        "owner": "徐榛蔚",
+        "shares": 912,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年05月13日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9120
+      },
+      {
+        "name": "東和",
+        "owner": "傅崐萁",
+        "shares": 2261,
+        "trustee": "臺灣銀行",
+        "transferDate": "111年06月08日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 22610
+      },
+      {
+        "name": "台火",
+        "owner": "傅崐萁",
+        "shares": 159,
+        "trustee": "臺灣銀行",
+        "transferDate": "111年06月08日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1590
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

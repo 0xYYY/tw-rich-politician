@@ -1,0 +1,437 @@
+{
+  "name": "黃捷",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 11185167,
+    "items": [
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 200000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 100000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 70000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 60000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 60000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 60000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 40000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 30000
+      },
+      {
+        "institution": "臺灣銀行新店分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 9322
+      },
+      {
+        "institution": "臺灣銀行大昌分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "黃捷",
+        "foreignAmount": 302203,
+        "amount": 63432
+      },
+      {
+        "institution": "臺灣銀行大昌分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "黃捷",
+        "foreignAmount": 471,
+        "amount": 15057
+      },
+      {
+        "institution": "彰化銀行高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 898428
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 6654159
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 60000
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 40000
+      },
+      {
+        "institution": "元大銀行古亭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 30629
+      },
+      {
+        "institution": "元大銀行高鳳分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 1776442
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 158466
+      },
+      {
+        "institution": "台新國際銀行中和分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "台新國際銀行中和分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "台新國際銀行中和分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "台新國際銀行中和分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "台新國際銀行中和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃捷",
+        "foreignAmount": 0,
+        "amount": 9232
+      }
+    ]
+  },
+  "stocks": {
+    "total": 91710,
+    "items": [
+      {
+        "name": "福懋",
+        "owner": "黃捷",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "中鋼",
+        "owner": "黃捷",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "中華電",
+        "owner": "黃捷",
+        "shares": 848,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8480
+      },
+      {
+        "name": "國泰金",
+        "owner": "黃捷",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "玉山金",
+        "owner": "黃捷",
+        "shares": 1020,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10200
+      },
+      {
+        "name": "第一金",
+        "owner": "黃捷",
+        "shares": 1030,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10300
+      },
+      {
+        "name": "台灣大",
+        "owner": "黃捷",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "喬本",
+        "owner": "黃捷",
+        "shares": 273,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2730
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 7265,
+        "unitValue": 190.5,
+        "foreignCurrency": "",
+        "totalValue": 1383982
+      },
+      {
+        "name": "元大高股息",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 14226,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 530345
+      },
+      {
+        "name": "元大 S&P500",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 29993,
+        "unitValue": 57.04,
+        "foreignCurrency": "",
+        "totalValue": 1710800
+      },
+      {
+        "name": "元大台灣高息低 波",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 1282,
+        "unitValue": 56.39,
+        "foreignCurrency": "",
+        "totalValue": 72291
+      },
+      {
+        "name": "元大臺灣 ESG 永 續",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 708,
+        "unitValue": 45.56,
+        "foreignCurrency": "",
+        "totalValue": 32256
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 3648,
+        "unitValue": 22.73,
+        "foreignCurrency": "",
+        "totalValue": 82919
+      },
+      {
+        "name": "元大台灣價值高 息",
+        "owner": "黃捷",
+        "institution": "元 大 證 券 鳳 中 分公司",
+        "units": 9090,
+        "unitValue": 9.54,
+        "foreignCurrency": "",
+        "totalValue": 86718
+      }
+    ]
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "name": "蘇巧慧",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 12743561
+    },
+    {
+      "currency": "美元",
+      "amount": 1028877
+    },
+    {
+      "currency": "日圓",
+      "amount": 343660
+    }
+  ],
+  "depositsTotal": 14116098,
+  "insurance": [
+    {
+      "company": "安達人壽",
+      "name": "安 達 人 壽 得 利 100 外幣變額年 金保險",
+      "holder": "蘇巧慧",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+      "name": "友邦人壽三富人 生美元利率變動 型終身壽險",
+      "holder": "蘇巧慧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "飛揚人生外幣年 金",
+      "holder": "蘇巧慧",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富邦人壽保險 股份有限公司",
+      "name": "富邦人壽安康久 久殘廢照護終身 壽險",
+      "holder": "蘇巧慧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富邦人壽保險 股份有限公司",
+      "name": "富邦人壽安康久 久殘廢照護終身 壽險",
+      "holder": "蘇巧慧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "傳富美美元利率 變動型終身壽險",
+      "holder": "蘇巧慧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費守護 久久失能照護終 身保險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費守護 久久失能照護終 身保險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費真健 康終身醫療健康 保險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費祥安 兒童終身壽險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費祥昇 利率變動型終身 壽險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三商美邦人壽 保險股份有限 公司",
+      "name": "二十年繳費樂活 人 生 終 身 壽 險 (非吸菸標準體)",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "月月好鑫外幣變 額年金保險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "傳承美滿美元利 率變動型終身壽 險",
+      "holder": "龍男．以撒克． 凡亞思",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "貝萊德世界金融 基金（累積）（美 元）",
+      "owner": "蘇巧慧",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 122.23,
+      "unitValue": 50.79,
+      "currency": "美元",
+      "declaredValue": 198403,
+      "source": "fund"
+    },
+    {
+      "name": "聯博-國際醫療 基金（累積）（美 元）",
+      "owner": "蘇巧慧",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 9.687,
+      "unitValue": 581.92,
+      "currency": "美元",
+      "declaredValue": 180154,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "owner": "蘇巧慧",
+      "date": "2015-08-27",
+      "effectiveAreaPing": 62.95,
+      "entryCount": 4,
+      "price": "含陽台 15.79 平方公尺(超 過五年)"
+    },
+    {
+      "location": "新北市樹林區鎮前段",
+      "owner": "龍 男 ． 以 撒 克．凡亞思",
+      "date": "2022-06-14",
+      "effectiveAreaPing": 32.76,
+      "entryCount": 2,
+      "price": "12,300,000 (與第5筆土地 及第 6 筆建物 合購)"
+    }
+  ]
+}

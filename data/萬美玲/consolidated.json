@@ -1,0 +1,89 @@
+{
+  "name": "萬美玲",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "桃園市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 29899383
+    },
+    {
+      "currency": "美元",
+      "amount": 201
+    }
+  ],
+  "depositsTotal": 29899584,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美滿人 生長期照顧終身 保險",
+      "holder": "萬美玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "萬美玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "萬美玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山重大疾病終 身壽險",
+      "holder": "萬美玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美滿人 生長期照顧終身 保險",
+      "holder": "佀同似",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "佀同似",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "佀同似",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽美多傳 家外幣利率變動 型終身壽險（定 期給付型）",
+      "holder": "佀同似",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市桃園區中平段",
+      "owner": "萬美玲",
+      "date": "2004-04-02",
+      "effectiveAreaPing": 45.16,
+      "entryCount": 3,
+      "price": "含陽台9.77平 方公尺(超過 五年)"
+    },
+    {
+      "location": "桃園市桃園區中平段",
+      "owner": "佀同似",
+      "date": "1998-09-10",
+      "effectiveAreaPing": 33.75,
+      "entryCount": 2,
+      "price": "含陽台9.77平 方公尺(超過 五年)"
+    }
+  ]
+}

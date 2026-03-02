@@ -1,0 +1,113 @@
+{
+  "name": "謝國樑",
+  "org": "基隆市政府",
+  "title": "市長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "國中薇"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "謝○詩"
+    }
+  ],
+  "land": [
+    {
+      "location": "基隆市安樂區湖海段",
+      "area": 198,
+      "share": "全部",
+      "owner": "謝國樑",
+      "date": "112年05月29日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台積電",
+        "owner": "謝國樑",
+        "shares": 748,
+        "trustee": "臺灣銀行",
+        "transferDate": "112年06月17日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7480
+      },
+      {
+        "name": "山隆",
+        "owner": "謝國樑",
+        "shares": 3754,
+        "trustee": "臺灣銀行",
+        "transferDate": "113年02月27日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 37540
+      },
+      {
+        "name": "台灣大",
+        "owner": "謝國樑",
+        "shares": 3083,
+        "trustee": "臺灣銀行",
+        "transferDate": "113年02月27日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30830
+      },
+      {
+        "name": "橘子",
+        "owner": "謝國樑",
+        "shares": 721,
+        "trustee": "臺灣銀行",
+        "transferDate": "112年06月17日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7210
+      },
+      {
+        "name": "錸寶",
+        "owner": "謝國樑",
+        "shares": 237,
+        "trustee": "臺灣銀行",
+        "transferDate": "113年02月27日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2370
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

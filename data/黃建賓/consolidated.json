@@ -1,0 +1,216 @@
+{
+  "name": "黃建賓",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺東縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 5513157
+    },
+    {
+      "currency": "美元",
+      "amount": 44182
+    },
+    {
+      "currency": "日圓",
+      "amount": 79428
+    },
+    {
+      "currency": "人民幣",
+      "amount": 19276
+    }
+  ],
+  "depositsTotal": 5656044,
+  "insurance": [
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽長鴻還本 終身保險",
+      "holder": "黃建賓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽新健康滿 分終身醫療保險",
+      "holder": "黃建賓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台 灣 人 壽 新 滿 福 135 終身保險",
+      "holder": "黃建賓",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽長盛還本 終身保險",
+      "holder": "張欣為",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽新健康滿 分 終 身 醫 療 保 險 （0501）",
+      "holder": "張欣為",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽新健康滿 分 終 身 醫 療 保 險 （0501）",
+      "holder": "張欣為",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "駿吉-KY",
+      "cleanName": "駿吉-KY",
+      "ticker": "1591",
+      "shares": 10000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 45.8,
+      "latestPrice": 48.7
+    },
+    {
+      "name": "台玻",
+      "cleanName": "台玻",
+      "ticker": "1802",
+      "shares": 15000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 19.65,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 1000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 1000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 40.05,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "輔信",
+      "cleanName": "輔信",
+      "ticker": "2405",
+      "shares": 30000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 21.2,
+      "latestPrice": 16.15
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 10836,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 10000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "統一超",
+      "cleanName": "統一超",
+      "ticker": "2912",
+      "shares": 1000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 276,
+      "latestPrice": 223
+    },
+    {
+      "name": "淘帝-KY",
+      "cleanName": "淘帝-KY",
+      "ticker": "2929",
+      "shares": 22000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 12.15,
+      "latestPrice": 7.49
+    },
+    {
+      "name": "德晉",
+      "cleanName": "德晉",
+      "ticker": "3466",
+      "shares": 10000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 69.1,
+      "latestPrice": 37.15
+    },
+    {
+      "name": "浩鼎",
+      "cleanName": "浩鼎",
+      "ticker": "4174",
+      "shares": 3000,
+      "owner": "黃建賓",
+      "priceAtDisclosure": 66.7,
+      "latestPrice": 41.8
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "聯博美國傘型聯 博美國多重資產 收益基金-AD 配 美(特金)",
+      "owner": "黃建賓",
+      "institution": "富邦證券",
+      "units": 133.33,
+      "unitValue": 14.44,
+      "currency": "美元",
+      "declaredValue": 61686,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50 反 1",
+      "owner": "黃建賓",
+      "institution": "富 邦 證 券 台 東 分公司",
+      "units": 5000,
+      "unitValue": 3.33,
+      "currency": "",
+      "declaredValue": 16650,
+      "source": "fund"
+    },
+    {
+      "name": "國泰臺灣加權反 1",
+      "owner": "黃建賓",
+      "institution": "富 邦 證 券 台 東 分公司",
+      "units": 10000,
+      "unitValue": 3.76,
+      "currency": "",
+      "declaredValue": 37600,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺東縣臺東市新生段",
+      "owner": "黃建賓",
+      "date": "2023-03-31",
+      "effectiveAreaPing": 23.77,
+      "entryCount": 2,
+      "price": "5,000,000 (共同使用部 分，與土地第 1 筆臺東縣臺東 市 新 生 段 合 購)"
+    },
+    {
+      "location": "臺東縣臺東市南榮段",
+      "owner": "張欣為",
+      "date": "2024-04-19",
+      "effectiveAreaPing": 58.65,
+      "entryCount": 1,
+      "price": "11,250,000 (房地總價額， 與第 4、5、6、 7 筆土地合購)"
+    }
+  ]
+}

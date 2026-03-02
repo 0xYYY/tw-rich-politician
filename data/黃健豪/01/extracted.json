@@ -1,0 +1,440 @@
+{
+  "name": "黃健豪",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "葉季青"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "黃○菲"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市士林區福順段一小段",
+      "area": 1498.9,
+      "share": "20000 分之 153",
+      "owner": "葉季青",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "3,085,616 (與第2筆土地 合購)"
+    },
+    {
+      "location": "臺北市士林區福順段一小段",
+      "area": 1.1,
+      "share": "20000 分之 153",
+      "owner": "葉季青",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "3,085,616 (與第1筆土地 合購)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市士林區福順段一小段",
+      "area": 142.97,
+      "share": "2 分之 1",
+      "owner": "葉季青",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "363,000(含陽 台22.2平方公 尺)"
+    },
+    {
+      "location": "臺北市士林區福順段一小段",
+      "area": 1406.21,
+      "share": "10000 分之 153",
+      "owner": "葉季青",
+      "date": "109年12月29日",
+      "reason": "買賣",
+      "price": "363,000(共同 使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "黃健豪",
+      "date": "109年01月16日",
+      "reason": "買賣",
+      "price": 1400000
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "黃健豪",
+      "date": "113年08月30日",
+      "reason": "買賣",
+      "price": 2430000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1278035,
+    "items": [
+      {
+        "institution": "台北富邦銀行臨沂分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃健豪",
+        "foreignAmount": 0,
+        "amount": 359553
+      },
+      {
+        "institution": "台中銀行軍功分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃健豪",
+        "foreignAmount": 0,
+        "amount": 26932
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃健豪",
+        "foreignAmount": 0,
+        "amount": 59
+      },
+      {
+        "institution": "永豐銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "港幣",
+        "owner": "黃健豪",
+        "foreignAmount": 21,
+        "amount": 87
+      },
+      {
+        "institution": "永豐銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃健豪",
+        "foreignAmount": 0,
+        "amount": 45619
+      },
+      {
+        "institution": "星展市府分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "黃健豪",
+        "foreignAmount": 0,
+        "amount": 481
+      },
+      {
+        "institution": "臺灣銀行淡水分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 148
+      },
+      {
+        "institution": "第一銀行南京東路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 11554
+      },
+      {
+        "institution": "華南銀行忠孝東路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 800
+      },
+      {
+        "institution": "彰化銀行松山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 435670
+      },
+      {
+        "institution": "台北富邦銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 1389
+      },
+      {
+        "institution": "國泰世華銀行古亭分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "葉季青",
+        "foreignAmount": 1854,
+        "amount": 59270
+      },
+      {
+        "institution": "國泰世華銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 1844
+      },
+      {
+        "institution": "兆豐國際商業銀行桃園國 際機場分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "葉季青",
+        "foreignAmount": 534,
+        "amount": 17106
+      },
+      {
+        "institution": "兆豐國際商業銀行桃園國 際機場分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 6618
+      },
+      {
+        "institution": "兆豐國際商業銀行城東分 行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "葉季青",
+        "foreignAmount": 3,
+        "amount": 78
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 34910
+      },
+      {
+        "institution": "遠東國際銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 170
+      },
+      {
+        "institution": "元大銀行竹科分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 15686
+      },
+      {
+        "institution": "玉山銀行和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 183871
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉季青",
+        "foreignAmount": 0,
+        "amount": 21511
+      },
+      {
+        "institution": "元大銀行台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃○菲",
+        "foreignAmount": 0,
+        "amount": 54677
+      }
+    ]
+  },
+  "stocks": {
+    "total": 76400,
+    "items": [
+      {
+        "name": "台泥",
+        "owner": "葉季青",
+        "shares": 1099,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10990
+      },
+      {
+        "name": "中鋼",
+        "owner": "葉季青",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "台中銀",
+        "owner": "葉季青",
+        "shares": 61,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 610
+      },
+      {
+        "name": "玉山金",
+        "owner": "葉季青",
+        "shares": 2873,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 28730
+      },
+      {
+        "name": "第一金",
+        "owner": "葉季青",
+        "shares": 95,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 950
+      },
+      {
+        "name": "群創",
+        "owner": "葉季青",
+        "shares": 757,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7570
+      },
+      {
+        "name": "群創",
+        "owner": "葉季青",
+        "shares": 755,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7550
+      },
+      {
+        "name": "敦泰",
+        "owner": "葉季青",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "復華富時不動產",
+        "owner": "葉季青",
+        "institution": "元 大 證 券 竹 科 分公司",
+        "units": 1000,
+        "unitValue": 9.33,
+        "foreignCurrency": "",
+        "totalValue": 9330
+      },
+      {
+        "name": "復華中國 5G",
+        "owner": "葉季青",
+        "institution": "玉 山 證 券 台 中 分公司",
+        "units": 2000,
+        "unitValue": 12.65,
+        "foreignCurrency": "",
+        "totalValue": 25300
+      },
+      {
+        "name": "安聯(盧森堡)收 益成長基金 AM美元-穩定月配 權/息",
+        "owner": "葉季青",
+        "institution": "國泰世華銀行",
+        "units": 3518.124,
+        "unitValue": 8.2617,
+        "foreignCurrency": "美元",
+        "totalValue": 927776
+      },
+      {
+        "name": "安聯(盧森堡)收 益成長基金 AM美元-穩定月配 權/息",
+        "owner": "葉季青",
+        "institution": "國泰世華銀行",
+        "units": 3518.124,
+        "unitValue": 8.2617,
+        "foreignCurrency": "美元",
+        "totalValue": 927776
+      },
+      {
+        "name": "元大台灣 50",
+        "owner": "黃○菲",
+        "institution": "元 大 證 券 台 中 分公司",
+        "units": 635,
+        "unitValue": 190.5,
+        "foreignCurrency": "",
+        "totalValue": 120967
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "元 大 人 壽 保 險 股份有限公司",
+        "name": "元 大 人 壽 永 傳 經典終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "葉季青",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 新 平 準終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "葉季青",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 10 月 12 日/187 年 10 月 11 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 9090,
+    "items": [
+      {
+        "type": "員工持股信託",
+        "creditor": "葉季青",
+        "debtor": "中國信託商業銀行營業部 台北市南港區經貿二路",
+        "amount": 9090,
+        "date": "112年02月28日",
+        "reason": "持股信託"
+      }
+    ]
+  },
+  "debts": {
+    "total": 13959613,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "黃健豪",
+        "creditor": "三信商業銀行成功分行 台中市進化路",
+        "amount": 1450000,
+        "date": "113年08月30日",
+        "reason": "購置動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "葉季青",
+        "creditor": "彰化商業銀行松山分行 臺北市信義區永吉路",
+        "amount": 12509613,
+        "date": "109年12月30日",
+        "reason": "購 置 / 修 繕 不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

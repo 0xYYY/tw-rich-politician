@@ -1,0 +1,318 @@
+{
+  "name": "林俊憲",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8871143
+    },
+    {
+      "currency": "美元",
+      "amount": 4112607
+    },
+    {
+      "currency": "人民幣",
+      "amount": 12
+    }
+  ],
+  "depositsTotal": 12983762,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽長期看 護終身保險",
+      "holder": "林俊憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 202 終 身",
+      "holder": "林俊憲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月有利外幣變 額年金",
+      "holder": "高婕寧",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "月月有利變額壽 險",
+      "holder": "高婕寧",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "守護一生長期看 護",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美盛美元",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "超安心住院醫療 終身",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "超安心住院醫療 終身",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新真安順手術醫 療終身",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新真安順手術醫 療終身",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾心呵護重大傷 病定期",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "鍾幸福特定傷病 終身保",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽百利人 生變額壽險",
+      "holder": "高婕寧",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽金美多 多外幣終身保險 （美元）",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽金美好 美元利率變動型 終身壽險－定期 給付型",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美利一 生外幣利率變動 型終身壽險 (美 元)",
+      "holder": "高婕寧",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "泰山",
+      "cleanName": "泰山",
+      "ticker": "1218",
+      "shares": 2206,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 20.1,
+      "latestPrice": 18.3
+    },
+    {
+      "name": "可成",
+      "cleanName": "可成",
+      "ticker": "2474",
+      "shares": 121,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 231.5,
+      "latestPrice": 191.5
+    },
+    {
+      "name": "兆赫",
+      "cleanName": "兆赫",
+      "ticker": "2485",
+      "shares": 89,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 17.95,
+      "latestPrice": 45
+    },
+    {
+      "name": "中纖",
+      "cleanName": "中纖",
+      "ticker": "1718",
+      "shares": 10000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 7.81,
+      "latestPrice": 7.14
+    },
+    {
+      "name": "冠軍",
+      "cleanName": "冠軍",
+      "ticker": "1806",
+      "shares": 9000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 9.97,
+      "latestPrice": 8.95
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 1000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 46.6,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "廣宇",
+      "cleanName": "廣宇",
+      "ticker": "2328",
+      "shares": 5000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 38.55,
+      "latestPrice": 51.2
+    },
+    {
+      "name": "凱美",
+      "cleanName": "凱美",
+      "ticker": "2375",
+      "shares": 24000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 63.9,
+      "latestPrice": 94.9
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 15000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 122,
+      "latestPrice": 134
+    },
+    {
+      "name": "佳凌",
+      "cleanName": "佳凌",
+      "ticker": "4976",
+      "shares": 2000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 40,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "環拓",
+      "cleanName": "環拓",
+      "ticker": null,
+      "shares": 165000,
+      "owner": "林俊憲",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "SEA LTD-ADR",
+      "cleanName": "SEA LTD-ADR",
+      "ticker": "SE",
+      "shares": 100,
+      "owner": "林俊憲",
+      "priceAtDisclosure": 3038.81,
+      "latestPrice": 3402.08
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "凱基金",
+      "owner": "林俊憲",
+      "shares": 331,
+      "declaredValue": 3310,
+      "source": "stock"
+    },
+    {
+      "name": "貝萊德世界科技 基金(累積)(美 元)",
+      "owner": "林俊憲",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 117.27,
+      "unitValue": 89.45,
+      "currency": "美元",
+      "declaredValue": 335243,
+      "source": "fund"
+    },
+    {
+      "name": "富達永續發展亞 洲股票基金(再 投資)(美元)",
+      "owner": "林俊憲",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 445.76,
+      "unitValue": 10.83,
+      "currency": "美元",
+      "declaredValue": 154284,
+      "source": "fund"
+    },
+    {
+      "name": "群益潛力收益多 重資產基金 N(累 積)(新台幣)(後 收)",
+      "owner": "林俊憲",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 54463.2,
+      "unitValue": 12.6152,
+      "currency": "",
+      "declaredValue": 687064,
+      "source": "fund"
+    },
+    {
+      "name": "群益潛力收益多 重資產基金 N(累 積)(新台幣)(後 收)",
+      "owner": "林俊憲",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 8387.1,
+      "unitValue": 12.6152,
+      "currency": "",
+      "declaredValue": 105804,
+      "source": "fund"
+    },
+    {
+      "name": "元大全球 ETF 成 長組合基金(累 積)(新台幣)",
+      "owner": "林俊憲",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 31786.3,
+      "unitValue": 14.96,
+      "currency": "",
+      "declaredValue": 475523,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林華美 AI 新科技基金(累 積)(新台幣)",
+      "owner": "林俊憲",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 2804.1,
+      "unitValue": 14.93,
+      "currency": "",
+      "declaredValue": 41865,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺南市安平區金城段",
+      "owner": "高婕寧",
+      "date": "2024-04-10",
+      "effectiveAreaPing": 69.53,
+      "entryCount": 1,
+      "price": "17,600,000(含 陽台 42.44 平 方公尺,見其他 登記事項 3.5 平方公尺)"
+    },
+    {
+      "location": "臺南市安平區新南段",
+      "owner": "高婕寧",
+      "date": "2020-07-22",
+      "effectiveAreaPing": 163.12,
+      "entryCount": 3,
+      "price": "6,967,600(含 陽台 45.75 平 方公尺)"
+    }
+  ]
+}

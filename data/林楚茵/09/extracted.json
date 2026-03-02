@@ -1,0 +1,249 @@
+{
+  "name": "林楚茵",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "梁文傑"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台泥",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 2000,
+        "pricePerShare": "38.05",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 76100
+      },
+      {
+        "name": "中華電",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 3000,
+        "pricePerShare": "128",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 384000
+      },
+      {
+        "name": "華南金",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 6204,
+        "pricePerShare": "22.30",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 138349
+      },
+      {
+        "name": "第一金",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 14838,
+        "pricePerShare": "27.75",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 411754
+      },
+      {
+        "name": "康聯訊",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 1180,
+        "pricePerShare": "27.40",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 32332
+      },
+      {
+        "name": "亞太電舊",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 8192,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月07日",
+        "changeReason": "換發轉入(存)",
+        "totalValue": 61194
+      },
+      {
+        "name": "亞太電舊",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 8192,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月07日",
+        "changeReason": "換發轉入(存)",
+        "totalValue": 61194
+      },
+      {
+        "name": "亞太電舊",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 8192,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月15日",
+        "changeReason": "合併轉出(提)",
+        "totalValue": 61194
+      },
+      {
+        "name": "亞太電舊",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 8192,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月15日",
+        "changeReason": "合併轉出(提)",
+        "totalValue": 61194
+      },
+      {
+        "name": "亞太電",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 8192,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月07日",
+        "changeReason": "換發轉出(提)",
+        "totalValue": 61194
+      },
+      {
+        "name": "亞太電",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 8192,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月07日",
+        "changeReason": "換發轉出(提)",
+        "totalValue": 61194
+      },
+      {
+        "name": "遠傳",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 765,
+        "pricePerShare": "79.70",
+        "changeDate": "112年12月15日",
+        "changeReason": "合併轉入(存)",
+        "totalValue": 60970
+      },
+      {
+        "name": "遠傳",
+        "broker": "集保專戶",
+        "owner": "林楚茵",
+        "shares": 765,
+        "pricePerShare": "79.70",
+        "changeDate": "112年12月15日",
+        "changeReason": "合併轉入(存)",
+        "totalValue": 60970
+      },
+      {
+        "name": "合庫金",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 7644,
+        "pricePerShare": "28",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 214032
+      },
+      {
+        "name": "富旺舊",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 69,
+        "pricePerShare": "13.45",
+        "changeDate": "112年07月06日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 928
+      },
+      {
+        "name": "富旺舊",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 69,
+        "pricePerShare": "21.50",
+        "changeDate": "112年07月11日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 1483
+      },
+      {
+        "name": "富旺",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 69,
+        "pricePerShare": "13.45",
+        "changeDate": "112年07月06日",
+        "changeReason": "減資轉出(提)",
+        "totalValue": 928
+      },
+      {
+        "name": "富旺",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 42,
+        "pricePerShare": "21.50",
+        "changeDate": "112年07月11日",
+        "changeReason": "減資轉入(存)",
+        "totalValue": 903
+      },
+      {
+        "name": "智基",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 2650,
+        "pricePerShare": "110",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 291500
+      },
+      {
+        "name": "中鼎",
+        "broker": "富邦證券台北分公 司",
+        "owner": "林楚茵",
+        "shares": 8000,
+        "pricePerShare": "41.05",
+        "changeDate": "112年05月25日",
+        "changeReason": "信託匯撥(提)",
+        "totalValue": 328400
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

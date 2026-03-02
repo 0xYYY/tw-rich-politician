@@ -1,0 +1,325 @@
+{
+  "name": "馬文君",
+  "date": "2024-12-05",
+  "type": "legislator",
+  "area": "南投縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 12368143
+    }
+  ],
+  "depositsTotal": 12368143,
+  "insurance": [
+    {
+      "company": "國泰人壽",
+      "name": "富 貴 年 年 終 身 壽險",
+      "holder": "馬文君",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "國泰人壽",
+      "name": "開運年年終身",
+      "holder": "馬文君",
+      "contractType": "儲蓄型"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "十 年 繳 費 新 金 豐 采 利 利 率 變 動型終身壽險",
+      "holder": "馬文君",
+      "contractType": "年金型"
+    },
+    {
+      "company": "三商美邦人壽",
+      "name": "二 十 年 繳 費 新 金 豐 富 利 率 變 動型終身壽險",
+      "holder": "馬文君",
+      "contractType": "年金型"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "華隆",
+      "cleanName": "華隆",
+      "ticker": null,
+      "shares": 88,
+      "owner": "馬文君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "冠軍",
+      "cleanName": "冠軍",
+      "ticker": "1806",
+      "shares": 1571,
+      "owner": "馬文君",
+      "priceAtDisclosure": 10.3,
+      "latestPrice": 8.95
+    },
+    {
+      "name": "萬有",
+      "cleanName": "萬有",
+      "ticker": null,
+      "shares": 335,
+      "owner": "馬文君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 99000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 199,
+      "latestPrice": 243
+    },
+    {
+      "name": "友達",
+      "cleanName": "友達",
+      "ticker": "2409",
+      "shares": 864,
+      "owner": "馬文君",
+      "priceAtDisclosure": 15.7,
+      "latestPrice": 16.6
+    },
+    {
+      "name": "可成",
+      "cleanName": "可成",
+      "ticker": "2474",
+      "shares": 11000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 197.5,
+      "latestPrice": 191.5
+    },
+    {
+      "name": "太設",
+      "cleanName": "太設",
+      "ticker": "2506",
+      "shares": 1253,
+      "owner": "馬文君",
+      "priceAtDisclosure": 11.75,
+      "latestPrice": 9.04
+    },
+    {
+      "name": "台企銀",
+      "cleanName": "台企銀",
+      "ticker": "2834",
+      "shares": 221,
+      "owner": "馬文君",
+      "priceAtDisclosure": 15.05,
+      "latestPrice": 16.4
+    },
+    {
+      "name": "遠東銀",
+      "cleanName": "遠東銀",
+      "ticker": "2845",
+      "shares": 5971,
+      "owner": "馬文君",
+      "priceAtDisclosure": 13.85,
+      "latestPrice": 12.95
+    },
+    {
+      "name": "睿生光電",
+      "cleanName": "睿生光電",
+      "ticker": "6861",
+      "shares": 19,
+      "owner": "馬文君",
+      "priceAtDisclosure": 63.3,
+      "latestPrice": 114
+    },
+    {
+      "name": "寶成",
+      "cleanName": "寶成",
+      "ticker": "9904",
+      "shares": 1753,
+      "owner": "馬文君",
+      "priceAtDisclosure": 43.6,
+      "latestPrice": 31.05
+    },
+    {
+      "name": "高企",
+      "cleanName": "高企",
+      "ticker": null,
+      "shares": 71,
+      "owner": "馬文君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "瑞圓",
+      "cleanName": "瑞圓",
+      "ticker": null,
+      "shares": 15000,
+      "owner": "馬文君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "三芳",
+      "cleanName": "三芳",
+      "ticker": "1307",
+      "shares": 554,
+      "owner": "馬文君",
+      "priceAtDisclosure": 39.95,
+      "latestPrice": 35.25
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 10000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 37.9,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "長鴻營造",
+      "cleanName": "長鴻營造",
+      "ticker": null,
+      "shares": 27710,
+      "owner": "馬文君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "易宏",
+      "cleanName": "易宏",
+      "ticker": null,
+      "shares": 709,
+      "owner": "馬文君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 3000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 37.9,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "永裕",
+      "cleanName": "永裕",
+      "ticker": "1323",
+      "shares": 9000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 25.75,
+      "latestPrice": 18.7
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 34000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 199,
+      "latestPrice": 243
+    },
+    {
+      "name": "可成",
+      "cleanName": "可成",
+      "ticker": "2474",
+      "shares": 5000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 197.5,
+      "latestPrice": 191.5
+    },
+    {
+      "name": "鑽石投資",
+      "cleanName": "鑽石投資",
+      "ticker": "6901",
+      "shares": 1000,
+      "owner": "馬文君",
+      "priceAtDisclosure": 38.1,
+      "latestPrice": 17.45
+    }
+  ],
+  "bonds": [
+    {
+      "name": "群益 ESG 投等債 20+",
+      "owner": "馬文君",
+      "institution": "群益",
+      "units": 20000,
+      "unitValue": 16.22,
+      "currency": "",
+      "declaredValue": 324400,
+      "source": "fund"
+    },
+    {
+      "name": "群益 ESG 投等債 20+",
+      "owner": "馬文君",
+      "institution": "群益",
+      "units": 10000,
+      "unitValue": 15.88,
+      "currency": "",
+      "declaredValue": 158800,
+      "source": "fund"
+    },
+    {
+      "name": "國泰投資級公司 債",
+      "owner": "馬文君",
+      "institution": "國泰",
+      "units": 8000,
+      "unitValue": 37.16,
+      "currency": "",
+      "declaredValue": 297280,
+      "source": "fund"
+    },
+    {
+      "name": "群益 ESG 投等債 20+",
+      "owner": "馬文君",
+      "institution": "群益",
+      "units": 20000,
+      "unitValue": 16.22,
+      "currency": "",
+      "declaredValue": 324400,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "花蓮縣花蓮市國風段",
+      "owner": "王俊國",
+      "date": null,
+      "effectiveAreaPing": 37.36,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市國風段 (共同建物)",
+      "owner": "王俊國",
+      "date": null,
+      "effectiveAreaPing": 5.87,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉中山路",
+      "owner": "王俊國",
+      "date": null,
+      "effectiveAreaPing": 19.95,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安村",
+      "owner": "王俊國",
+      "date": null,
+      "effectiveAreaPing": 147.7,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮大城路",
+      "owner": "王俊國",
+      "date": null,
+      "effectiveAreaPing": 79.74,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

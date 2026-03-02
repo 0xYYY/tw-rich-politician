@@ -1,0 +1,171 @@
+{
+  "name": "黃捷",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "高雄市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 11106678
+    },
+    {
+      "currency": "日圓",
+      "amount": 63432
+    },
+    {
+      "currency": "美元",
+      "amount": 15057
+    }
+  ],
+  "depositsTotal": 11185167,
+  "insurance": [],
+  "stocks": [
+    {
+      "name": "福懋",
+      "cleanName": "福懋",
+      "ticker": "1434",
+      "shares": 2000,
+      "owner": "黃捷",
+      "priceAtDisclosure": 19.9,
+      "latestPrice": 18.3
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 2000,
+      "owner": "黃捷",
+      "priceAtDisclosure": 22.7,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 848,
+      "owner": "黃捷",
+      "priceAtDisclosure": 122,
+      "latestPrice": 134
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 1000,
+      "owner": "黃捷",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 1020,
+      "owner": "黃捷",
+      "priceAtDisclosure": 26.85,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 1030,
+      "owner": "黃捷",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "台灣大",
+      "cleanName": "台灣大",
+      "ticker": "3045",
+      "shares": 1000,
+      "owner": "黃捷",
+      "priceAtDisclosure": 113.5,
+      "latestPrice": 107.5
+    },
+    {
+      "name": "喬本",
+      "cleanName": "喬本",
+      "ticker": null,
+      "shares": 273,
+      "owner": "黃捷",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣 50",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 7265,
+      "unitValue": 190.5,
+      "currency": "",
+      "declaredValue": 1383982,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 14226,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 530345,
+      "source": "fund"
+    },
+    {
+      "name": "元大 S&P500",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 29993,
+      "unitValue": 57.04,
+      "currency": "",
+      "declaredValue": 1710800,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣高息低 波",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 1282,
+      "unitValue": 56.39,
+      "currency": "",
+      "declaredValue": 72291,
+      "source": "fund"
+    },
+    {
+      "name": "元大臺灣 ESG 永 續",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 708,
+      "unitValue": 45.56,
+      "currency": "",
+      "declaredValue": 32256,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 3648,
+      "unitValue": 22.73,
+      "currency": "",
+      "declaredValue": 82919,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣價值高 息",
+      "owner": "黃捷",
+      "institution": "元 大 證 券 鳳 中 分公司",
+      "units": 9090,
+      "unitValue": 9.54,
+      "currency": "",
+      "declaredValue": 86718,
+      "source": "fund"
+    }
+  ],
+  "buildings": []
+}

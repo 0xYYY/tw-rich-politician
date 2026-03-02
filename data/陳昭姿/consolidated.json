@@ -1,0 +1,299 @@
+{
+  "name": "陳昭姿",
+  "date": "2024-02-08",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 47147355
+    },
+    {
+      "currency": "日圓",
+      "amount": 3
+    },
+    {
+      "currency": "澳幣",
+      "amount": 2
+    },
+    {
+      "currency": "南非幣",
+      "amount": 1641023
+    },
+    {
+      "currency": "美元",
+      "amount": 1140766
+    },
+    {
+      "currency": "歐元",
+      "amount": 14981
+    }
+  ],
+  "depositsTotal": 49944130,
+  "insurance": [
+    {
+      "company": "三商美邦人壽",
+      "name": "美利旺外幣利率 變動型年金保險 (A 型)",
+      "holder": "郭長豐",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "新光人壽",
+      "name": "新光千禧寶終身 還本壽險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽",
+      "name": "新光千禧傳家寶 終身還本壽險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽",
+      "name": "新光千禧金寶貝 終身還本壽險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山金美滿還本 終身保險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山新年年春還 本終身保險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山 312 還本終 身保險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山新年年春還 本終身保險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽",
+      "name": "南山 312 還本終 身保險",
+      "holder": "郭長豐",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台玻",
+      "cleanName": "台玻",
+      "ticker": "1802",
+      "shares": 1181,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 17.8,
+      "latestPrice": 61.1
+    },
+    {
+      "name": "遠百",
+      "cleanName": "遠百",
+      "ticker": "2903",
+      "shares": 3022,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 24.55,
+      "latestPrice": 22.8
+    },
+    {
+      "name": "聚隆",
+      "cleanName": "聚隆",
+      "ticker": "1466",
+      "shares": 13,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 13.3,
+      "latestPrice": 19.95
+    },
+    {
+      "name": "勝華",
+      "cleanName": "勝華",
+      "ticker": "2384",
+      "shares": 140000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 860000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 8.41,
+      "latestPrice": null
+    },
+    {
+      "name": "天鈺",
+      "cleanName": "天鈺",
+      "ticker": "4961",
+      "shares": 10000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 229,
+      "latestPrice": 148.5
+    },
+    {
+      "name": "佳凌",
+      "cleanName": "佳凌",
+      "ticker": "4976",
+      "shares": 75000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 39.65,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "凌陽",
+      "cleanName": "凌陽",
+      "ticker": "2401",
+      "shares": 5000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 30.95,
+      "latestPrice": 23.15
+    },
+    {
+      "name": "NVDA",
+      "cleanName": "NVDA",
+      "ticker": "NVDA",
+      "shares": 100,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 2179.73,
+      "latestPrice": 5558.45
+    },
+    {
+      "name": "MSFT",
+      "cleanName": "MSFT",
+      "ticker": "MSFT",
+      "shares": 35,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "PYPL",
+      "cleanName": "PYPL",
+      "ticker": "PYPL",
+      "shares": 700,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "NVAX",
+      "cleanName": "NVAX",
+      "ticker": "NVAX",
+      "shares": 14200,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "LCID",
+      "cleanName": "LCID",
+      "ticker": "LCID",
+      "shares": 30000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "NOK",
+      "cleanName": "NOK",
+      "ticker": "NOK",
+      "shares": 3000,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "農林",
+      "cleanName": "農林",
+      "ticker": "2913",
+      "shares": 6,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 20.2,
+      "latestPrice": 13.05
+    },
+    {
+      "name": "力新",
+      "cleanName": "力新",
+      "ticker": "5202",
+      "shares": 234,
+      "owner": "陳昭姿",
+      "priceAtDisclosure": 17.6,
+      "latestPrice": 15.05
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大多福基金",
+      "owner": "陳昭姿",
+      "institution": "元大證券",
+      "units": 28000,
+      "unitValue": 33600,
+      "currency": "",
+      "declaredValue": 33600,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "owner": "郭長豐",
+      "date": "1979-06-13",
+      "effectiveAreaPing": 16.02,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "owner": "陳昭姿",
+      "date": "2018-08-16",
+      "effectiveAreaPing": 16.02,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市萬華區雙園段三小段",
+      "owner": "陳昭姿",
+      "date": "2018-08-15",
+      "effectiveAreaPing": 1.97,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中正區永昌段六小段",
+      "owner": "陳昭姿",
+      "date": "2019-11-15",
+      "effectiveAreaPing": 41.78,
+      "entryCount": 1,
+      "price": "15,000,000 (房地合購價)"
+    },
+    {
+      "location": "臺北市中正區永昌段六小段 (附屬建物-陽台)",
+      "owner": "陳昭姿",
+      "date": "2019-11-15",
+      "effectiveAreaPing": 5.42,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市中正區永昌段六小段 (附屬建物-雨遮)",
+      "owner": "陳昭姿",
+      "date": "2019-11-15",
+      "effectiveAreaPing": 0.56,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

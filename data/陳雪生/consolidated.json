@@ -1,0 +1,147 @@
+{
+  "name": "陳雪生",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "連江縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 36345198
+    },
+    {
+      "currency": "美元",
+      "amount": 1072481
+    },
+    {
+      "currency": "澳幣",
+      "amount": 0
+    }
+  ],
+  "depositsTotal": 37417680,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "元 大 人 壽 保 險 股份有限公司",
+      "name": "元 大 人 壽 元 寶 325 利率變動型 養老保險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽新增利 利率變動型增額 終身壽險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球增額終身壽 險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽心得意 利率變動型年金 保險（甲型）",
+      "holder": "陳秀蘭",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金開鑫 利率變動型年金 保險（甲型）",
+      "holder": "陳秀蘭",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽五五得 利終身壽險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽全福還 本分紅終身保險 （繳費十年）",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽金美利 外幣利率變動型 增額終身壽險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 美 鑽 320 外幣利率變 動型養老保險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽增美利 外幣增額終身壽 險",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽雙福還 本分紅終身保險 （繳費十年）",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 終 身 壽 險 （丙型）",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽蘇黎世 終身壽險【定期 給付甲型】",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽蘇黎世 終身壽險【定期 給付型】",
+      "holder": "陳秀蘭",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市中和區景平段",
+      "owner": "陳雪生",
+      "date": "2010-01-25",
+      "effectiveAreaPing": 19.54,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市士林區陽明段四小段",
+      "owner": "陳秀蘭",
+      "date": "1986-02-13",
+      "effectiveAreaPing": 40.09,
+      "entryCount": 3,
+      "price": "含陽台 11.78 平方公尺(超 過五年)"
+    }
+  ]
+}

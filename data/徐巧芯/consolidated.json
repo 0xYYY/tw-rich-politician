@@ -1,0 +1,80 @@
+{
+  "name": "徐巧芯",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 12112010
+    },
+    {
+      "currency": "美元",
+      "amount": 162019
+    },
+    {
+      "currency": "南非幣",
+      "amount": 1414
+    },
+    {
+      "currency": "港幣",
+      "amount": 0
+    }
+  ],
+  "depositsTotal": 12275445,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽雙喜年 年利率變動型還 本終身保險（定 期給付型）",
+      "holder": "徐巧芯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新平準 終身壽險",
+      "holder": "徐巧芯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽醫起呵 護重大傷病保險",
+      "holder": "徐巧芯",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "力麗",
+      "cleanName": "力麗",
+      "ticker": "1444",
+      "shares": 254,
+      "owner": "徐巧芯",
+      "priceAtDisclosure": 9.16,
+      "latestPrice": 6.38
+    }
+  ],
+  "bonds": [
+    {
+      "name": "聯博全球非投資 等 級 債 券 基 金 AA-美元-穩定月 配息",
+      "owner": "徐巧芯",
+      "institution": "國泰世華銀行",
+      "units": 7925.254,
+      "unitValue": 8.02,
+      "currency": "美元",
+      "declaredValue": 2028852,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市松山區西松段三小段",
+      "owner": "劉彥澧",
+      "date": "2021-04-08",
+      "effectiveAreaPing": 28.16,
+      "entryCount": 1,
+      "price": "17,800,000(房 地總價額)"
+    }
+  ]
+}

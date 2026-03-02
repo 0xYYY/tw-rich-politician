@@ -1,0 +1,886 @@
+{
+  "name": "陳超明",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳麗利"
+    }
+  ],
+  "land": [
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 49601.58,
+      "share": "5194258 分 之 321673",
+      "owner": "陳超明",
+      "date": "111年01月28日",
+      "reason": "判決共有 物分割",
+      "price": "2,400"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 710.01,
+      "share": "5194258 分 之 321673",
+      "owner": "陳超明",
+      "date": "111年01月28日",
+      "reason": "判決共有 物分割",
+      "price": "2,400"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 559.36,
+      "share": "5194258 分 之 321673",
+      "owner": "陳超明",
+      "date": "111年01月28日",
+      "reason": "判決共有 物分割",
+      "price": "2,400"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 1358,
+      "share": "9228288 分 之 321673",
+      "owner": "陳超明",
+      "date": "111年01月28日",
+      "reason": "判決共有 物分割",
+      "price": "2,400"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 226.89,
+      "share": "9228288 分 之 321673",
+      "owner": "陳超明",
+      "date": "111年01月28日",
+      "reason": "判決共有 物分割",
+      "price": "2,400"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 319.01,
+      "share": "9228288 分 之 321673",
+      "owner": "陳超明",
+      "date": "111年01月28日",
+      "reason": "判決共有 物分割",
+      "price": "2,400"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 2975.98,
+      "share": "120 分之 3",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 72.81,
+      "share": "60 分之 1",
+      "owner": "陳超明",
+      "date": "79年11月10日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 2376.8,
+      "share": "120 分之 3",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 59.99,
+      "share": "7238600 分 之 77665",
+      "owner": "陳超明",
+      "date": "79年11月10日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 85.18,
+      "share": "180965 分 之 3883",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 93.49,
+      "share": "3600 分 之 33",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮五福段",
+      "area": 5.05,
+      "share": "3600 分 之 33",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮天聲段",
+      "area": 43.02,
+      "share": "20 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 40.88,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 41.04,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 9.51,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 2.62,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 3.02,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 5.15,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 0.85,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮文化段",
+      "area": 123.67,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月09日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮延平段",
+      "area": 66.02,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "91年11月11日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮延平段",
+      "area": 76.65,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "91年11月11日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮延平段",
+      "area": 130.01,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "91年11月11日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮延平段",
+      "area": 412.03,
+      "share": "100000 分 之 18098",
+      "owner": "陳超明",
+      "date": "91年11月11日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 95,
+      "share": "全部",
+      "owner": "陳超明",
+      "date": "67年11月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 7.96,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 15.21,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 24.21,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 90.74,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 323.87,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 306.06,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 1.66,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 131.03,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 1.4,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮新山佳段",
+      "area": 51.54,
+      "share": "5 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮龍山段",
+      "area": 205.64,
+      "share": "20 分之 1",
+      "owner": "陳超明",
+      "date": "74年10月14日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮龍山段",
+      "area": 181.8,
+      "share": "20 分之 1",
+      "owner": "陳超明",
+      "date": "74年10月14日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮龍山段",
+      "area": 89.2,
+      "share": "20 分之 1",
+      "owner": "陳超明",
+      "date": "74年10月14日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣竹南鎮龍山段",
+      "area": 70.48,
+      "share": "20 分之 1",
+      "owner": "陳超明",
+      "date": "74年10月14日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "苗栗縣頭份市華夏段",
+      "area": 324.79,
+      "share": "15 分之 1",
+      "owner": "陳超明",
+      "date": "73年11月19日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 517040,
+    "items": [
+      {
+        "institution": "合庫商業銀行頭份分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 3359
+      },
+      {
+        "institution": "合庫商業銀行中山分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 185
+      },
+      {
+        "institution": "合庫商業銀行中山分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "合庫商業銀行新竹科學園 區分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 363
+      },
+      {
+        "institution": "第一銀行竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "華南銀行南松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 12013
+      },
+      {
+        "institution": "華南銀行新生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 3214
+      },
+      {
+        "institution": "華南銀行竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1397
+      },
+      {
+        "institution": "華南銀行苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 208
+      },
+      {
+        "institution": "彰化銀行苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 19
+      },
+      {
+        "institution": "彰化銀行竹南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1503
+      },
+      {
+        "institution": "上海銀行中港分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 11552
+      },
+      {
+        "institution": "台北富邦銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "兆豐國際商業銀行忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 425
+      },
+      {
+        "institution": "臺灣企銀竹南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 618
+      },
+      {
+        "institution": "臺灣企銀頭份分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 3656
+      },
+      {
+        "institution": "渣打國際商銀竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 30
+      },
+      {
+        "institution": "渣打國際商銀竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "渣打國際商銀苗栗分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "渣打國際商銀苗栗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 44
+      },
+      {
+        "institution": "渣打國際商銀公館分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 12
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 4839
+      },
+      {
+        "institution": "聯邦銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1052
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 358
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 87
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 79
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 52
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 39
+      },
+      {
+        "institution": "遠東國際銀行台北忠孝分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 15
+      },
+      {
+        "institution": "元大銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 242
+      },
+      {
+        "institution": "玉山銀行竹南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 1659
+      },
+      {
+        "institution": "中信銀行城北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 10337
+      },
+      {
+        "institution": "苗栗縣竹南鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳超明",
+        "foreignAmount": 0,
+        "amount": 3
+      },
+      {
+        "institution": "第一銀行竹南分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 85
+      },
+      {
+        "institution": "第一銀行竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "華南銀行竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 41
+      },
+      {
+        "institution": "台北富邦銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 82
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 79141
+      },
+      {
+        "institution": "臺灣企銀竹南分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 39
+      },
+      {
+        "institution": "臺灣企銀頭份分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 570
+      },
+      {
+        "institution": "渣打國際商銀竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 127
+      },
+      {
+        "institution": "台中銀行竹南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 283
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 378552
+      },
+      {
+        "institution": "玉山銀行竹南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 50
+      },
+      {
+        "institution": "中信銀行城北分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "吳麗利",
+        "foreignAmount": 0,
+        "amount": 73
+      }
+    ]
+  },
+  "stocks": {
+    "total": 109070,
+    "items": [
+      {
+        "name": "華邦電",
+        "owner": "陳超明",
+        "shares": 21,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 210
+      },
+      {
+        "name": "錸德",
+        "owner": "陳超明",
+        "shares": 124,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1240
+      },
+      {
+        "name": "所羅門",
+        "owner": "陳超明",
+        "shares": 2842,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 28420
+      },
+      {
+        "name": "來思達",
+        "owner": "陳超明",
+        "shares": 557,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5570
+      },
+      {
+        "name": "南茂",
+        "owner": "陳超明",
+        "shares": 4,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 40
+      },
+      {
+        "name": "統一證",
+        "owner": "吳麗利",
+        "shares": 7359,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 73590
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 12495360,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳超明",
+        "creditor": "玉山商業銀行竹北分行 新竹縣竹北市光明一路",
+        "amount": 8029547,
+        "date": "101年02月23日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "陳超明",
+        "creditor": "臺灣土地銀行頭份分行 苗栗縣頭份市中華路",
+        "amount": 4465813,
+        "date": "90年05月29日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

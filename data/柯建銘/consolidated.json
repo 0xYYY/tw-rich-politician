@@ -1,0 +1,94 @@
+{
+  "name": "柯建銘",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1694766
+    },
+    {
+      "currency": "美元",
+      "amount": 126229
+    }
+  ],
+  "depositsTotal": 1820995,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山人壽新終身 醫療保險",
+      "holder": "林道春",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山八十終身保 險",
+      "holder": "林道春",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山年年春還本 終身保險",
+      "holder": "林道春",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山新金美滿還 本終身保險",
+      "holder": "林道春",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "茂矽",
+      "cleanName": "茂矽",
+      "ticker": "2342",
+      "shares": 7,
+      "owner": "柯建銘",
+      "priceAtDisclosure": 32.45,
+      "latestPrice": 33.5
+    },
+    {
+      "name": "宏遠電訊",
+      "cleanName": "宏遠電訊",
+      "ticker": "6457",
+      "shares": 1106,
+      "owner": "柯建銘",
+      "priceAtDisclosure": 66.4,
+      "latestPrice": null
+    },
+    {
+      "name": "碩聯創投",
+      "cleanName": "碩聯創投",
+      "ticker": null,
+      "shares": 50000,
+      "owner": "柯建銘",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "國巨",
+      "cleanName": "國巨",
+      "ticker": "2327",
+      "shares": 27,
+      "owner": "柯建銘",
+      "priceAtDisclosure": 545,
+      "latestPrice": 298
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市信義區信義段五小段",
+      "owner": "林道春",
+      "date": "2003-08-25",
+      "effectiveAreaPing": 123.56,
+      "entryCount": 4,
+      "price": "含陽台 24.71 平方公尺(超 過五年)"
+    }
+  ]
+}

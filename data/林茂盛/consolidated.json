@@ -1,0 +1,63 @@
+{
+  "name": "林茂盛",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "宜蘭縣",
+  "party": "無黨籍",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 1473572
+    }
+  ],
+  "depositsTotal": 1473572,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "王淑卿",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山 312 還本終 身保險",
+      "holder": "王淑卿",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "幸福一生還本終 身壽險",
+      "holder": "王淑卿",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市南港區玉成段五小段",
+      "owner": "王淑卿",
+      "date": "2001-08-30",
+      "effectiveAreaPing": 26.49,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區中正段",
+      "owner": "林茂盛",
+      "date": "2023-03-08",
+      "effectiveAreaPing": 41.08,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "基隆市七堵區自強段",
+      "owner": "王淑卿",
+      "date": "2023-03-08",
+      "effectiveAreaPing": 41.62,
+      "entryCount": 2,
+      "price": null
+    }
+  ]
+}

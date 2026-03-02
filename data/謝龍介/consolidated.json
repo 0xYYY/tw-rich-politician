@@ -1,0 +1,262 @@
+{
+  "name": "謝龍介",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 3398834
+    },
+    {
+      "currency": "美元",
+      "amount": 2307691
+    },
+    {
+      "currency": "人民幣",
+      "amount": 4275
+    },
+    {
+      "currency": "離岸人民幣",
+      "amount": 42
+    }
+  ],
+  "depositsTotal": 5710844,
+  "insurance": [
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽金好意 保險",
+      "holder": "謝龍介",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽心動年 年變額年金保險",
+      "holder": "李佳芬",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽心動年 年變額年金保險",
+      "holder": "李佳芬",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽鑫鑫向 榮變額壽險",
+      "holder": "李佳芬",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽鑫鑫向 榮變額壽險",
+      "holder": "李佳芬",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "保誠人壽百樂人 生變額壽險",
+      "holder": "李佳芬",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "保誠人壽活躍人 生變額壽險",
+      "holder": "李佳芬",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽心安福 殘廢照護終身保 險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽心安福 殘廢照護終身保 險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽龍滿意 保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽龍滿意 保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱基人壽保險股 份有限公司",
+      "name": "中國人壽龍滿意 保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽長扶久 久 A 型殘廢照護 終身保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽長保安 康終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽新百齡 終身壽險",
+      "holder": "李佳芬",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "岱宇",
+      "cleanName": "岱宇",
+      "ticker": "1598",
+      "shares": 7000,
+      "owner": "謝龍介",
+      "priceAtDisclosure": 30.4,
+      "latestPrice": 18.95
+    },
+    {
+      "name": "光洋科",
+      "cleanName": "光洋科",
+      "ticker": "1785",
+      "shares": 10000,
+      "owner": "謝龍介",
+      "priceAtDisclosure": 43.5,
+      "latestPrice": 62.2
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 15000,
+      "owner": "謝龍介",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "太子",
+      "cleanName": "太子",
+      "ticker": "2511",
+      "shares": 50000,
+      "owner": "謝龍介",
+      "priceAtDisclosure": 10,
+      "latestPrice": 8.27
+    },
+    {
+      "name": "康友-KY",
+      "cleanName": "康友-KY",
+      "ticker": "6452",
+      "shares": 3000,
+      "owner": "謝龍介",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "力積電",
+      "cleanName": "力積電",
+      "ticker": "6770",
+      "shares": 20000,
+      "owner": "謝龍介",
+      "priceAtDisclosure": 26.3,
+      "latestPrice": 76.7
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺南市北區大北門段",
+      "owner": "謝龍介",
+      "date": "2015-06-18",
+      "effectiveAreaPing": 164.9,
+      "entryCount": 9,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺南市北區大北門段",
+      "owner": "謝龍介",
+      "date": "2021-07-07",
+      "effectiveAreaPing": 49.96,
+      "entryCount": 5,
+      "price": "50,000(共同 使用部分)"
+    },
+    {
+      "location": "臺南市安南區青砂段",
+      "owner": "謝龍介",
+      "date": "2019-03-21",
+      "effectiveAreaPing": 105.43,
+      "entryCount": 2,
+      "price": "1,680,000(含 陽台 10.14 平 方公尺)"
+    },
+    {
+      "location": "臺南市安南區鹿北段",
+      "owner": "謝龍介",
+      "date": "2019-03-21",
+      "effectiveAreaPing": 72.51,
+      "entryCount": 1,
+      "price": "1,000,000(含 陽台8.74平方 公尺,雨遮 3.28 平方公 尺)"
+    },
+    {
+      "location": "臺南市北區大北門段",
+      "owner": "李佳芬",
+      "date": "2010-11-24",
+      "effectiveAreaPing": 7.05,
+      "entryCount": 3,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺南市北區大北門段",
+      "owner": "李佳芬",
+      "date": "2022-02-25",
+      "effectiveAreaPing": 168.51,
+      "entryCount": 1,
+      "price": "2,536,400(含 陽台 24.74 平 方公尺)"
+    },
+    {
+      "location": "臺南市北區忠義段",
+      "owner": "李佳芬",
+      "date": "2016-11-07",
+      "effectiveAreaPing": 49.01,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺南市南區金華路",
+      "owner": "謝龍介",
+      "date": "2020-04-01",
+      "effectiveAreaPing": 23.26,
+      "entryCount": 1,
+      "price": "230,600"
+    },
+    {
+      "location": "日本國函館市花園町○○番",
+      "owner": "李佳芬",
+      "date": "2022-03-31",
+      "effectiveAreaPing": 110.79,
+      "entryCount": 1,
+      "price": "2,300,000"
+    }
+  ]
+}

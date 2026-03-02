@@ -1,0 +1,986 @@
+{
+  "name": "吳琪銘",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月13日",
+  "type": "前次申報日期民國112年11月16日起，本次定期申報日113年12月13日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "許素珍"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣東勢鄉新美段",
+      "area": 6642.04,
+      "share": "4 分之 1",
+      "owner": "吳琪銘",
+      "date": "113年05月09日",
+      "reason": "繼承",
+      "price": "1,079,331 (公告現值)"
+    },
+    {
+      "location": "雲林縣臺西鄉普令厝段",
+      "area": 2915,
+      "share": "2 分之 1",
+      "owner": "吳琪銘",
+      "date": "113年05月09日",
+      "reason": "繼承",
+      "price": "874,500 (公告現值)"
+    },
+    {
+      "location": "雲林縣東勢鄉四美段",
+      "area": 1531,
+      "share": "14 分之 1",
+      "owner": "吳琪銘",
+      "date": "113年05月09日",
+      "reason": "繼承",
+      "price": "262,457 (公告現值)"
+    },
+    {
+      "location": "雲林縣東勢鄉四美段",
+      "area": 3589,
+      "share": "56 分之 4",
+      "owner": "吳琪銘",
+      "date": "113年05月09日",
+      "reason": "繼承",
+      "price": "615,257 (公告現值)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣東勢鄉四美村四美路",
+      "area": 64,
+      "share": "2 分之 1",
+      "owner": "吳琪銘",
+      "date": "113年05月09日",
+      "reason": "繼承",
+      "price": "6,300 (公告現值)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "36.60",
+        "changeDate": "112年12月07日",
+        "changeReason": "現買",
+        "totalValue": 366000
+      },
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "36.60",
+        "changeDate": "112年12月07日",
+        "changeReason": "現買",
+        "totalValue": 366000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "36.25",
+        "changeDate": "112年12月08日",
+        "changeReason": "現買",
+        "totalValue": 36250
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "36.30",
+        "changeDate": "112年12月12日",
+        "changeReason": "現買",
+        "totalValue": 363000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 9000,
+        "pricePerShare": "36.60",
+        "changeDate": "112年12月12日",
+        "changeReason": "現買",
+        "totalValue": 329400
+      },
+      {
+        "name": "台泥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 20000,
+        "pricePerShare": "32.95",
+        "changeDate": "113年01月16日",
+        "changeReason": "現買",
+        "totalValue": 659000
+      },
+      {
+        "name": "台泥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "32.95",
+        "changeDate": "113年01月16日",
+        "changeReason": "現買",
+        "totalValue": 329500
+      },
+      {
+        "name": "台泥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 20000,
+        "pricePerShare": "32.95",
+        "changeDate": "113年01月16日",
+        "changeReason": "現買",
+        "totalValue": 659000
+      },
+      {
+        "name": "台泥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 20000,
+        "pricePerShare": "32.20",
+        "changeDate": "113年01月17日",
+        "changeReason": "現買",
+        "totalValue": 644000
+      },
+      {
+        "name": "順藥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 6000,
+        "pricePerShare": "133.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "現賣",
+        "totalValue": 801000
+      },
+      {
+        "name": "順藥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "133.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "現賣",
+        "totalValue": 667500
+      },
+      {
+        "name": "順藥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 4000,
+        "pricePerShare": "133",
+        "changeDate": "113年01月25日",
+        "changeReason": "現賣",
+        "totalValue": 532000
+      },
+      {
+        "name": "順藥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 15000,
+        "pricePerShare": "134",
+        "changeDate": "113年01月25日",
+        "changeReason": "現賣",
+        "totalValue": 2010000
+      },
+      {
+        "name": "台泥",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 30000,
+        "pricePerShare": "32.40",
+        "changeDate": "113年01月29日",
+        "changeReason": "現買",
+        "totalValue": 972000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 7000,
+        "pricePerShare": "33.10",
+        "changeDate": "113年01月29日",
+        "changeReason": "現買",
+        "totalValue": 231700
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "33",
+        "changeDate": "113年01月30日",
+        "changeReason": "現買",
+        "totalValue": 330000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "33.10",
+        "changeDate": "113年01月30日",
+        "changeReason": "現買",
+        "totalValue": 331000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "33.05",
+        "changeDate": "113年01月30日",
+        "changeReason": "現買",
+        "totalValue": 99150
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "33.15",
+        "changeDate": "113年01月30日",
+        "changeReason": "現買",
+        "totalValue": 331500
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "32.55",
+        "changeDate": "113年01月31日",
+        "changeReason": "現買",
+        "totalValue": 325500
+      },
+      {
+        "name": "華安",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "60.50",
+        "changeDate": "113年02月01日",
+        "changeReason": "現買",
+        "totalValue": 605000
+      },
+      {
+        "name": "亞通",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 7000,
+        "pricePerShare": "34.90",
+        "changeDate": "113年02月02日",
+        "changeReason": "現買",
+        "totalValue": 244300
+      },
+      {
+        "name": "亞通",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "34.95",
+        "changeDate": "113年02月02日",
+        "changeReason": "現買",
+        "totalValue": 104850
+      },
+      {
+        "name": "聯華",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "65.80",
+        "changeDate": "113年02月15日",
+        "changeReason": "現買",
+        "totalValue": 658000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "65.80",
+        "changeDate": "113年02月15日",
+        "changeReason": "現買",
+        "totalValue": 658000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "31.90",
+        "changeDate": "113年02月15日",
+        "changeReason": "現買",
+        "totalValue": 159500
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "31.80",
+        "changeDate": "113年02月15日",
+        "changeReason": "現買",
+        "totalValue": 318000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "31.90",
+        "changeDate": "113年02月15日",
+        "changeReason": "現買",
+        "totalValue": 319000
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "122.50",
+        "changeDate": "113年02月16日",
+        "changeReason": "現買",
+        "totalValue": 245000
+      },
+      {
+        "name": "中工",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 50000,
+        "pricePerShare": "12.05",
+        "changeDate": "113年02月19日",
+        "changeReason": "現買",
+        "totalValue": 602500
+      },
+      {
+        "name": "中工",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 20000,
+        "pricePerShare": "12.05",
+        "changeDate": "113年02月19日",
+        "changeReason": "現買",
+        "totalValue": 241000
+      },
+      {
+        "name": "中工",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 30000,
+        "pricePerShare": "12.40",
+        "changeDate": "113年02月22日",
+        "changeReason": "現買",
+        "totalValue": 372000
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "115",
+        "changeDate": "113年02月22日",
+        "changeReason": "現買",
+        "totalValue": 345000
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "118",
+        "changeDate": "113年02月23日",
+        "changeReason": "現買",
+        "totalValue": 590000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "31",
+        "changeDate": "113年02月29日",
+        "changeReason": "現買",
+        "totalValue": 155000
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "31.05",
+        "changeDate": "113年02月29日",
+        "changeReason": "現買",
+        "totalValue": 310500
+      },
+      {
+        "name": "岱宇",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "32.05",
+        "changeDate": "113年03月01日",
+        "changeReason": "現買",
+        "totalValue": 160250
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "164.50",
+        "changeDate": "113年04月02日",
+        "changeReason": "現賣",
+        "totalValue": 822500
+      },
+      {
+        "name": "華孚",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "102.50",
+        "changeDate": "113年04月09日",
+        "changeReason": "現買",
+        "totalValue": 512500
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "49.30",
+        "changeDate": "113年04月12日",
+        "changeReason": "現買",
+        "totalValue": 493000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 9000,
+        "pricePerShare": "45.65",
+        "changeDate": "113年04月19日",
+        "changeReason": "現買",
+        "totalValue": 410850
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "46.75",
+        "changeDate": "113年04月19日",
+        "changeReason": "現買",
+        "totalValue": 46750
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "140.50",
+        "changeDate": "113年04月19日",
+        "changeReason": "現買",
+        "totalValue": 702500
+      },
+      {
+        "name": "中工",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 99000,
+        "pricePerShare": "15.95",
+        "changeDate": "113年05月14日",
+        "changeReason": "現賣",
+        "totalValue": 1579050
+      },
+      {
+        "name": "中工",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "16",
+        "changeDate": "113年05月14日",
+        "changeReason": "現賣",
+        "totalValue": 16000
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "161",
+        "changeDate": "113年05月15日",
+        "changeReason": "現賣",
+        "totalValue": 805000
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "164",
+        "changeDate": "113年05月16日",
+        "changeReason": "現賣",
+        "totalValue": 820000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "50.90",
+        "changeDate": "113年05月30日",
+        "changeReason": "現買",
+        "totalValue": 509000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "50.80",
+        "changeDate": "113年05月31日",
+        "changeReason": "現買",
+        "totalValue": 508000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "49.40",
+        "changeDate": "113年06月03日",
+        "changeReason": "現買",
+        "totalValue": 494000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "47.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "現買",
+        "totalValue": 476000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "48.60",
+        "changeDate": "113年06月11日",
+        "changeReason": "現買",
+        "totalValue": 486000
+      },
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 8000,
+        "pricePerShare": "58.10",
+        "changeDate": "113年06月18日",
+        "changeReason": "現賣",
+        "totalValue": 464800
+      },
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "58.20",
+        "changeDate": "113年06月18日",
+        "changeReason": "現賣",
+        "totalValue": 582000
+      },
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "60.30",
+        "changeDate": "113年06月18日",
+        "changeReason": "現賣",
+        "totalValue": 120600
+      },
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "60.30",
+        "changeDate": "113年06月18日",
+        "changeReason": "現賣",
+        "totalValue": 603000
+      },
+      {
+        "name": "永昕",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "60.10",
+        "changeDate": "113年06月18日",
+        "changeReason": "現賣",
+        "totalValue": 601000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "67.80",
+        "changeDate": "113年06月25日",
+        "changeReason": "現賣",
+        "totalValue": 678000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "67.80",
+        "changeDate": "113年06月25日",
+        "changeReason": "現賣",
+        "totalValue": 678000
+      },
+      {
+        "name": "光洋科",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "68.60",
+        "changeDate": "113年06月25日",
+        "changeReason": "現賣",
+        "totalValue": 686000
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "39.90",
+        "changeDate": "113年06月27日",
+        "changeReason": "現買",
+        "totalValue": 119700
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "39.90",
+        "changeDate": "113年06月27日",
+        "changeReason": "現買",
+        "totalValue": 119700
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "39.85",
+        "changeDate": "113年06月27日",
+        "changeReason": "現買",
+        "totalValue": 119550
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "40.25",
+        "changeDate": "113年06月28日",
+        "changeReason": "現買",
+        "totalValue": 80500
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "40.25",
+        "changeDate": "113年06月28日",
+        "changeReason": "現買",
+        "totalValue": 40250
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "40.20",
+        "changeDate": "113年06月28日",
+        "changeReason": "現買",
+        "totalValue": 80400
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "40.20",
+        "changeDate": "113年06月28日",
+        "changeReason": "現買",
+        "totalValue": 120600
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "40.20",
+        "changeDate": "113年06月28日",
+        "changeReason": "現買",
+        "totalValue": 40200
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "40.20",
+        "changeDate": "113年06月28日",
+        "changeReason": "現買",
+        "totalValue": 80400
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "40.45",
+        "changeDate": "113年07月01日",
+        "changeReason": "現買",
+        "totalValue": 40450
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "40.45",
+        "changeDate": "113年07月01日",
+        "changeReason": "現買",
+        "totalValue": 80900
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年07月01日",
+        "changeReason": "現買",
+        "totalValue": 40500
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年07月01日",
+        "changeReason": "現買",
+        "totalValue": 121500
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "40.50",
+        "changeDate": "113年07月01日",
+        "changeReason": "現買",
+        "totalValue": 121500
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "148",
+        "changeDate": "113年07月02日",
+        "changeReason": "現買",
+        "totalValue": 740000
+      },
+      {
+        "name": "聯華",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 10000,
+        "pricePerShare": "71.20",
+        "changeDate": "113年07月16日",
+        "changeReason": "現賣",
+        "totalValue": 712000
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 2000,
+        "pricePerShare": "44.70",
+        "changeDate": "113年07月16日",
+        "changeReason": "現買",
+        "totalValue": 89400
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "44.70",
+        "changeDate": "113年07月16日",
+        "changeReason": "現買",
+        "totalValue": 134100
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "44.70",
+        "changeDate": "113年07月16日",
+        "changeReason": "現買",
+        "totalValue": 223500
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 7000,
+        "pricePerShare": "44.70",
+        "changeDate": "113年07月16日",
+        "changeReason": "現買",
+        "totalValue": 312900
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "44.70",
+        "changeDate": "113年07月16日",
+        "changeReason": "現買",
+        "totalValue": 134100
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "39.60",
+        "changeDate": "113年08月02日",
+        "changeReason": "現買",
+        "totalValue": 118800
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "37.90",
+        "changeDate": "113年08月19日",
+        "changeReason": "現買",
+        "totalValue": 37900
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "37.90",
+        "changeDate": "113年08月19日",
+        "changeReason": "現買",
+        "totalValue": 37900
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 3000,
+        "pricePerShare": "37.95",
+        "changeDate": "113年08月21日",
+        "changeReason": "現買",
+        "totalValue": 113850
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "37.95",
+        "changeDate": "113年08月21日",
+        "changeReason": "現買",
+        "totalValue": 37950
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 1000,
+        "pricePerShare": "37.95",
+        "changeDate": "113年08月21日",
+        "changeReason": "現買",
+        "totalValue": 37950
+      },
+      {
+        "name": "創控",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "38",
+        "changeDate": "113年08月21日",
+        "changeReason": "現買",
+        "totalValue": 190000
+      },
+      {
+        "name": "達興材料",
+        "broker": "元大證券/和平",
+        "owner": "吳琪銘",
+        "shares": 5000,
+        "pricePerShare": "165.50",
+        "changeDate": "113年08月27日",
+        "changeReason": "現賣",
+        "totalValue": 827500
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

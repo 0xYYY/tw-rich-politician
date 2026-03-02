@@ -1,0 +1,49 @@
+{
+  "name": "莊瑞雄",
+  "date": "2024-11-13",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 735574
+    }
+  ],
+  "depositsTotal": 735574,
+  "insurance": [
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "美滿人生 202 終 身",
+      "holder": "莊瑞雄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "真情 101",
+      "holder": "莊瑞雄",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "屏東縣東港鎮新孝段",
+      "owner": "莊瑞雄",
+      "date": "2019-09-17",
+      "effectiveAreaPing": 120.06,
+      "entryCount": 1,
+      "price": "7,000,000"
+    },
+    {
+      "location": "屏東縣東港鎮新信段",
+      "owner": "莊瑞雄",
+      "date": "2014-01-06",
+      "effectiveAreaPing": 67.59,
+      "entryCount": 1,
+      "price": "3,952,000(超 過五年)"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "name": "王正旭",
+  "date": "2024-05-12",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2963743
+    },
+    {
+      "currency": "美元",
+      "amount": 3843421
+    },
+    {
+      "currency": "人民幣",
+      "amount": 13185
+    },
+    {
+      "currency": "歐元",
+      "amount": 61424
+    },
+    {
+      "currency": "日圓",
+      "amount": 40670
+    },
+    {
+      "currency": "澳幣",
+      "amount": 6631
+    }
+  ],
+  "depositsTotal": 6929075,
+  "insurance": [
+    {
+      "company": "法 商法國巴 黎 人 壽保險股 份 有 限公司台 灣 分公司",
+      "name": "法商法國巴黎人 壽鑫好富足變額 年金保險",
+      "holder": "王正旭",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "新二十年限期繳 費特別增值分紅 終身壽險",
+      "holder": "王正旭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰人壽保 險 股份有限公司",
+      "name": "七美福利變美元",
+      "holder": "王正旭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "寶利旺利率變動 型增額終身壽險",
+      "holder": "王正旭",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安達人壽",
+      "name": "安 達 人 壽 得 利 100 變額年金保 險",
+      "holder": "王貞乃",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽美年發 外幣增額還本終 身保險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽美寶外 幣終身分紅壽險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽 保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽真安心 手術醫療終身保 險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽健康御 守醫療帳戶終身 保險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山人壽鴻利發 還本終身分紅保 險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山新年年春還 本終身保險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山新年年春還 本終身保險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山新年年春還 本終身保險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山人壽保 險 股份有限公司",
+      "name": "南山新年年春還 本終身保險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基人壽保 險 股份有限公司",
+      "name": "中國人壽好美滿 外幣利率變動型 終身壽險(美元)",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦人壽保 險 股份有限公司",
+      "name": "富邦人壽外幣計 價享富一生變額 年金保險",
+      "holder": "王貞乃",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "月月好鑫外幣變 額年金保險",
+      "holder": "王貞乃",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "月月好鑫外幣變 額年金保險",
+      "holder": "王貞乃",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "月月好鑫變額年 金保險",
+      "holder": "王貞乃",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "臺 灣人壽保 險 股份有限公司",
+      "name": "臻美利美元利率 變動型終身壽險",
+      "holder": "王貞乃",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "★安聯收益成長 基 金 B( 穩 定 月 收)(月配現)(美 元)(後收)",
+      "owner": "王正旭",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 4440.152,
+      "unitValue": 8.8887,
+      "currency": "美元",
+      "declaredValue": 1279841,
+      "source": "fund"
+    },
+    {
+      "name": "★法盛盧米斯賽 勒斯美國成長股 票 基 金 CT( 累 積 )( 美 元 )( 後 收)",
+      "owner": "王正旭",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 1215.32,
+      "unitValue": 111.62,
+      "currency": "美元",
+      "declaredValue": 4398988,
+      "source": "fund"
+    },
+    {
+      "name": "★柏瑞多重資產 特 別 收 益 基 金 N(月配現)(新台 幣)(後收)",
+      "owner": "王正旭",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 544939.42,
+      "unitValue": 7.6664,
+      "currency": "",
+      "declaredValue": 4177723,
+      "source": "fund"
+    },
+    {
+      "name": "★柏瑞科技多重 資產基金(月配 現)(美元)",
+      "owner": "王正旭",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 3500,
+      "unitValue": 9.9835,
+      "currency": "美元",
+      "declaredValue": 1133107,
+      "source": "fund"
+    },
+    {
+      "name": "★安聯收益成長 基 金 ( 穩 定 月 收)(月配現)(美 元)",
+      "owner": "王正旭",
+      "institution": "中 國 信 託 商 業 銀行敦北分行",
+      "units": 1460.59,
+      "unitValue": 8.2114,
+      "currency": "美元",
+      "declaredValue": 388924,
+      "source": "fund"
+    },
+    {
+      "name": "聯博美國多重資 產台配",
+      "owner": "王正旭",
+      "institution": "台 北 富 邦 銀 行 敦北分行",
+      "units": 578592.09,
+      "unitValue": 8.17,
+      "currency": "",
+      "declaredValue": 4727097,
+      "source": "fund"
+    },
+    {
+      "name": "★聯博美國收益 月配美",
+      "owner": "王正旭",
+      "institution": "台 北 富 邦 銀 行 敦北分行",
+      "units": 26285.069,
+      "unitValue": 10.84,
+      "currency": "美元",
+      "declaredValue": 9239714,
+      "source": "fund"
+    },
+    {
+      "name": "★安聯收益成長 BM 月美",
+      "owner": "王正旭",
+      "institution": "台 北 富 邦 銀 行 敦北分行",
+      "units": 13062.127,
+      "unitValue": 8.8914,
+      "currency": "美元",
+      "declaredValue": 3766207,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "owner": "王正旭",
+      "date": "1997-05-14",
+      "effectiveAreaPing": 44.95,
+      "entryCount": 2,
+      "price": "含陽台 12.06 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺中市西屯區信安段",
+      "owner": "王貞乃",
+      "date": "1992-07-18",
+      "effectiveAreaPing": 49.93,
+      "entryCount": 2,
+      "price": "含平台4.52平 方公尺,花台 0.76 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺中市西屯區信安段",
+      "owner": "王貞乃",
+      "date": "1992-07-10",
+      "effectiveAreaPing": 3.53,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "owner": "王貞乃",
+      "date": "2001-09-11",
+      "effectiveAreaPing": 97.6,
+      "entryCount": 4,
+      "price": "含陽台 16.18 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "owner": "王貞乃",
+      "date": "2002-01-30",
+      "effectiveAreaPing": 94.83,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    }
+  ]
+}

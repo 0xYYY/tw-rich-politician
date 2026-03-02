@@ -1,0 +1,794 @@
+{
+  "name": "李柏毅",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "葉瑋玲"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○晉"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○允"
+    }
+  ],
+  "land": [
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "area": 900,
+      "share": "10000 分之 197",
+      "owner": "李柏毅",
+      "date": "105年11月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "area": 900,
+      "share": "10000 分之 101",
+      "owner": "李柏毅",
+      "date": "105年11月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市前金區民生段",
+      "area": 290,
+      "share": "10000 分之 810",
+      "owner": "李柏毅",
+      "date": "98年12月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市左營區新博段",
+      "area": 5097.07,
+      "share": "100000 分 之 841",
+      "owner": "葉瑋玲",
+      "date": "106年05月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "高雄市鼓山區龍中段",
+      "area": 2108.6,
+      "share": "10000 分之 56",
+      "owner": "葉瑋玲",
+      "date": "95年04月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "area": 95.4,
+      "share": "全部",
+      "owner": "李柏毅",
+      "date": "105年11月30日",
+      "reason": "買賣",
+      "price": "含陽台8.02平 方公尺,雨遮 3.52 平方公尺 (超過五年)"
+    },
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "area": 58.71,
+      "share": "全部",
+      "owner": "李柏毅",
+      "date": "105年11月30日",
+      "reason": "買賣",
+      "price": "含陽台6.81平 方公尺(超過 五年)"
+    },
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "area": 4102.19,
+      "share": "100000 分 之 2015",
+      "owner": "李柏毅",
+      "date": "105年11月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市左營區新庄段六小段",
+      "area": 4102.19,
+      "share": "100000 分 之 802",
+      "owner": "李柏毅",
+      "date": "105年11月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市前金區民生段",
+      "area": 107.1,
+      "share": "全部",
+      "owner": "李柏毅",
+      "date": "98年12月17日",
+      "reason": "買賣",
+      "price": "含陽台 11.12 平方公尺(超 過五年)"
+    },
+    {
+      "location": "高雄市前金區民生段",
+      "area": 107.1,
+      "share": "全部",
+      "owner": "李柏毅",
+      "date": "98年12月17日",
+      "reason": "買賣",
+      "price": "含陽台 11.12 平方公尺(超 過五年)"
+    },
+    {
+      "location": "高雄市前金區民生段",
+      "area": 412.39,
+      "share": "10000 分之 430",
+      "owner": "李柏毅",
+      "date": "98年12月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市前金區民生段",
+      "area": 412.39,
+      "share": "10000 分之 430",
+      "owner": "李柏毅",
+      "date": "98年12月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市左營區新博段",
+      "area": 285.49,
+      "share": "全部",
+      "owner": "葉瑋玲",
+      "date": "106年04月17日",
+      "reason": "買賣",
+      "price": "含陽台 23.94 平方公尺,雨 遮9.21平方公 尺(超過五年)"
+    },
+    {
+      "location": "高雄市左營區新博段",
+      "area": 27228.11,
+      "share": "100000 分 之 838",
+      "owner": "葉瑋玲",
+      "date": "106年04月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "高雄市鼓山區龍中段",
+      "area": 61.14,
+      "share": "全部",
+      "owner": "葉瑋玲",
+      "date": "95年04月17日",
+      "reason": "買賣",
+      "price": "含陽台6.51平 方公尺,雨遮 1.42 平方公尺 (超過五年)"
+    },
+    {
+      "location": "高雄市鼓山區龍中段",
+      "area": 6217.98,
+      "share": "10000 分之 60",
+      "owner": "葉瑋玲",
+      "date": "95年04月17日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "AUDI",
+      "cc": 1984,
+      "owner": "葉瑋玲",
+      "date": "112年08月15日",
+      "reason": "買賣",
+      "price": 2000000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 6845043,
+    "items": [
+      {
+        "institution": "土地銀行南台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 16
+      },
+      {
+        "institution": "合庫商業銀行新興分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 481207
+      },
+      {
+        "institution": "華南銀行五權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "華南銀行高雄博愛分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 101318
+      },
+      {
+        "institution": "上海銀行北高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 19512
+      },
+      {
+        "institution": "上海銀行東高雄分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李柏毅",
+        "foreignAmount": 3272,
+        "amount": 104587
+      },
+      {
+        "institution": "上海銀行東高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 657088
+      },
+      {
+        "institution": "上海銀行東高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 257486
+      },
+      {
+        "institution": "台北富邦商業銀行七賢分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "高雄銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 3347830
+      },
+      {
+        "institution": "兆豐國際商業銀行南台中 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 185
+      },
+      {
+        "institution": "臺灣企銀前鎮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 17
+      },
+      {
+        "institution": "臺灣企銀九如分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 4957
+      },
+      {
+        "institution": "京城商業銀行北高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 60293
+      },
+      {
+        "institution": "元大銀行十全分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 15
+      },
+      {
+        "institution": "玉山銀行民生分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 1730
+      },
+      {
+        "institution": "星展台灣苓雅分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 9510
+      },
+      {
+        "institution": "中信銀行三民分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 180227
+      },
+      {
+        "institution": "中信銀行新興分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李柏毅",
+        "foreignAmount": 0,
+        "amount": 160952
+      },
+      {
+        "institution": "土地銀行高雄分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "葉瑋玲",
+        "foreignAmount": 4,
+        "amount": 149
+      },
+      {
+        "institution": "土地銀行中正分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 23
+      },
+      {
+        "institution": "華南銀行高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 131
+      },
+      {
+        "institution": "上海銀行北高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 628
+      },
+      {
+        "institution": "國泰世華銀行高雄分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "葉瑋玲",
+        "foreignAmount": 800018,
+        "amount": 167611
+      },
+      {
+        "institution": "國泰世華銀行高雄分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "葉瑋玲",
+        "foreignAmount": 1,
+        "amount": 58
+      },
+      {
+        "institution": "國泰世華銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 58631
+      },
+      {
+        "institution": "兆豐國際商業銀行沙鹿分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "京城商業銀行北高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 420175
+      },
+      {
+        "institution": "臺灣新光銀行左營華夏路 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "陽信銀行左營分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 39998
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 98
+      },
+      {
+        "institution": "元大銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 9
+      },
+      {
+        "institution": "台新國際銀行苓雅分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 1931
+      },
+      {
+        "institution": "中信銀行高雄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 274491
+      },
+      {
+        "institution": "中信銀行新興分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "葉瑋玲",
+        "foreignAmount": 0,
+        "amount": 493157
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1734738,
+    "items": [
+      {
+        "name": "和大",
+        "owner": "李柏毅",
+        "shares": 181,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1810
+      },
+      {
+        "name": "錩新",
+        "owner": "李柏毅",
+        "shares": 787,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7870
+      },
+      {
+        "name": "中天",
+        "owner": "李柏毅",
+        "shares": 2087,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20870
+      },
+      {
+        "name": "龍巖",
+        "owner": "李柏毅",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "伍豐",
+        "owner": "李柏毅",
+        "shares": 2702,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 27020
+      },
+      {
+        "name": "華友聯",
+        "owner": "葉瑋玲",
+        "shares": 6000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 60000
+      },
+      {
+        "name": "台積電",
+        "owner": "葉瑋玲",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "華航",
+        "owner": "葉瑋玲",
+        "shares": 1705,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 17050
+      },
+      {
+        "name": "永崴投控",
+        "owner": "葉瑋玲",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "SY HOLDINGS",
+        "owner": "葉瑋玲",
+        "shares": 32000,
+        "faceValue": 6,
+        "foreignCurrency": "港幣",
+        "totalValue": 910118
+      },
+      {
+        "name": "森崴能源",
+        "owner": "葉瑋玲",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "北基",
+        "owner": "葉瑋玲",
+        "shares": 30000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300000
+      },
+      {
+        "name": "國統",
+        "owner": "葉瑋玲",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽佳美利 美元利率變動型 還 本 終 身 保 險 （定期給付型）",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 03 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽美滿人 生長期照顧終身 保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 04 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "312 還本終身壽 險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 02 日/164 年 12 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安家保本定期保 險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 02 月 13 日/142 年 02 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "安順手術醫療終 身",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 08 日/165 年 05 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新增美滿 312",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 03 月 12 日/165 年 03 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 05 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平安 福保本保險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 11 日/217 年 06 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新平安 福保本保險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "李柏毅",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 06 月 11 日/214 年 06 月 10 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "真安順手術醫療 終身",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 20 日/168 年 01 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美利美元",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 12 月 08 日/178 年 12 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "新真安心住院醫 療終身",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 20 日/168 年 01 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "鍾意終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 07 月 24 日/167 年 07 月 23 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽多多利 終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 08 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽安心寶 倍終身健康保險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 03 月 06 日/206 年 03 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽美利富 貴外幣利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 03 月 02 日/180 年 03 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "增好鑫利率變動 型增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "葉瑋玲",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 02 月 15 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 37620390,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "李柏毅",
+        "creditor": "上海商業儲蓄銀行東高雄分 行 高雄市仁武區仁雄路",
+        "amount": 12260614,
+        "date": "109年05月11日",
+        "reason": "購 置 住 宅 個人消費性"
+      },
+      {
+        "type": "授信",
+        "debtor": "李柏毅",
+        "creditor": "高雄銀行營業部 高雄市左營區博愛二路",
+        "amount": 5801289,
+        "date": "101年09月18日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "葉瑋玲",
+        "creditor": "京城商業銀行股份有限公司 台南市中西區西門路",
+        "amount": 19558487,
+        "date": "106年04月20日",
+        "reason": "購置自用住 宅"
+      }
+    ]
+  },
+  "investments": {
+    "total": 4000000,
+    "items": [
+      {
+        "investor": "李柏毅",
+        "company": "大允貿易股份有限公司",
+        "address": "高雄市前金區民生二路 69 號 11 樓",
+        "amount": 4000000,
+        "date": "109年01月03日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

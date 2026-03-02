@@ -1,0 +1,91 @@
+{
+  "name": "伍麗華",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "山地原住民",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 9636099
+    },
+    {
+      "currency": "美元",
+      "amount": 17037
+    }
+  ],
+  "depositsTotal": 9653136,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽豐沛一 生變額壽險",
+      "holder": "伍麗華",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽好福氣 失能照護終身保 險",
+      "holder": "伍麗華",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽新登峰 終身保險（平準 型）",
+      "holder": "伍麗華",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+      "holder": "伍麗華",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽好福氣 失能照護終身保 險",
+      "holder": "高保羅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽新登峰 終身保險（平準 型）",
+      "holder": "高保羅",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽吉美利 外幣利率變動型 增額終身壽險",
+      "holder": "高保羅",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "屏東縣長治鄉長治段",
+      "owner": "高保羅",
+      "date": "2004-12-13",
+      "effectiveAreaPing": 56.35,
+      "entryCount": 1,
+      "price": "含陽台6.34平 方公尺,屋頂 突出物5.59平 方公尺(超過 五年)"
+    },
+    {
+      "location": "屏東縣屏東市瑞光段",
+      "owner": "高保羅",
+      "date": "2020-03-19",
+      "effectiveAreaPing": 30.88,
+      "entryCount": 1,
+      "price": "4,700,000(與 第10筆土地合 購)"
+    },
+    {
+      "location": "屏東縣瑪家鄉佳義村",
+      "owner": "高保羅",
+      "date": "2015-12-22",
+      "effectiveAreaPing": 104.36,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

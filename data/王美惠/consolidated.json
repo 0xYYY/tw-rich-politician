@@ -1,0 +1,53 @@
+{
+  "name": "王美惠",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "嘉義市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 3370633
+    }
+  ],
+  "depositsTotal": 3370633,
+  "insurance": [
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "南山人壽意帆風 順保本終身保險",
+      "holder": "王美惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險股 份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "王美惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "微馨愛小額終身 壽險",
+      "holder": "王美惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "新呵護久久失能 照護",
+      "holder": "王美惠",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "嘉義市盧厝段",
+      "owner": "王美惠",
+      "date": "1998-07-06",
+      "effectiveAreaPing": 42.8,
+      "entryCount": 3,
+      "price": "共同使用部分 (超過五年)"
+    }
+  ]
+}

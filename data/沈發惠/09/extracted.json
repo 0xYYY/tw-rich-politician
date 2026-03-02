@@ -1,0 +1,69 @@
+{
+  "name": "沈發惠",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃蓁蓁"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "元大金",
+        "broker": "統一證券南京分公 司",
+        "owner": "黃蓁蓁",
+        "shares": 8,
+        "pricePerShare": "30.25",
+        "changeDate": "113年09月13日",
+        "changeReason": "配股",
+        "totalValue": 242
+      },
+      {
+        "name": "永豐金",
+        "broker": "統一證券南京分公 司",
+        "owner": "黃蓁蓁",
+        "shares": 52,
+        "pricePerShare": "24",
+        "changeDate": "113年09月27日",
+        "changeReason": "配股",
+        "totalValue": 1248
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

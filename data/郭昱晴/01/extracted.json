@@ -1,0 +1,891 @@
+{
+  "name": "郭昱晴",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "林宣廷"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○呈"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市大安區懷生段二小段",
+      "area": 2070,
+      "share": "10000 分之 142",
+      "owner": "郭昱晴",
+      "date": "82年12月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區長春段三小段",
+      "area": 165,
+      "share": "4 分之 1",
+      "owner": "郭昱晴",
+      "date": "108年02月19日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區懷生段二小段",
+      "area": 123.4,
+      "share": "全部",
+      "owner": "郭昱晴",
+      "date": "82年12月20日",
+      "reason": "買賣",
+      "price": "含陽台 19.28 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市大安區懷生段二小段",
+      "area": 972.79,
+      "share": "10000 分之 143",
+      "owner": "郭昱晴",
+      "date": "82年12月20日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中山區長春段三小段",
+      "area": 125.7,
+      "share": "全部",
+      "owner": "郭昱晴",
+      "date": "108年02月19日",
+      "reason": "買賣",
+      "price": "含陽台 17.26 平方公尺(超 過五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 1010572,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 3219
+      },
+      {
+        "institution": "臺灣銀行信安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 34
+      },
+      {
+        "institution": "臺灣銀行新永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 65
+      },
+      {
+        "institution": "第一銀行板橋分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 1931
+      },
+      {
+        "institution": "華南銀行積穗分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 1144
+      },
+      {
+        "institution": "彰化銀行建成分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 123
+      },
+      {
+        "institution": "彰化銀行敦化分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "郭昱晴",
+        "foreignAmount": 1,
+        "amount": 58
+      },
+      {
+        "institution": "彰化銀行敦化分行",
+        "type": "活期證券戶",
+        "currency": "美元",
+        "owner": "郭昱晴",
+        "foreignAmount": 3,
+        "amount": 109
+      },
+      {
+        "institution": "台北富邦銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 291778
+      },
+      {
+        "institution": "台北富邦商業銀行小巨蛋 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "國泰世華銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 147
+      },
+      {
+        "institution": "國泰世華銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 101
+      },
+      {
+        "institution": "匯豐台灣台北分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 95
+      },
+      {
+        "institution": "匯豐台灣光復分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 1895
+      },
+      {
+        "institution": "匯豐台灣光復分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 15
+      },
+      {
+        "institution": "臺灣新光銀行敦南分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 584
+      },
+      {
+        "institution": "板信銀行永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 38
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 200
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 52
+      },
+      {
+        "institution": "聯邦銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 198345
+      },
+      {
+        "institution": "玉山銀行連城分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 88
+      },
+      {
+        "institution": "中信銀行城中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "郭昱晴",
+        "foreignAmount": 0,
+        "amount": 95100
+      },
+      {
+        "institution": "中信銀行龍江簡易型分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "郭昱晴",
+        "foreignAmount": 3236,
+        "amount": 102246
+      },
+      {
+        "institution": "臺灣銀行北投分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 210
+      },
+      {
+        "institution": "臺灣銀行仁愛分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 420
+      },
+      {
+        "institution": "臺灣銀行新永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 64
+      },
+      {
+        "institution": "土地銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 62
+      },
+      {
+        "institution": "第一銀行南京東路分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 37037
+      },
+      {
+        "institution": "第一銀行南京東路分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "林宣廷",
+        "foreignAmount": 8,
+        "amount": 1
+      },
+      {
+        "institution": "華南銀行國際金融部",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "林宣廷",
+        "foreignAmount": 2,
+        "amount": 76
+      },
+      {
+        "institution": "華南銀行南勢角分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 464
+      },
+      {
+        "institution": "彰化銀行江翠分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 32
+      },
+      {
+        "institution": "台北富邦銀行松高分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 929
+      },
+      {
+        "institution": "台北富邦銀行松高分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "國泰世華銀行安和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 155
+      },
+      {
+        "institution": "國泰世華銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 64966
+      },
+      {
+        "institution": "國泰世華銀行西松分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 10896
+      },
+      {
+        "institution": "渣打國際商銀建國分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 2232
+      },
+      {
+        "institution": "華泰銀行古亭分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 52
+      },
+      {
+        "institution": "臺灣新光銀行松山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 354
+      },
+      {
+        "institution": "板信銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 13
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 92
+      },
+      {
+        "institution": "中和地區農會",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "永豐銀行世貿分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 689
+      },
+      {
+        "institution": "玉山銀行永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 5850
+      },
+      {
+        "institution": "台新國際銀行南京東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 27
+      },
+      {
+        "institution": "中信銀行承德分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 12519
+      },
+      {
+        "institution": "中信銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林宣廷",
+        "foreignAmount": 0,
+        "amount": 683
+      },
+      {
+        "institution": "中信銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林○呈",
+        "foreignAmount": 0,
+        "amount": 175279
+      }
+    ]
+  },
+  "stocks": {
+    "total": 616240,
+    "items": [
+      {
+        "name": "美時",
+        "owner": "郭昱晴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "第一銅",
+        "owner": "郭昱晴",
+        "shares": 7000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 70000
+      },
+      {
+        "name": "和泰車",
+        "owner": "郭昱晴",
+        "shares": 1020,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10200
+      },
+      {
+        "name": "台積電",
+        "owner": "郭昱晴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "光罩",
+        "owner": "郭昱晴",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "聯發科",
+        "owner": "郭昱晴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "長榮",
+        "owner": "郭昱晴",
+        "shares": 1200,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12000
+      },
+      {
+        "name": "長榮航",
+        "owner": "郭昱晴",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "兆豐金",
+        "owner": "郭昱晴",
+        "shares": 5040,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50400
+      },
+      {
+        "name": "新光金",
+        "owner": "郭昱晴",
+        "shares": 61,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 610
+      },
+      {
+        "name": "新光金",
+        "owner": "郭昱晴",
+        "shares": 14,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 140
+      },
+      {
+        "name": "緯創",
+        "owner": "郭昱晴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "神達",
+        "owner": "郭昱晴",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "中租-KY 甲特",
+        "owner": "郭昱晴",
+        "shares": 279,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2790
+      },
+      {
+        "name": "中租-KY",
+        "owner": "郭昱晴",
+        "shares": 3611,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 36110
+      },
+      {
+        "name": "合晶",
+        "owner": "郭昱晴",
+        "shares": 3229,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 32290
+      },
+      {
+        "name": "台燿",
+        "owner": "郭昱晴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "元晶",
+        "owner": "郭昱晴",
+        "shares": 10926,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 109260
+      },
+      {
+        "name": "無敵",
+        "owner": "郭昱晴",
+        "shares": 58,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 580
+      },
+      {
+        "name": "中鋼",
+        "owner": "林宣廷",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "台積電",
+        "owner": "林宣廷",
+        "shares": 159,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1590
+      },
+      {
+        "name": "聯發科",
+        "owner": "林宣廷",
+        "shares": 27,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 270
+      },
+      {
+        "name": "神達",
+        "owner": "林宣廷",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "owner": "郭昱晴",
+        "institution": "元富證券",
+        "units": 1000,
+        "unitValue": 152.96,
+        "foreignCurrency": "",
+        "totalValue": 152960
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "郭昱晴",
+        "institution": "元富證券",
+        "units": 20000,
+        "unitValue": 22.48,
+        "foreignCurrency": "",
+        "totalValue": 449600
+      },
+      {
+        "name": "富邦特選高股息 30",
+        "owner": "郭昱晴",
+        "institution": "元富證券",
+        "units": 5000,
+        "unitValue": 15.5,
+        "foreignCurrency": "",
+        "totalValue": 77500
+      },
+      {
+        "name": "Invesco QQQ Trust Seri",
+        "owner": "林宣廷",
+        "institution": "國泰綜合證券",
+        "units": 1.1743,
+        "unitValue": 433.92,
+        "foreignCurrency": "美元",
+        "totalValue": 16087
+      },
+      {
+        "name": "Vanguard Total World S",
+        "owner": "林宣廷",
+        "institution": "國泰綜合證券",
+        "units": 4.6324,
+        "unitValue": 108.14,
+        "foreignCurrency": "美元",
+        "totalValue": 15815
+      },
+      {
+        "name": "元大台灣 50",
+        "owner": "林宣廷",
+        "institution": "國 泰 綜 合 證 券 敦南分公司",
+        "units": 1283,
+        "unitValue": 152.96,
+        "foreignCurrency": "",
+        "totalValue": 196247
+      },
+      {
+        "name": "元大高股息",
+        "owner": "林宣廷",
+        "institution": "國 泰 綜 合 證 券 敦南分公司",
+        "units": 1690,
+        "unitValue": 39.2,
+        "foreignCurrency": "",
+        "totalValue": 66248
+      },
+      {
+        "name": "元大台灣高息低 波",
+        "owner": "林宣廷",
+        "institution": "國 泰 綜 合 證 券 敦南分公司",
+        "units": 504,
+        "unitValue": 54.27,
+        "foreignCurrency": "",
+        "totalValue": 27352
+      },
+      {
+        "name": "國泰北美科技",
+        "owner": "林宣廷",
+        "institution": "國 泰 綜 合 證 券 敦南分公司",
+        "units": 23,
+        "unitValue": 41.12,
+        "foreignCurrency": "",
+        "totalValue": 945
+      },
+      {
+        "name": "國泰永續高股息",
+        "owner": "林宣廷",
+        "institution": "國 泰 綜 合 證 券 敦南分公司",
+        "units": 3035,
+        "unitValue": 22.48,
+        "foreignCurrency": "",
+        "totalValue": 68226
+      },
+      {
+        "name": "富邦特選高股息 30",
+        "owner": "林宣廷",
+        "institution": "國 泰 綜 合 證 券 敦南分公司",
+        "units": 2000,
+        "unitValue": 15.5,
+        "foreignCurrency": "",
+        "totalValue": 31000
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 美 利 吉 順 外 幣 利 率 變 動 型 終 身 壽 險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "郭昱晴",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 03 月 25 日/170 年 03 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "郭昱晴",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 30 日/201 年 12 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+        "policyNumber": "○○○○○○○ ○○900",
+        "holder": "郭昱晴",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 12 月 31 日/158 年 12 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新 光 人 壽 增 有 利終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "郭昱晴",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 07 月 27 日/211 年 07 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安 泰 人 壽 靈 活 理 財 變 額 保 險 乙型",
+        "policyNumber": "○○○○○○○ ○○904",
+        "holder": "林宣廷",
+        "contractType": "投資型壽險",
+        "period": "96 年 08 月 11 日/171 年 08 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "好 鑫 安 保 險 乙 型",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "林宣廷",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 09 月 16 日/118 年 09 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 守 護 人 生 終 身 健 康 保險",
+        "policyNumber": "○○○○○○○ ○○603",
+        "holder": "林○呈",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 16 日/212 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 健 康 寶 倍 終 身 健 康 保險",
+        "policyNumber": "○○○○○○○ ○○601",
+        "holder": "林○呈",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 16 日/201 年 11 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富 邦 人 壽 富 利 旺終身壽險",
+        "policyNumber": "○○○○○○○ ○○602",
+        "holder": "林○呈",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 11 月 16 日/200 年 11 月 15 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "鑽戒",
+        "quantity": "2",
+        "owner": "郭昱晴",
+        "value": 600000
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 15358208,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "郭昱晴",
+        "creditor": "台北富邦商業銀行桂林分行 台北市桂林路",
+        "amount": 14710221,
+        "date": "108年02月25日",
+        "reason": "房貸分期長 擔"
+      },
+      {
+        "type": "授信",
+        "debtor": "林宣廷",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 323217,
+        "date": "108年01月22日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "林宣廷",
+        "creditor": "國泰世華商業銀行建國分行 台北市南京東路",
+        "amount": 324770,
+        "date": "112年10月11日",
+        "reason": "其他消費性 貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

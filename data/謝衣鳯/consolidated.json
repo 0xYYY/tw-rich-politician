@@ -1,0 +1,176 @@
+{
+  "name": "謝衣鳯",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "彰化縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 31270507
+    },
+    {
+      "currency": "英鎊",
+      "amount": 3
+    },
+    {
+      "currency": "美元",
+      "amount": 3522990
+    },
+    {
+      "currency": "日圓",
+      "amount": 252370
+    },
+    {
+      "currency": "歐元",
+      "amount": 41
+    }
+  ],
+  "depositsTotal": 35045912,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 金 鑽 515 美元還本終 身保險",
+      "holder": "謝衣鳯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "美滿人生 312",
+      "holder": "謝衣鳯",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 銀 人 壽 保 險 股份有限公司",
+      "name": "全家福養老保險",
+      "holder": "謝衣鳯",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 1,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": null,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "正隆",
+      "cleanName": "正隆",
+      "ticker": "1904",
+      "shares": 5,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": 24.05,
+      "latestPrice": 18.4
+    },
+    {
+      "name": "永豐餘",
+      "cleanName": "永豐餘",
+      "ticker": "1907",
+      "shares": 1,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": 31.35,
+      "latestPrice": 25.85
+    },
+    {
+      "name": "山隆",
+      "cleanName": "山隆",
+      "ticker": "2616",
+      "shares": 1,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": 20.4,
+      "latestPrice": 13.6
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 25690,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": 32.1,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 9186,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": 89,
+      "latestPrice": 92
+    },
+    {
+      "name": "台郡",
+      "cleanName": "台郡",
+      "ticker": "6269",
+      "shares": 12000,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": 75.4,
+      "latestPrice": 64.7
+    },
+    {
+      "name": "偉盟",
+      "cleanName": "偉盟",
+      "ticker": null,
+      "shares": 309000,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "欣錩",
+      "cleanName": "欣錩",
+      "ticker": null,
+      "shares": 5,
+      "owner": "謝衣鳯",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣 50",
+      "owner": "謝衣鳯",
+      "institution": "富 邦 綜 合 證 券 南員林分公司",
+      "units": 5000,
+      "unitValue": 190.5,
+      "currency": "",
+      "declaredValue": 952500,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "謝衣鳯",
+      "institution": "富 邦 綜 合 證 券 南員林分公司",
+      "units": 3000,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 111840,
+      "source": "fund"
+    },
+    {
+      "name": "富邦特選高股息 30",
+      "owner": "謝衣鳯",
+      "institution": "富 邦 綜 合 證 券 南員林分公司",
+      "units": 2000,
+      "unitValue": 14.64,
+      "currency": "",
+      "declaredValue": 29280,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中山區榮星段五小段",
+      "owner": "謝衣鳯",
+      "date": "2009-10-22",
+      "effectiveAreaPing": 59.23,
+      "entryCount": 3,
+      "price": "含陽台 11.75 平方公尺,花 台2.61平方公 尺(超過五年)"
+    }
+  ]
+}

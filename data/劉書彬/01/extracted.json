@@ -1,0 +1,394 @@
+{
+  "name": "劉書彬",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "114年03月14日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [
+    {
+      "location": "臺北市內湖區東湖段三小段",
+      "area": 2890,
+      "share": "100000 分 之 1162",
+      "owner": "劉書彬",
+      "date": "98年06月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市內湖區東湖段三小段",
+      "area": 80.74,
+      "share": "10000 分之 866",
+      "owner": "劉書彬",
+      "date": "98年06月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市內湖區東湖段三小段",
+      "area": 0,
+      "share": "100000 分 之 728",
+      "owner": "劉書彬",
+      "date": "98年06月30日",
+      "reason": "買賣",
+      "price": "停車位編號 B3-○○號 (超過五年)"
+    },
+    {
+      "location": "臺北市內湖區東湖段三小段",
+      "area": 0,
+      "share": "100000 分 之 728",
+      "owner": "劉書彬",
+      "date": "98年06月30日",
+      "reason": "買賣",
+      "price": "停車位編號 B3-○○號 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "SKODA KAMIQ",
+      "cc": 1500,
+      "owner": "劉書彬",
+      "date": "109年07月17日",
+      "reason": "買賣",
+      "price": 970000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 17290541,
+    "items": [
+      {
+        "institution": "合作金庫商業銀行松興分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 336917
+      },
+      {
+        "institution": "第一商業銀行中崙分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 7227224
+      },
+      {
+        "institution": "第一商業銀行中崙分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "劉書彬",
+        "foreignAmount": 23714,
+        "amount": 859632
+      },
+      {
+        "institution": "第一商業銀行中崙分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 798505
+      },
+      {
+        "institution": "第一商業銀行中崙分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "劉書彬",
+        "foreignAmount": 5628,
+        "amount": 187019
+      },
+      {
+        "institution": "第一商業銀行中崙分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "劉書彬",
+        "foreignAmount": 441708,
+        "amount": 99428
+      },
+      {
+        "institution": "第一商業銀行南京東路分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 27843
+      },
+      {
+        "institution": "第一商業銀行高雄分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 132
+      },
+      {
+        "institution": "台北富邦商業銀行南京東 路分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 969125
+      },
+      {
+        "institution": "台北富邦商業銀行南京東 路分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "劉書彬",
+        "foreignAmount": 25,
+        "amount": 542
+      },
+      {
+        "institution": "台北富邦商業銀行南京東 路分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "劉書彬",
+        "foreignAmount": 4,
+        "amount": 161
+      },
+      {
+        "institution": "兆豐國際商業銀行松南分 行",
+        "type": "外匯存款",
+        "currency": "美元",
+        "owner": "劉書彬",
+        "foreignAmount": 43513,
+        "amount": 1445955
+      },
+      {
+        "institution": "兆豐國際商業銀行松南分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 1837525
+      },
+      {
+        "institution": "中華郵政公司台北西松郵 局(台北 48 支局)",
+        "type": "中華郵政存簿儲金",
+        "currency": "新臺幣",
+        "owner": "劉書彬",
+        "foreignAmount": 0,
+        "amount": 3500530
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "摩根 JPM 環球企 業債",
+        "owner": "劉書彬",
+        "institution": "兆 豐 國 際 商 業 銀行松南分行",
+        "units": 97.18,
+        "unitValue": 91.27,
+        "foreignCurrency": "美元",
+        "totalValue": 294737
+      },
+      {
+        "name": "聯全非 T 美",
+        "owner": "劉書彬",
+        "institution": "合 作 金 庫 商 業 銀行松興分行",
+        "units": 3781.36,
+        "unitValue": 3.1,
+        "foreignCurrency": "美元",
+        "totalValue": 389529
+      },
+      {
+        "name": "安聯全球生技趨 勢新台",
+        "owner": "劉書彬",
+        "institution": "第 一 商 業 銀 行 中崙分行",
+        "units": 5986.1,
+        "unitValue": 44.79,
+        "foreignCurrency": "",
+        "totalValue": 268117
+      },
+      {
+        "name": "聯博全非投級債 歐幣",
+        "owner": "劉書彬",
+        "institution": "第 一 商 業 銀 行 中崙分行",
+        "units": 2028.27,
+        "unitValue": 10.42,
+        "foreignCurrency": "歐元",
+        "totalValue": 769932
+      },
+      {
+        "name": "富達中國內需消 費 A 美",
+        "owner": "劉書彬",
+        "institution": "第 一 商 業 銀 行 中崙分行",
+        "units": 507.35,
+        "unitValue": 14.91,
+        "foreignCurrency": "美元",
+        "totalValue": 251371
+      },
+      {
+        "name": "摩根印度基金美元",
+        "owner": "劉書彬",
+        "institution": "第 一 商 業 銀 行 中崙分行",
+        "units": 2.26,
+        "unitValue": 353.73,
+        "foreignCurrency": "美元",
+        "totalValue": 26565
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "祥安終身壽險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 02 月 15 日/163 年 02 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "中 華 郵 政 股 份 有限公司",
+        "name": "長春增額還本保 險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 01 月 29 日/136 年 01 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "伴我一生變額壽 險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "投資型壽險",
+        "period": "96 年 08 月 15 日/158 年 08 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "年年金喜還本終 身保險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "95 年 09 月 15 日/157 年 09 月 15 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "長盛還本終身保 險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 05 月 26 日/163 年 05 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "美年旺外幣還本 終身保險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 10 月 25 日/169 年 10 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "富利增額終身壽 險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 10 月 13 日/169 年 10 月 13 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "富貴一生增額終 身壽險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 05 月 19 日/163 年 05 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "超有利利率變動 型增額",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 04 月 25 日/169 年 04 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "增美金美元利率 變動型",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 09 月 09 日/168 年 09 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "鑫好鑽保險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 14 日/147 年 01 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "鑫美多利美元利 率變動",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 01 月 26 日/168 年 01 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "鑫美利外幣終身 壽險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 03 月 23 日/168 年 09 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "鑫美利外幣終身 壽險",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 08 日/168 年 09 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "臺 銀 人 壽 保 險 股份有限公司",
+        "name": "鑫美樂外幣保險 (美元)",
+        "policyNumber": "",
+        "holder": "劉書彬",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 10 月 25 日/147 年 10 月 25 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

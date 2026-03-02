@@ -1,0 +1,501 @@
+{
+  "name": "蘇巧慧",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "龍男．以撒克．凡亞思"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "韶○．蘇．凡亞思(1)"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "韶○．蘇．凡亞思(2)"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 77,
+      "share": "100000 分 之 1460",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 77,
+      "share": "100000 分 之 348",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 1483,
+      "share": "100000 分 之 1460",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 1483,
+      "share": "100000 分 之 348",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市樹林區鎮前段",
+      "area": 3880.89,
+      "share": "100000 分 之 479",
+      "owner": "龍 男．以 撒 克．凡亞思",
+      "date": "111年06月14日",
+      "reason": "買賣",
+      "price": "12,300,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 150.91,
+      "share": "全部",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "含陽台 15.79 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 749.07,
+      "share": "20 分之 1",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 579.24,
+      "share": "10000 分之 148",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市中山區吉林段四小段",
+      "area": 579.24,
+      "share": "10000 分之 193",
+      "owner": "蘇巧慧",
+      "date": "104年08月27日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市樹林區鎮前段",
+      "area": 100.78,
+      "share": "全部",
+      "owner": "龍 男 ． 以 撒 克．凡亞思",
+      "date": "111年06月14日",
+      "reason": "買賣",
+      "price": "12,300,000 (與第5筆土地 及第 6 筆建物 合購)"
+    },
+    {
+      "location": "新北市樹林區鎮前段",
+      "area": 4419.5,
+      "share": "10000 分之 17",
+      "owner": "龍 男 ． 以 撒 克．凡亞思",
+      "date": "111年06月14日",
+      "reason": "買賣",
+      "price": "12,300,000 (共同使用部 分,與第5筆土 地及第 5 筆建 物合購)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 2362,
+      "owner": "蘇巧慧",
+      "date": "107年03月01日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2494,
+      "owner": "龍 男 ． 以 撒 克．凡亞思",
+      "date": "106年07月27日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 14116098,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇巧慧",
+        "foreignAmount": 0,
+        "amount": 7782651
+      },
+      {
+        "institution": "合庫商業銀行自強分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "蘇巧慧",
+        "foreignAmount": 0,
+        "amount": 6727
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇巧慧",
+        "foreignAmount": 0,
+        "amount": 63066
+      },
+      {
+        "institution": "中信銀行民生分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "蘇巧慧",
+        "foreignAmount": 31630,
+        "amount": 1011157
+      },
+      {
+        "institution": "中信銀行民生分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "蘇巧慧",
+        "foreignAmount": 1641166,
+        "amount": 343660
+      },
+      {
+        "institution": "中信銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "蘇巧慧",
+        "foreignAmount": 0,
+        "amount": 1532588
+      },
+      {
+        "institution": "臺灣銀行武昌分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 3703
+      },
+      {
+        "institution": "土地銀行長安分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 87
+      },
+      {
+        "institution": "合庫商業銀行自強分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 4344
+      },
+      {
+        "institution": "華南銀行儲蓄分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 927867
+      },
+      {
+        "institution": "彰化銀行吉林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 63
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 37
+      },
+      {
+        "institution": "中信銀行雙和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 0,
+        "amount": 1082991
+      },
+      {
+        "institution": "中信銀行民生分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "龍 男 ． 以 撒 克．凡亞思",
+        "foreignAmount": 554,
+        "amount": 17720
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韶○．蘇．凡 亞思 (1)",
+        "foreignAmount": 0,
+        "amount": 18440
+      },
+      {
+        "institution": "中信銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韶○．蘇．凡 亞思 (1)",
+        "foreignAmount": 0,
+        "amount": 660813
+      },
+      {
+        "institution": "中信銀行民生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韶○．蘇．凡 亞思 (2)",
+        "foreignAmount": 0,
+        "amount": 660184
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "貝萊德世界金融 基金（累積）（美 元）",
+        "owner": "蘇巧慧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 122.23,
+        "unitValue": 50.79,
+        "foreignCurrency": "美元",
+        "totalValue": 198403
+      },
+      {
+        "name": "聯博-國際醫療 基金（累積）（美 元）",
+        "owner": "蘇巧慧",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 9.687,
+        "unitValue": 581.92,
+        "foreignCurrency": "美元",
+        "totalValue": 180154
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "安達人壽",
+        "name": "安 達 人 壽 得 利 100 外幣變額年 金保險",
+        "policyNumber": "○○○○○○○ ○○004318",
+        "holder": "蘇巧慧",
+        "contractType": "年金型保險",
+        "period": "110 年 08 月 19 日/176 年 08 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+        "name": "友邦人壽三富人 生美元利率變動 型終身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "蘇巧慧",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 04 月 20 日/176 年 04 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "飛揚人生外幣年 金",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "蘇巧慧",
+        "contractType": "年金型保險",
+        "period": "110 年 01 月 15 日/165 年 01 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "富邦人壽安康久 久殘廢照護終身 壽險",
+        "policyNumber": "○○○○○○○ ○○000",
+        "holder": "蘇巧慧",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 05 月 31 日/199 年 05 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "富邦人壽安康久 久殘廢照護終身 壽險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "蘇巧慧",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 05 月 31 日/198 年 05 月 30 日",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "傳富美美元利率 變動型終身壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "蘇巧慧",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 01 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費守護 久久失能照護終 身保險",
+        "policyNumber": "○○○○○○○ ○○096",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費守護 久久失能照護終 身保險",
+        "policyNumber": "○○○○○○○ ○○109",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費真健 康終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○822",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費祥安 兒童終身壽險",
+        "policyNumber": "○○○○○○○ ○○367",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 05 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○522",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "92 年 01 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費祥昇 利率變動型終身 壽險",
+        "policyNumber": "○○○○○○○ ○○174",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 07 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "二十年繳費樂活 人 生 終 身 壽 險 (非吸菸標準體)",
+        "policyNumber": "○○○○○○○ ○○132",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 05 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "月月好鑫外幣變 額年金保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "年金型保險",
+        "period": "110 年 08 月 24 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "傳承美滿美元利 率變動型終身壽 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "龍男．以撒克． 凡亞思",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 08 月 24 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 6000000,
+    "items": [
+      {
+        "type": "借貸",
+        "creditor": "蘇巧慧",
+        "debtor": "蘇○純 新北市樹林區大安路",
+        "amount": 6000000,
+        "date": "110年06月17日",
+        "reason": "借貸"
+      }
+    ]
+  },
+  "debts": {
+    "total": 13554048,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "蘇巧慧",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 6015205,
+        "date": "104年09月04日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "龍男．以撒克．凡 亞思",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 7538843,
+        "date": "111年06月20日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 1000000,
+    "items": [
+      {
+        "investor": "龍男．以撒克． 凡亞思",
+        "company": "韶光電影有限公司",
+        "address": "台北巿南京東路二段 160 號 10 樓",
+        "amount": 1000000,
+        "date": "100年06月14日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

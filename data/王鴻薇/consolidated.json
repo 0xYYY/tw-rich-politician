@@ -1,0 +1,673 @@
+{
+  "name": "王鴻薇",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6637753
+    },
+    {
+      "currency": "英鎊",
+      "amount": 419742
+    },
+    {
+      "currency": "人民幣",
+      "amount": 2746
+    },
+    {
+      "currency": "美元",
+      "amount": 278490
+    }
+  ],
+  "depositsTotal": 7338733,
+  "insurance": [],
+  "stocks": [
+    {
+      "name": "南僑",
+      "cleanName": "南僑",
+      "ticker": "1702",
+      "shares": 27,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 55.6,
+      "latestPrice": 38.2
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 2000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 65,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 70,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 62,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 43,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "統一實",
+      "cleanName": "統一實",
+      "ticker": "9907",
+      "shares": 31,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 17,
+      "latestPrice": 18.95
+    },
+    {
+      "name": "聯華",
+      "cleanName": "聯華",
+      "ticker": "1229",
+      "shares": 56000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 60.7,
+      "latestPrice": 44.85
+    },
+    {
+      "name": "南亞",
+      "cleanName": "南亞",
+      "ticker": "1303",
+      "shares": 30000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 41.7,
+      "latestPrice": 91.8
+    },
+    {
+      "name": "亞聚",
+      "cleanName": "亞聚",
+      "ticker": "1308",
+      "shares": 35000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 16.95,
+      "latestPrice": 13.95
+    },
+    {
+      "name": "中砂",
+      "cleanName": "中砂",
+      "ticker": "1560",
+      "shares": 3000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 309,
+      "latestPrice": 524
+    },
+    {
+      "name": "太電",
+      "cleanName": "太電",
+      "ticker": "1602",
+      "shares": 302,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 110000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 46.6,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 208,
+      "latestPrice": 243
+    },
+    {
+      "name": "仁寶",
+      "cleanName": "仁寶",
+      "ticker": "2324",
+      "shares": 20000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 36.1,
+      "latestPrice": 31.65
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 2200,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "金像電",
+      "cleanName": "金像電",
+      "ticker": "2368",
+      "shares": 3000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 188,
+      "latestPrice": 826
+    },
+    {
+      "name": "金像電",
+      "cleanName": "金像電",
+      "ticker": "2368",
+      "shares": 1000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 188,
+      "latestPrice": 826
+    },
+    {
+      "name": "佳能",
+      "cleanName": "佳能",
+      "ticker": "2374",
+      "shares": 22000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 47.2,
+      "latestPrice": 81
+    },
+    {
+      "name": "技嘉",
+      "cleanName": "技嘉",
+      "ticker": "2376",
+      "shares": 11000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 282,
+      "latestPrice": 239.5
+    },
+    {
+      "name": "技嘉",
+      "cleanName": "技嘉",
+      "ticker": "2376",
+      "shares": 1000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 282,
+      "latestPrice": 239.5
+    },
+    {
+      "name": "台光電",
+      "cleanName": "台光電",
+      "ticker": "2383",
+      "shares": 14000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 427,
+      "latestPrice": 2440
+    },
+    {
+      "name": "台光電",
+      "cleanName": "台光電",
+      "ticker": "2383",
+      "shares": 2000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 427,
+      "latestPrice": 2440
+    },
+    {
+      "name": "勝華",
+      "cleanName": "勝華",
+      "ticker": "2384",
+      "shares": 1000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "精元",
+      "cleanName": "精元",
+      "ticker": "2387",
+      "shares": 5000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 56.4,
+      "latestPrice": 43.7
+    },
+    {
+      "name": "友達",
+      "cleanName": "友達",
+      "ticker": "2409",
+      "shares": 16000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 16.35,
+      "latestPrice": 16.6
+    },
+    {
+      "name": "超豐",
+      "cleanName": "超豐",
+      "ticker": "2441",
+      "shares": 20000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 57.7,
+      "latestPrice": 95.9
+    },
+    {
+      "name": "義隆",
+      "cleanName": "義隆",
+      "ticker": "2458",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 149.5,
+      "latestPrice": 122
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 213,
+      "latestPrice": 197
+    },
+    {
+      "name": "慧洋-KY",
+      "cleanName": "慧洋-KY",
+      "ticker": "2637",
+      "shares": 30000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 75,
+      "latestPrice": 72.8
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 10200,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 26.85,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 55000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "匯僑",
+      "cleanName": "匯僑",
+      "ticker": "2904",
+      "shares": 4000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 18.25,
+      "latestPrice": 17.25
+    },
+    {
+      "name": "聯詠",
+      "cleanName": "聯詠",
+      "ticker": "3034",
+      "shares": 4000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 501,
+      "latestPrice": 393
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 115,
+      "latestPrice": 136
+    },
+    {
+      "name": "威剛",
+      "cleanName": "威剛",
+      "ticker": "3260",
+      "shares": 5000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 86.1,
+      "latestPrice": 285.5
+    },
+    {
+      "name": "群創",
+      "cleanName": "群創",
+      "ticker": "3481",
+      "shares": 6160,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 15.6,
+      "latestPrice": 26.8
+    },
+    {
+      "name": "凡甲",
+      "cleanName": "凡甲",
+      "ticker": "3526",
+      "shares": 4000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 276,
+      "latestPrice": 295.5
+    },
+    {
+      "name": "貿聯-KY",
+      "cleanName": "貿聯-KY",
+      "ticker": "3665",
+      "shares": 2000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 469,
+      "latestPrice": 1410
+    },
+    {
+      "name": "日月光投控",
+      "cleanName": "日月光投控",
+      "ticker": "3711",
+      "shares": 4000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 154,
+      "latestPrice": 387.5
+    },
+    {
+      "name": "致伸",
+      "cleanName": "致伸",
+      "ticker": "4915",
+      "shares": 24000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 81.1,
+      "latestPrice": 81.8
+    },
+    {
+      "name": "泰鼎-KY",
+      "cleanName": "泰鼎-KY",
+      "ticker": "4927",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 42.4,
+      "latestPrice": 47.25
+    },
+    {
+      "name": "泰鼎-KY",
+      "cleanName": "泰鼎-KY",
+      "ticker": "4927",
+      "shares": 40000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 42.4,
+      "latestPrice": 47.25
+    },
+    {
+      "name": "和碩",
+      "cleanName": "和碩",
+      "ticker": "4938",
+      "shares": 14000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 100,
+      "latestPrice": 73.5
+    },
+    {
+      "name": "太一",
+      "cleanName": "太一",
+      "ticker": null,
+      "shares": 20000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "耀文電子",
+      "cleanName": "耀文電子",
+      "ticker": null,
+      "shares": 1269,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "松翰",
+      "cleanName": "松翰",
+      "ticker": "5471",
+      "shares": 8000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 46.9,
+      "latestPrice": 43.95
+    },
+    {
+      "name": "遠雄港",
+      "cleanName": "遠雄港",
+      "ticker": "5607",
+      "shares": 54000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 44.3,
+      "latestPrice": 55.7
+    },
+    {
+      "name": "中租-KY 甲特",
+      "cleanName": "中租-KY 甲特",
+      "ticker": "5871",
+      "shares": 180,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 148,
+      "latestPrice": 104
+    },
+    {
+      "name": "中租-KY",
+      "cleanName": "中租-KY",
+      "ticker": "5871",
+      "shares": 26000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 148,
+      "latestPrice": 104
+    },
+    {
+      "name": "浪凡",
+      "cleanName": "浪凡",
+      "ticker": "6165",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 49.5,
+      "latestPrice": 43.15
+    },
+    {
+      "name": "瑞儀",
+      "cleanName": "瑞儀",
+      "ticker": "6176",
+      "shares": 2000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 208,
+      "latestPrice": 122
+    },
+    {
+      "name": "華孚",
+      "cleanName": "華孚",
+      "ticker": "6235",
+      "shares": 39000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 69.3,
+      "latestPrice": 58
+    },
+    {
+      "name": "華孚",
+      "cleanName": "華孚",
+      "ticker": "6235",
+      "shares": 426,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 69.3,
+      "latestPrice": 58
+    },
+    {
+      "name": "台表科",
+      "cleanName": "台表科",
+      "ticker": "6278",
+      "shares": 2000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 107.5,
+      "latestPrice": 101.5
+    },
+    {
+      "name": "騰輝電子-KY",
+      "cleanName": "騰輝電子-KY",
+      "ticker": "6672",
+      "shares": 10000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 70.8,
+      "latestPrice": 102
+    },
+    {
+      "name": "志超",
+      "cleanName": "志超",
+      "ticker": "8213",
+      "shares": 25000,
+      "owner": "王鴻薇",
+      "priceAtDisclosure": 37.95,
+      "latestPrice": 38.7
+    }
+  ],
+  "bonds": [
+    {
+      "name": "元大 0 至 2 年投 資級企業債券基 金-新臺幣 A 類型",
+      "owner": "王鴻薇",
+      "institution": "元大證券",
+      "units": 100000,
+      "unitValue": 11.0899,
+      "currency": "",
+      "declaredValue": 1108990,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "摩根台灣增長",
+      "owner": "王鴻薇",
+      "institution": "第 一 銀 行 城 東 分行",
+      "units": 6147.5,
+      "unitValue": 99.85,
+      "currency": "",
+      "declaredValue": 613827,
+      "source": "fund"
+    },
+    {
+      "name": "駿利亨德森資產 管理-平衡基金 A2 美元",
+      "owner": "王鴻薇",
+      "institution": "中租投顧",
+      "units": 759.654,
+      "unitValue": 44.75,
+      "currency": "美元",
+      "declaredValue": 1087400,
+      "source": "fund"
+    },
+    {
+      "name": "摩根士丹利美國 增 長 基 金 A( 美 元)",
+      "owner": "王鴻薇",
+      "institution": "中租投顧",
+      "units": 3.389,
+      "unitValue": 183.82,
+      "currency": "美元",
+      "declaredValue": 19927,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 全球投資系列 穩定月收益基金 美元 A(Mdis)股 (月配)",
+      "owner": "王鴻薇",
+      "institution": "中租投顧",
+      "units": 3254.837,
+      "unitValue": 9.9,
+      "currency": "美元",
+      "declaredValue": 1030730,
+      "source": "fund"
+    },
+    {
+      "name": "摩根基金-美國 科 技 基 金 ( 美 元)-A 股(累計)",
+      "owner": "王鴻薇",
+      "institution": "中租投顧",
+      "units": 92.491,
+      "unitValue": 106.32,
+      "currency": "美元",
+      "declaredValue": 314554,
+      "source": "fund"
+    },
+    {
+      "name": "百達-能源轉型 -R 美元",
+      "owner": "王鴻薇",
+      "institution": "中租投顧",
+      "units": 42.831,
+      "unitValue": 146.81,
+      "currency": "美元",
+      "declaredValue": 201138,
+      "source": "fund"
+    },
+    {
+      "name": "元大卓越基金",
+      "owner": "王鴻薇",
+      "institution": "元大證券",
+      "units": 3121.6,
+      "unitValue": 71.56,
+      "currency": "",
+      "declaredValue": 223382,
+      "source": "fund"
+    },
+    {
+      "name": "元大日本龍頭企 業基金-新臺幣 A 類型",
+      "owner": "王鴻薇",
+      "institution": "元大證券",
+      "units": 199700.9,
+      "unitValue": 10.06,
+      "currency": "",
+      "declaredValue": 2008991,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "王鴻薇",
+      "institution": "元 大 證 券 民 生 三民分公司",
+      "units": 35000,
+      "unitValue": 37.28,
+      "currency": "",
+      "declaredValue": 1304800,
+      "source": "fund"
+    },
+    {
+      "name": "中信綠能及電動 車",
+      "owner": "王鴻薇",
+      "institution": "元 大 證 券 民 生 三民分公司",
+      "units": 10000,
+      "unitValue": 17.8,
+      "currency": "",
+      "declaredValue": 178000,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市林口區力行段",
+      "owner": "王鴻薇",
+      "date": "2015-12-17",
+      "effectiveAreaPing": 79.39,
+      "entryCount": 2,
+      "price": "含陽台 13.59 平方公尺,雨 遮2.98平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "owner": "王鴻薇",
+      "date": "2013-02-06",
+      "effectiveAreaPing": 31.47,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區民生段",
+      "owner": "王鴻薇",
+      "date": "1997-04-02",
+      "effectiveAreaPing": 23.79,
+      "entryCount": 2,
+      "price": "含瞭望台 30.35 平方公 尺(超過五年)"
+    }
+  ]
+}

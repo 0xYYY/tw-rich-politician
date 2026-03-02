@@ -1,0 +1,242 @@
+{
+  "name": "賴士葆",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6970459
+    },
+    {
+      "currency": "美元",
+      "amount": 3854160
+    },
+    {
+      "currency": "人民幣",
+      "amount": 19088
+    }
+  ],
+  "depositsTotal": 10843708,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽富利人 生變額年金保險",
+      "holder": "賴士葆",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽外幣計 價富利人生變額 年金保險",
+      "holder": "林良娥",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 金 鑽 168 還本終身保 險",
+      "holder": "林良娥",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽美富紅 運外幣分紅終身 壽險",
+      "holder": "林良娥",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "臺化",
+      "cleanName": "臺化",
+      "ticker": "1326",
+      "shares": 855,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 38.4,
+      "latestPrice": 51
+    },
+    {
+      "name": "臺化",
+      "cleanName": "臺化",
+      "ticker": "1326",
+      "shares": 171,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 38.4,
+      "latestPrice": 51
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 424,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 58.3,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "裕隆",
+      "cleanName": "裕隆",
+      "ticker": "2201",
+      "shares": 19,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 58.3,
+      "latestPrice": 30.75
+    },
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 21,
+      "owner": "賴士葆",
+      "priceAtDisclosure": null,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "臺化",
+      "cleanName": "臺化",
+      "ticker": "1326",
+      "shares": 184,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 38.4,
+      "latestPrice": 51
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 50000,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 122,
+      "latestPrice": 134
+    },
+    {
+      "name": "精技",
+      "cleanName": "精技",
+      "ticker": "2414",
+      "shares": 30000,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 36,
+      "latestPrice": 43.1
+    },
+    {
+      "name": "國賓",
+      "cleanName": "國賓",
+      "ticker": "2704",
+      "shares": 368,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 61.7,
+      "latestPrice": 44.05
+    },
+    {
+      "name": "富邦金丙特",
+      "cleanName": "富邦金丙特",
+      "ticker": "2881",
+      "shares": 278,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 90.4,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 29699,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 90.4,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "台新金",
+      "cleanName": "台新金",
+      "ticker": "2887",
+      "shares": 410,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 17,
+      "latestPrice": 25.6
+    },
+    {
+      "name": "國票金",
+      "cleanName": "國票金",
+      "ticker": "2889",
+      "shares": 943,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 15,
+      "latestPrice": 16.95
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 103,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "台灣大",
+      "cleanName": "台灣大",
+      "ticker": "3045",
+      "shares": 20000,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 113.5,
+      "latestPrice": 107.5
+    },
+    {
+      "name": "弘憶股",
+      "cleanName": "弘憶股",
+      "ticker": "3312",
+      "shares": 85243,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 66.3,
+      "latestPrice": 38.15
+    },
+    {
+      "name": "炎洲",
+      "cleanName": "炎洲",
+      "ticker": "4306",
+      "shares": 21,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 18.5,
+      "latestPrice": 13.65
+    },
+    {
+      "name": "晶達",
+      "cleanName": "晶達",
+      "ticker": "4995",
+      "shares": 11000,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 72.5,
+      "latestPrice": 42.8
+    },
+    {
+      "name": "合庫金",
+      "cleanName": "合庫金",
+      "ticker": "5880",
+      "shares": 691,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 24
+    },
+    {
+      "name": "泰銘",
+      "cleanName": "泰銘",
+      "ticker": "9927",
+      "shares": 37204,
+      "owner": "賴士葆",
+      "priceAtDisclosure": 67.2,
+      "latestPrice": 70
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺北市大安區瑞安段二小段",
+      "owner": "賴士葆",
+      "date": "1994-09-02",
+      "effectiveAreaPing": 70.99,
+      "entryCount": 3,
+      "price": "含陽台 15.82 平方公尺,花 台3.74平方公 尺,雨遮 0.91 平方公尺(超 過五年)"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "name": "魯明哲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月31日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "汪玉仙"
+    }
+  ],
+  "land": [
+    {
+      "location": "桃園市中壢區仁德段",
+      "area": 2028.51,
+      "share": "10000 分之 345",
+      "owner": "汪玉仙",
+      "date": "94年01月21日",
+      "reason": "買賣",
+      "price": "2,000,000"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市中壢區仁德段",
+      "area": 202.88,
+      "share": "全部",
+      "owner": "汪玉仙",
+      "date": "94年01月21日",
+      "reason": "買賣",
+      "price": "2,500,000"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "起亞汽車 KIA Carnival",
+      "cc": 2151,
+      "owner": "魯明哲",
+      "date": "113年01月19日",
+      "reason": "買賣",
+      "price": 1839000
+    }
+  ],
+  "cash": {
+    "total": 450000
+  },
+  "deposits": {
+    "total": 9873422,
+    "items": [
+      {
+        "institution": "中華郵政股份有限公司中 壢忠義郵局",
+        "type": "中華郵政存簿儲金",
+        "currency": "新臺幣",
+        "owner": "魯明哲",
+        "foreignAmount": 0,
+        "amount": 1055231
+      },
+      {
+        "institution": "中華郵政股份有限公司中 壢仁美郵局",
+        "type": "中華郵政存簿儲金",
+        "currency": "新臺幣",
+        "owner": "汪玉仙",
+        "foreignAmount": 0,
+        "amount": 525970
+      },
+      {
+        "institution": "合作金庫商業銀行中壢分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "魯明哲",
+        "foreignAmount": 0,
+        "amount": 1604589
+      },
+      {
+        "institution": "合作金庫商業銀行中壢分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "汪玉仙",
+        "foreignAmount": 0,
+        "amount": 135743
+      },
+      {
+        "institution": "臺灣銀行桃興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "魯明哲",
+        "foreignAmount": 0,
+        "amount": 6078148
+      },
+      {
+        "institution": "臺灣銀行桃興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "汪玉仙",
+        "foreignAmount": 0,
+        "amount": 261249
+      },
+      {
+        "institution": "安泰商業銀行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "汪玉仙",
+        "foreignAmount": 0,
+        "amount": 212492
+      }
+    ]
+  },
+  "stocks": {
+    "total": 170410,
+    "items": [
+      {
+        "name": "泰豐輪胎",
+        "owner": "汪玉仙",
+        "shares": 17041,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 170410
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽",
+        "name": "南山新康祥終身 壽險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "魯明哲",
+        "contractType": "儲蓄型",
+        "period": "94 年 01 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山新康祥終身 壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "汪玉仙",
+        "contractType": "儲蓄型",
+        "period": "94 年 01 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山新康祥終身 壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "汪玉仙",
+        "contractType": "儲蓄型",
+        "period": "95 年 12 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "南山新康祥終身 壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "汪玉仙",
+        "contractType": "儲蓄型",
+        "period": "95 年 12 月 18 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 1000000,
+    "items": [
+      {
+        "type": "一般借款",
+        "creditor": "魯明哲",
+        "debtor": "林○姿 桃園市中壢區龍山街",
+        "amount": 1000000,
+        "date": "100年10月01日",
+        "reason": "朋友借款"
+      }
+    ]
+  },
+  "debts": {
+    "total": 1942950,
+    "items": [
+      {
+        "type": "房屋貸款",
+        "debtor": "汪玉仙",
+        "creditor": "合作金庫商業銀行中壢分行",
+        "amount": 1032848,
+        "date": "99年12月28日",
+        "reason": "原貸款換銀 行"
+      },
+      {
+        "type": "住宅整修貸款",
+        "debtor": "汪玉仙",
+        "creditor": "合作金庫商業銀行中壢分行",
+        "amount": 910102,
+        "date": "100年01月03日",
+        "reason": "新增整修貸 款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

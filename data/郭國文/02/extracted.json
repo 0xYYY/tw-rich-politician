@@ -1,0 +1,148 @@
+{
+  "name": "郭國文",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "112年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "湯靜雯"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 1320000
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中 國 人 壽 保 險 股份有限公司",
+        "name": "保誠百樂福單利 增額終身壽險乙 型",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "郭國文",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 11 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★全球人壽保 險 股 份 有 限 公 司",
+        "name": "PHB",
+        "policyNumber": "○○○○○○○ ○○64",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★全球人壽保 險 股 份 有 限 公 司",
+        "name": "加倍醫靠終身醫 療健康保險",
+        "policyNumber": "○○○○○○○ ○○61",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 01 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★全球人壽保 險 股 份 有 限 公 司",
+        "name": "加倍醫靠終身醫 療健康保險",
+        "policyNumber": "○○○○○○○ ○○61",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★全球人壽保 險 股 份 有 限 公 司",
+        "name": "精準守護防癌定 期健康保險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/121 年 12 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "1★南山人壽保 險 股 份 有 限 公 司",
+        "name": "好 easy 終身醫療 健康保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★南山人壽保 險 股 份 有 限 公 司",
+        "name": "美滿人生長期照 顧終身保險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★南山人壽保 險 股 份 有 限 公 司",
+        "name": "美滿人生長期照 顧終身保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 10 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★南山人壽保 險 股 份 有 限 公 司",
+        "name": "福氣康祥終身保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 01 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "1★富邦人壽保 險 股 份 有 限 公 司",
+        "name": "CLO",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "湯靜雯",
+        "contractType": "儲蓄型壽險",
+        "period": "111 年 12 月 28 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 200000,
+    "items": [
+      {
+        "type": "1★借貸",
+        "creditor": "郭國文",
+        "debtor": "韓○助 臺南市中西區藥王里濟生街",
+        "amount": 200000,
+        "date": "111年10月13日",
+        "reason": "借貸"
+      }
+    ]
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

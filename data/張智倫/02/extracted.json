@@ -1,0 +1,93 @@
+{
+  "name": "張智倫",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年03月16日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "彭涵"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "張○儒"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "張○學"
+    }
+  ],
+  "land": [
+    {
+      "location": "1★○○○○○ Holt Ave Unit ○ Tustin,CA 92780 USA",
+      "area": 209.03,
+      "share": "全部",
+      "owner": "彭涵",
+      "date": "107年06月19日",
+      "reason": "買賣",
+      "price": "超過五年"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "1★○○○○○ Holt Ave Unit ○ Tustin,CA 92780 USA",
+      "area": 135.82,
+      "share": "全部",
+      "owner": "彭涵",
+      "date": "107年06月19日",
+      "reason": "買賣",
+      "price": "超過五年"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 734286,
+    "items": [
+      {
+        "institution": "2 ★ Bank of America N.A.P.O Box 25118 Tampa. FL 33622-5118",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "彭涵",
+        "foreignAmount": 11196,
+        "amount": 354015
+      },
+      {
+        "institution": "2★Charles Schwab Bank",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "彭涵",
+        "foreignAmount": 12026,
+        "amount": 380271
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

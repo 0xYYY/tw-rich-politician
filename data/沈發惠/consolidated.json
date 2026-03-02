@@ -1,0 +1,239 @@
+{
+  "name": "沈發惠",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 5910463
+    },
+    {
+      "currency": "美元",
+      "amount": 829736
+    },
+    {
+      "currency": "澳幣",
+      "amount": 51
+    },
+    {
+      "currency": "歐元",
+      "amount": 15
+    },
+    {
+      "currency": "日圓",
+      "amount": 29381
+    }
+  ],
+  "depositsTotal": 6769651,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽殘廢照 護終身保險附約",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽殘廢照 護終身保險附約",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽殘廢照 護終身保險附約",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽殘廢照 護終身保險附約",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 10 年）",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 15 年）",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（85）（繳費 20 年）",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰還本終身壽 險（繳費 30 年）",
+      "holder": "沈發惠",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 安 心 360 利率變動型 增額終身壽險",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽殘廢照 護終身保險附約",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "守護平安終身保 險",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "守護平安終身保 險",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "添美樂年年美元",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "第 一 金 人 壽 保 險 股 份 有 限 公 司",
+      "name": "第一金人壽美利 多美元利率變動 型終身壽險",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美滿一 生外幣終身壽險 (美元)",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽添壽利 率變動型年金保 險",
+      "holder": "黃蓁蓁",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽添壽利 率變動型年金保 險",
+      "holder": "黃蓁蓁",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽添壽利 率變動型年金保 險",
+      "holder": "黃蓁蓁",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "黃蓁蓁",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽鑫鑽年 年還本終身保險",
+      "holder": "黃蓁蓁",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市金山區中角段西勢湖小 段",
+      "owner": "沈發惠",
+      "date": "2012-09-07",
+      "effectiveAreaPing": 0.05,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "owner": "沈發惠",
+      "date": "1991-07-03",
+      "effectiveAreaPing": 17.4,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區西松段三小段",
+      "owner": "沈發惠",
+      "date": "1990-12-08",
+      "effectiveAreaPing": 99.31,
+      "entryCount": 4,
+      "price": "含雨遮1.55平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市松山區延吉段三小段",
+      "owner": "沈發惠",
+      "date": "1996-12-12",
+      "effectiveAreaPing": 35.48,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區新峰段",
+      "owner": "黃蓁蓁",
+      "date": "2000-03-09",
+      "effectiveAreaPing": 52.67,
+      "entryCount": 2,
+      "price": "含陽台 12.03 平方公尺,花 台1.01平方公 尺(超過五年)"
+    }
+  ]
+}

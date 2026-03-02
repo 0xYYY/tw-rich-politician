@@ -1,0 +1,476 @@
+{
+  "name": "羅廷瑋",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃婷筠"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○辰"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○恩"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○森"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市南區下橋子頭段",
+      "area": 73,
+      "share": "全部",
+      "owner": "羅廷瑋",
+      "date": "100年12月07日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 2953.13,
+      "share": "100000 分 之 912",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買賣",
+      "price": "37,600,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市南區下橋子頭段",
+      "area": 121.49,
+      "share": "全部",
+      "owner": "羅廷瑋",
+      "date": "100年12月07日",
+      "reason": "贈與",
+      "price": "含陽台 11.55 平方公尺,平台"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 157.92,
+      "share": "全部",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買賣",
+      "price": "37,600,000(房 地總價額,含陽 台 18.65 平方 公尺,雨遮 6 平 方公尺)"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 9426.82,
+      "share": "100000 分 之 927",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買賣",
+      "price": "37,600,000(房 地總價額,共同 使用部分)"
+    },
+    {
+      "location": "臺中市南屯區豐富段",
+      "area": 5060.7,
+      "share": "100000 分 之 914",
+      "owner": "黃婷筠",
+      "date": "113年06月25日",
+      "reason": "買賣",
+      "price": "37,600,000(房 地總價額,共同 使用部分)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "日產",
+      "cc": 1498,
+      "owner": "黃婷筠",
+      "date": "108年07月25日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "三陽",
+      "cc": 1497,
+      "owner": "黃婷筠",
+      "date": "112年02月24日",
+      "reason": "買賣",
+      "price": 1351480
+    }
+  ],
+  "cash": {
+    "total": 77910
+  },
+  "deposits": {
+    "total": 783609,
+    "items": [
+      {
+        "institution": "臺灣銀行臺中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 269
+      },
+      {
+        "institution": "合庫商業銀行東台中分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 351697
+      },
+      {
+        "institution": "合庫商業銀行豐中分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 947
+      },
+      {
+        "institution": "彰化銀行營業部",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "羅廷瑋",
+        "foreignAmount": 996,
+        "amount": 31848
+      },
+      {
+        "institution": "彰化銀行營業部",
+        "type": "綜合存款",
+        "currency": "港幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 7572,
+        "amount": 31125
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 1278
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 605
+      },
+      {
+        "institution": "國泰世華銀行市政分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "兆豐國際商業銀行東台中 分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 8225
+      },
+      {
+        "institution": "聯邦銀行文心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 23296
+      },
+      {
+        "institution": "元大銀行北台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅廷瑋",
+        "foreignAmount": 0,
+        "amount": 2612
+      },
+      {
+        "institution": "第一銀行北台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 34
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 137447
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 132
+      },
+      {
+        "institution": "國泰世華銀行健行分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 19
+      },
+      {
+        "institution": "臺灣新光銀行中港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 1733
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 83586
+      },
+      {
+        "institution": "玉山銀行文心分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "黃婷筠",
+        "foreignAmount": 10,
+        "amount": 319
+      },
+      {
+        "institution": "玉山銀行文心分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 10274
+      },
+      {
+        "institution": "中信銀行惠中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "黃婷筠",
+        "foreignAmount": 0,
+        "amount": 94778
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅○辰",
+        "foreignAmount": 0,
+        "amount": 192
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅○恩",
+        "foreignAmount": 0,
+        "amount": 192
+      },
+      {
+        "institution": "彰化銀行台中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "羅○森",
+        "foreignAmount": 0,
+        "amount": 1000
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+        "name": "友邦人壽三富人生 美元利率變動型終 身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "羅廷瑋",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 12 月 24 日/189 年 12 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+        "name": "友邦人壽滿扶保利 率變動型終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "羅廷瑋",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 09 月 01 日/189 年 09 月 01 日",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽保險 股份有限公司",
+        "name": "中國人壽鑫幸福終 身壽險",
+        "policyNumber": "○○○○○○○ ○○50",
+        "holder": "羅廷瑋",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 11 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽珍福滿人 生終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "羅廷瑋",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 04 日/223 年 02 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽超好心殘 廢 照 護 終 身 保 險 (HU1-20)",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "羅廷瑋",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 03 月 26 日/178 年 03 月 26 日",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽傳富新終 身壽險(110) FI5",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "羅廷瑋",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 04 日/223 年 02 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "世紀達利變額萬能 終身壽險 A 型",
+        "policyNumber": "○○○○○○○ ○○541",
+        "holder": "黃婷筠",
+        "contractType": "投資型壽險",
+        "period": "108 年 12 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "金世紀達利變額萬 能終身壽險 A 型",
+        "policyNumber": "○○○○○○○ ○○172",
+        "holder": "黃婷筠",
+        "contractType": "投資型壽險",
+        "period": "112 年 02 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險 股份有限公司",
+        "name": "元大人壽祝扶年年 失能照護終身保險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "黃婷筠",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險 股份有限公司",
+        "name": "元大人壽祝扶年年 失能照護終身保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "黃婷筠",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 11 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽新終身壽 險(106) FI2",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "黃婷筠",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 05 月 03 日/218 年 05 月 03 日",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽新終身壽 險(106) FI2",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃婷筠",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 11 日/190 年 03 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽新終身壽 險(106) FI2",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "黃婷筠",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 10 日/219 年 03 月 10 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "老鑼及圖",
+        "quantity": "1",
+        "owner": "羅廷瑋",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 37391357,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "羅廷瑋",
+        "creditor": "元大商業銀行北台中分行 台中市北區三民路",
+        "amount": 4918017,
+        "date": "109年08月11日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃婷筠",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 31960000,
+        "date": "113年07月02日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "黃婷筠",
+        "creditor": "元大商業銀行文心分行 台中市西屯區文心路",
+        "amount": 513340,
+        "date": "112年02月24日",
+        "reason": "購置動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

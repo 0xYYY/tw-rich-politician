@@ -1,0 +1,956 @@
+{
+  "name": "馬文君",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月05日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王俊國"
+    }
+  ],
+  "land": [
+    {
+      "location": "花蓮縣花蓮市國風段",
+      "area": 730,
+      "share": "10000 分之 532",
+      "owner": "王俊國",
+      "date": "81年03月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮埔里段五十甲小 段",
+      "area": 14,
+      "share": "2 分之 1",
+      "owner": "馬文君",
+      "date": "85年12月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮埔里段五十甲小 段",
+      "area": 1,
+      "share": "2 分之 1",
+      "owner": "馬文君",
+      "date": "85年12月",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮埔里段五十甲小 段",
+      "area": 1,
+      "share": "2 分之 1",
+      "owner": "馬文君",
+      "date": "85年12月",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮文頭段",
+      "area": 742.3,
+      "share": "20 分之 1",
+      "owner": "馬文君",
+      "date": "79年06月",
+      "reason": "贈予",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮北環段",
+      "area": 29.72,
+      "share": "2 分之 1",
+      "owner": "馬文君",
+      "date": "85年12月",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮大瑪璘段",
+      "area": 242.52,
+      "share": "全部",
+      "owner": "王俊國",
+      "date": "93年04月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮大瑪璘段",
+      "area": 27.5,
+      "share": "全部",
+      "owner": "王俊國",
+      "date": "93年04月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 941.24,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "94年05月",
+      "reason": "贈予",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 1244.55,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "94年05月",
+      "reason": "贈予",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 71.05,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "94年05月",
+      "reason": "贈予",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮忠信段",
+      "area": 983.42,
+      "share": "全部",
+      "owner": "王俊國",
+      "date": "100年01月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 612,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 69,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 6,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 106,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 474,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 14,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 22,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 198,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安段",
+      "area": 94,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 524,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 2771.31,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 3968.73,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 2256.28,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 1973.93,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 1948.13,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 1627.01,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 529,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 3694.61,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 854.99,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉東富段",
+      "area": 3303.71,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉溪州段",
+      "area": 10258,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉溪州段",
+      "area": 271.19,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 3378.36,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 149.57,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 300.45,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 365.19,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 1121.59,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 142.85,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉砂荖段",
+      "area": 495.87,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉西富段",
+      "area": 112.67,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉水廣段",
+      "area": 0.99,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉水廣段",
+      "area": 4348.49,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉水廣段",
+      "area": 763.11,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉水廣段",
+      "area": 2516.83,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉水廣段",
+      "area": 2742.31,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉新庄段",
+      "area": 674.99,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉新庄段",
+      "area": 2614.79,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉新庄段",
+      "area": 170.91,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大興段",
+      "area": 2352.16,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大興段",
+      "area": 16.85,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 157.62,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 4086.65,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 23231.1,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉阿托莫段",
+      "area": 1627.97,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "花蓮縣花蓮市國風段",
+      "area": 123.49,
+      "share": "全部",
+      "owner": "王俊國",
+      "date": "81年03月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市國風段 (共同建物)",
+      "area": 364.84,
+      "share": "10000 分之 532",
+      "owner": "王俊國",
+      "date": "81年03月",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉中山路",
+      "area": 131.9,
+      "share": "公同共有 2 分之 1",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安村",
+      "area": 301.39,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣光復鄉大安村",
+      "area": 186.87,
+      "share": "公同共有 全部",
+      "owner": "王俊國",
+      "date": "101年05月",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "南投縣埔里鎮大城路",
+      "area": 263.6,
+      "share": "全部",
+      "owner": "王俊國",
+      "date": "95年06月",
+      "reason": "贈予",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1998,
+      "owner": "王俊國",
+      "date": "108年08月",
+      "reason": "買賣",
+      "price": 780000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 12368143,
+    "items": [
+      {
+        "institution": "南投縣埔里鎮農會",
+        "type": "",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 1436308
+      },
+      {
+        "institution": "第一商業銀行埔里分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 10841069
+      },
+      {
+        "institution": "第一商業銀行埔里分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 30150
+      },
+      {
+        "institution": "合作金庫商業銀行埔里分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 1501
+      },
+      {
+        "institution": "臺灣土地銀行新店分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 22258
+      },
+      {
+        "institution": "台中商業銀行埔里分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 934
+      },
+      {
+        "institution": "台中商業銀行埔里分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 1170
+      },
+      {
+        "institution": "台中商業銀行埔里分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 1284
+      },
+      {
+        "institution": "第一商業銀行埔里分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 4867
+      },
+      {
+        "institution": "中國信託商業銀行東花蓮 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "馬文君",
+        "foreignAmount": 0,
+        "amount": 28602
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2281190,
+    "items": [
+      {
+        "name": "華隆",
+        "owner": "王俊國",
+        "shares": 88,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 880
+      },
+      {
+        "name": "冠軍",
+        "owner": "王俊國",
+        "shares": 1571,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 15710
+      },
+      {
+        "name": "萬有",
+        "owner": "王俊國",
+        "shares": 335,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3350
+      },
+      {
+        "name": "鴻海",
+        "owner": "王俊國",
+        "shares": 99000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 990000
+      },
+      {
+        "name": "友達",
+        "owner": "王俊國",
+        "shares": 864,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 8640
+      },
+      {
+        "name": "可成",
+        "owner": "王俊國",
+        "shares": 11000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 110000
+      },
+      {
+        "name": "太設",
+        "owner": "王俊國",
+        "shares": 1253,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 12530
+      },
+      {
+        "name": "台企銀",
+        "owner": "王俊國",
+        "shares": 221,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2210
+      },
+      {
+        "name": "遠東銀",
+        "owner": "王俊國",
+        "shares": 5971,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 59710
+      },
+      {
+        "name": "睿生光電",
+        "owner": "王俊國",
+        "shares": 19,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 190
+      },
+      {
+        "name": "寶成",
+        "owner": "王俊國",
+        "shares": 1753,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 17530
+      },
+      {
+        "name": "高企",
+        "owner": "王俊國",
+        "shares": 71,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 710
+      },
+      {
+        "name": "瑞圓",
+        "owner": "王俊國",
+        "shares": 15000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 150000
+      },
+      {
+        "name": "三芳",
+        "owner": "王俊國",
+        "shares": 554,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5540
+      },
+      {
+        "name": "南亞",
+        "owner": "王俊國",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "長鴻營造",
+        "owner": "王俊國",
+        "shares": 27710,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 277100
+      },
+      {
+        "name": "易宏",
+        "owner": "王俊國",
+        "shares": 709,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7090
+      },
+      {
+        "name": "南亞",
+        "owner": "馬文君",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "永裕",
+        "owner": "馬文君",
+        "shares": 9000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 90000
+      },
+      {
+        "name": "鴻海",
+        "owner": "馬文君",
+        "shares": 34000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 340000
+      },
+      {
+        "name": "可成",
+        "owner": "馬文君",
+        "shares": 5000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "鑽石投資",
+        "owner": "馬文君",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "群益 ESG 投等債 20+",
+        "owner": "王俊國",
+        "institution": "群益",
+        "units": 20000,
+        "unitValue": 16.22,
+        "foreignCurrency": "",
+        "totalValue": 324400
+      },
+      {
+        "name": "群益 ESG 投等債 20+",
+        "owner": "王俊國",
+        "institution": "群益",
+        "units": 10000,
+        "unitValue": 15.88,
+        "foreignCurrency": "",
+        "totalValue": 158800
+      },
+      {
+        "name": "國泰投資級公司 債",
+        "owner": "馬文君",
+        "institution": "國泰",
+        "units": 8000,
+        "unitValue": 37.16,
+        "foreignCurrency": "",
+        "totalValue": 297280
+      },
+      {
+        "name": "群益 ESG 投等債 20+",
+        "owner": "馬文君",
+        "institution": "群益",
+        "units": 20000,
+        "unitValue": 16.22,
+        "foreignCurrency": "",
+        "totalValue": 324400
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽",
+        "name": "富 貴 年 年 終 身 壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "馬文君",
+        "contractType": "儲蓄型",
+        "period": "88 年 12 月 22 日/180 年 12 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽",
+        "name": "開運年年終身",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "馬文君",
+        "contractType": "儲蓄型",
+        "period": "93 年 01 月 08 日/185 年 01 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "十 年 繳 費 新 金 豐 采 利 利 率 變 動型終身壽險",
+        "policyNumber": "○○○○○○○ ○○277",
+        "holder": "馬文君",
+        "contractType": "年金型",
+        "period": "98 年 03 月 16 日/160 年 03 月 01 日",
+        "note": "期滿"
+      },
+      {
+        "company": "三商美邦人壽",
+        "name": "二 十 年 繳 費 新 金 豐 富 利 率 變 動型終身壽險",
+        "policyNumber": "○○○○○○○ ○○284",
+        "holder": "馬文君",
+        "contractType": "年金型",
+        "period": "98 年 03 月 16 日/160 年 03 月 01 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "未達申報標準",
+        "quantity": "",
+        "owner": "",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

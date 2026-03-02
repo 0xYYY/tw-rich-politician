@@ -1,0 +1,1081 @@
+{
+  "name": "林沛祥",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "何淑鈴"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○安"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "林○欣"
+    }
+  ],
+  "land": [
+    {
+      "location": "基隆市中正區祥豐段",
+      "area": 925,
+      "share": "10000 分之 708",
+      "owner": "林沛祥",
+      "date": "100年12月23日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市中正區祥豐段",
+      "area": 5.96,
+      "share": "70 分之 10",
+      "owner": "林沛祥",
+      "date": "95年07月26日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市中正區祥豐段",
+      "area": 125.04,
+      "share": "10000 分之 708",
+      "owner": "林沛祥",
+      "date": "100年12月23日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市中正區調和段",
+      "area": 3293.16,
+      "share": "10000 分之 10",
+      "owner": "林沛祥",
+      "date": "99年05月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "area": 189,
+      "share": "13 分之 2",
+      "owner": "林沛祥",
+      "date": "90年05月16日",
+      "reason": "合併",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "area": 1,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "88年10月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 35712.06,
+      "share": "100000000 分 之 120734",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 41.2,
+      "share": "100000000 分 之 120734",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 12.75,
+      "share": "100000000 分 之 120734",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額)"
+    },
+    {
+      "location": "基隆市暖暖區暖暖段暖暖小段",
+      "area": 1593,
+      "share": "10000 分之 405",
+      "owner": "林沛祥",
+      "date": "87年04月25日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市暖暖區過港段",
+      "area": 4794,
+      "share": "18 分之 6",
+      "owner": "林沛祥",
+      "date": "86年12月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市暖暖區過港段",
+      "area": 2,
+      "share": "18 分之 6",
+      "owner": "林沛祥",
+      "date": "86年12月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市暖暖區過港段",
+      "area": 2496,
+      "share": "18 分之 6",
+      "owner": "林沛祥",
+      "date": "86年12月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市暖暖區過港段",
+      "area": 2560,
+      "share": "18 分之 6",
+      "owner": "林沛祥",
+      "date": "86年12月16日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "基隆市中正區祥豐段",
+      "area": 233.1,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "100年10月18日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市中正區祥豐段",
+      "area": 1090.6,
+      "share": "10000 分之 710",
+      "owner": "林沛祥",
+      "date": "100年10月18日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市中正區祥豐段",
+      "area": 410.05,
+      "share": "30 分之 2",
+      "owner": "林沛祥",
+      "date": "100年10月18日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市中正區調和段",
+      "area": 11.16,
+      "share": "38 分之 1",
+      "owner": "林沛祥",
+      "date": "99年05月25日",
+      "reason": "買賣",
+      "price": "含陽台 4.24 平 方公尺(超過五 年)"
+    },
+    {
+      "location": "基隆市中正區調和段",
+      "area": 975.05,
+      "share": "10000 分之 4600",
+      "owner": "林沛祥",
+      "date": "99年05月25日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "area": 170.95,
+      "share": "13 分之 1",
+      "owner": "林沛祥",
+      "date": "91年01月04日",
+      "reason": "共有物分 割",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "area": 84,
+      "share": "1000 分 之 18",
+      "owner": "林沛祥",
+      "date": "91年01月04日",
+      "reason": "共有物分 割",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "area": 617.01,
+      "share": "13 分之 1",
+      "owner": "林沛祥",
+      "date": "91年01月04日",
+      "reason": "共有物分 割",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市仁愛區中央段四小段",
+      "area": 126.52,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "91年01月04日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 35.63,
+      "share": "10000000 分之 14134",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 185.65,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 75.95,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "106年12月26日",
+      "reason": "買賣",
+      "price": "含陽台 8.99 平 方公尺,雨遮 3.97 平方公尺 (超過五年)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 1850.24,
+      "share": "10000000 分之 3951",
+      "owner": "林沛祥",
+      "date": "106年12月26日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 1850.24,
+      "share": "10000000 分之 9657",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額,共同 使用部分)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 1850.24,
+      "share": "10000000 分之 9657",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額,共同 使用部分)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 98768.87,
+      "share": "10000000 分之 9286",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額,共同 使用部分)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 98768.87,
+      "share": "10000000 分之 9286",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額,共同 使用部分)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 98768.87,
+      "share": "10000000 分之 9286",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(房 地總價額,共同 使用部分)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 98768.87,
+      "share": "10000000 分之 1475",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(共 同使用部分)"
+    },
+    {
+      "location": "基隆市安樂區麥金段",
+      "area": 98768.87,
+      "share": "10000000 分之 9286",
+      "owner": "林沛祥",
+      "date": "112年03月23日",
+      "reason": "買賣",
+      "price": "22,300,000(共 同使用部分)"
+    },
+    {
+      "location": "基隆市暖暖區暖暖段暖暖小段",
+      "area": 146.92,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "87年04月25日",
+      "reason": "買賣",
+      "price": "含陽台 11.13 平方公尺,露台 34.09 平方公 尺,雨遮 2.59 平方公尺(超過 五年)"
+    },
+    {
+      "location": "基隆市暖暖區暖暖段暖暖小段",
+      "area": 146.92,
+      "share": "全部",
+      "owner": "林沛祥",
+      "date": "87年04月25日",
+      "reason": "買賣",
+      "price": "含陽台 11.13 平方公尺,露台 34.09 平方公 尺,雨遮 2.59 平方公尺(超過 五年)"
+    },
+    {
+      "location": "基隆市暖暖區暖暖段暖暖小段",
+      "area": 843.68,
+      "share": "10000 分之 324",
+      "owner": "林沛祥",
+      "date": "87年04月25日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 1987,
+      "owner": "林沛祥",
+      "date": "105年08月11日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "本田",
+      "cc": 1997,
+      "owner": "林沛祥",
+      "date": "108年04月17日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 5646638,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 6155
+      },
+      {
+        "institution": "土地銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 2147
+      },
+      {
+        "institution": "合庫商業銀行基隆分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥 (地主林沛祥 海大會館案收 款專戶)",
+        "foreignAmount": 0,
+        "amount": 11362
+      },
+      {
+        "institution": "合庫商業銀行復興分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 2287
+      },
+      {
+        "institution": "第一銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 11907
+      },
+      {
+        "institution": "第一銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 64
+      },
+      {
+        "institution": "第一銀行哨船頭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 644
+      },
+      {
+        "institution": "台北富邦銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 5101
+      },
+      {
+        "institution": "臺灣企銀基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 4291
+      },
+      {
+        "institution": "基隆第一信用合作社營業 部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 541060
+      },
+      {
+        "institution": "基隆市第二信用合作社營 業部",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 38
+      },
+      {
+        "institution": "基隆市第二信用合作社新 店分社",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 105
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 717
+      },
+      {
+        "institution": "元大銀行內湖分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林沛祥",
+        "foreignAmount": 26,
+        "amount": 845
+      },
+      {
+        "institution": "元大銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 3545
+      },
+      {
+        "institution": "中信銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林沛祥",
+        "foreignAmount": 0,
+        "amount": 4761848
+      },
+      {
+        "institution": "臺灣銀行基隆分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 139969
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 51
+      },
+      {
+        "institution": "第一銀行松山分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "何淑鈴",
+        "foreignAmount": 104,
+        "amount": 3327
+      },
+      {
+        "institution": "第一銀行松山分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 2318
+      },
+      {
+        "institution": "上海銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 594
+      },
+      {
+        "institution": "上海銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 526
+      },
+      {
+        "institution": "國泰世華銀行環球交易服 務部",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "何淑鈴",
+        "foreignAmount": 103,
+        "amount": 3301
+      },
+      {
+        "institution": "國泰世華銀行重新分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 1088
+      },
+      {
+        "institution": "臺灣企銀竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 306
+      },
+      {
+        "institution": "基隆市第二信用合作社港 東分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 362
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 6036
+      },
+      {
+        "institution": "中和地區農會興南分部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 84
+      },
+      {
+        "institution": "元大銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 1627
+      },
+      {
+        "institution": "永豐銀行積穗分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 217
+      },
+      {
+        "institution": "玉山銀行和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 542
+      },
+      {
+        "institution": "安泰銀行中崙分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 259
+      },
+      {
+        "institution": "中信銀行中崙分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 99
+      },
+      {
+        "institution": "中信銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "何淑鈴",
+        "foreignAmount": 0,
+        "amount": 113260
+      },
+      {
+        "institution": "中信銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林○安",
+        "foreignAmount": 0,
+        "amount": 10093
+      },
+      {
+        "institution": "中信銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林○欣",
+        "foreignAmount": 0,
+        "amount": 10461
+      }
+    ]
+  },
+  "stocks": {
+    "total": 44780,
+    "items": [
+      {
+        "name": "茂矽",
+        "owner": "林沛祥",
+        "shares": 2132,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 21320
+      },
+      {
+        "name": "英業達",
+        "owner": "林沛祥",
+        "shares": 228,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2280
+      },
+      {
+        "name": "鴻海",
+        "owner": "何淑鈴",
+        "shares": 68,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 680
+      },
+      {
+        "name": "仁寶",
+        "owner": "何淑鈴",
+        "shares": 1000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10000
+      },
+      {
+        "name": "中天",
+        "owner": "何淑鈴",
+        "shares": 1050,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10500
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "貝萊德世界科技 基金（累積）（美 元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 63.76,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 182272
+      },
+      {
+        "name": "貝萊德世界科技 基金（累積）（美 元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 61.78,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 176612
+      },
+      {
+        "name": "貝萊德世界科技 基金（累積）（美 元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 57.61,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 164691
+      },
+      {
+        "name": "貝萊德世界科技 基金（累積）（美 元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 34.85,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 99626
+      },
+      {
+        "name": "貝萊德世界科技 基金（累積）（美 元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 22.2,
+        "unitValue": 89.45,
+        "foreignCurrency": "美元",
+        "totalValue": 63463
+      },
+      {
+        "name": "瑞銀（盧森堡） 大中華股票基金 （累積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 16.922,
+        "unitValue": 423.46,
+        "foreignCurrency": "美元",
+        "totalValue": 229011
+      },
+      {
+        "name": "瑞銀（盧森堡） 大中華股票基金 （累積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 15.672,
+        "unitValue": 423.46,
+        "foreignCurrency": "美元",
+        "totalValue": 212094
+      },
+      {
+        "name": "瑞銀（盧森堡） 大中華股票基金 （累積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 14.297,
+        "unitValue": 423.46,
+        "foreignCurrency": "美元",
+        "totalValue": 193486
+      },
+      {
+        "name": "新加坡大華黃金",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託",
+        "units": 1285.96,
+        "unitValue": 2.084,
+        "foreignCurrency": "新加坡幣",
+        "totalValue": 64653
+      },
+      {
+        "name": "及綜合基金（累 積）（新加坡幣）",
+        "owner": "",
+        "institution": "部",
+        "units": 0,
+        "unitValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "新加坡大華全球 保健基金（累積） （美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 437.41,
+        "unitValue": 4.93,
+        "foreignCurrency": "美元",
+        "totalValue": 68917
+      },
+      {
+        "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 198.866,
+        "unitValue": 60.98,
+        "foreignCurrency": "美元",
+        "totalValue": 387561
+      },
+      {
+        "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 90.069,
+        "unitValue": 60.98,
+        "foreignCurrency": "美元",
+        "totalValue": 175531
+      },
+      {
+        "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 86.801,
+        "unitValue": 60.98,
+        "foreignCurrency": "美元",
+        "totalValue": 169162
+      },
+      {
+        "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 75.874,
+        "unitValue": 60.98,
+        "foreignCurrency": "美元",
+        "totalValue": 147867
+      },
+      {
+        "name": "PIMCO 美國股票 增益基金 E（累 積）（美元）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 53.061,
+        "unitValue": 60.98,
+        "foreignCurrency": "美元",
+        "totalValue": 103408
+      },
+      {
+        "name": "匯豐全球關鍵資 源基金（累積） （新台幣）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 7026,
+        "unitValue": 10.25,
+        "foreignCurrency": "",
+        "totalValue": 72016
+      },
+      {
+        "name": "元 大 台 灣 卓 越 50ETF 連結基金 （配現）（新台 幣）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 4359.9,
+        "unitValue": 23.94,
+        "foreignCurrency": "",
+        "totalValue": 104376
+      },
+      {
+        "name": "元 大 台 灣 卓 越 50ETF 連結基金 （配現）（新台 幣）",
+        "owner": "林沛祥",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 4329,
+        "unitValue": 23.94,
+        "foreignCurrency": "",
+        "totalValue": 103636
+      },
+      {
+        "name": "元大日經 225",
+        "owner": "何淑鈴",
+        "institution": "元 大 證 券 基 隆 分公司",
+        "units": 1000,
+        "unitValue": 48.68,
+        "foreignCurrency": "",
+        "totalValue": 48680
+      },
+      {
+        "name": "元大 AAA 至 A 公 司債",
+        "owner": "何淑鈴",
+        "institution": "元 大 證 券 基 隆 分公司",
+        "units": 1000,
+        "unitValue": 33.7341,
+        "foreignCurrency": "",
+        "totalValue": 33734
+      },
+      {
+        "name": "國泰數位支付服 務",
+        "owner": "何淑鈴",
+        "institution": "元 大 證 券 基 隆 分公司",
+        "units": 1000,
+        "unitValue": 28.49,
+        "foreignCurrency": "",
+        "totalValue": 28490
+      },
+      {
+        "name": "元大台灣價值高 息",
+        "owner": "何淑鈴",
+        "institution": "元 大 證 券 基 隆 分公司",
+        "units": 1000,
+        "unitValue": 9.54,
+        "foreignCurrency": "",
+        "totalValue": 9540
+      },
+      {
+        "name": "摩根基金-美國 科技基金（累積） （美元）",
+        "owner": "林○安",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 10.859,
+        "unitValue": 106.32,
+        "foreignCurrency": "美元",
+        "totalValue": 36897
+      },
+      {
+        "name": "富蘭克林坦伯頓 全球投資系列 科技基金（累積） （美元）",
+        "owner": "林○安",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 22.568,
+        "unitValue": 48.66,
+        "foreignCurrency": "美元",
+        "totalValue": 35096
+      },
+      {
+        "name": "聯博-精選美國 股票基金（累積） （歐元）",
+        "owner": "林○安",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 18.792,
+        "unitValue": 63.9,
+        "foreignCurrency": "歐元",
+        "totalValue": 41565
+      },
+      {
+        "name": "安本基金-北美",
+        "owner": "林○欣",
+        "institution": "中 信 銀 行 信 託",
+        "units": 36.582,
+        "unitValue": 25.9335,
+        "foreignCurrency": "美元",
+        "totalValue": 30319
+      },
+      {
+        "name": "小 型 公 司 基 金 （累積）（美元）",
+        "owner": "",
+        "institution": "部",
+        "units": 0,
+        "unitValue": 0,
+        "foreignCurrency": "",
+        "totalValue": 0
+      },
+      {
+        "name": "摩根基金-美國 科技基金（累積） （美元）",
+        "owner": "林○欣",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 10.86,
+        "unitValue": 106.32,
+        "foreignCurrency": "美元",
+        "totalValue": 36900
+      },
+      {
+        "name": "富蘭克林坦伯頓 全球投資系列 科技基金（累積） （美元）",
+        "owner": "林○欣",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 22.568,
+        "unitValue": 48.66,
+        "foreignCurrency": "美元",
+        "totalValue": 35096
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "元大人壽保險股 份有限公司",
+        "name": "元大人壽美滿人 生美元利率變動 型增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "林沛祥",
+        "contractType": "儲蓄型壽險",
+        "period": "106 年 08 月 25 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險股 份有限公司",
+        "name": "元大人壽健康人 生終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "林沛祥",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 09 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險股 份有限公司",
+        "name": "元大人壽健康人 生終身醫療健康 保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "林沛祥",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 11 月 24 日/終身",
+        "note": ""
+      },
+      {
+        "company": "元大人壽保險股 份有限公司",
+        "name": "元大人壽祝扶年 年失能照護終身 保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "何淑鈴",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險事 業股份有限公司",
+        "name": "遠雄人壽金吉利 變額萬能壽險－ 丙型",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "何淑鈴",
+        "contractType": "投資型壽險",
+        "period": "97 年 02 月 15 日/171 年 02 月 15 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 21456234,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林沛祥",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 17924213,
+        "date": "112年03月30日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "林沛祥",
+        "creditor": "基隆第一信用合作社碇內分 社 基隆市源遠路",
+        "amount": 3532021,
+        "date": "107年01月02日",
+        "reason": "購置自用住 宅資金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 10000,
+    "items": [
+      {
+        "investor": "林沛祥",
+        "company": "基隆第一信用合作社",
+        "address": "基隆市中正區義一路 76 號",
+        "amount": 10000,
+        "date": "89年12月14日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

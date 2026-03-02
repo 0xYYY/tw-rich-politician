@@ -1,0 +1,239 @@
+{
+  "name": "陳素月",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "彰化縣永靖鄉永南段",
+      "area": 568.7,
+      "share": "全部",
+      "owner": "陳素月",
+      "date": "104年07月31日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣永靖鄉永南段",
+      "area": 97,
+      "share": "全部",
+      "owner": "陳素月",
+      "date": "104年07月31日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "彰化縣永靖鄉永南段",
+      "area": 442.74,
+      "share": "全部",
+      "owner": "陳素月",
+      "date": "108年01月31日",
+      "reason": "第一次登 記",
+      "price": "含陽台 42.95 平方公尺(超 過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1998,
+      "owner": "陳素月",
+      "date": "107年03月30日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7151618,
+    "items": [
+      {
+        "institution": "臺灣銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳素月",
+        "foreignAmount": 0,
+        "amount": 6302661
+      },
+      {
+        "institution": "兆豐國際商業銀行駐外交 部簡易型分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳素月",
+        "foreignAmount": 0,
+        "amount": 152
+      },
+      {
+        "institution": "台中銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳素月",
+        "foreignAmount": 0,
+        "amount": 53169
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "陳素月",
+        "foreignAmount": 0,
+        "amount": 2175
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳素月",
+        "foreignAmount": 0,
+        "amount": 660779
+      },
+      {
+        "institution": "聯邦銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳素月",
+        "foreignAmount": 0,
+        "amount": 132682
+      }
+    ]
+  },
+  "stocks": {
+    "total": 120000,
+    "items": [
+      {
+        "name": "群聯",
+        "owner": "陳素月",
+        "shares": 12000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 120000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 07 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○503",
+        "holder": "陳素月",
+        "contractType": "投資型壽險",
+        "period": "92 年 11 月 12 日/160 年 11 月 12 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○405",
+        "holder": "陳素月",
+        "contractType": "投資型壽險",
+        "period": "96 年 08 月 09 日/193 年 08 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○603",
+        "holder": "陳素月",
+        "contractType": "投資型壽險",
+        "period": "96 年 08 月 09 日/195 年 08 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰喬壽還本終 身壽險（繳費 20 年）",
+        "policyNumber": "○○○○○○○ ○○602",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 08 日/195 年 12 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰新增額養老 壽險（六十五歲滿 期）",
+        "policyNumber": "○○○○○○○ ○○502",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 12 月 08 日/119 年 12 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 10 年）",
+        "policyNumber": "○○○○○○○ ○○402",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 04 月 07 日/193 年 04 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 15 年）",
+        "policyNumber": "○○○○○○○ ○○403",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 04 月 07 日/193 年 04 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰還本終身壽 險（85）（繳費 20 年）",
+        "policyNumber": "○○○○○○○ ○○401",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 04 月 07 日/193 年 04 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦人壽新連馨 長期照顧終身健 康保險",
+        "policyNumber": "○○○○○○○ ○○500",
+        "holder": "陳素月",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 21 日/155 年 02 月 20 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3150893,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "陳素月",
+        "creditor": "臺灣銀行員林分行 彰化縣員林鎮民生路",
+        "amount": 3150893,
+        "date": "104年08月03日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

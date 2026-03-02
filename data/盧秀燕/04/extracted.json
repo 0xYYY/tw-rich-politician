@@ -1,0 +1,117 @@
+{
+  "name": "盧秀燕",
+  "org": "臺中市政府",
+  "title": "市長",
+  "date": "113年12月13日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "廖述嘉"
+    }
+  ],
+  "land": [
+    {
+      "location": "南投縣南投市牛運堀段",
+      "area": 325,
+      "share": "全部",
+      "owner": "廖述嘉",
+      "date": "108年05月13日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "南投縣南投市牛運堀段",
+      "area": 27,
+      "share": "全部",
+      "owner": "廖述嘉",
+      "date": "108年05月13日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    },
+    {
+      "location": "南投縣南投市牛運堀段",
+      "area": 3,
+      "share": "全部",
+      "owner": "廖述嘉",
+      "date": "108年05月13日",
+      "reason": "受託人:臺灣銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "宏碁",
+        "owner": "廖述嘉",
+        "shares": 5000,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年04月01日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50000
+      },
+      {
+        "name": "國泰金",
+        "owner": "廖述嘉",
+        "shares": 91,
+        "trustee": "臺灣銀行",
+        "transferDate": "110年12月16日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 910
+      },
+      {
+        "name": "玉山金",
+        "owner": "廖述嘉",
+        "shares": 4738,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年04月01日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 47380
+      },
+      {
+        "name": "合庫金",
+        "owner": "廖述嘉",
+        "shares": 77025,
+        "trustee": "臺灣銀行",
+        "transferDate": "108年04月01日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 770250
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

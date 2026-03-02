@@ -1,0 +1,102 @@
+{
+  "name": "謝國樑",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "基隆市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8780609
+    },
+    {
+      "currency": "日圓",
+      "amount": 1253
+    }
+  ],
+  "depositsTotal": 8781862,
+  "insurance": [
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "鍾情終身壽險",
+      "holder": "國中薇",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "聯笙 (未交付信託原因：非 國內上市、上櫃股票)",
+      "cleanName": "聯笙",
+      "ticker": null,
+      "shares": 16348,
+      "owner": "謝國樑",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 748,
+      "owner": "謝國樑",
+      "priceAtDisclosure": 1025,
+      "latestPrice": 1995
+    },
+    {
+      "name": "山隆",
+      "cleanName": "山隆",
+      "ticker": "2616",
+      "shares": 3754,
+      "owner": "謝國樑",
+      "priceAtDisclosure": 20.4,
+      "latestPrice": 13.6
+    },
+    {
+      "name": "台灣大",
+      "cleanName": "台灣大",
+      "ticker": "3045",
+      "shares": 3083,
+      "owner": "謝國樑",
+      "priceAtDisclosure": 113.5,
+      "latestPrice": 107.5
+    },
+    {
+      "name": "橘子",
+      "cleanName": "橘子",
+      "ticker": "6180",
+      "shares": 721,
+      "owner": "謝國樑",
+      "priceAtDisclosure": 80.2,
+      "latestPrice": 52.9
+    },
+    {
+      "name": "錸寶",
+      "cleanName": "錸寶",
+      "ticker": "8104",
+      "shares": 237,
+      "owner": "謝國樑",
+      "priceAtDisclosure": 44,
+      "latestPrice": 39
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市樹林區大學段二小段",
+      "owner": "國中薇",
+      "date": "2011-12-30",
+      "effectiveAreaPing": 54.53,
+      "entryCount": 4,
+      "price": "含陽台9.65平 方公尺(超過 五年)"
+    },
+    {
+      "location": "基隆市安樂區湖海段",
+      "owner": "謝國樑",
+      "date": "2023-05-29",
+      "effectiveAreaPing": 59.9,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

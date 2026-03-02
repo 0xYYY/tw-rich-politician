@@ -1,0 +1,36 @@
+{
+  "name": "吳思瑤",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2391795
+    }
+  ],
+  "depositsTotal": 2391795,
+  "insurance": [],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "1★新北市土城區明德段",
+      "owner": "吳思瑤",
+      "date": "2022-08-02",
+      "effectiveAreaPing": 49.72,
+      "entryCount": 2,
+      "price": "17,700,000 (含陽台 7.91 平方公尺,雨 遮5.04平方公 尺,房地總價 額)"
+    },
+    {
+      "location": "1★臺北市北投區行義段一小段",
+      "owner": "吳思瑤",
+      "date": "2024-08-23",
+      "effectiveAreaPing": 82.29,
+      "entryCount": 4,
+      "price": "40,320,000 (含陽台 15.84 平方公尺,房 地總價額)"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "李坤城",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "新北市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 13598074
+    }
+  ],
+  "depositsTotal": 13598074,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 金 優 利 利 率 變 動 型 終身壽險",
+      "holder": "李坤城",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "英業達",
+      "cleanName": "英業達",
+      "ticker": "2356",
+      "shares": 6000,
+      "owner": "李坤城",
+      "priceAtDisclosure": 54.1,
+      "latestPrice": 46.25
+    },
+    {
+      "name": "圓剛",
+      "cleanName": "圓剛",
+      "ticker": "2417",
+      "shares": 13600,
+      "owner": "李坤城",
+      "priceAtDisclosure": 46.55,
+      "latestPrice": 37.25
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 16000,
+      "owner": "李坤城",
+      "priceAtDisclosure": 46.5,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "萬海",
+      "cleanName": "萬海",
+      "ticker": "2615",
+      "shares": 16075,
+      "owner": "李坤城",
+      "priceAtDisclosure": 46.45,
+      "latestPrice": 76.4
+    },
+    {
+      "name": "國泰金",
+      "cleanName": "國泰金",
+      "ticker": "2882",
+      "shares": 1000,
+      "owner": "李坤城",
+      "priceAtDisclosure": 47.65,
+      "latestPrice": 79.7
+    },
+    {
+      "name": "開發金",
+      "cleanName": "開發金",
+      "ticker": "2883",
+      "shares": 36,
+      "owner": "李坤城",
+      "priceAtDisclosure": 14.15,
+      "latestPrice": 21.95
+    },
+    {
+      "name": "敦泰",
+      "cleanName": "敦泰",
+      "ticker": "3545",
+      "shares": 5000,
+      "owner": "李坤城",
+      "priceAtDisclosure": 90,
+      "latestPrice": 52.6
+    },
+    {
+      "name": "圓展",
+      "cleanName": "圓展",
+      "ticker": "3669",
+      "shares": 7000,
+      "owner": "李坤城",
+      "priceAtDisclosure": 53.2,
+      "latestPrice": 34.35
+    },
+    {
+      "name": "力積電",
+      "cleanName": "力積電",
+      "ticker": "6770",
+      "shares": 22000,
+      "owner": "李坤城",
+      "priceAtDisclosure": 26.3,
+      "latestPrice": 76.7
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市蘆洲區正義段",
+      "owner": "王蓓潔",
+      "date": "2016-11-04",
+      "effectiveAreaPing": 59.2,
+      "entryCount": 2,
+      "price": "含陽台7.24平 方公尺(超過 五年)"
+    }
+  ]
+}

@@ -1,0 +1,1049 @@
+{
+  "name": "黃秀芳",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "鄧堯銓"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "元大台灣 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "154.75",
+        "changeDate": "113年03月08日",
+        "changeReason": "賣出",
+        "totalValue": 154750
+      },
+      {
+        "name": "元大台灣 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 365,
+        "pricePerShare": "158.35",
+        "changeDate": "113年03月26日",
+        "changeReason": "賣出",
+        "totalValue": 57797
+      },
+      {
+        "name": "元大台灣 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 19,
+        "pricePerShare": "158.35",
+        "changeDate": "113年03月26日",
+        "changeReason": "賣出",
+        "totalValue": 3008
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 148,
+        "pricePerShare": "33.69",
+        "changeDate": "112年11月03日",
+        "changeReason": "買進",
+        "totalValue": 4986
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 143,
+        "pricePerShare": "34.78",
+        "changeDate": "112年11月16日",
+        "changeReason": "買進",
+        "totalValue": 4973
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 142,
+        "pricePerShare": "35.20",
+        "changeDate": "112年12月04日",
+        "changeReason": "買進",
+        "totalValue": 4998
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 137,
+        "pricePerShare": "36.35",
+        "changeDate": "112年12月18日",
+        "changeReason": "買進",
+        "totalValue": 4979
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 136,
+        "pricePerShare": "36.72",
+        "changeDate": "113年01月03日",
+        "changeReason": "買進",
+        "totalValue": 4993
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 137,
+        "pricePerShare": "36.27",
+        "changeDate": "113年01月16日",
+        "changeReason": "買進",
+        "totalValue": 4968
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 137,
+        "pricePerShare": "36.43",
+        "changeDate": "113年02月05日",
+        "changeReason": "買進",
+        "totalValue": 4990
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 134,
+        "pricePerShare": "37.11",
+        "changeDate": "113年02月16日",
+        "changeReason": "買進",
+        "totalValue": 4972
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 131,
+        "pricePerShare": "38.09",
+        "changeDate": "113年03月04日",
+        "changeReason": "買進",
+        "totalValue": 4989
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 127,
+        "pricePerShare": "39.12",
+        "changeDate": "113年03月18日",
+        "changeReason": "買進",
+        "totalValue": 4968
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 125,
+        "pricePerShare": "39.85",
+        "changeDate": "113年04月03日",
+        "changeReason": "買進",
+        "totalValue": 4981
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 129,
+        "pricePerShare": "38.63",
+        "changeDate": "113年05月03日",
+        "changeReason": "買進",
+        "totalValue": 4983
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 4000,
+        "pricePerShare": "40.11",
+        "changeDate": "113年05月23日",
+        "changeReason": "賣出",
+        "totalValue": 160440
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "40.11",
+        "changeDate": "113年05月23日",
+        "changeReason": "賣出",
+        "totalValue": 40110
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 124,
+        "pricePerShare": "40.29",
+        "changeDate": "113年06月03日",
+        "changeReason": "買進",
+        "totalValue": 4995
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 120,
+        "pricePerShare": "41.35",
+        "changeDate": "113年07月03日",
+        "changeReason": "買進",
+        "totalValue": 4962
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 282,
+        "pricePerShare": "35.41",
+        "changeDate": "113年08月05日",
+        "changeReason": "買進",
+        "totalValue": 9985
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 128,
+        "pricePerShare": "39.03",
+        "changeDate": "113年09月03日",
+        "changeReason": "買進",
+        "totalValue": 4995
+      },
+      {
+        "name": "元大高股息",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 130,
+        "pricePerShare": "38.32",
+        "changeDate": "113年10月04日",
+        "changeReason": "買進",
+        "totalValue": 4981
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 304,
+        "pricePerShare": "16.40",
+        "changeDate": "112年11月06日",
+        "changeReason": "買進",
+        "totalValue": 4985
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 297,
+        "pricePerShare": "16.81",
+        "changeDate": "112年12月06日",
+        "changeReason": "買進",
+        "totalValue": 4992
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 293,
+        "pricePerShare": "17.04",
+        "changeDate": "113年01月08日",
+        "changeReason": "買進",
+        "totalValue": 4992
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 265,
+        "pricePerShare": "18.85",
+        "changeDate": "113年02月15日",
+        "changeReason": "買進",
+        "totalValue": 4995
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 243,
+        "pricePerShare": "20.50",
+        "changeDate": "113年03月06日",
+        "changeReason": "買進",
+        "totalValue": 4981
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 246,
+        "pricePerShare": "20.30",
+        "changeDate": "113年04月08日",
+        "changeReason": "買進",
+        "totalValue": 4993
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 245,
+        "pricePerShare": "20.33",
+        "changeDate": "113年05月06日",
+        "changeReason": "買進",
+        "totalValue": 4980
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 226,
+        "pricePerShare": "22.03",
+        "changeDate": "113年06月06日",
+        "changeReason": "買進",
+        "totalValue": 4978
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 213,
+        "pricePerShare": "23.46",
+        "changeDate": "113年07月08日",
+        "changeReason": "買進",
+        "totalValue": 4996
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 4000,
+        "pricePerShare": "23.74",
+        "changeDate": "113年07月09日",
+        "changeReason": "賣出",
+        "totalValue": 94960
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 2000,
+        "pricePerShare": "23.74",
+        "changeDate": "113年07月09日",
+        "changeReason": "賣出",
+        "totalValue": 47480
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 2000,
+        "pricePerShare": "23.74",
+        "changeDate": "113年07月09日",
+        "changeReason": "賣出",
+        "totalValue": 47480
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 494,
+        "pricePerShare": "20.22",
+        "changeDate": "113年08月06日",
+        "changeReason": "買進",
+        "totalValue": 9988
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 483,
+        "pricePerShare": "20.69",
+        "changeDate": "113年09月06日",
+        "changeReason": "買進",
+        "totalValue": 9993
+      },
+      {
+        "name": "國泰智能電動 車",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 210,
+        "pricePerShare": "23.76",
+        "changeDate": "113年10月07日",
+        "changeReason": "買進",
+        "totalValue": 4989
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 240,
+        "pricePerShare": "20.75",
+        "changeDate": "113年02月26日",
+        "changeReason": "買進",
+        "totalValue": 4980
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 235,
+        "pricePerShare": "21.23",
+        "changeDate": "113年03月26日",
+        "changeReason": "買進",
+        "totalValue": 4989
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 235,
+        "pricePerShare": "21.19",
+        "changeDate": "113年04月26日",
+        "changeReason": "買進",
+        "totalValue": 4979
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 231,
+        "pricePerShare": "21.63",
+        "changeDate": "113年05月27日",
+        "changeReason": "買進",
+        "totalValue": 4996
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 222,
+        "pricePerShare": "22.48",
+        "changeDate": "113年06月26日",
+        "changeReason": "買進",
+        "totalValue": 4990
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 222,
+        "pricePerShare": "22.43",
+        "changeDate": "113年07月26日",
+        "changeReason": "買進",
+        "totalValue": 4979
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 222,
+        "pricePerShare": "22.45",
+        "changeDate": "113年08月26日",
+        "changeReason": "買進",
+        "totalValue": 4983
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 216,
+        "pricePerShare": "23.14",
+        "changeDate": "113年09月26日",
+        "changeReason": "買進",
+        "totalValue": 4998
+      },
+      {
+        "name": "國泰全球品牌 50",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 212,
+        "pricePerShare": "23.47",
+        "changeDate": "113年10月28日",
+        "changeReason": "買進",
+        "totalValue": 4975
+      },
+      {
+        "name": "台泥",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 146,
+        "pricePerShare": "34.22",
+        "changeDate": "112年11月27日",
+        "changeReason": "買進",
+        "totalValue": 4996
+      },
+      {
+        "name": "台泥",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 144,
+        "pricePerShare": "34.64",
+        "changeDate": "112年12月26日",
+        "changeReason": "買進",
+        "totalValue": 4988
+      },
+      {
+        "name": "台泥",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 152,
+        "pricePerShare": "32.71",
+        "changeDate": "113年01月26日",
+        "changeReason": "買進",
+        "totalValue": 4971
+      },
+      {
+        "name": "台泥",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "31.70",
+        "changeDate": "113年03月13日",
+        "changeReason": "買進",
+        "totalValue": 31700
+      },
+      {
+        "name": "台泥",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "32",
+        "changeDate": "113年04月19日",
+        "changeReason": "買進",
+        "totalValue": 32000
+      },
+      {
+        "name": "黑松",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "41.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "買進",
+        "totalValue": 41500
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 165,
+        "pricePerShare": "30.14",
+        "changeDate": "112年11月13日",
+        "changeReason": "買進",
+        "totalValue": 4973
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 161,
+        "pricePerShare": "30.92",
+        "changeDate": "112年12月13日",
+        "changeReason": "買進",
+        "totalValue": 4978
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 159,
+        "pricePerShare": "31.41",
+        "changeDate": "113年01月15日",
+        "changeReason": "買進",
+        "totalValue": 4994
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 163,
+        "pricePerShare": "30.62",
+        "changeDate": "113年02月15日",
+        "changeReason": "買進",
+        "totalValue": 4991
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 154,
+        "pricePerShare": "32.44",
+        "changeDate": "113年03月13日",
+        "changeReason": "買進",
+        "totalValue": 4995
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 152,
+        "pricePerShare": "32.72",
+        "changeDate": "113年04月15日",
+        "changeReason": "買進",
+        "totalValue": 4973
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 151,
+        "pricePerShare": "32.90",
+        "changeDate": "113年04月29日",
+        "changeReason": "買進",
+        "totalValue": 4967
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 145,
+        "pricePerShare": "34.43",
+        "changeDate": "113年05月13日",
+        "changeReason": "買進",
+        "totalValue": 4992
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 147,
+        "pricePerShare": "33.80",
+        "changeDate": "113年05月28日",
+        "changeReason": "買進",
+        "totalValue": 4968
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 143,
+        "pricePerShare": "34.95",
+        "changeDate": "113年06月13日",
+        "changeReason": "買進",
+        "totalValue": 4997
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 140,
+        "pricePerShare": "35.67",
+        "changeDate": "113年06月28日",
+        "changeReason": "買進",
+        "totalValue": 4993
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 132,
+        "pricePerShare": "37.83",
+        "changeDate": "113年07月15日",
+        "changeReason": "買進",
+        "totalValue": 4993
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 148,
+        "pricePerShare": "33.73",
+        "changeDate": "113年07月29日",
+        "changeReason": "買進",
+        "totalValue": 4992
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 142,
+        "pricePerShare": "35.10",
+        "changeDate": "113年08月13日",
+        "changeReason": "買進",
+        "totalValue": 4984
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 137,
+        "pricePerShare": "36.43",
+        "changeDate": "113年08月28日",
+        "changeReason": "買進",
+        "totalValue": 4990
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 135,
+        "pricePerShare": "36.88",
+        "changeDate": "113年09月13日",
+        "changeReason": "買進",
+        "totalValue": 4978
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 129,
+        "pricePerShare": "38.68",
+        "changeDate": "113年09月30日",
+        "changeReason": "買進",
+        "totalValue": 4989
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 136,
+        "pricePerShare": "36.68",
+        "changeDate": "113年10月14日",
+        "changeReason": "買進",
+        "totalValue": 4988
+      },
+      {
+        "name": "遠東新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 132,
+        "pricePerShare": "37.78",
+        "changeDate": "113年10月28日",
+        "changeReason": "買進",
+        "totalValue": 4986
+      },
+      {
+        "name": "正新",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "49.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣出",
+        "totalValue": 49100
+      },
+      {
+        "name": "群光",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 63,
+        "pricePerShare": "198.50",
+        "changeDate": "113年03月04日",
+        "changeReason": "賣出",
+        "totalValue": 12505
+      },
+      {
+        "name": "三商壽",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "4.83",
+        "changeDate": "113年02月02日",
+        "changeReason": "買進",
+        "totalValue": 4830
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 111,
+        "pricePerShare": "44.87",
+        "changeDate": "112年11月02日",
+        "changeReason": "買進",
+        "totalValue": 4980
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 109,
+        "pricePerShare": "45.65",
+        "changeDate": "112年11月20日",
+        "changeReason": "買進",
+        "totalValue": 4975
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 108,
+        "pricePerShare": "46.19",
+        "changeDate": "112年12月04日",
+        "changeReason": "買進",
+        "totalValue": 4988
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 109,
+        "pricePerShare": "45.52",
+        "changeDate": "112年12月18日",
+        "changeReason": "買進",
+        "totalValue": 4961
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 110,
+        "pricePerShare": "45.43",
+        "changeDate": "113年01月02日",
+        "changeReason": "買進",
+        "totalValue": 4997
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 115,
+        "pricePerShare": "43.30",
+        "changeDate": "113年01月18日",
+        "changeReason": "買進",
+        "totalValue": 4979
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 113,
+        "pricePerShare": "44.20",
+        "changeDate": "113年02月02日",
+        "changeReason": "買進",
+        "totalValue": 4994
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 111,
+        "pricePerShare": "44.92",
+        "changeDate": "113年02月19日",
+        "changeReason": "買進",
+        "totalValue": 4986
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 111,
+        "pricePerShare": "44.76",
+        "changeDate": "113年03月04日",
+        "changeReason": "買進",
+        "totalValue": 4968
+      },
+      {
+        "name": "國泰金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 102,
+        "pricePerShare": "48.83",
+        "changeDate": "113年04月02日",
+        "changeReason": "買進",
+        "totalValue": 4980
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 130,
+        "pricePerShare": "38.25",
+        "changeDate": "113年02月26日",
+        "changeReason": "買進",
+        "totalValue": 4972
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 123,
+        "pricePerShare": "40.45",
+        "changeDate": "113年03月26日",
+        "changeReason": "買進",
+        "totalValue": 4975
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 127,
+        "pricePerShare": "39.35",
+        "changeDate": "113年04月26日",
+        "changeReason": "買進",
+        "totalValue": 4997
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 125,
+        "pricePerShare": "39.99",
+        "changeDate": "113年05月27日",
+        "changeReason": "買進",
+        "totalValue": 4998
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 123,
+        "pricePerShare": "40.51",
+        "changeDate": "113年06月26日",
+        "changeReason": "買進",
+        "totalValue": 4982
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 117,
+        "pricePerShare": "42.48",
+        "changeDate": "113年07月26日",
+        "changeReason": "買進",
+        "totalValue": 4970
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 126,
+        "pricePerShare": "39.51",
+        "changeDate": "113年08月26日",
+        "changeReason": "買進",
+        "totalValue": 4978
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 125,
+        "pricePerShare": "39.93",
+        "changeDate": "113年09月26日",
+        "changeReason": "買進",
+        "totalValue": 4991
+      },
+      {
+        "name": "兆豐金",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 127,
+        "pricePerShare": "39.13",
+        "changeDate": "113年10月28日",
+        "changeReason": "買進",
+        "totalValue": 4969
+      },
+      {
+        "name": "華晶科",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "36.70",
+        "changeDate": "113年01月08日",
+        "changeReason": "買進",
+        "totalValue": 36700
+      },
+      {
+        "name": "群益證",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "21.20",
+        "changeDate": "113年09月23日",
+        "changeReason": "買進",
+        "totalValue": 21200
+      },
+      {
+        "name": "群益證",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "21.20",
+        "changeDate": "113年09月23日",
+        "changeReason": "買進",
+        "totalValue": 21200
+      },
+      {
+        "name": "群益證",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "21.30",
+        "changeDate": "113年09月23日",
+        "changeReason": "買進",
+        "totalValue": 21300
+      },
+      {
+        "name": "志超",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "39.60",
+        "changeDate": "113年05月02日",
+        "changeReason": "買進",
+        "totalValue": 39600
+      },
+      {
+        "name": "志超",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "38.90",
+        "changeDate": "113年05月21日",
+        "changeReason": "買進",
+        "totalValue": 38900
+      },
+      {
+        "name": "土銀富邦 R1",
+        "broker": "國泰證券台中分行",
+        "owner": "鄧堯銓",
+        "shares": 1000,
+        "pricePerShare": "14.46",
+        "changeDate": "112年12月27日",
+        "changeReason": "買進",
+        "totalValue": 14460
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

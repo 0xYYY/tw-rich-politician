@@ -1,0 +1,176 @@
+{
+  "name": "楊文科",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "新竹縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 13318987
+    },
+    {
+      "currency": "美元",
+      "amount": 1004986
+    }
+  ],
+  "depositsTotal": 14323974,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全 球 人 壽 金 彩 306 增額終身壽 險",
+      "holder": "楊文科",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽好利多 終身保險",
+      "holder": "楊文科",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽新長榮 還本終身壽險",
+      "holder": "楊文科",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "祿美利利變美元",
+      "holder": "甘秀美",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "鋰科 (未交付信託原因：非 國內上市、上櫃股票)",
+      "cleanName": "鋰科",
+      "ticker": null,
+      "shares": 10000,
+      "owner": "楊文科",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台塑化",
+      "cleanName": "台塑化",
+      "ticker": "6505",
+      "shares": 200000,
+      "owner": "楊文科",
+      "priceAtDisclosure": 48.15,
+      "latestPrice": 54.5
+    },
+    {
+      "name": "台聚",
+      "cleanName": "台聚",
+      "ticker": "1304",
+      "shares": 13758,
+      "owner": "楊文科",
+      "priceAtDisclosure": 14.5,
+      "latestPrice": 12.3
+    },
+    {
+      "name": "台化",
+      "cleanName": "台化",
+      "ticker": "1326",
+      "shares": 100315,
+      "owner": "楊文科",
+      "priceAtDisclosure": 38.4,
+      "latestPrice": 51
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 1181,
+      "owner": "楊文科",
+      "priceAtDisclosure": 1290,
+      "latestPrice": 1945
+    },
+    {
+      "name": "華南金控",
+      "cleanName": "華南金控",
+      "ticker": "2880",
+      "shares": 101126,
+      "owner": "楊文科",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台塑化",
+      "cleanName": "台塑化",
+      "ticker": "6505",
+      "shares": 45000,
+      "owner": "楊文科",
+      "priceAtDisclosure": 48.15,
+      "latestPrice": 54.5
+    },
+    {
+      "name": "台化",
+      "cleanName": "台化",
+      "ticker": "1326",
+      "shares": 18000,
+      "owner": "楊文科",
+      "priceAtDisclosure": 38.4,
+      "latestPrice": 51
+    },
+    {
+      "name": "華南金",
+      "cleanName": "華南金",
+      "ticker": "2880",
+      "shares": 27000,
+      "owner": "楊文科",
+      "priceAtDisclosure": 25.15,
+      "latestPrice": 38.1
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "中國多重資產 A",
+      "owner": "楊文科",
+      "institution": "富 邦 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 50000,
+      "unitValue": 8.48,
+      "currency": "",
+      "declaredValue": 424000,
+      "source": "fund"
+    },
+    {
+      "name": "富邦台 50",
+      "owner": "楊文科",
+      "institution": "富 邦 證 券 新 竹 分公司",
+      "units": 10000,
+      "unitValue": 111.26,
+      "currency": "",
+      "declaredValue": 1112600,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹市光復段",
+      "owner": "楊文科",
+      "date": "2019-02-21",
+      "effectiveAreaPing": 36.82,
+      "entryCount": 3,
+      "price": null
+    },
+    {
+      "location": "新竹市科學段一小段",
+      "owner": "甘秀美",
+      "date": "2019-02-22",
+      "effectiveAreaPing": 166.29,
+      "entryCount": 2,
+      "price": null
+    },
+    {
+      "location": "新竹縣峨眉鄉三峰段",
+      "owner": "楊文科",
+      "date": "2019-02-22",
+      "effectiveAreaPing": 36.28,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

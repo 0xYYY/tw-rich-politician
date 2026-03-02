@@ -1,0 +1,107 @@
+{
+  "name": "林宜瑾",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺南市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 11286653
+    },
+    {
+      "currency": "美元",
+      "amount": 3255570
+    },
+    {
+      "currency": "日圓",
+      "amount": 2635053
+    }
+  ],
+  "depositsTotal": 17177277,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "常利年年利變",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "微馨愛小額終身 壽險",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新呵護久久殘廢 照護",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽享富增 利利率變動型終 身壽險(定期給 付型)",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽美好一 生外幣終身壽險 (美元)",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽新美鑫 旺美元利率變動 型終身壽險 -定 期給付型",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽樂退年 年美元利率變動 型終身保險 -定 期給付型",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽樂退年 年美元利率變動 型終身保險 -定 期給付型",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽一路發 終身還本保險",
+      "holder": "林宜瑾",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺南市永康區二王段",
+      "owner": "林宜瑾",
+      "date": "2011-05-11",
+      "effectiveAreaPing": 659.47,
+      "entryCount": 4,
+      "price": "含陽台4.01平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺南市永康區橋北段",
+      "owner": "林宜瑾",
+      "date": "2008-08-19",
+      "effectiveAreaPing": 71.3,
+      "entryCount": 1,
+      "price": "含陽台 40.96 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺南市東區裕東段",
+      "owner": "林宜瑾",
+      "date": "2002-05-22",
+      "effectiveAreaPing": 68.84,
+      "entryCount": 1,
+      "price": "含陽台 23.52 平方公尺(超 過五年)"
+    }
+  ]
+}

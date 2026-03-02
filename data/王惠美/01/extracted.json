@@ -1,0 +1,580 @@
+{
+  "name": "王惠美",
+  "org": "彰化縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "周明亞"
+    }
+  ],
+  "land": [
+    {
+      "location": "彰化縣鹿港鎮山崙段(耕地，特 定區域農牧用地)",
+      "area": 3444.49,
+      "share": "全部",
+      "owner": "王惠美",
+      "date": "100年02月16日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "彰化縣鹿港鎮鹿德段(自用房屋 之坐落基地)",
+      "area": 74.8,
+      "share": "全部",
+      "owner": "王惠美",
+      "date": "86年08月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "彰化縣鹿港鎮鹿德段(未交付信 託原因：自用房屋)",
+      "area": 189.14,
+      "share": "全部",
+      "owner": "王惠美",
+      "date": "86年08月05日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 3456,
+      "owner": "王惠美",
+      "date": "110年01月14日",
+      "reason": "買賣",
+      "price": 2180000
+    },
+    {
+      "brand": "福特六和",
+      "cc": 1997,
+      "owner": "周明亞",
+      "date": "104年01月20日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 4201800,
+    "items": [
+      {
+        "institution": "臺灣銀行彰化分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王惠美",
+        "foreignAmount": 72931,
+        "amount": 2331259
+      },
+      {
+        "institution": "臺灣銀行彰化分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "王惠美",
+        "foreignAmount": 3199611,
+        "amount": 671598
+      },
+      {
+        "institution": "臺灣銀行彰化分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "王惠美",
+        "foreignAmount": 2588,
+        "amount": 82728
+      },
+      {
+        "institution": "臺灣銀行員林分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 206
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 488198
+      },
+      {
+        "institution": "合庫商業銀行營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 10886
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 784
+      },
+      {
+        "institution": "第一銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 702
+      },
+      {
+        "institution": "國泰世華銀行古亭分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 131054
+      },
+      {
+        "institution": "台中銀行鹿港分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 14
+      },
+      {
+        "institution": "台中銀行埔心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 167
+      },
+      {
+        "institution": "台中銀行埔心分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 156
+      },
+      {
+        "institution": "彰化第六信用合作社福興 分社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 480
+      },
+      {
+        "institution": "彰化第六信用合作社福興 分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 12144
+      },
+      {
+        "institution": "彰化縣鹿港信用合作社營 業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 5388
+      },
+      {
+        "institution": "彰化縣鹿港鎮農會信用部",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 922
+      },
+      {
+        "institution": "彰化縣鹿港鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 124693
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 948
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 199
+      },
+      {
+        "institution": "元大銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 169299
+      },
+      {
+        "institution": "元大銀行鹿港分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 108
+      },
+      {
+        "institution": "元大銀行南京東路分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "星展彰化分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王惠美",
+        "foreignAmount": 0,
+        "amount": 3272
+      },
+      {
+        "institution": "臺灣銀行臺中科學園區分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周明亞",
+        "foreignAmount": 0,
+        "amount": 32
+      },
+      {
+        "institution": "第一銀行和美分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "周明亞",
+        "foreignAmount": 0,
+        "amount": 50
+      },
+      {
+        "institution": "彰化縣鹿港信用合作社營 業部",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "周明亞",
+        "foreignAmount": 0,
+        "amount": 165589
+      },
+      {
+        "institution": "彰化縣田中鎮農會信用部",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "周明亞",
+        "foreignAmount": 0,
+        "amount": 5
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "周明亞",
+        "foreignAmount": 0,
+        "amount": 916
+      }
+    ]
+  },
+  "stocks": {
+    "total": 13240,
+    "items": [
+      {
+        "name": "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)",
+        "owner": "王惠美",
+        "shares": 646,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6460
+      },
+      {
+        "name": "第 一金 (未 交付 信託 原 因：股票遺失，申請補發中)",
+        "owner": "王惠美",
+        "shares": 361,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 3610
+      },
+      {
+        "name": "寶華 (未交付信託原因：非 國內上市、上櫃股票)",
+        "owner": "王惠美",
+        "shares": 154,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1540
+      },
+      {
+        "name": "易宏 (未交付信託原因：非 國內上市、上櫃股票)",
+        "owner": "王惠美",
+        "shares": 133,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1330
+      },
+      {
+        "name": "寶華 (未交付信託原因：非 國內上市、上櫃股票)",
+        "owner": "周明亞",
+        "shares": 30,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 300
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "大華優利高填息 30",
+        "owner": "王惠美",
+        "institution": "元 大 證 券 鹿 港 分公司",
+        "units": 8000,
+        "unitValue": 24.03,
+        "foreignCurrency": "",
+        "totalValue": 192240
+      },
+      {
+        "name": "元大台灣價值高 息",
+        "owner": "王惠美",
+        "institution": "元 大 證 券 鹿 港 分公司",
+        "units": 15000,
+        "unitValue": 9.54,
+        "foreignCurrency": "",
+        "totalValue": 143100
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 01 日/152 年 08 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊還 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "84 年 01 月 21 日/153 年 01 月 20 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊還 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 01 日/180 年 08 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊還 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 01 日/178 年 08 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 04 月 29 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○803",
+        "holder": "王惠美",
+        "contractType": "投資型壽險",
+        "period": "96 年 07 月 21 日/189 年 07 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○602",
+        "holder": "王惠美",
+        "contractType": "投資型壽險",
+        "period": "96 年 07 月 21 日/191 年 07 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰人壽靈活理 財變額保險乙型",
+        "policyNumber": "○○○○○○○ ○○302",
+        "holder": "王惠美",
+        "contractType": "投資型壽險",
+        "period": "96 年 07 月 21 日/194 年 07 月 21 日",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽吉祥如 意終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "80 年 10 月 23 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽新百齡 終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "73 年 03 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽吉美得 美元利率變動型 終身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 09 月 19 日/168 年 09 月 19 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽金得利 利率變動型增額 終身壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "王惠美",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 09 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "周明亞",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 01 日/147 年 08 月 31 日",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山康樂限期繳 費終身壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "周明亞",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 04 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽吉祥如 意終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "周明亞",
+        "contractType": "儲蓄型壽險",
+        "period": "80 年 10 月 23 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：臺灣銀 行群賢分行)",
+        "quantity": "1",
+        "owner": "王惠美",
+        "value": 5738466
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 5459317,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王惠美(劉○招)",
+        "creditor": "鹿港信用合作社營業部 彰化縣鹿港鎮中興里中山路",
+        "amount": 875951,
+        "date": "98年01月23日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "保單質借",
+        "debtor": "周明亞",
+        "creditor": "南山人壽保險股份有限公司 台北市信義區莊敬路",
+        "amount": 7415,
+        "date": "113年06月20日",
+        "reason": "南山康樂限 期繳費終身 壽險保單質 借"
+      },
+      {
+        "type": "授信",
+        "debtor": "周明亞",
+        "creditor": "鹿港信用合作社營業部 彰化縣鹿港鎮中興里中山路",
+        "amount": 3700000,
+        "date": "112年11月03日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "周明亞(劉○招)",
+        "creditor": "鹿港信用合作社營業部 彰化縣鹿港鎮中興里中山路",
+        "amount": 875951,
+        "date": "98年01月23日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 4663000,
+    "items": [
+      {
+        "investor": "王惠美",
+        "company": "彰化第六信用合作社",
+        "address": "彰化縣彰化市彰美路一段 186 號",
+        "amount": 10000,
+        "date": "83年05月11日",
+        "reason": "股金"
+      },
+      {
+        "investor": "王惠美",
+        "company": "彰化縣鹿港信用合作社",
+        "address": "彰化縣鹿港鎮中興里中山路 234 號",
+        "amount": 3000,
+        "date": "108年12月06日",
+        "reason": "股金"
+      },
+      {
+        "investor": "周明亞",
+        "company": "彰化縣鹿港信用合作社",
+        "address": "彰化縣鹿港鎮中興里中山路 234 號",
+        "amount": 4650000,
+        "date": "109年09月24日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

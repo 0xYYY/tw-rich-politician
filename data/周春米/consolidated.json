@@ -1,0 +1,92 @@
+{
+  "name": "周春米",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "屏東縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6298569
+    }
+  ],
+  "depositsTotal": 6298569,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽卓越變 額萬能壽險",
+      "holder": "周春米",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "周春米",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽迎向陽 光終身壽險(丙 型)",
+      "holder": "周春米",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽卓越變 額萬能壽險",
+      "holder": "邱明弘",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國華人壽至尊保 本終身保險",
+      "holder": "邱明弘",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽迎向陽 光終身壽險(丙 型)",
+      "holder": "邱明弘",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台開 (未交付信託原因：下 市)",
+      "cleanName": "台開",
+      "ticker": null,
+      "shares": 2567,
+      "owner": "周春米",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "長谷 (未交付信託原因：下 市)",
+      "cleanName": "長谷",
+      "ticker": null,
+      "shares": 655,
+      "owner": "周春米",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "屏東縣屏東巿公園段三小段",
+      "owner": "邱明弘",
+      "date": "2015-12-17",
+      "effectiveAreaPing": 87.64,
+      "entryCount": 2,
+      "price": "含陽台 15.48 平方公尺(超 過五年)"
+    },
+    {
+      "location": "屏東縣屏東市北平段",
+      "owner": "周春米",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 131.63,
+      "entryCount": 2,
+      "price": null
+    }
+  ]
+}

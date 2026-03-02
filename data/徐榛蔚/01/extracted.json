@@ -1,0 +1,665 @@
+{
+  "name": "徐榛蔚",
+  "org": "花蓮縣政府",
+  "title": "縣長",
+  "date": "113年12月31日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "傅崐萁"
+    }
+  ],
+  "land": [
+    {
+      "location": "花蓮縣吉安鄉福吉段(耕地，特 定區域農牧用地)",
+      "area": 988.79,
+      "share": "全部",
+      "owner": "徐榛蔚",
+      "date": "95年10月27日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣吉安鄉福吉段(自用房屋 之坐落基地)",
+      "area": 2986.43,
+      "share": "全部",
+      "owner": "徐榛蔚",
+      "date": "101年05月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "花蓮縣吉安鄉福吉段(未交付信 託原因：自用房屋)",
+      "area": 534.7,
+      "share": "全部",
+      "owner": "徐榛蔚",
+      "date": "100年04月11日",
+      "reason": "買賣",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7136846,
+    "items": [
+      {
+        "institution": "1★臺灣銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 17652
+      },
+      {
+        "institution": "臺灣銀行忠孝分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "徐榛蔚",
+        "foreignAmount": 123,
+        "amount": 4060
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 88083
+      },
+      {
+        "institution": "臺灣銀行北花蓮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 15307
+      },
+      {
+        "institution": "合庫商業銀行復興分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "徐榛蔚",
+        "foreignAmount": 104,
+        "amount": 3431
+      },
+      {
+        "institution": "華南銀行仁愛路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 173647
+      },
+      {
+        "institution": "華南銀行仁愛路分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "徐榛蔚",
+        "foreignAmount": 585,
+        "amount": 19228
+      },
+      {
+        "institution": "華南銀行北桃園分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 2981
+      },
+      {
+        "institution": "上海銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 3887
+      },
+      {
+        "institution": "台北富邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 89829
+      },
+      {
+        "institution": "台北富邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "徐榛蔚",
+        "foreignAmount": 270,
+        "amount": 8896
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 688
+      },
+      {
+        "institution": "國泰世華銀行天母分行",
+        "type": "活期證券戶",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 183
+      },
+      {
+        "institution": "1★國泰世華銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 227917
+      },
+      {
+        "institution": "國泰世華銀行花蓮分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "徐榛蔚",
+        "foreignAmount": 1127,
+        "amount": 37038
+      },
+      {
+        "institution": "國泰世華銀行花蓮分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "臺灣企銀桃園分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 1641
+      },
+      {
+        "institution": "1★桃園信用合作社中山分 社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 67168
+      },
+      {
+        "institution": "花蓮第二信用合作社田蒲 分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 911373
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 137951
+      },
+      {
+        "institution": "中華郵政公司",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 1171
+      },
+      {
+        "institution": "聯邦銀行松江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 489950
+      },
+      {
+        "institution": "玉山銀行花蓮分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 63229,
+        "amount": 286300
+      },
+      {
+        "institution": "玉山銀行花蓮分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "徐榛蔚",
+        "foreignAmount": 3292,
+        "amount": 108763
+      },
+      {
+        "institution": "玉山銀行花蓮分行",
+        "type": "活期存款",
+        "currency": "人民幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 3461,
+        "amount": 15673
+      },
+      {
+        "institution": "玉山銀行花蓮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 152
+      },
+      {
+        "institution": "台新國際銀行敦南分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 1157827
+      },
+      {
+        "institution": "中信銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "徐榛蔚",
+        "foreignAmount": 0,
+        "amount": 1278
+      },
+      {
+        "institution": "臺灣銀行花蓮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 2365
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 740355
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 1001333
+      },
+      {
+        "institution": "臺灣銀行北花蓮分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 138950
+      },
+      {
+        "institution": "土地銀行仁愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 732
+      },
+      {
+        "institution": "合庫商業銀行台北分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 1547
+      },
+      {
+        "institution": "合庫商業銀行城東分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 83
+      },
+      {
+        "institution": "合庫商業銀行松興分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 95
+      },
+      {
+        "institution": "華南商業銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 14811
+      },
+      {
+        "institution": "彰化銀行仁和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 1152
+      },
+      {
+        "institution": "上海商業儲蓄銀行城中分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 24686
+      },
+      {
+        "institution": "台北富邦銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 235
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 2195
+      },
+      {
+        "institution": "國泰世華商業銀行復興分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 44865
+      },
+      {
+        "institution": "國泰世華銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 1497
+      },
+      {
+        "institution": "臺灣中小企業銀行復興分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 34958
+      },
+      {
+        "institution": "臺灣企銀忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 1499
+      },
+      {
+        "institution": "臺灣新光銀行復興分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 3067
+      },
+      {
+        "institution": "花蓮第二信用合作社美崙 分社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 1126793
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 6
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 10
+      },
+      {
+        "institution": "中華郵政公司新店頂城郵 局(板橋 42 支局)",
+        "type": "中華郵政存簿儲金",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 302
+      },
+      {
+        "institution": "星展襄陽分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 936
+      },
+      {
+        "institution": "中國信託商業銀行復興分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 120750
+      },
+      {
+        "institution": "中信銀行南屯分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "傅崐萁",
+        "foreignAmount": 0,
+        "amount": 546
+      }
+    ]
+  },
+  "stocks": {
+    "total": 5650,
+    "items": [
+      {
+        "name": "偉盟 (未交付信託原因：下 櫃)",
+        "owner": "徐榛蔚",
+        "shares": 137,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1370
+      },
+      {
+        "name": "嘉新食化 (未交付信託原 因：下市)",
+        "owner": "傅崐萁",
+        "shares": 428,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 4280
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "安 聯 人 壽 保 險 股份有限公司",
+        "name": "超優勢變額萬能 壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "徐榛蔚",
+        "contractType": "投資型壽險",
+        "period": "92 年 12 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "好事年年終身保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 06 月 08 日/192 年 06 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "83 年 08 月 16 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "美滿人生 312",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "84 年 12 月 01 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "添美多美元",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 12 月 28 日/162 年 12 月 27 日",
+        "note": "自動墊 繳中"
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "富貴保本三福",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 23 日/185 年 09 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "安泰喬壽還本終 身壽險(繳費二 十年)",
+        "policyNumber": "○○○○○○○ ○○302",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "93 年 02 月 17 日/204 年 02 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦新終身壽險 (甲型)",
+        "policyNumber": "○○○○○○○ ○○301",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 09 月 19 日/182 年 09 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "富 邦 人 壽 保 險 股份有限公司",
+        "name": "富邦新終身壽險 (甲型)",
+        "policyNumber": "○○○○○○○ ○○304",
+        "holder": "徐榛蔚",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 12 月 28 日/180 年 12 月 27 日",
+        "note": ""
+      },
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "國華人壽至尊保 本終身保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "傅崐萁",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 06 月 17 日/146 年 06 月 16 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶 (活期性存款)",
+        "quantity": "1",
+        "owner": "徐榛蔚",
+        "value": 979974
+      },
+      {
+        "type": "臺灣銀行受託信託財產專戶 (活期性存款)",
+        "quantity": "1",
+        "owner": "傅崐萁",
+        "value": 29832
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 44794282,
+    "items": [
+      {
+        "type": "保單自動墊繳",
+        "debtor": "徐榛蔚",
+        "creditor": "國泰人壽保險股份有限公司 臺北市大安區仁愛路",
+        "amount": 1095679,
+        "date": "106年02月19日",
+        "reason": "添美多美元 保單自動墊 繳(保單號碼 ○○○○○ ○○○○3) 33,354 美 元，匯率 32.85"
+      },
+      {
+        "type": "授信",
+        "debtor": "徐榛蔚",
+        "creditor": "臺灣銀行北花蓮分行 花蓮縣花蓮市林森路",
+        "amount": 14564500,
+        "date": "102年04月29日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "傅崐萁",
+        "creditor": "華南商業銀行營業部 台北市重慶南路",
+        "amount": 29134103,
+        "date": "102年10月03日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 94400,
+    "items": [
+      {
+        "investor": "徐榛蔚",
+        "company": "花蓮第二信用合作社",
+        "address": "花蓮縣花蓮市光復街 36 號",
+        "amount": 4400,
+        "date": "85年06月03日",
+        "reason": "股金"
+      },
+      {
+        "investor": "徐榛蔚",
+        "company": "桃園信用合作社",
+        "address": "桃園市桃園區中山路 599 號",
+        "amount": 90000,
+        "date": "100年12月09日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

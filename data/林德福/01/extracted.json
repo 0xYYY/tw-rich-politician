@@ -1,0 +1,592 @@
+{
+  "name": "林德福",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "曾月桂"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市永和區及人段",
+      "area": 53,
+      "share": "2 分之 1",
+      "owner": "林德福",
+      "date": "52年02月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 1,
+      "share": "全部",
+      "owner": "林德福",
+      "date": "79年07月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 3,
+      "share": "全部",
+      "owner": "林德福",
+      "date": "79年07月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 1,
+      "share": "全部",
+      "owner": "林德福",
+      "date": "79年07月04日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 16,
+      "share": "192 分之 16",
+      "owner": "林德福",
+      "date": "76年09月02日",
+      "reason": "拍賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 620,
+      "share": "3776 分 之 973",
+      "owner": "林德福",
+      "date": "111年11月28日",
+      "reason": "買賣",
+      "price": "27,479,004"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 2465,
+      "share": "100000 分 之 3014",
+      "owner": "林德福",
+      "date": "86年12月09日",
+      "reason": "合併",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區竹林段",
+      "area": 88,
+      "share": "全部",
+      "owner": "林德福",
+      "date": "109年12月18日",
+      "reason": "繼承",
+      "price": "15,948,328"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 0.61,
+      "share": "80 分之 7",
+      "owner": "曾月桂",
+      "date": "104年12月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 253.89,
+      "share": "10000 分之 295",
+      "owner": "曾月桂",
+      "date": "104年12月15日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 381.21,
+      "share": "10000 分之 47",
+      "owner": "曾月桂",
+      "date": "113年04月12日",
+      "reason": "買賣",
+      "price": "1,083,810"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 39.32,
+      "share": "10000 分之 47",
+      "owner": "曾月桂",
+      "date": "113年04月12日",
+      "reason": "買賣",
+      "price": "111,990"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 299.7,
+      "share": "120 分之 6",
+      "owner": "曾月桂",
+      "date": "104年12月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 90.24,
+      "share": "120 分之 6",
+      "owner": "曾月桂",
+      "date": "104年12月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 347.54,
+      "share": "120 分之 6",
+      "owner": "曾月桂",
+      "date": "104年12月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區樂華段",
+      "area": 299.24,
+      "share": "10000 分之 1500",
+      "owner": "曾月桂",
+      "date": "104年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區樂華段",
+      "area": 98.25,
+      "share": "10000 分之 1500",
+      "owner": "曾月桂",
+      "date": "104年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市永和區樂華段",
+      "area": 137.68,
+      "share": "10000 分之 1500",
+      "owner": "曾月桂",
+      "date": "104年12月08日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市永和區文化段",
+      "area": 83.9,
+      "share": "全部",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "含陽台 8.86 平 方公尺(超過五 年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 124.98,
+      "share": "全部",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "含陽台 16.82 平方公尺(超過 五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 243.44,
+      "share": "100000 分 之 7624",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 164.38,
+      "share": "100000 分 之 6464",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 687.45,
+      "share": "100000 分 之 748",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 687.45,
+      "share": "100000 分 之 1133",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 3426.79,
+      "share": "100000 分 之 1111",
+      "owner": "林德福",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 124.98,
+      "share": "全部",
+      "owner": "曾月桂",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "含陽台 16.82 平方公尺(超過 五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 243.44,
+      "share": "100000 分 之 7624",
+      "owner": "曾月桂",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區文化段",
+      "area": 687.45,
+      "share": "100000 分 之 1133",
+      "owner": "曾月桂",
+      "date": "87年10月19日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 89.42,
+      "share": "全部",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "11,677,560(含 陽台 8.41 平方 公尺,雨遮 5.43 平方公 尺)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 89.55,
+      "share": "全部",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "11,697,960(含 陽台 8.96 平方 公尺,雨遮 5.25 平方公 尺)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 70.39,
+      "share": "2 分之 1",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "4,597,292"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 0,
+      "share": "10000 分之 356",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "800,000(共同 使用部分)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 0,
+      "share": "10000 分之 453",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "800,000(共同 使用部分)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 952.24,
+      "share": "10000 分之 453",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "800,000(共同 使用部分)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 223.79,
+      "share": "23 分之 1",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "1,200,000(共 同使用部分)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 223.79,
+      "share": "23 分之 1",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "1,200,000(共 同使用部分)"
+    },
+    {
+      "location": "新北市永和區永平段",
+      "area": 223.79,
+      "share": "23 分之 1",
+      "owner": "曾月桂",
+      "date": "112年03月02日",
+      "reason": "第一次登 記",
+      "price": "1,200,000(共 同使用部分)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 5207084,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 450008
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 188081
+      },
+      {
+        "institution": "土地銀行雙和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 1193
+      },
+      {
+        "institution": "合庫商業銀行永和分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 152190
+      },
+      {
+        "institution": "合庫商業銀行中和分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 14851
+      },
+      {
+        "institution": "臺灣企銀永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 139001
+      },
+      {
+        "institution": "中和地區農會仁愛分部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 127
+      },
+      {
+        "institution": "永豐銀行岡山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 25
+      },
+      {
+        "institution": "中信銀行雙和分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "林德福",
+        "foreignAmount": 0,
+        "amount": 19
+      },
+      {
+        "institution": "華南銀行永和分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 3197703
+      },
+      {
+        "institution": "國泰世華銀行永和分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "曾月桂",
+        "foreignAmount": 82,
+        "amount": 2649
+      },
+      {
+        "institution": "國泰世華銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 3082
+      },
+      {
+        "institution": "兆豐國際商業銀行永和分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 7
+      },
+      {
+        "institution": "陽信銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 33213
+      },
+      {
+        "institution": "陽信銀行永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 188519
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 41
+      },
+      {
+        "institution": "元大銀行永和分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "曾月桂",
+        "foreignAmount": 17,
+        "amount": 562
+      },
+      {
+        "institution": "元大銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "曾月桂",
+        "foreignAmount": 0,
+        "amount": 835813
+      }
+    ]
+  },
+  "stocks": {
+    "total": 1508000,
+    "items": [
+      {
+        "name": "碧悠電子",
+        "owner": "曾月桂",
+        "shares": 150800,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1508000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "林德福",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 04 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "林德福",
+        "contractType": "儲蓄型壽險",
+        "period": "84 年 04 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽保險股 份有限公司",
+        "name": "中國人壽鑫幸福 終身壽險",
+        "policyNumber": "○○○○○○○ ○○39",
+        "holder": "林德福",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險股 份有限公司",
+        "name": "新二十年限期繳 費增值分紅終身 壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "曾月桂",
+        "contractType": "儲蓄型壽險",
+        "period": "78 年 05 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱基人壽保險股 份有限公司",
+        "name": "中國人壽鑫幸福 終身壽險",
+        "policyNumber": "○○○○○○○ ○○22",
+        "holder": "曾月桂",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 09 月 26 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3588338,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "林德福",
+        "creditor": "上海商業儲蓄銀行永和分行 新北市永和區福和路",
+        "amount": 3588338,
+        "date": "93年04月20日",
+        "reason": "其他投資理 財週轉"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

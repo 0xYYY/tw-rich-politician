@@ -1,0 +1,79 @@
+{
+  "name": "楊文科",
+  "org": "新竹縣政府",
+  "title": "縣長",
+  "date": "113年04月01日",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "甘秀美"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台塑化",
+        "owner": "楊文科",
+        "shares": 45000,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "113年03月15日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 450000
+      },
+      {
+        "name": "台化",
+        "owner": "甘秀美",
+        "shares": 18000,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "113年03月15日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 180000
+      },
+      {
+        "name": "華南金",
+        "owner": "甘秀美",
+        "shares": 27000,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "113年03月15日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 270000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": "陳玉珍",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "金門縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2539795
+    },
+    {
+      "currency": "美元",
+      "amount": 559
+    }
+  ],
+  "depositsTotal": 2540354,
+  "insurance": [
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "國 華 人 壽 至 尊 保本終身保險",
+      "holder": "陳玉珍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "宏 泰 人 壽 保 險 股份有限公司",
+      "name": "宏 泰 人 壽 新 樂 活 一 生 失 能 照 護終身保險",
+      "holder": "陳玉珍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "宏 泰 人 壽 保 險 股份有限公司",
+      "name": "宏 泰 人 壽 新 樂 活 一 生 失 能 照 護終身保險",
+      "holder": "陳玉珍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南 山 人 壽 鑫 利 年 年 外 幣 增 額 終身壽險",
+      "holder": "陳玉珍",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 吉 優 利 利 率 變 動 型 增額終身壽險",
+      "holder": "陳玉珍",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中紡",
+      "cleanName": "中紡",
+      "ticker": null,
+      "shares": 1284,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "春源",
+      "cleanName": "春源",
+      "ticker": "2010",
+      "shares": 222,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": 18.6,
+      "latestPrice": 22.9
+    },
+    {
+      "name": "春源",
+      "cleanName": "春源",
+      "ticker": "2010",
+      "shares": 183,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": 18.6,
+      "latestPrice": 22.9
+    },
+    {
+      "name": "所羅門",
+      "cleanName": "所羅門",
+      "ticker": "2359",
+      "shares": 3000,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": 144,
+      "latestPrice": 132.5
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 1779,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 200,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "嘉彰",
+      "cleanName": "嘉彰",
+      "ticker": "4942",
+      "shares": 3000,
+      "owner": "陳玉珍",
+      "priceAtDisclosure": 43.3,
+      "latestPrice": 38.55
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "金門縣金湖鎮市港段",
+      "owner": "陳玉珍",
+      "date": "2022-01-03",
+      "effectiveAreaPing": 23.62,
+      "entryCount": 2,
+      "price": "6,400,000 (含陽台 4.91 平方公尺,雨 遮0.98平方公 尺，土地建物 共 640 萬)"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "name": "范雲",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "新北市淡水區中正段",
+      "area": 289.06,
+      "share": "10000 分之 598",
+      "owner": "范雲",
+      "date": "98年10月08日",
+      "reason": "分割繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大安區龍泉段一小段",
+      "area": 225,
+      "share": "2170 分 之 224",
+      "owner": "范雲",
+      "date": "105年06月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市淡水區中正段",
+      "area": 100.33,
+      "share": "全部",
+      "owner": "范雲",
+      "date": "81年07月04日",
+      "reason": "第一次登 記",
+      "price": "含陽台6.38平 方公尺,花台 2.18 平方公 尺,雨遮 2.02 平方公尺(超 過五年)"
+    },
+    {
+      "location": "新北市淡水區中正段",
+      "area": 103.17,
+      "share": "10000 分之 466",
+      "owner": "范雲",
+      "date": "81年07月04日",
+      "reason": "第一次登 記",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大安區龍泉段一小段",
+      "area": 73.42,
+      "share": "全部",
+      "owner": "范雲",
+      "date": "105年06月23日",
+      "reason": "買賣",
+      "price": "含陽台4.67平 方公尺(超過 五年)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 2131894,
+    "items": [
+      {
+        "institution": "合庫商業銀行內湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 1806
+      },
+      {
+        "institution": "華南銀行台大分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 5435
+      },
+      {
+        "institution": "華南銀行淡水分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "范雲",
+        "foreignAmount": 24565,
+        "amount": 110643
+      },
+      {
+        "institution": "華南銀行淡水分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 13314
+      },
+      {
+        "institution": "國泰世華銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 140
+      },
+      {
+        "institution": "新北市淡水信用合作社營 業部",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 179
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 500
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 21558
+      },
+      {
+        "institution": "玉山銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 71720
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 202966
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期存款",
+        "currency": "人民幣",
+        "owner": "范雲",
+        "foreignAmount": 37528,
+        "amount": 167108
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 117234
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 115211
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 114941
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 114941
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 113415
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 784817
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "范雲",
+        "foreignAmount": 4183,
+        "amount": 133375
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "范雲",
+        "foreignAmount": 1228,
+        "amount": 42482
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "范雲",
+        "foreignAmount": 3,
+        "amount": 82
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "人民幣",
+        "owner": "范雲",
+        "foreignAmount": 5,
+        "amount": 26
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "范雲",
+        "foreignAmount": 0,
+        "amount": 0
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "元大高股息",
+        "owner": "范雲",
+        "institution": "玉山證券",
+        "units": 8000,
+        "unitValue": 37.28,
+        "foreignCurrency": "",
+        "totalValue": 298240
+      }
+    ]
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 4274759,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "范雲",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 4274759,
+        "date": "105年06月27日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "name": "王忠銘",
+  "org": "連江縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳順娥"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市汐止區智興段(自用房屋 之坐落基地)",
+      "area": 3366,
+      "share": "10000 分之 42",
+      "owner": "陳順娥",
+      "date": "107年08月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市汐止區智興段(未交付信 託原因：自用房屋)",
+      "area": 129.4,
+      "share": "全部",
+      "owner": "陳順娥",
+      "date": "107年08月23日",
+      "reason": "買賣",
+      "price": "含陽台 21.99 平方公尺,花 台1.01平方公 尺(超過五年)"
+    },
+    {
+      "location": "新北市汐止區智興段(未交付信 託原因：自用房屋之停車位)",
+      "area": 2699.98,
+      "share": "118 分之 1",
+      "owner": "陳順娥",
+      "date": "107年08月23日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市汐止區智興段(未交付信 託原因：自用房屋之共同使用部 分)",
+      "area": 8138.93,
+      "share": "10000 分之 54",
+      "owner": "陳順娥",
+      "date": "107年08月23日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "稅籍號碼:○○○○○○○○○ ○○(未交付信託原因：未登記 建物)",
+      "area": 100.7,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "84年07月01日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "稅籍號碼:○○○○○○○○○ ○○(未交付信託原因：未登記 建物)",
+      "area": 124,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "96年12月01日",
+      "reason": "新建",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "稅籍號碼:○○○○○○○○○ ○○(未交付信託原因：未登記 建物)",
+      "area": 149,
+      "share": "全部",
+      "owner": "王忠銘",
+      "date": "95年12月01日",
+      "reason": "繼承",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1794,
+      "owner": "陳順娥",
+      "date": "109年06月22日",
+      "reason": "買賣",
+      "price": 50000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 18535035,
+    "items": [
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 160000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 26503
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 629030
+      },
+      {
+        "institution": "合庫商業銀行中和分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 631659
+      },
+      {
+        "institution": "華南銀行懷生分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 69
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 437
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王忠銘",
+        "foreignAmount": 0,
+        "amount": 855514
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 880000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 754285
+      },
+      {
+        "institution": "臺灣銀行馬祖分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳順娥",
+        "foreignAmount": 10208,
+        "amount": 326323
+      },
+      {
+        "institution": "彰化銀行中崙分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 729
+      },
+      {
+        "institution": "連江縣農會信用部",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "連江縣農會信用部",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "連江縣農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 186005
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 1410114
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 507425
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 507425
+      },
+      {
+        "institution": "中華郵政",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "遠東國際銀行台北襄陽分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 146998
+      },
+      {
+        "institution": "中信銀行汐止分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳順娥",
+        "foreignAmount": 250,
+        "amount": 8010
+      },
+      {
+        "institution": "中信銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳順娥",
+        "foreignAmount": 0,
+        "amount": 4509
+      }
+    ]
+  },
+  "stocks": {
+    "total": 24880,
+    "items": [
+      {
+        "name": "華隆 (未交付信託原因：已 下市)",
+        "owner": "陳順娥",
+        "shares": 2488,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 24880
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "王忠銘",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 05 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中 華郵政股 份 有限公司",
+        "name": "郵政簡易人壽常 鴻增額保險(6 年 付費)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳順娥",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 02 月 18 日/132 年 02 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽美年發 外幣增額還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳順娥",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 04 月 26 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "萬代福 211",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳順娥",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 10 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基人壽保 險 股份有限公司",
+        "name": "中國人壽金享退 休變額年金保險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳順娥",
+        "contractType": "年金型保險",
+        "period": "97 年 05 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦人壽保 險 股份有限公司",
+        "name": "富邦人壽好富利 增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○800",
+        "holder": "陳順娥",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 12 月 15 日/160 年 12 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "吉美樂美元利率 變動型增額終身 壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "陳順娥",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 08 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠 雄人壽保 險 事 業股份有 限 公司",
+        "name": "遠雄人壽長青保 險附約(D 型)-20 年期",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "陳順娥",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 11 月 16 日/154 年 11 月 16 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "王忠銘",
+        "value": 90113
+      },
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "陳順娥",
+        "value": 272607
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

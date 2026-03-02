@@ -1,0 +1,149 @@
+{
+  "name": "何欣純",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 2897814
+    },
+    {
+      "currency": "美元",
+      "amount": 225
+    }
+  ],
+  "depositsTotal": 2898039,
+  "insurance": [
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "滿添鑫利利變",
+      "holder": "何欣純",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中 國 人 壽 鑫 收 益 變 額 年 金 保 險",
+      "holder": "何欣純",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新 光 人 壽 鑫 利 雙 喜 利 率 變 動 型 終 身 還 本 保 險",
+      "holder": "何欣純",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新 光 人 壽 鑫 利 雙 喜 利 率 變 動 型 終 身 還 本 保 險",
+      "holder": "何欣純",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "世 紀 卓 越 變 額 萬能終身壽險 B 型",
+      "holder": "謝俊雄",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "世 紀 富 利 變 額 萬能壽險 A 型",
+      "holder": "謝俊雄",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "世 紀 富 利 變 額 萬能壽險 A 型",
+      "holder": "謝俊雄",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "鑫 世 紀 經 典 變 額 萬 能 終 身 壽 險 B 型",
+      "holder": "謝俊雄",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 守 護 久 久 失 能 照 護終身保險",
+      "holder": "謝俊雄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 愛 安 心 重 大 傷 病 終身健康保險",
+      "holder": "謝俊雄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 新 守 健 康 手 術 醫 療 終 身 健 康 保 險",
+      "holder": "謝俊雄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 新 真 健 康 終 身 醫 療健康保險",
+      "holder": "謝俊雄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "富貴保本三福",
+      "holder": "謝俊雄",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "傳 富 美 美 元 利 率 變 動 型 終 身 壽險",
+      "holder": "謝俊雄",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市大里區大孝段",
+      "owner": "何欣純",
+      "date": "2016-10-19",
+      "effectiveAreaPing": 66.38,
+      "entryCount": 1,
+      "price": "含陽台 15.27 平方公尺,雨 遮1.94平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市大里區新仁段",
+      "owner": "何欣純",
+      "date": "2014-08-26",
+      "effectiveAreaPing": 85.79,
+      "entryCount": 1,
+      "price": "含陽台 35.01 平方公尺,平 台4.91平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "owner": "謝俊雄",
+      "date": "2020-12-29",
+      "effectiveAreaPing": 77.39,
+      "entryCount": 2,
+      "price": "22,000,000 (與第4筆土地 或第 4 筆建物 合購,含陽台 24.54 平方公 尺,雨遮 8.75 平方公尺)"
+    },
+    {
+      "location": "臺中市大里區大孝段",
+      "owner": "謝俊雄",
+      "date": "2004-08-26",
+      "effectiveAreaPing": 93.61,
+      "entryCount": 1,
+      "price": "含陽台 38.45 平方公尺,雨 遮1.63平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺中市清水區橋江段",
+      "owner": "謝俊雄",
+      "date": "2000-01-14",
+      "effectiveAreaPing": 55.81,
+      "entryCount": 1,
+      "price": "含陽台 12.87 平方公尺,雨 遮5.81平方公 尺(超過五年)"
+    }
+  ]
+}

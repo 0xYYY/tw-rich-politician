@@ -1,0 +1,418 @@
+{
+  "name": "郭昱晴",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 908065
+    },
+    {
+      "currency": "美元",
+      "amount": 102504
+    },
+    {
+      "currency": "日圓",
+      "amount": 1
+    }
+  ],
+  "depositsTotal": 1010572,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 美 利 吉 順 外 幣 利 率 變 動 型 終 身 壽 險",
+      "holder": "郭昱晴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+      "holder": "郭昱晴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+      "holder": "郭昱晴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新 光 人 壽 增 有 利終身壽險",
+      "holder": "郭昱晴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安 泰 人 壽 靈 活 理 財 變 額 保 險 乙型",
+      "holder": "林宣廷",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "好 鑫 安 保 險 乙 型",
+      "holder": "林宣廷",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 守 護 人 生 終 身 健 康 保險",
+      "holder": "林○呈",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 健 康 寶 倍 終 身 健 康 保險",
+      "holder": "林○呈",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 富 利 旺終身壽險",
+      "holder": "林○呈",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "美時",
+      "cleanName": "美時",
+      "ticker": "1795",
+      "shares": 1000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 271.5,
+      "latestPrice": 278.5
+    },
+    {
+      "name": "第一銅",
+      "cleanName": "第一銅",
+      "ticker": "2009",
+      "shares": 7000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 37.45,
+      "latestPrice": 46.5
+    },
+    {
+      "name": "和泰車",
+      "cleanName": "和泰車",
+      "ticker": "2207",
+      "shares": 1020,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 656,
+      "latestPrice": 585
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 1000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "光罩",
+      "cleanName": "光罩",
+      "ticker": "2338",
+      "shares": 3000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 67.4,
+      "latestPrice": 49.2
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 1000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 1135,
+      "latestPrice": 1945
+    },
+    {
+      "name": "長榮",
+      "cleanName": "長榮",
+      "ticker": "2603",
+      "shares": 1200,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 166.5,
+      "latestPrice": 197
+    },
+    {
+      "name": "長榮航",
+      "cleanName": "長榮航",
+      "ticker": "2618",
+      "shares": 10000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 31.35,
+      "latestPrice": 38
+    },
+    {
+      "name": "兆豐金",
+      "cleanName": "兆豐金",
+      "ticker": "2886",
+      "shares": 5040,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 40.9,
+      "latestPrice": 40.55
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 61,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 8.38,
+      "latestPrice": null
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 14,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 8.38,
+      "latestPrice": null
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 1000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 119.5,
+      "latestPrice": 136
+    },
+    {
+      "name": "神達",
+      "cleanName": "神達",
+      "ticker": "3706",
+      "shares": 8000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 45.6,
+      "latestPrice": 80
+    },
+    {
+      "name": "中租-KY 甲特",
+      "cleanName": "中租-KY 甲特",
+      "ticker": "5871",
+      "shares": 279,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 177,
+      "latestPrice": 104
+    },
+    {
+      "name": "中租-KY",
+      "cleanName": "中租-KY",
+      "ticker": "5871",
+      "shares": 3611,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 177,
+      "latestPrice": 104
+    },
+    {
+      "name": "合晶",
+      "cleanName": "合晶",
+      "ticker": "6182",
+      "shares": 3229,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 39.7,
+      "latestPrice": 36.25
+    },
+    {
+      "name": "台燿",
+      "cleanName": "台燿",
+      "ticker": "6274",
+      "shares": 1000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 161.5,
+      "latestPrice": 545
+    },
+    {
+      "name": "元晶",
+      "cleanName": "元晶",
+      "ticker": "6443",
+      "shares": 10926,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 27.1,
+      "latestPrice": 45.1
+    },
+    {
+      "name": "無敵",
+      "cleanName": "無敵",
+      "ticker": "8201",
+      "shares": 58,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 17.3,
+      "latestPrice": 14.4
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 2000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 23.85,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 159,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 27,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 1135,
+      "latestPrice": 1945
+    },
+    {
+      "name": "神達",
+      "cleanName": "神達",
+      "ticker": "3706",
+      "shares": 1000,
+      "owner": "郭昱晴",
+      "priceAtDisclosure": 45.6,
+      "latestPrice": 80
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣 50",
+      "owner": "郭昱晴",
+      "institution": "元富證券",
+      "units": 1000,
+      "unitValue": 152.96,
+      "currency": "",
+      "declaredValue": 152960,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "郭昱晴",
+      "institution": "元富證券",
+      "units": 20000,
+      "unitValue": 22.48,
+      "currency": "",
+      "declaredValue": 449600,
+      "source": "fund"
+    },
+    {
+      "name": "富邦特選高股息 30",
+      "owner": "郭昱晴",
+      "institution": "元富證券",
+      "units": 5000,
+      "unitValue": 15.5,
+      "currency": "",
+      "declaredValue": 77500,
+      "source": "fund"
+    },
+    {
+      "name": "Invesco QQQ Trust Seri",
+      "owner": "郭昱晴",
+      "institution": "國泰綜合證券",
+      "units": 1.1743,
+      "unitValue": 433.92,
+      "currency": "美元",
+      "declaredValue": 16087,
+      "source": "fund"
+    },
+    {
+      "name": "Vanguard Total World S",
+      "owner": "郭昱晴",
+      "institution": "國泰綜合證券",
+      "units": 4.6324,
+      "unitValue": 108.14,
+      "currency": "美元",
+      "declaredValue": 15815,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣 50",
+      "owner": "郭昱晴",
+      "institution": "國 泰 綜 合 證 券 敦南分公司",
+      "units": 1283,
+      "unitValue": 152.96,
+      "currency": "",
+      "declaredValue": 196247,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "郭昱晴",
+      "institution": "國 泰 綜 合 證 券 敦南分公司",
+      "units": 1690,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 66248,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣高息低 波",
+      "owner": "郭昱晴",
+      "institution": "國 泰 綜 合 證 券 敦南分公司",
+      "units": 504,
+      "unitValue": 54.27,
+      "currency": "",
+      "declaredValue": 27352,
+      "source": "fund"
+    },
+    {
+      "name": "國泰北美科技",
+      "owner": "郭昱晴",
+      "institution": "國 泰 綜 合 證 券 敦南分公司",
+      "units": 23,
+      "unitValue": 41.12,
+      "currency": "",
+      "declaredValue": 945,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "郭昱晴",
+      "institution": "國 泰 綜 合 證 券 敦南分公司",
+      "units": 3035,
+      "unitValue": 22.48,
+      "currency": "",
+      "declaredValue": 68226,
+      "source": "fund"
+    },
+    {
+      "name": "富邦特選高股息 30",
+      "owner": "郭昱晴",
+      "institution": "國 泰 綜 合 證 券 敦南分公司",
+      "units": 2000,
+      "unitValue": 15.5,
+      "currency": "",
+      "declaredValue": 31000,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大安區懷生段二小段",
+      "owner": "郭昱晴",
+      "date": "1993-12-20",
+      "effectiveAreaPing": 41.54,
+      "entryCount": 2,
+      "price": "含陽台 19.28 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市中山區長春段三小段",
+      "owner": "郭昱晴",
+      "date": "2019-02-19",
+      "effectiveAreaPing": 38.02,
+      "entryCount": 1,
+      "price": "含陽台 17.26 平方公尺(超 過五年)"
+    }
+  ]
+}

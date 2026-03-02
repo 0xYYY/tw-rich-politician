@@ -1,0 +1,208 @@
+{
+  "name": "吳思瑤",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [],
+  "land": [
+    {
+      "location": "新北市土城區明德段",
+      "area": 4657.68,
+      "share": "100000 分 之 479",
+      "owner": "吳思瑤",
+      "date": "111年08月02日",
+      "reason": "買賣",
+      "price": "17,700,000(房 地總價額)"
+    },
+    {
+      "location": "1★臺北市北投區行義段一小段",
+      "area": 1439.71,
+      "share": "100000 分 之 6529",
+      "owner": "吳思瑤",
+      "date": "113年08月23日",
+      "reason": "買賣",
+      "price": "40,320,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "1★新北市土城區明德段",
+      "area": 89.85,
+      "share": "全部",
+      "owner": "吳思瑤",
+      "date": "111年08月02日",
+      "reason": "買賣",
+      "price": "17,700,000 (含陽台 7.91 平方公尺,雨 遮5.04平方公 尺,房地總價 額)"
+    },
+    {
+      "location": "1★新北市土城區明德段",
+      "area": 16305.77,
+      "share": "100000 分 之 457",
+      "owner": "吳思瑤",
+      "date": "111年08月02日",
+      "reason": "買賣",
+      "price": "17,700,000 (共同使用部 分,房地總價 額)"
+    },
+    {
+      "location": "1★臺北市北投區行義段一小段",
+      "area": 121.53,
+      "share": "全部",
+      "owner": "吳思瑤",
+      "date": "113年08月23日",
+      "reason": "買賣",
+      "price": "40,320,000 (含陽台 15.84 平方公尺,房 地總價額)"
+    },
+    {
+      "location": "1★臺北市北投區行義段一小段",
+      "area": 976.66,
+      "share": "100000 分 之 6520",
+      "owner": "吳思瑤",
+      "date": "113年08月23日",
+      "reason": "買賣",
+      "price": "40,320,000 (共同使用部 分,房地總價 額)"
+    },
+    {
+      "location": "1★臺北市北投區行義段一小段",
+      "area": 175.09,
+      "share": "100000 分 之 3030",
+      "owner": "吳思瑤",
+      "date": "113年08月23日",
+      "reason": "買賣",
+      "price": "40,320,000 (共同使用部 分,房地總價 額)"
+    },
+    {
+      "location": "1★臺北市北投區行義段一小段",
+      "area": 1318.39,
+      "share": "97 分之 6",
+      "owner": "吳思瑤",
+      "date": "113年08月23日",
+      "reason": "買賣",
+      "price": "40,320,000 (共同使用部 分,房地總價 額)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "AUDI",
+      "cc": 1984,
+      "owner": "吳思瑤",
+      "date": "105年07月26日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 2391795,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 728616
+      },
+      {
+        "institution": "土地銀行華江分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 489
+      },
+      {
+        "institution": "第一銀行劍潭分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 1178
+      },
+      {
+        "institution": "華南銀行華江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 258
+      },
+      {
+        "institution": "上海銀行華江分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 520858
+      },
+      {
+        "institution": "台北富邦銀行市府分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 309086
+      },
+      {
+        "institution": "瑞興商業銀行石牌分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 341944
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "吳思瑤",
+        "foreignAmount": 0,
+        "amount": 489366
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 24469988,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "吳思瑤",
+        "creditor": "瑞興商業銀行石牌分行",
+        "amount": 8500000,
+        "date": "111年08月04日",
+        "reason": "購置不動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "吳思瑤",
+        "creditor": "臺灣銀行大安分行",
+        "amount": 15969988,
+        "date": "113年09月02日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

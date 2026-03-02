@@ -1,0 +1,95 @@
+{
+  "name": "黃仁",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王春梅"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺東縣成功鎮富民段",
+      "area": 706.15,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "113年08月13日",
+      "reason": "買進",
+      "price": "8,360,000 (第一筆土地與 第二筆土地為 合購價共 836 萬)"
+    },
+    {
+      "location": "臺東縣成功鎮富民段",
+      "area": 4298.85,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "113年08月13日",
+      "reason": "買進",
+      "price": "8,360,000 (第一筆土地與 第二筆土地為 合購價共 836 萬)"
+    },
+    {
+      "location": "臺東縣成功鎮富民段",
+      "area": 294.12,
+      "share": "全部",
+      "owner": "黃仁",
+      "date": "113年10月08日",
+      "reason": "贈與",
+      "price": "220,590"
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "area": 92,
+      "share": "全部",
+      "owner": "王春梅",
+      "date": "113年03月07日",
+      "reason": "買進",
+      "price": "21,000,000 (房地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺東縣臺東市新生里四維路",
+      "area": 209.31,
+      "share": "全部",
+      "owner": "王春梅",
+      "date": "113年03月07日",
+      "reason": "買進",
+      "price": "21,000,000 (房地合購價)"
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "陳瑩",
+  "date": "2024-12-30",
+  "type": "legislator",
+  "area": "平地原住民",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6365197
+    }
+  ],
+  "depositsTotal": 6365197,
+  "insurance": [
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "享樂人生變額萬 能壽險（乙型）",
+      "holder": "陳瑩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "享樂人生變額萬 能壽險（乙型）",
+      "holder": "陳瑩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "台灣人壽長盛還 本終身保險",
+      "holder": "陳瑩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 10000,
+      "owner": "陳瑩",
+      "priceAtDisclosure": 39.4,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "微星",
+      "cleanName": "微星",
+      "ticker": "2377",
+      "shares": 10000,
+      "owner": "陳瑩",
+      "priceAtDisclosure": 184,
+      "latestPrice": 94.3
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 90000,
+      "owner": "陳瑩",
+      "priceAtDisclosure": 75.2,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "緯創",
+      "cleanName": "緯創",
+      "ticker": "3231",
+      "shares": 5000,
+      "owner": "陳瑩",
+      "priceAtDisclosure": 104,
+      "latestPrice": 136
+    },
+    {
+      "name": "安普新",
+      "cleanName": "安普新",
+      "ticker": "6743",
+      "shares": 10000,
+      "owner": "陳瑩",
+      "priceAtDisclosure": 42.15,
+      "latestPrice": 26.5
+    },
+    {
+      "name": "世紀樺欣",
+      "cleanName": "世紀樺欣",
+      "ticker": null,
+      "shares": 5000,
+      "owner": "陳瑩",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "桃園市中壢區青溪段",
+      "owner": "陳瑩",
+      "date": "2020-08-06",
+      "effectiveAreaPing": 140.17,
+      "entryCount": 4,
+      "price": "14,700,000(含 陽台 28.21 平 方公尺,雨遮 5.74 平方公 尺)"
+    },
+    {
+      "location": "桃園市桃園區新埔段",
+      "owner": "陳瑩",
+      "date": "2016-09-22",
+      "effectiveAreaPing": 107.72,
+      "entryCount": 2,
+      "price": "含陽台 15.84 平方公尺(超過 五年)"
+    },
+    {
+      "location": "高雄市鳥松區育才段",
+      "owner": "陳瑩",
+      "date": "2008-06-23",
+      "effectiveAreaPing": 92.78,
+      "entryCount": 2,
+      "price": "含陽台 16.3 平 方公尺,雨遮 10.3 平方公尺 (超過五年)"
+    }
+  ]
+}

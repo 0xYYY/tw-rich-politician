@@ -1,0 +1,313 @@
+{
+  "name": "楊文科",
+  "org": "新竹縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "甘秀美"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 14323974,
+    "items": [
+      {
+        "institution": "臺灣銀行新竹科學園區分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 3452055
+      },
+      {
+        "institution": "臺灣銀行新竹科學園區分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 3706
+      },
+      {
+        "institution": "臺灣銀行臺中科學園區分 行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 712460
+      },
+      {
+        "institution": "土地銀行竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 369587
+      },
+      {
+        "institution": "華南銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 254
+      },
+      {
+        "institution": "台北富邦銀行和平分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 370430
+      },
+      {
+        "institution": "國泰世華銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 7666
+      },
+      {
+        "institution": "兆豐國際商業銀行竹科新 安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 870516
+      },
+      {
+        "institution": "兆豐國際商業銀行竹科竹 村分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "楊文科",
+        "foreignAmount": 23113,
+        "amount": 739319
+      },
+      {
+        "institution": "兆豐國際商業銀行竹科竹 村分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "楊文科",
+        "foreignAmount": 5660,
+        "amount": 181045
+      },
+      {
+        "institution": "兆豐國際商業銀行竹科竹 村分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "楊文科",
+        "foreignAmount": 750,
+        "amount": 23991
+      },
+      {
+        "institution": "兆豐國際商業銀行竹科竹 村分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 940560
+      },
+      {
+        "institution": "新竹第一信用合作社光復 分社",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 46733
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 2776
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 268850
+      },
+      {
+        "institution": "永豐銀行北台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 1033
+      },
+      {
+        "institution": "玉山銀行六家分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "楊文科",
+        "foreignAmount": 0,
+        "amount": 3866634
+      },
+      {
+        "institution": "土地銀行新竹分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "甘秀美",
+        "foreignAmount": 0,
+        "amount": 681
+      },
+      {
+        "institution": "國泰世華銀行竹城分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "甘秀美",
+        "foreignAmount": 1896,
+        "amount": 60631
+      },
+      {
+        "institution": "國泰世華銀行竹城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "甘秀美",
+        "foreignAmount": 0,
+        "amount": 86129
+      },
+      {
+        "institution": "兆豐國際商業銀行竹科新 安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "甘秀美",
+        "foreignAmount": 0,
+        "amount": 254800
+      },
+      {
+        "institution": "新竹第一信用合作社光復 分社",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "甘秀美",
+        "foreignAmount": 0,
+        "amount": 545891
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "甘秀美",
+        "foreignAmount": 0,
+        "amount": 1517951
+      },
+      {
+        "institution": "台新國際銀行竹北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "甘秀美",
+        "foreignAmount": 0,
+        "amount": 275
+      }
+    ]
+  },
+  "stocks": {
+    "total": 100000,
+    "items": [
+      {
+        "name": "鋰科 (未交付信託原因：非 國內上市、上櫃股票)",
+        "owner": "甘秀美",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "中國多重資產 A",
+        "owner": "甘秀美",
+        "institution": "富 邦 證 券 投 資 信 託 股 份 有 限 公司",
+        "units": 50000,
+        "unitValue": 8.48,
+        "foreignCurrency": "",
+        "totalValue": 424000
+      },
+      {
+        "name": "富邦台 50",
+        "owner": "甘秀美",
+        "institution": "富 邦 證 券 新 竹 分公司",
+        "units": 10000,
+        "unitValue": 111.26,
+        "foreignCurrency": "",
+        "totalValue": 1112600
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "全 球 人 壽 保 險 股份有限公司",
+        "name": "全 球 人 壽 金 彩 306 增額終身壽 險",
+        "policyNumber": "",
+        "holder": "楊文科",
+        "contractType": "儲蓄型壽險",
+        "period": "94 年 05 月 30 日/150 年 05 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽好利多 終身保險",
+        "policyNumber": "",
+        "holder": "楊文科",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 06 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "台灣人壽新長榮 還本終身壽險",
+        "policyNumber": "",
+        "holder": "楊文科",
+        "contractType": "儲蓄型壽險",
+        "period": "79 年 06 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰 人 壽 保 險 股份有限公司",
+        "name": "祿美利利變美元",
+        "policyNumber": "",
+        "holder": "甘秀美",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 25 日/149 年 03 月 24 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "黃金存摺(金融機構：玉山商 業銀行六家分行)",
+        "quantity": "1",
+        "owner": "楊文科",
+        "value": 2806
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "name": "林楚茵",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "梁文傑"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 169,
+      "share": "10000 分之 170",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 1653,
+      "share": "10000 分之 170",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 89.41,
+      "share": "56 分之 1",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 132.76,
+      "share": "全部",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 2679.72,
+      "share": "10000 分之 169",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 2679.72,
+      "share": "10000 分之 88",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 4323.25,
+      "share": "10000 分之 183",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "area": 4323.25,
+      "share": "10000 分之 32",
+      "owner": "梁文傑",
+      "date": "111年09月26日",
+      "reason": "買賣",
+      "price": "51,000,000(房 地總價額)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "本田",
+      "cc": 1498,
+      "owner": "林楚茵",
+      "date": "112年08月10日",
+      "reason": "買賣",
+      "price": 790000
+    },
+    {
+      "brand": "納智捷(鴻華先進)",
+      "cc": 2300,
+      "owner": "梁文傑",
+      "date": "113年03月19日",
+      "reason": "買賣",
+      "price": 990000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7317517,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "林楚茵",
+        "foreignAmount": 1975,
+        "amount": 63150
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 1681251
+      },
+      {
+        "institution": "第一銀行忠孝路分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 482578
+      },
+      {
+        "institution": "第一銀行南門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 196665
+      },
+      {
+        "institution": "第一銀行南門分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "林楚茵",
+        "foreignAmount": 5122,
+        "amount": 163483
+      },
+      {
+        "institution": "第一銀行南門分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "林楚茵",
+        "foreignAmount": 620539,
+        "amount": 128699
+      },
+      {
+        "institution": "台北富邦銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "日圓",
+        "owner": "林楚茵",
+        "foreignAmount": 2004740,
+        "amount": 419696
+      },
+      {
+        "institution": "台北富邦銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "林楚茵",
+        "foreignAmount": 12491,
+        "amount": 399496
+      },
+      {
+        "institution": "台北富邦銀行永和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 139263
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 1
+      },
+      {
+        "institution": "元大銀行承德分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "林楚茵",
+        "foreignAmount": 23232,
+        "amount": 4904
+      },
+      {
+        "institution": "元大銀行承德分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林楚茵",
+        "foreignAmount": 53,
+        "amount": 1704
+      },
+      {
+        "institution": "元大銀行承德分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 795949
+      },
+      {
+        "institution": "玉山銀行城中分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "林楚茵",
+        "foreignAmount": 3916041,
+        "amount": 819627
+      },
+      {
+        "institution": "玉山銀行城中分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "林楚茵",
+        "foreignAmount": 4037,
+        "amount": 129129
+      },
+      {
+        "institution": "玉山銀行城中分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 505842
+      },
+      {
+        "institution": "台新國際銀行南門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 125973
+      },
+      {
+        "institution": "中信銀行站前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林楚茵",
+        "foreignAmount": 0,
+        "amount": 174074
+      },
+      {
+        "institution": "臺灣銀行和平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 4491
+      },
+      {
+        "institution": "華南銀行營業部",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 930
+      },
+      {
+        "institution": "台北富邦銀行建成分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 20288
+      },
+      {
+        "institution": "高雄銀行台北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 2109
+      },
+      {
+        "institution": "高雄銀行博愛分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 387
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 1009335
+      },
+      {
+        "institution": "聯邦銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 29107
+      },
+      {
+        "institution": "台新國際銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 16751
+      },
+      {
+        "institution": "樂天國際商業銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "梁文傑",
+        "foreignAmount": 0,
+        "amount": 2633
+      }
+    ]
+  },
+  "stocks": {
+    "total": 626320,
+    "items": [
+      {
+        "name": "台泥「交付臺灣銀行信託」",
+        "owner": "林楚茵",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "信錦",
+        "owner": "林楚茵",
+        "shares": 500,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 5000
+      },
+      {
+        "name": "宇隆",
+        "owner": "林楚茵",
+        "shares": 225,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2250
+      },
+      {
+        "name": "太子",
+        "owner": "林楚茵",
+        "shares": 901,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 9010
+      },
+      {
+        "name": "和昇",
+        "owner": "林楚茵",
+        "shares": 12959,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 129590
+      },
+      {
+        "name": "華南金「交付臺灣銀行信 託」",
+        "owner": "林楚茵",
+        "shares": 6266,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 62660
+      },
+      {
+        "name": "威健",
+        "owner": "林楚茵",
+        "shares": 97,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 970
+      },
+      {
+        "name": "遠傳",
+        "owner": "林楚茵",
+        "shares": 765,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 7650
+      },
+      {
+        "name": "合庫金「交付臺灣銀行信 託」",
+        "owner": "林楚茵",
+        "shares": 8306,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 83060
+      },
+      {
+        "name": "富旺",
+        "owner": "林楚茵",
+        "shares": 42,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 420
+      },
+      {
+        "name": "中華電信「交付臺灣銀行信 託」",
+        "owner": "林楚茵",
+        "shares": 3000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 30000
+      },
+      {
+        "name": "中鼎工程「交付臺灣銀行信 託」",
+        "owner": "林楚茵",
+        "shares": 8000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 80000
+      },
+      {
+        "name": "康聯訊科技股份有限公司 「交付臺灣銀行信託」",
+        "owner": "林楚茵",
+        "shares": 1180,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11800
+      },
+      {
+        "name": "第一金融控股股份有限公 司「交付臺灣銀行信託」",
+        "owner": "林楚茵",
+        "shares": 15741,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 157410
+      },
+      {
+        "name": "智基「交付臺灣銀行信託」",
+        "owner": "林楚茵",
+        "shares": 2650,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 26500
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "國泰台灣 5G+",
+        "owner": "林楚茵",
+        "institution": "富 邦 證 券 台 北 分公司",
+        "units": 10000,
+        "unitValue": 24.32,
+        "foreignCurrency": "",
+        "totalValue": 243200
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "三商美邦人壽 保險股份有限 公司",
+        "name": "六年繳費享利昇增 額終身壽險",
+        "policyNumber": "○○○○○○○ ○○860",
+        "holder": "林楚茵",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 02 月 03 日/終身",
+        "note": ""
+      },
+      {
+        "company": "台新人壽保險 股份有限公司",
+        "name": "年金給付型養老壽 險-利率變動型(不 分紅)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林楚茵",
+        "contractType": "年金型保險",
+        "period": "99 年 01 月 05 日/122 年 01 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "台新人壽保險 股份有限公司",
+        "name": "終身壽險（107）",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林楚茵",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 08 月 25 日/171 年 08 月 25 日",
+        "note": ""
+      },
+      {
+        "company": "台新人壽保險 股份有限公司",
+        "name": "新 美 元 終 身 壽 險 (109)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林楚茵",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 08 月 28 日/171 年 08 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "台新人壽保險 股份有限公司",
+        "name": "鑫享人生利率變動 型美元還本終身保 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林楚茵",
+        "contractType": "儲蓄型壽險",
+        "period": "113 年 06 月 07 日/156 年 06 月 07 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "得意還本終身壽險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "梁文傑",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 05 月 19 日/160 年 05 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "添福增額終身",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "梁文傑",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 06 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "富邦人壽安康久久 殘廢照護終身壽險",
+        "policyNumber": "○○○○○○○ ○○700",
+        "holder": "梁文傑",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 05 月 26 日/161 年 05 月 25 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "臺灣銀行受託信託財產專戶",
+        "quantity": "1",
+        "owner": "林楚茵",
+        "value": 119771
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 35500726,
+    "items": [
+      {
+        "type": "私人債務",
+        "debtor": "梁文傑",
+        "creditor": "梁○怡 新北市中和區成功路",
+        "amount": 4500000,
+        "date": "110年08月01日",
+        "reason": "個人借貸"
+      },
+      {
+        "type": "授信",
+        "debtor": "梁文傑",
+        "creditor": "聯邦商業銀行營業部 台北市松山區民生東路",
+        "amount": 31000726,
+        "date": "111年09月28日",
+        "reason": "購置不動產 -住宅"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

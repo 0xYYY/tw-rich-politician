@@ -1,0 +1,425 @@
+{
+  "name": "林淑芬",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "邱若山"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "邱○在"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市永和區永福段",
+      "area": 200,
+      "share": "5 分之 1",
+      "owner": "邱若山",
+      "date": "80年06月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市蘆洲區正義段",
+      "area": 1999.92,
+      "share": "20000 分之 195",
+      "owner": "邱○在",
+      "date": "108年04月24日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市永和區永福段",
+      "area": 113.06,
+      "share": "全部",
+      "owner": "邱若山",
+      "date": "80年06月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市蘆洲區正義段",
+      "area": 124.97,
+      "share": "2 分之 1",
+      "owner": "邱○在",
+      "date": "108年04月24日",
+      "reason": "買賣",
+      "price": "含陽台10.9平 方公尺,雨遮 10.33 平方公 尺(超過五年)"
+    },
+    {
+      "location": "新北市蘆洲區正義段",
+      "area": 5909.59,
+      "share": "100000 分 之 2219",
+      "owner": "邱○在",
+      "date": "108年04月24日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1987,
+      "owner": "林淑芬",
+      "date": "113年08月26日",
+      "reason": "買賣",
+      "price": 950000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 13706662,
+    "items": [
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "林淑芬",
+        "foreignAmount": 25503,
+        "amount": 815214
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "日圓",
+        "owner": "林淑芬",
+        "foreignAmount": 1142895,
+        "amount": 239893
+      },
+      {
+        "institution": "臺灣銀行城中分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "林淑芬",
+        "foreignAmount": 57,
+        "amount": 1848
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 627
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 3042813
+      },
+      {
+        "institution": "土地銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 3090
+      },
+      {
+        "institution": "華南銀行南三重分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 726
+      },
+      {
+        "institution": "華泰銀行大安分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 65
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 538
+      },
+      {
+        "institution": "元大銀行三重分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 5708
+      },
+      {
+        "institution": "玉山銀行蘆洲分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 1000
+      },
+      {
+        "institution": "中信銀行龍江簡易型分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "林淑芬",
+        "foreignAmount": 0,
+        "amount": 4713
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱若山",
+        "foreignAmount": 0,
+        "amount": 2654272
+      },
+      {
+        "institution": "台北富邦銀行城東分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱若山",
+        "foreignAmount": 0,
+        "amount": 68
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱若山",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 339202
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 47195,
+        "amount": 1508755
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 15900,
+        "amount": 508291
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 2737,
+        "amount": 87521
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 2612,
+        "amount": 83528
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 2036,
+        "amount": 65099
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 1560,
+        "amount": 49899
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 1398,
+        "amount": 44692
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 1250,
+        "amount": 39988
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 500000
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 336592
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 238153
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 24413
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 19637
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 14358
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 11354
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "邱○在",
+        "foreignAmount": 1920,
+        "amount": 61395
+      },
+      {
+        "institution": "遠東國際銀行永和分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱○在",
+        "foreignAmount": 0,
+        "amount": 3201
+      }
+    ]
+  },
+  "stocks": {
+    "total": 6630,
+    "items": [
+      {
+        "name": "新纖",
+        "owner": "林淑芬",
+        "shares": 663,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 6630
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽保險股 份有限公司",
+        "name": "新安心保住院醫 療終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "林淑芬",
+        "contractType": "儲蓄型壽險",
+        "period": "101 年 05 月 31 日/161 年 05 月 30 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 3000000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "邱○在",
+        "creditor": "臺灣土地銀行營業部 台北市館前路",
+        "amount": 3000000,
+        "date": "108年05月03日",
+        "reason": "購買住宅貸 款(自用)"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

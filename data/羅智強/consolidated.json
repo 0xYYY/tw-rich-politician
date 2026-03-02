@@ -1,0 +1,138 @@
+{
+  "name": "羅智強",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "臺北市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 8369371
+    },
+    {
+      "currency": "美元",
+      "amount": 1782763
+    },
+    {
+      "currency": "歐元",
+      "amount": 655629
+    },
+    {
+      "currency": "日圓",
+      "amount": 1579761
+    },
+    {
+      "currency": "離岸人民幣",
+      "amount": 88203
+    }
+  ],
+  "depositsTotal": 12475729,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 祥 安終身壽險",
+      "holder": "羅智強",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二 十 年 繳 費 新 祥安終身壽險",
+      "holder": "黃雪玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南 山 人 壽 增 鑫 利 外 幣 增 額 終 身壽險",
+      "holder": "黃雪玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南 山 人 壽 增 鑫 利 外 幣 增 額 終 身壽險",
+      "holder": "黃雪玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 美 利 大 順 外 幣 利 率 變 動 型 終 身 壽 險",
+      "holder": "黃雪玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+      "holder": "黃雪玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 福 氣 久 久 失 能 照 護 終身壽險",
+      "holder": "黃雪玲",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "全家",
+      "cleanName": "全家",
+      "ticker": "5903",
+      "shares": 1000,
+      "owner": "羅智強",
+      "priceAtDisclosure": 189,
+      "latestPrice": 195.5
+    },
+    {
+      "name": "全家餐飲",
+      "cleanName": "全家餐飲",
+      "ticker": "7708",
+      "shares": 13,
+      "owner": "羅智強",
+      "priceAtDisclosure": null,
+      "latestPrice": 91.6
+    }
+  ],
+  "bonds": [
+    {
+      "name": "元大投資級公司 債",
+      "owner": "羅智強",
+      "institution": "國 泰 證 券 館 前 分公司",
+      "units": 7000,
+      "unitValue": 34.9941,
+      "currency": "",
+      "declaredValue": 244958,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "元大高股息",
+      "owner": "羅智強",
+      "institution": "國 泰 證 券 館 前 分公司",
+      "units": 4269,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 167344,
+      "source": "fund"
+    },
+    {
+      "name": "國泰永續高股息",
+      "owner": "羅智強",
+      "institution": "國 泰 證 券 館 前 分公司",
+      "units": 7724,
+      "unitValue": 22.48,
+      "currency": "",
+      "declaredValue": 173635,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市文山區萬芳段二小段",
+      "owner": "黃雪玲",
+      "date": "2009-04-30",
+      "effectiveAreaPing": 65.13,
+      "entryCount": 4,
+      "price": "含陽台 15.45 平方公尺,花 台3.47平方公 尺(超過五年)"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "name": "陳福海",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "金門縣",
+  "party": "無黨籍",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 4728940
+    },
+    {
+      "currency": "美元",
+      "amount": 133989
+    }
+  ],
+  "depositsTotal": 0,
+  "insurance": [
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "中國人壽前峰保本 終身保險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "祥瑞終身壽險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "新防癌終身健康保 險(個人)",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "新長安終身保險 (平準型)",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "新康健終身防癌保 險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政安家定期還本 終身壽險(二十年 付費)",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政安家定期還本 終身壽險(十年付 費)",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全球人壽保險 股份有限公司",
+      "name": "國華人壽全福終身 壽險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "新樂享人生年金－ 美元",
+      "holder": "陳福海",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "安心保住院醫療終 身保險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "安心保住院醫療終 身保險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "安順手術醫療終身",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "安順手術醫療終身",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "益美利加利變終身 壽險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "新安心保住院醫療 終身",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "新安順手術醫療終 身",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "新呵護久久失能照 護",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "祿利年年利變",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽新安慶終 身壽險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺灣人壽保險 股份有限公司",
+      "name": "台灣人壽新安慶終 身壽險",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽新終身壽 險(98)-20 年期 (FH6)",
+      "holder": "陳福海",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中國人壽保險 股份有限公司",
+      "name": "祥瑞終身壽險",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽常春 增額還本保險〈10 年付費〉",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "中華郵政股份 有限公司",
+      "name": "郵政簡易人壽常春 增額還本保險〈10 年付費〉",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南山人壽保險 股份有限公司",
+      "name": "南山人壽意帆風順 保本終身保險(繳 費 6 年)",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+      "name": "友邦人壽友醫靠定 期保險",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+      "name": "友邦人壽樂長青定 期保險",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "新呵護久久失能照 護",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國泰人壽保險 股份有限公司",
+      "name": "祿利年年利變",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富邦人壽保險 股份有限公司",
+      "name": "富 邦 新 終 身 壽 險 (甲型)",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險 股份有限公司",
+      "name": "防癌健康終身保險",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠雄人壽保險 事業股份有限 公司",
+      "name": "遠雄人壽新終身壽 險(98)-20 年期 (FH6)",
+      "holder": "許梨羡",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "【好享退-群益 積極型】群益全 民成長樂退組合 基金 P(累積型新台幣)",
+      "owner": "陳福海",
+      "institution": "基富通證券",
+      "units": 15818.2,
+      "unitValue": 15.2097,
+      "currency": "",
+      "declaredValue": 240590,
+      "source": "fund"
+    },
+    {
+      "name": "【好享退-安聯 積極型】安聯四 季成長組合基金 -P 類型-新臺幣",
+      "owner": "陳福海",
+      "institution": "基富通證券",
+      "units": 15062.2,
+      "unitValue": 16.61,
+      "currency": "",
+      "declaredValue": 250183,
+      "source": "fund"
+    },
+    {
+      "name": "【好享退-國泰 2029】國泰泰享 退系列 2029 目標 日期組合基金 P",
+      "owner": "陳福海",
+      "institution": "基富通證券",
+      "units": 15208.6,
+      "unitValue": 15.2016,
+      "currency": "",
+      "declaredValue": 231195,
+      "source": "fund"
+    },
+    {
+      "name": "【好享退-國泰 2049】國泰泰享 退系列 2049 目標 日期組合基金 P",
+      "owner": "陳福海",
+      "institution": "基富通證券",
+      "units": 13234.9,
+      "unitValue": 17.9472,
+      "currency": "",
+      "declaredValue": 237529,
+      "source": "fund"
+    },
+    {
+      "name": "法巴俄羅斯股票 基金 C-美元",
+      "owner": "陳福海",
+      "institution": "國泰世華銀行",
+      "units": 188.688,
+      "unitValue": 74.14,
+      "currency": "美元",
+      "declaredValue": 446539,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "金門縣金湖鎮新市段",
+      "owner": "陳福海",
+      "date": "1998-11-19",
+      "effectiveAreaPing": 81.54,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市淡水區海鷗段",
+      "owner": "許梨羡",
+      "date": "2019-07-17",
+      "effectiveAreaPing": 0,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮新湖里",
+      "owner": "陳福海",
+      "date": "2014-07-11",
+      "effectiveAreaPing": 65.85,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮新湖里",
+      "owner": "陳福海",
+      "date": "1996-05-06",
+      "effectiveAreaPing": 24.31,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市淡水區海鷗段",
+      "owner": "許梨羡",
+      "date": "2023-03-20",
+      "effectiveAreaPing": 19.82,
+      "entryCount": 3,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮太武段",
+      "owner": "陳福海",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 149.62,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮太湖劃測段",
+      "owner": "陳福海",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 302.51,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮多年段",
+      "owner": "陳福海",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 109.12,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮南雄段",
+      "owner": "陳福海",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 194.99,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮湖前段",
+      "owner": "陳福海",
+      "date": "2023-11-24",
+      "effectiveAreaPing": 13.86,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮湖前段",
+      "owner": "陳福海",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 54.04,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮塔后段",
+      "owner": "陳福海",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 507.2,
+      "entryCount": 7,
+      "price": null
+    },
+    {
+      "location": "金門縣金沙鎮蔡厝劃測段",
+      "owner": "許梨羡",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 490.05,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮太湖劃測段",
+      "owner": "許梨羡",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 302.5,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "金門縣金湖鎮湖前段",
+      "owner": "許梨羡",
+      "date": "2023-03-27",
+      "effectiveAreaPing": 203.62,
+      "entryCount": 1,
+      "price": null
+    }
+  ]
+}

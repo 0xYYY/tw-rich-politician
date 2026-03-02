@@ -1,0 +1,79 @@
+{
+  "name": "陳光復",
+  "org": "澎湖縣政府",
+  "title": "縣長",
+  "date": "114年09月09日",
+  "type": "",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "吳淑瑾"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "華電",
+        "owner": "吳淑瑾",
+        "shares": 1400,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年09月08日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14000
+      },
+      {
+        "name": "華南金",
+        "owner": "吳淑瑾",
+        "shares": 1020,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年09月08日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10200
+      },
+      {
+        "name": "國票金控",
+        "owner": "吳淑瑾",
+        "shares": 1491,
+        "trustee": "第一商業銀行",
+        "transferDate": "114年09月08日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 14910
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

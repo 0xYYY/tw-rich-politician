@@ -1,0 +1,59 @@
+{
+  "name": "楊瓊瓔",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "臺中市",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "人民幣",
+      "amount": 2494758
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 11548389
+    },
+    {
+      "currency": "美元",
+      "amount": 7323178
+    }
+  ],
+  "depositsTotal": 21366325,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽美超鑽 美元利率變動型 終身壽險（定期 給付型）",
+      "holder": "楊瓊瓔",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "臺中市大雅區大明段",
+      "owner": "楊瓊瓔",
+      "date": "2020-02-27",
+      "effectiveAreaPing": 114.18,
+      "entryCount": 1,
+      "price": "586,250"
+    },
+    {
+      "location": "臺中市大雅區永興段",
+      "owner": "楊瓊瓔",
+      "date": "2005-08-24",
+      "effectiveAreaPing": 64.5,
+      "entryCount": 1,
+      "price": "含陽台 23.65 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺中市清水區槺榔段",
+      "owner": "楊瓊瓔",
+      "date": "2020-02-26",
+      "effectiveAreaPing": 65.48,
+      "entryCount": 2,
+      "price": "199,866.6"
+    }
+  ]
+}

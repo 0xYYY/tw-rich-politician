@@ -1,0 +1,284 @@
+{
+  "name": "謝衣鳯",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "愛之味",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 19000,
+        "pricePerShare": "12.70",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 241300
+      },
+      {
+        "name": "愛之味",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 3000,
+        "pricePerShare": "12.70",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 38100
+      },
+      {
+        "name": "愛之味",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "12.70",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 12700
+      },
+      {
+        "name": "愛之味",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "12.70",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 12700
+      },
+      {
+        "name": "愛之味",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 144,
+        "pricePerShare": "12.80",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 1843
+      },
+      {
+        "name": "愛之味",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 51,
+        "pricePerShare": "12.80",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 652
+      },
+      {
+        "name": "台積電",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "996",
+        "changeDate": "113年07月18日",
+        "changeReason": "買",
+        "totalValue": 996000
+      },
+      {
+        "name": "台積電",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "931",
+        "changeDate": "113年07月30日",
+        "changeReason": "買",
+        "totalValue": 931000
+      },
+      {
+        "name": "台積電",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "921",
+        "changeDate": "113年08月02日",
+        "changeReason": "賣",
+        "totalValue": 921000
+      },
+      {
+        "name": "台積電",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "921",
+        "changeDate": "113年08月02日",
+        "changeReason": "賣",
+        "totalValue": 921000
+      },
+      {
+        "name": "元大金",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 10000,
+        "pricePerShare": "33",
+        "changeDate": "113年08月01日",
+        "changeReason": "賣",
+        "totalValue": 330000
+      },
+      {
+        "name": "元大金",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 10000,
+        "pricePerShare": "32.95",
+        "changeDate": "113年08月01日",
+        "changeReason": "賣",
+        "totalValue": 329500
+      },
+      {
+        "name": "元大金",
+        "broker": "富邦綜合證券南員 林分公司",
+        "owner": "謝衣鳯",
+        "shares": 503,
+        "pricePerShare": "30.25",
+        "changeDate": "113年09月13日",
+        "changeReason": "劃撥配發(存)",
+        "totalValue": 15215
+      },
+      {
+        "name": "TPK-KY",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 2000,
+        "pricePerShare": "49.40",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 98800
+      },
+      {
+        "name": "亞太電舊",
+        "broker": "集保專戶",
+        "owner": "謝衣鳯",
+        "shares": 98314,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月07日",
+        "changeReason": "換發轉入(存)",
+        "totalValue": 734405
+      },
+      {
+        "name": "亞太電舊",
+        "broker": "集保專戶",
+        "owner": "謝衣鳯",
+        "shares": 98314,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月15日",
+        "changeReason": "合併轉出(提)",
+        "totalValue": 734405
+      },
+      {
+        "name": "亞太電",
+        "broker": "集保專戶",
+        "owner": "謝衣鳯",
+        "shares": 98314,
+        "pricePerShare": "7.47",
+        "changeDate": "112年12月07日",
+        "changeReason": "換發轉出(提)",
+        "totalValue": 734405
+      },
+      {
+        "name": "皇家美食",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 150,
+        "pricePerShare": "69.30",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 10395
+      },
+      {
+        "name": "皇家美食",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 10,
+        "pricePerShare": "69.30",
+        "changeDate": "113年07月12日",
+        "changeReason": "賣",
+        "totalValue": 693
+      },
+      {
+        "name": "遠傳",
+        "broker": "集保專戶",
+        "owner": "謝衣鳯",
+        "shares": 9186,
+        "pricePerShare": "79.70",
+        "changeDate": "112年12月15日",
+        "changeReason": "合併轉入(存)",
+        "totalValue": 732124
+      },
+      {
+        "name": "遠傳",
+        "broker": "集保專戶",
+        "owner": "謝衣鳯",
+        "shares": 9186,
+        "pricePerShare": "79.80",
+        "changeDate": "113年07月11日",
+        "changeReason": "登錄存券撥轉 (提)",
+        "totalValue": 733042
+      },
+      {
+        "name": "遠傳",
+        "broker": "富邦綜合證券南員 林分公司",
+        "owner": "謝衣鳯",
+        "shares": 9186,
+        "pricePerShare": "79.80",
+        "changeDate": "113年07月11日",
+        "changeReason": "登錄存券撥轉 (存)",
+        "totalValue": 733042
+      },
+      {
+        "name": "台郡",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "89.40",
+        "changeDate": "113年08月01日",
+        "changeReason": "買",
+        "totalValue": 89400
+      },
+      {
+        "name": "台郡",
+        "broker": "富邦-南員林",
+        "owner": "謝衣鳯",
+        "shares": 1000,
+        "pricePerShare": "78.30",
+        "changeDate": "113年08月15日",
+        "changeReason": "買",
+        "totalValue": 78300
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

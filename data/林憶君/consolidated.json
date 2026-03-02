@@ -1,0 +1,311 @@
+{
+  "name": "林憶君",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "台灣民眾黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 13794147
+    },
+    {
+      "currency": "美元",
+      "amount": 2993452
+    },
+    {
+      "currency": "日圓",
+      "amount": 2503
+    },
+    {
+      "currency": "歐元",
+      "amount": 71431
+    },
+    {
+      "currency": "人民幣",
+      "amount": 0
+    },
+    {
+      "currency": "港幣",
+      "amount": 1261148
+    },
+    {
+      "currency": "澳幣",
+      "amount": 642396
+    }
+  ],
+  "depositsTotal": 18765085,
+  "insurance": [
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽不分紅 康壽終身壽險",
+      "holder": "林憶君",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽增集利 增額終身壽險",
+      "holder": "林憶君",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山年年春還本 終身保險",
+      "holder": "林憶君",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山康樂限期繳 費終身壽險",
+      "holder": "林憶君",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "保誠人壽活躍人 生變額壽險",
+      "holder": "林憶君",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "南山人壽多美佳 美元利率變動型 終身壽險（定期 給付型）",
+      "holder": "江躍辰",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "保誠雙喜終身壽 險乙型",
+      "holder": "江躍辰",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "安特羅",
+      "cleanName": "安特羅",
+      "ticker": null,
+      "shares": 435,
+      "owner": "林憶君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "仁新",
+      "cleanName": "仁新",
+      "ticker": null,
+      "shares": 11546,
+      "owner": "林憶君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "東雲",
+      "cleanName": "東雲",
+      "ticker": null,
+      "shares": 36,
+      "owner": "林憶君",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "聯電",
+      "cleanName": "聯電",
+      "ticker": "2303",
+      "shares": 2171,
+      "owner": "林憶君",
+      "priceAtDisclosure": 51.9,
+      "latestPrice": 65.4
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 1376,
+      "owner": "林憶君",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 254,
+      "owner": "林憶君",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "中工",
+      "cleanName": "中工",
+      "ticker": "2515",
+      "shares": 1350,
+      "owner": "林憶君",
+      "priceAtDisclosure": 12.35,
+      "latestPrice": 17.4
+    },
+    {
+      "name": "台中銀",
+      "cleanName": "台中銀",
+      "ticker": "2812",
+      "shares": 36443,
+      "owner": "林憶君",
+      "priceAtDisclosure": 17.2,
+      "latestPrice": 21.1
+    },
+    {
+      "name": "富邦金",
+      "cleanName": "富邦金",
+      "ticker": "2881",
+      "shares": 973,
+      "owner": "林憶君",
+      "priceAtDisclosure": 69.6,
+      "latestPrice": 94.2
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 2697,
+      "owner": "林憶君",
+      "priceAtDisclosure": 30.2,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "新光金",
+      "cleanName": "新光金",
+      "ticker": "2888",
+      "shares": 12340,
+      "owner": "林憶君",
+      "priceAtDisclosure": 8.38,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [
+    {
+      "name": "鋒裕匯理基金環 球非投資等級債 券 A 美元（月配 息）",
+      "owner": "林憶君",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 642.726,
+      "unitValue": 30.98,
+      "currency": "美元",
+      "declaredValue": 629486,
+      "source": "fund"
+    },
+    {
+      "name": "鋒裕匯理基金環 球非投資等級債 券 A 美元（月配 息）",
+      "owner": "林憶君",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 505.782,
+      "unitValue": 30.98,
+      "currency": "美元",
+      "declaredValue": 495363,
+      "source": "fund"
+    },
+    {
+      "name": "聯博全球非投資 等級債券基金 AT 股美元",
+      "owner": "林憶君",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 1537.402,
+      "unitValue": 3.14,
+      "currency": "美元",
+      "declaredValue": 152614,
+      "source": "fund"
+    }
+  ],
+  "fundCertificates": [
+    {
+      "name": "貝萊德拉丁美洲 基金美元",
+      "owner": "林憶君",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 1154,
+      "unitValue": 73.71,
+      "currency": "美元",
+      "declaredValue": 2689129,
+      "source": "fund"
+    },
+    {
+      "name": "富蘭克林坦伯頓 全球投資拉丁美 洲基金",
+      "owner": "林憶君",
+      "institution": "玉 山 銀 行 信 託 部",
+      "units": 115.874,
+      "unitValue": 52.51,
+      "currency": "美元",
+      "declaredValue": 192356,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "花蓮縣花蓮市林森段",
+      "owner": "林憶君",
+      "date": "2016-11-23",
+      "effectiveAreaPing": 133.97,
+      "entryCount": 5,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市林森段",
+      "owner": "林憶君",
+      "date": "2014-09-11",
+      "effectiveAreaPing": 321.66,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市富國段",
+      "owner": "林憶君",
+      "date": "2010-01-18",
+      "effectiveAreaPing": 113.85,
+      "entryCount": 1,
+      "price": "含陽台 28.59 平方公尺,平 台7.47平方公 尺,見其他登 記事項3.09平 方公尺(超過 五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市裕民段",
+      "owner": "林憶君",
+      "date": "2014-01-23",
+      "effectiveAreaPing": 359.38,
+      "entryCount": 8,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大安區龍泉段一小段",
+      "owner": "林憶君",
+      "date": "2008-07-15",
+      "effectiveAreaPing": 45.07,
+      "entryCount": 3,
+      "price": "含陽台9.61平 方公尺(超過 五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市自強段",
+      "owner": "江躍辰",
+      "date": "2006-03-08",
+      "effectiveAreaPing": 121.08,
+      "entryCount": 1,
+      "price": "含陽台 10.04 平方公尺(超 過五年)"
+    },
+    {
+      "location": "花蓮縣花蓮市林森段",
+      "owner": "江躍辰",
+      "date": "2002-01-18",
+      "effectiveAreaPing": 113.89,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市萬里區萬里段",
+      "owner": "江躍辰",
+      "date": "2007-03-22",
+      "effectiveAreaPing": 13.39,
+      "entryCount": 1,
+      "price": "含陽台 2862.09 平方 公尺,屋頂突 出物 24.09 平 方公尺,花台 219.7 平方公 尺,見其他登 記事項 232.16 平方公尺(超 過五年)"
+    },
+    {
+      "location": "新北市萬里區萬里段",
+      "owner": "江躍辰",
+      "date": "2007-08-22",
+      "effectiveAreaPing": 1284.46,
+      "entryCount": 2,
+      "price": "(超過五年)"
+    }
+  ]
+}

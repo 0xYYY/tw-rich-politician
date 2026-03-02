@@ -1,0 +1,295 @@
+{
+  "name": "邱若華",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年04月24日",
+  "type": "就(到)職申報",
+  "family": [],
+  "land": [
+    {
+      "location": "桃園市八德區豐田段",
+      "area": 16621.19,
+      "share": "100000 分 之 332",
+      "owner": "邱若華",
+      "date": "112年09月18日",
+      "reason": "買賣",
+      "price": "25,880,000(房 地總價額)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "桃園市八德區豐田段",
+      "area": 132.16,
+      "share": "全部",
+      "owner": "邱若華",
+      "date": "112年09月18日",
+      "reason": "買賣",
+      "price": "25,880,000(房 地總價額)"
+    },
+    {
+      "location": "桃園市八德區豐田段",
+      "area": 7662.98,
+      "share": "100000 分 之 332",
+      "owner": "邱若華",
+      "date": "112年09月18日",
+      "reason": "買賣",
+      "price": "與第 1 筆建物 一併購買"
+    },
+    {
+      "location": "桃園市八德區豐田段",
+      "area": 17896.71,
+      "share": "499 分之 2",
+      "owner": "邱若華",
+      "date": "112年09月18日",
+      "reason": "買賣",
+      "price": "與第 1 筆建物 一併購買"
+    },
+    {
+      "location": "桃園市八德區豐田段",
+      "area": 2514.23,
+      "share": "100000 分 之 1886",
+      "owner": "邱若華",
+      "date": "112年09月18日",
+      "reason": "買賣",
+      "price": "與第 1 筆建物 一併購買"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "cc": 1499,
+      "owner": "邱若華",
+      "date": "108年08月27日",
+      "reason": "買賣",
+      "price": 1380000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 7667249,
+    "items": [
+      {
+        "institution": "永豐商業銀行中壢分行",
+        "type": "一般活期儲蓄",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 251139
+      },
+      {
+        "institution": "永豐商業銀行中壢分行",
+        "type": "一般活期儲蓄",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 865548
+      },
+      {
+        "institution": "永豐商業銀行中壢分行",
+        "type": "外幣組合存款",
+        "currency": "澳幣",
+        "owner": "邱若華",
+        "foreignAmount": 203519,
+        "amount": 4248868
+      },
+      {
+        "institution": "永豐商業銀行中壢分行",
+        "type": "外幣組合存款",
+        "currency": "人民幣",
+        "owner": "邱若華",
+        "foreignAmount": 103301,
+        "amount": 462562
+      },
+      {
+        "institution": "台北富邦商業銀行中壢分 行",
+        "type": "一般活期儲蓄",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 1047701
+      },
+      {
+        "institution": "聯邦商業銀行北中壢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 506596
+      },
+      {
+        "institution": "中華郵政股份有限公司中 壢郵局",
+        "type": "通儲戶",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 8176
+      },
+      {
+        "institution": "第一商業銀行中壢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 100209
+      },
+      {
+        "institution": "臺灣銀行中壢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 99374
+      },
+      {
+        "institution": "元大商業銀行中壢分行",
+        "type": "證券存款",
+        "currency": "新臺幣",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 77075
+      },
+      {
+        "institution": "臺灣銀行中壢分行",
+        "type": "外匯綜合存款",
+        "currency": "歐元",
+        "owner": "邱若華",
+        "foreignAmount": 0,
+        "amount": 1
+      }
+    ]
+  },
+  "stocks": {
+    "total": 215470,
+    "items": [
+      {
+        "name": "中鋼",
+        "owner": "邱若華",
+        "shares": 10000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100000
+      },
+      {
+        "name": "榮運",
+        "owner": "邱若華",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "群創",
+        "owner": "邱若華",
+        "shares": 9547,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 95470
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "國泰人壽",
+        "name": "鑫福終身壽險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "保障型",
+        "period": "107 年 03 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽",
+        "name": "雋 享 年 年 終 身 保險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "保障型、儲蓄型",
+        "period": "108 年 03 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南山人壽",
+        "name": "月 月 添 利 利 率 變 動 型 還 本 終 身保險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "儲蓄型",
+        "period": "105 年 12 月 30 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "金 多 利 利 率 變 動 型 增 額 終 身 壽險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "儲蓄型",
+        "period": "104 年 06 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安聯人壽",
+        "name": "新 大 安 心 傷 害 保本保險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "保障型",
+        "period": "99 年 08 月 30 日/119 年",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "金 好 鑽 利 率 變 動 型 增 額 還 本 終身險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "儲蓄型",
+        "period": "108 年 04 月 09 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽",
+        "name": "五 夠 鑽 利 率 變 動 型 增 額 終 身 壽險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "儲蓄型",
+        "period": "109 年 04 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中華郵政",
+        "name": "郵 政 簡 易 人 壽 幸福 88 保險",
+        "policyNumber": "",
+        "holder": "邱若華",
+        "contractType": "保障型",
+        "period": "109 年 04 月 25 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 12901854,
+    "items": [
+      {
+        "type": "房屋貸款",
+        "debtor": "邱若華",
+        "creditor": "永豐商業銀行中壢分行",
+        "amount": 12901854,
+        "date": "112年09月19日",
+        "reason": "房屋貸款"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

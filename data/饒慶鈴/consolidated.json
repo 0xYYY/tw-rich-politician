@@ -1,0 +1,114 @@
+{
+  "name": "饒慶鈴",
+  "date": "2024-11-01",
+  "type": "mayor",
+  "area": "臺東縣",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 13348156
+    },
+    {
+      "currency": "美元",
+      "amount": 3
+    }
+  ],
+  "depositsTotal": 13348159,
+  "insurance": [
+    {
+      "company": "國泰人壽保險股 份有限公司",
+      "name": "樂添利多利變終 身壽險",
+      "holder": "饒慶鈴",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新光人壽保險股 份有限公司",
+      "name": "新光人壽健康久 久終身醫療健康 保險",
+      "holder": "饒慶鈴",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+      "cleanName": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+      "ticker": null,
+      "shares": 467,
+      "owner": "饒慶鈴",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+      "cleanName": "新 泰伸 (未 交付 信託 原 因：為下市股票)",
+      "ticker": null,
+      "shares": 187,
+      "owner": "饒慶鈴",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "華票",
+      "cleanName": "華票",
+      "ticker": "2820",
+      "shares": 42638,
+      "owner": "饒慶鈴",
+      "priceAtDisclosure": 14.95,
+      "latestPrice": 17.15
+    },
+    {
+      "name": "傳奇",
+      "cleanName": "傳奇",
+      "ticker": "4994",
+      "shares": 52042,
+      "owner": "饒慶鈴",
+      "priceAtDisclosure": 100.5,
+      "latestPrice": 103.5
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [],
+  "buildings": [
+    {
+      "location": "新北市中和區興南段",
+      "owner": "饒慶鈴",
+      "date": "2014-07-24",
+      "effectiveAreaPing": 32.29,
+      "entryCount": 6,
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市中和區興南段(未交付信 託原因：自用房屋之共同使用部",
+      "owner": "饒慶鈴",
+      "date": "2014-07-24",
+      "effectiveAreaPing": 1511.96,
+      "entryCount": 1,
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "分)",
+      "owner": "",
+      "date": null,
+      "effectiveAreaPing": 0,
+      "entryCount": 1,
+      "price": null
+    },
+    {
+      "location": "臺北市中正區南海段一小段",
+      "owner": "饒慶鈴",
+      "date": "2019-04-08",
+      "effectiveAreaPing": 64.42,
+      "entryCount": 4,
+      "price": null
+    },
+    {
+      "location": "臺東縣臺東市新生段",
+      "owner": "饒慶鈴",
+      "date": "2019-04-18",
+      "effectiveAreaPing": 147.98,
+      "entryCount": 2,
+      "price": null
+    }
+  ]
+}

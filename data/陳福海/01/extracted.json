@@ -1,0 +1,699 @@
+{
+  "name": "陳福海",
+  "org": "金門縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "許梨羡"
+    }
+  ],
+  "land": [
+    {
+      "location": "金門縣金湖鎮新市段(自用房屋 之坐落基地)",
+      "area": 91.15,
+      "share": "全部",
+      "owner": "陳福海",
+      "date": "87年11月19日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮新市段(自用房屋 之坐落基地)",
+      "area": 13.46,
+      "share": "全部",
+      "owner": "陳福海",
+      "date": "87年11月19日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮新市段(自用房屋 之坐落基地)",
+      "area": 3.72,
+      "share": "全部",
+      "owner": "陳福海",
+      "date": "87年11月19日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "金門縣金湖鎮新市段(未交付信 託原因：自用房屋)",
+      "area": 269.55,
+      "share": "全部",
+      "owner": "陳福海",
+      "date": "87年11月19日",
+      "reason": "共有物分 割",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市淡水區海鷗段(未交付信 託原因：公同共有)",
+      "area": 0,
+      "share": "100000 分 之 756",
+      "owner": "許梨羡",
+      "date": "108年07月17日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮新湖里(未交付信 託原因：未登記建物，土銀拒絕 受理。)",
+      "area": 217.7,
+      "share": "全部",
+      "owner": "陳福海",
+      "date": "103年07月11日",
+      "reason": "第一次登 記",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "金門縣金湖鎮新湖里(未交付信 託原因：未登記建物，土銀拒絕 受理。)",
+      "area": 160.7,
+      "share": "2 分之 1",
+      "owner": "陳福海",
+      "date": "85年05月06日",
+      "reason": "第一次登 記",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "國瑞",
+      "cc": 1998,
+      "owner": "陳福海",
+      "date": "109年11月09日",
+      "reason": "買賣",
+      "price": 100000
+    },
+    {
+      "brand": "日產",
+      "cc": 1597,
+      "owner": "許梨羡",
+      "date": "96年01月04日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "中華",
+      "cc": 2378,
+      "owner": "許梨羡",
+      "date": "108年04月15日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 600000
+  },
+  "deposits": {
+    "total": 0,
+    "items": [
+      {
+        "institution": "土地銀行金門分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 196337
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 56994
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "優惠存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 471662
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 50000
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 405508
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 430
+      },
+      {
+        "institution": "國泰世華銀行左營分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳福海",
+        "foreignAmount": 4049,
+        "amount": 129447
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 18913
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 48023
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 1330
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 106583
+      },
+      {
+        "institution": "台新國際銀行北高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳福海",
+        "foreignAmount": 0,
+        "amount": 3919
+      },
+      {
+        "institution": "台新國際銀行北高雄分行",
+        "type": "綜合存款",
+        "currency": "美元",
+        "owner": "陳福海",
+        "foreignAmount": 53,
+        "amount": 1717
+      },
+      {
+        "institution": "土地銀行金門分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 144745
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "定期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 1000000
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "許梨羡",
+        "foreignAmount": 88,
+        "amount": 2825
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 88445
+      },
+      {
+        "institution": "國泰世華銀行館前分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 490
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 11288
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 100
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 1619
+      },
+      {
+        "institution": "金門縣信用合作社金湖分 社",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 7360
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 115139
+      },
+      {
+        "institution": "台新國際銀行北高雄分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "許梨羡",
+        "foreignAmount": 0,
+        "amount": 55
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "【好享退-群益 積極型】群益全 民成長樂退組合 基金 P(累積型新台幣)",
+        "owner": "陳福海",
+        "institution": "基富通證券",
+        "units": 15818.2,
+        "unitValue": 15.2097,
+        "foreignCurrency": "",
+        "totalValue": 240590
+      },
+      {
+        "name": "【好享退-安聯 積極型】安聯四 季成長組合基金 -P 類型-新臺幣",
+        "owner": "陳福海",
+        "institution": "基富通證券",
+        "units": 15062.2,
+        "unitValue": 16.61,
+        "foreignCurrency": "",
+        "totalValue": 250183
+      },
+      {
+        "name": "【好享退-國泰 2029】國泰泰享 退系列 2029 目標 日期組合基金 P",
+        "owner": "陳福海",
+        "institution": "基富通證券",
+        "units": 15208.6,
+        "unitValue": 15.2016,
+        "foreignCurrency": "",
+        "totalValue": 231195
+      },
+      {
+        "name": "【好享退-國泰 2049】國泰泰享 退系列 2049 目標 日期組合基金 P",
+        "owner": "陳福海",
+        "institution": "基富通證券",
+        "units": 13234.9,
+        "unitValue": 17.9472,
+        "foreignCurrency": "",
+        "totalValue": 237529
+      },
+      {
+        "name": "法巴俄羅斯股票 基金 C-美元",
+        "owner": "許梨羡",
+        "institution": "國泰世華銀行",
+        "units": 188.688,
+        "unitValue": 74.14,
+        "foreignCurrency": "美元",
+        "totalValue": 446539
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "中國人壽前峰保本 終身保險",
+        "policyNumber": "○○○○○○○ ○○60",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 31 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "祥瑞終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 07 月 20 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "新防癌終身健康保 險(個人)",
+        "policyNumber": "○○○○○○○ ○○73",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 09 月 28 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "新長安終身保險 (平準型)",
+        "policyNumber": "○○○○○○○ ○○66",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "90 年 09 月 28 日/147 年 09 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "新康健終身防癌保 險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "96 年 03 月 04 日/終身",
+        "note": "2 單位"
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政安家定期還本 終身壽險(二十年 付費)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 04 月 13 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政安家定期還本 終身壽險(十年付 費)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 04 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "全球人壽保險 股份有限公司",
+        "name": "國華人壽全福終身 壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 12 月 27 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "新樂享人生年金－ 美元",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳福海",
+        "contractType": "年金型保險",
+        "period": "109 年 02 月 25 日/152 年 02 月 24 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "安心保住院醫療終 身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 06 月 30 日/179 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "安心保住院醫療終 身保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 06 月 30 日/180 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "安順手術醫療終身",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 06 月 30 日/179 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "安順手術醫療終身",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 06 月 30 日/180 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "益美利加利變終身 壽險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 02 月 15 日/157 年 02 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "新安心保住院醫療 終身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 06 月 30 日/184 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "新安順手術醫療終 身",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 06 月 30 日/184 年 06 月 29 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "新呵護久久失能照 護",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 11 月 12 日/151 年 11 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "祿利年年利變",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 18 日/157 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽新安慶終 身壽險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 04 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺灣人壽保險 股份有限公司",
+        "name": "台灣人壽新安慶終 身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 21 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽新終身壽 險(98)-20 年期 (FH6)",
+        "policyNumber": "○○○○○○○ ○○-9",
+        "holder": "陳福海",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 11 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "祥瑞終身壽險",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "80 年 11 月 04 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽常春 增額還本保險〈10 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 03 月 06 日/134 年 03 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽常春 增額還本保險〈10 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 03 月 23 日/134 年 03 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "南山人壽保險 股份有限公司",
+        "name": "南山人壽意帆風順 保本終身保險(繳 費 6 年)",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 06 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+        "name": "友邦人壽友醫靠定 期保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 01 月 22 日/127 年 01 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "英屬百慕達商 友邦人壽保險 股份有限公司 台灣分公司",
+        "name": "友邦人壽樂長青定 期保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 05 月 16 日/122 年 05 月 16 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "新呵護久久失能照 護",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 11 月 12 日/154 年 11 月 11 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "祿利年年利變",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 18 日/161 年 04 月 17 日",
+        "note": ""
+      },
+      {
+        "company": "富邦人壽保險 股份有限公司",
+        "name": "富 邦 新 終 身 壽 險 (甲型)",
+        "policyNumber": "○○○○○○○ ○○901",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 07 月 29 日/151 年 07 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽保險 股份有限公司",
+        "name": "防癌健康終身保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "89 年 07 月 24 日/終身",
+        "note": ""
+      },
+      {
+        "company": "遠雄人壽保險 事業股份有限 公司",
+        "name": "遠雄人壽新終身壽 險(98)-20 年期 (FH6)",
+        "policyNumber": "○○○○○○○ ○○-0",
+        "holder": "許梨羡",
+        "contractType": "儲蓄型壽險",
+        "period": "102 年 11 月 04 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 126000,
+    "items": [
+      {
+        "investor": "陳福海",
+        "company": "金門縣信用合作社",
+        "address": "金門縣金湖鎮新市里林森路 33 號",
+        "amount": 111000,
+        "date": "89年04月14日",
+        "reason": "股金"
+      },
+      {
+        "investor": "許梨羡",
+        "company": "金門縣信用合作社",
+        "address": "金門縣金湖鎮新市里林森路 33 號",
+        "amount": 15000,
+        "date": "85年01月29日",
+        "reason": "股金"
+      }
+    ]
+  }
+}

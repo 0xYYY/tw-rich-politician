@@ -1,0 +1,73 @@
+{
+  "name": "羅明才",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "98年12月31日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "黃靜秋"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○偉"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "羅○立"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 2924324,
+    "items": [
+      {
+        "investor": "1★黃靜秋",
+        "company": "源昇工業股份有限公司",
+        "address": "新北市板橋區文化路一段 223 號",
+        "amount": 600000,
+        "date": "88年12月17日",
+        "reason": "投資"
+      },
+      {
+        "investor": "1★黃靜秋",
+        "company": "源祥貿易股份有限公司",
+        "address": "新北市板橋區文化路一段 223 號",
+        "amount": 350000,
+        "date": "92年06月02日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

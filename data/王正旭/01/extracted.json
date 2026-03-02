@@ -1,0 +1,849 @@
+{
+  "name": "王正旭",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年05月12日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "王貞乃"
+    }
+  ],
+  "land": [
+    {
+      "location": "嘉義縣大林鎮大湖段湖北小段",
+      "area": 3243,
+      "share": "全部",
+      "owner": "王正旭",
+      "date": "92年02月10日",
+      "reason": "贈與",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 779,
+      "share": "10000 分之 355",
+      "owner": "王正旭",
+      "date": "86年05月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區信安段",
+      "area": 1649.5,
+      "share": "10000 分之 203",
+      "owner": "王貞乃",
+      "date": "81年07月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 1034,
+      "share": "1000 分 之 51",
+      "owner": "王貞乃",
+      "date": "90年09月11日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 1034,
+      "share": "1000 分之 4",
+      "owner": "王貞乃",
+      "date": "91年01月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 126.93,
+      "share": "全部",
+      "owner": "王正旭",
+      "date": "86年05月14日",
+      "reason": "買賣",
+      "price": "含陽台 12.06 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 588.12,
+      "share": "10000 分之 368",
+      "owner": "王正旭",
+      "date": "86年05月14日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺中市西屯區信安段",
+      "area": 158.91,
+      "share": "全部",
+      "owner": "王貞乃",
+      "date": "81年07月18日",
+      "reason": "買賣",
+      "price": "含平台4.52平 方公尺,花台 0.76 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺中市西屯區信安段",
+      "area": 1296.98,
+      "share": "1000 分之 9",
+      "owner": "王貞乃",
+      "date": "81年07月10日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市西屯區信安段",
+      "area": 809.38,
+      "share": "10000 分之 76",
+      "owner": "王貞乃",
+      "date": "81年07月18日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 166.11,
+      "share": "全部",
+      "owner": "王貞乃",
+      "date": "90年09月11日",
+      "reason": "買賣",
+      "price": "含陽台 16.18 平方公尺(超 過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 1824.75,
+      "share": "10000 分之 213",
+      "owner": "王貞乃",
+      "date": "91年01月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 426.44,
+      "share": "10000 分之 213",
+      "owner": "王貞乃",
+      "date": "90年09月11日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 426.44,
+      "share": "10000 分之 6440",
+      "owner": "王貞乃",
+      "date": "91年01月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 1270.27,
+      "share": "10000 分之 601",
+      "owner": "王貞乃",
+      "date": "90年09月11日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市松山區美仁段一小段",
+      "area": 781.49,
+      "share": "10000 分之 910",
+      "owner": "王貞乃",
+      "date": "90年09月11日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 1497,
+      "owner": "貞 旭 企 業 有 限公司(公司 負 責 人 為 王 正旭先生)",
+      "date": "100年04月28日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "cc": 1991,
+      "owner": "貞 旭 企 業 有 限公司(公司 負 責 人 為 王 正旭先生)",
+      "date": "107年09月21日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": 2164,
+      "owner": "王貞乃",
+      "date": "86年07月12日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 20000
+  },
+  "deposits": {
+    "total": 6929075,
+    "items": [
+      {
+        "institution": "臺灣銀行基隆分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 185674
+      },
+      {
+        "institution": "合作金庫商業銀行大稻埕 分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 402
+      },
+      {
+        "institution": "合作金庫商業銀行大稻埕 分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 1401803
+      },
+      {
+        "institution": "合庫商業銀行長庚分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 7759
+      },
+      {
+        "institution": "臺灣企銀營業部",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 2138
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 4015
+      },
+      {
+        "institution": "元大商業銀行環東分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 35523
+      },
+      {
+        "institution": "元大商業銀行環東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 7266
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王正旭",
+        "foreignAmount": 15214,
+        "amount": 480656
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王正旭",
+        "foreignAmount": 15214,
+        "amount": 480655
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "王正旭",
+        "foreignAmount": 8580,
+        "amount": 271073
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "人民幣",
+        "owner": "王正旭",
+        "foreignAmount": 3004,
+        "amount": 13175
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王正旭",
+        "foreignAmount": 0,
+        "amount": 37803
+      },
+      {
+        "institution": "臺灣銀行敦化分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 77651
+      },
+      {
+        "institution": "臺灣銀行金山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 6993
+      },
+      {
+        "institution": "合庫商業銀行南京東路分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 1861
+      },
+      {
+        "institution": "第一銀行民權分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 800
+      },
+      {
+        "institution": "華南銀行民生分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 12312
+      },
+      {
+        "institution": "台北富邦商業銀行敦北分 行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 2294
+      },
+      {
+        "institution": "台北富邦銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "美元",
+        "owner": "王貞乃",
+        "foreignAmount": 23480,
+        "amount": 742145
+      },
+      {
+        "institution": "台北富邦銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 507613
+      },
+      {
+        "institution": "台北富邦銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 10759
+      },
+      {
+        "institution": "國泰世華銀行慶城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 9009
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 218
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 23127
+      },
+      {
+        "institution": "聯邦銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 16095
+      },
+      {
+        "institution": "元大銀行民生分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 1924
+      },
+      {
+        "institution": "星展市府分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 2053
+      },
+      {
+        "institution": "星展中山分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 6452
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "定期存款",
+        "currency": "美元",
+        "owner": "王貞乃",
+        "foreignAmount": 50000,
+        "amount": 1579650
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "王貞乃",
+        "foreignAmount": 9155,
+        "amount": 289242
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "歐元",
+        "owner": "王貞乃",
+        "foreignAmount": 1786,
+        "amount": 61424
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "王貞乃",
+        "foreignAmount": 191298,
+        "amount": 40670
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "王貞乃",
+        "foreignAmount": 320,
+        "amount": 6631
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期存款",
+        "currency": "人民幣",
+        "owner": "王貞乃",
+        "foreignAmount": 2,
+        "amount": 10
+      },
+      {
+        "institution": "中信銀行敦北分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "王貞乃",
+        "foreignAmount": 0,
+        "amount": 602199
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "★安聯收益成長 基 金 B( 穩 定 月 收)(月配現)(美 元)(後收)",
+        "owner": "王貞乃",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 4440.152,
+        "unitValue": 8.8887,
+        "foreignCurrency": "美元",
+        "totalValue": 1279841
+      },
+      {
+        "name": "★法盛盧米斯賽 勒斯美國成長股 票 基 金 CT( 累 積 )( 美 元 )( 後 收)",
+        "owner": "王貞乃",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 1215.32,
+        "unitValue": 111.62,
+        "foreignCurrency": "美元",
+        "totalValue": 4398988
+      },
+      {
+        "name": "★柏瑞多重資產 特 別 收 益 基 金 N(月配現)(新台 幣)(後收)",
+        "owner": "王貞乃",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 544939.42,
+        "unitValue": 7.6664,
+        "foreignCurrency": "",
+        "totalValue": 4177723
+      },
+      {
+        "name": "★柏瑞科技多重 資產基金(月配 現)(美元)",
+        "owner": "王貞乃",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 3500,
+        "unitValue": 9.9835,
+        "foreignCurrency": "美元",
+        "totalValue": 1133107
+      },
+      {
+        "name": "★安聯收益成長 基 金 ( 穩 定 月 收)(月配現)(美 元)",
+        "owner": "王貞乃",
+        "institution": "中 國 信 託 商 業 銀行敦北分行",
+        "units": 1460.59,
+        "unitValue": 8.2114,
+        "foreignCurrency": "美元",
+        "totalValue": 388924
+      },
+      {
+        "name": "聯博美國多重資 產台配",
+        "owner": "王貞乃",
+        "institution": "台 北 富 邦 銀 行 敦北分行",
+        "units": 578592.09,
+        "unitValue": 8.17,
+        "foreignCurrency": "",
+        "totalValue": 4727097
+      },
+      {
+        "name": "★聯博美國收益 月配美",
+        "owner": "王貞乃",
+        "institution": "台 北 富 邦 銀 行 敦北分行",
+        "units": 26285.069,
+        "unitValue": 10.84,
+        "foreignCurrency": "美元",
+        "totalValue": 9239714
+      },
+      {
+        "name": "★安聯收益成長 BM 月美",
+        "owner": "王貞乃",
+        "institution": "台 北 富 邦 銀 行 敦北分行",
+        "units": 13062.127,
+        "unitValue": 8.8914,
+        "foreignCurrency": "美元",
+        "totalValue": 3766207
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "法 商法國巴 黎 人 壽保險股 份 有 限公司台 灣 分公司",
+        "name": "法商法國巴黎人 壽鑫好富足變額 年金保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "王正旭",
+        "contractType": "年金型保險",
+        "period": "110 年 08 月 19 日/156 年 08 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "新二十年限期繳 費特別增值分紅 終身壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "王正旭",
+        "contractType": "儲蓄型壽險",
+        "period": "76 年 08 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "國 泰人壽保 險 股份有限公司",
+        "name": "七美福利變美元",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王正旭",
+        "contractType": "儲蓄型壽險",
+        "period": "110 年 08 月 19 日/150 年 08 月 18 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "寶利旺利率變動 型增額終身壽險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "王正旭",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "安達人壽",
+        "name": "安 達 人 壽 得 利 100 變額年金保 險",
+        "policyNumber": "○○○○○○○ ○○602318",
+        "holder": "王貞乃",
+        "contractType": "年金型保險",
+        "period": "110 年 11 月 05 日/156 年 11 月 04 日",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽美年發 外幣增額還本終 身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 03 月 12 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽美寶外 幣終身分紅壽險",
+        "policyNumber": "○○○○○○○ ○○3",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽 保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽真安心 手術醫療終身保 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 18 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽健康御 守醫療帳戶終身 保險",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 04 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山人壽鴻利發 還本終身分紅保 險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "98 年 01 月 19 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山新年年春還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○6",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 09 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山新年年春還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 09 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山新年年春還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○2",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 09 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山人壽保 險 股份有限公司",
+        "name": "南山新年年春還 本終身保險",
+        "policyNumber": "○○○○○○○ ○○8",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "88 年 09 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基人壽保 險 股份有限公司",
+        "name": "中國人壽好美滿 外幣利率變動型 終身壽險(美元)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "107 年 04 月 03 日/終身",
+        "note": ""
+      },
+      {
+        "company": "富 邦人壽保 險 股份有限公司",
+        "name": "富邦人壽外幣計 價享富一生變額 年金保險",
+        "policyNumber": "○○○○○○○ ○○100",
+        "holder": "王貞乃",
+        "contractType": "投資型壽險",
+        "period": "111 年 01 月 10 日/157 年 01 月 09 日",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "月月好鑫外幣變 額年金保險",
+        "policyNumber": "○○○○○○○ ○○9",
+        "holder": "王貞乃",
+        "contractType": "年金型保險",
+        "period": "110 年 03 月 10 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "月月好鑫外幣變 額年金保險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "王貞乃",
+        "contractType": "年金型保險",
+        "period": "109 年 12 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "月月好鑫變額年 金保險",
+        "policyNumber": "○○○○○○○ ○○1",
+        "holder": "王貞乃",
+        "contractType": "年金型保險",
+        "period": "110 年 10 月 22 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣人壽保 險 股份有限公司",
+        "name": "臻美利美元利率 變動型終身壽險",
+        "policyNumber": "○○○○○○○ ○○7",
+        "holder": "王貞乃",
+        "contractType": "儲蓄型壽險",
+        "period": "112 年 06 月 16 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "王貞乃 WANG CHEN NAI 及標 章",
+        "quantity": "1",
+        "owner": "王貞乃",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 68920000,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "王貞乃",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 38920000,
+        "date": "110年11月08日",
+        "reason": "週轉金"
+      },
+      {
+        "type": "授信",
+        "debtor": "王貞乃",
+        "creditor": "中國信託商業銀行永吉分行 台北市信義區永吉路",
+        "amount": 30000000,
+        "date": "110年11月08日",
+        "reason": "週轉金"
+      }
+    ]
+  },
+  "investments": {
+    "total": 500000,
+    "items": [
+      {
+        "investor": "王正旭",
+        "company": "貞旭企業有限公司",
+        "address": "台北市松山區民生東路四段 80 巷 6 弄 7 號 1 樓",
+        "amount": 500000,
+        "date": "90年06月19日",
+        "reason": "投資經營"
+      }
+    ]
+  }
+}

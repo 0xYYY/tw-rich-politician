@@ -1,0 +1,318 @@
+{
+  "name": "楊曜",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "澎湖縣",
+  "party": "民主進步黨",
+  "deposits": [
+    {
+      "currency": "新臺幣",
+      "amount": 6687000
+    },
+    {
+      "currency": "日圓",
+      "amount": 41980
+    },
+    {
+      "currency": "美元",
+      "amount": 6779
+    }
+  ],
+  "depositsTotal": 6735759,
+  "insurance": [
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "世紀理財變額萬 能終身壽險二十 年期 A 型",
+      "holder": "楊曜",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費 33 長 期看護終身保險",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費真安 康防癌保險",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽加倍醫 靠終身醫療健康 保險",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽安養久 久 終 身 保 險 （ A 型）",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "21 世紀終身",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新安心保住院醫 療終身",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新安順手術醫療 終身",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "國 泰 人 壽 保 險 股份有限公司",
+      "name": "新鍾情終身壽險",
+      "holder": "楊曜",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "世紀理財變額萬 能終身壽險二十 年期 A 型",
+      "holder": "林君倩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費 33 長 期看護終身保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 心終身壽險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "二十年繳費祥安 終身壽險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費金富利 終身保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+      "name": "六年繳費祥威利 利率變動型增額 終身壽險(新)",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "全 球 人 壽 保 險 股份有限公司",
+      "name": "全球人壽加倍醫 靠終身醫療健康 保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "安 聯 人 壽 保 險 股份有限公司",
+      "name": "吉利長紅變額萬 能壽險",
+      "holder": "林君倩",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新吉富 養老保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽新嘉樂 養老保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "新 光 人 壽 保 險 股份有限公司",
+      "name": "新光人壽一路發 終身還本保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "臺 灣 人 壽 保 險 股份有限公司",
+      "name": "福鑫 200 殘廢照 護終身保險",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽富貴一 生終身還本保險 -10 年期(JE1)",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽富貴一 生終身還本保險 -10 年期(JE2)",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "遠 雄 人 壽 保 險 事 業 股 份 有 限 公司",
+      "name": "遠雄人壽富貴一 生終身還本保險 -10 年期(JE5)",
+      "holder": "林君倩",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "圓剛",
+      "cleanName": "圓剛",
+      "ticker": "2417",
+      "shares": 30,
+      "owner": "楊曜",
+      "priceAtDisclosure": 40.8,
+      "latestPrice": 37.25
+    },
+    {
+      "name": "飛宏",
+      "cleanName": "飛宏",
+      "ticker": "2457",
+      "shares": 38,
+      "owner": "楊曜",
+      "priceAtDisclosure": 38.25,
+      "latestPrice": 31
+    },
+    {
+      "name": "希華",
+      "cleanName": "希華",
+      "ticker": "2484",
+      "shares": 4314,
+      "owner": "楊曜",
+      "priceAtDisclosure": 28.8,
+      "latestPrice": 30.05
+    },
+    {
+      "name": "中國力霸",
+      "cleanName": "中國力霸",
+      "ticker": null,
+      "shares": 1307,
+      "owner": "楊曜",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "尖美",
+      "cleanName": "尖美",
+      "ticker": null,
+      "shares": 35000,
+      "owner": "楊曜",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "中小成長",
+      "owner": "楊曜",
+      "institution": "國 泰 證 券 投 資 信 託 股 份 有 限 公司",
+      "units": 1000,
+      "unitValue": 131.58,
+      "currency": "",
+      "declaredValue": 131580,
+      "source": "fund"
+    },
+    {
+      "name": "富達美國基金美 元",
+      "owner": "楊曜",
+      "institution": "合 庫 商 業 銀 行 信託部",
+      "units": 294.05,
+      "unitValue": 16.36,
+      "currency": "美元",
+      "declaredValue": 153527,
+      "source": "fund"
+    },
+    {
+      "name": "元大經貿基金",
+      "owner": "楊曜",
+      "institution": "合 庫 商 業 銀 行 信託部",
+      "units": 5001.7,
+      "unitValue": 63.02,
+      "currency": "",
+      "declaredValue": 315207,
+      "source": "fund"
+    },
+    {
+      "name": "元大台灣加權股 價指數基金 A 不 配息台幣",
+      "owner": "楊曜",
+      "institution": "合 庫 商 業 銀 行 信託部",
+      "units": 5685.5,
+      "unitValue": 63.813,
+      "currency": "",
+      "declaredValue": 362809,
+      "source": "fund"
+    },
+    {
+      "name": "凱基台灣精五門 基金",
+      "owner": "楊曜",
+      "institution": "臺 灣 銀 行 澎 湖 分行",
+      "units": 176.15,
+      "unitValue": 57.88,
+      "currency": "",
+      "declaredValue": 10195,
+      "source": "fund"
+    },
+    {
+      "name": "元 大 台 卓 越 50ETF",
+      "owner": "楊曜",
+      "institution": "臺 灣 銀 行 澎 湖 分行",
+      "units": 134.4,
+      "unitValue": 186.4375,
+      "currency": "",
+      "declaredValue": 25057,
+      "source": "fund"
+    },
+    {
+      "name": "元 大 台 卓 越 50ETF",
+      "owner": "楊曜",
+      "institution": "臺 灣 銀 行 澎 湖 分行",
+      "units": 15.48,
+      "unitValue": 186.4375,
+      "currency": "",
+      "declaredValue": 2886,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "高雄市苓雅區五塊厝段",
+      "owner": "林君倩",
+      "date": "2022-10-25",
+      "effectiveAreaPing": 40.37,
+      "entryCount": 2,
+      "price": "50,250,000 (含陽台 7.19 平方公尺,雨 遮2.88平方公 尺，與第 4 筆 土地、第 2 筆 建物合購)"
+    },
+    {
+      "location": "澎湖縣馬公市埕西段",
+      "owner": "林君倩",
+      "date": "2008-03-06",
+      "effectiveAreaPing": 26.78,
+      "entryCount": 1,
+      "price": "(超過五年)"
+    }
+  ]
+}

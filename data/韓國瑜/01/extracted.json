@@ -1,0 +1,528 @@
+{
+  "name": "韓國瑜",
+  "org": "立法院",
+  "title": "院長",
+  "date": "113年04月30日",
+  "type": "就(到)職申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "李佳芬"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小 段(公同共有)",
+      "area": 73,
+      "share": "13 分之 1",
+      "owner": "李佳芬",
+      "date": "110年08月12日",
+      "reason": "贈與",
+      "price": "23,585"
+    },
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小 段(自用房屋之坐落基地)",
+      "area": 194,
+      "share": "全部",
+      "owner": "李佳芬",
+      "date": "110年08月12日",
+      "reason": "贈與",
+      "price": "814,800"
+    },
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小 段(公同共有)",
+      "area": 817,
+      "share": "13 分之 1",
+      "owner": "李佳芬",
+      "date": "110年08月12日",
+      "reason": "贈與",
+      "price": "263,953"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣斗六市溝子埧段柴裡小 段",
+      "area": 473.33,
+      "share": "全部",
+      "owner": "李佳芬",
+      "date": "111年05月13日",
+      "reason": "買賣",
+      "price": "16,800,000"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "MITSUBISHI",
+      "cc": 1798,
+      "owner": "李佳芬",
+      "date": "103年05月16日",
+      "reason": "買賣",
+      "price": 0
+    },
+    {
+      "brand": "LEXUS",
+      "cc": 1998,
+      "owner": "李佳芬",
+      "date": "107年04月20日",
+      "reason": "買賣",
+      "price": 0
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 8836866,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 26324
+      },
+      {
+        "institution": "第一銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 196
+      },
+      {
+        "institution": "台北富邦銀行西湖分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 17342
+      },
+      {
+        "institution": "國泰世華銀行雙和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 8576
+      },
+      {
+        "institution": "國泰世華銀行慶城分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 26
+      },
+      {
+        "institution": "臺灣新光銀行五常分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 337941
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 464
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 155
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 113
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 8716
+      },
+      {
+        "institution": "中和地區農會",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 111
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 1765540
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "韓國瑜",
+        "foreignAmount": 0,
+        "amount": 83891
+      },
+      {
+        "institution": "合庫商業銀行雲林分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 130709
+      },
+      {
+        "institution": "華南銀行中山分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 66
+      },
+      {
+        "institution": "華南銀行中山分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 680
+      },
+      {
+        "institution": "彰化銀行西螺分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 1257
+      },
+      {
+        "institution": "彰化銀行西螺分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 513711
+      },
+      {
+        "institution": "彰化銀行斗六分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 1257
+      },
+      {
+        "institution": "彰化銀行斗六分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 47916
+      },
+      {
+        "institution": "國泰世華銀行斗六分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 317050
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 3279
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "李佳芬",
+        "foreignAmount": 82221,
+        "amount": 2599350
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "活期存款",
+        "currency": "加拿大幣",
+        "owner": "李佳芬",
+        "foreignAmount": 75206,
+        "amount": 1755175
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "活期存款",
+        "currency": "人民幣",
+        "owner": "李佳芬",
+        "foreignAmount": 34946,
+        "amount": 153294
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "活期存款",
+        "currency": "南非幣",
+        "owner": "李佳芬",
+        "foreignAmount": 68389,
+        "amount": 115235
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "李佳芬",
+        "foreignAmount": 308,
+        "amount": 6519
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "李佳芬",
+        "foreignAmount": 4500,
+        "amount": 956
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 873184
+      },
+      {
+        "institution": "玉山銀行斗六分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "李佳芬",
+        "foreignAmount": 0,
+        "amount": 67830
+      }
+    ]
+  },
+  "stocks": {
+    "total": 2307690,
+    "items": [
+      {
+        "name": "強普 (未交付信託原因：未 上市、上櫃股票)",
+        "owner": "韓國瑜",
+        "shares": 120769,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1207690
+      },
+      {
+        "name": "晶隼 (未交付信託原因：未 上市、上櫃股票)",
+        "owner": "李佳芬",
+        "shares": 110000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1100000
+      }
+    ]
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "合庫環境及社會 責任多重資產基 金 B 類型(南非 幣)",
+        "owner": "李佳芬",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 51000,
+        "unitValue": 8.99,
+        "foreignCurrency": "南非幣",
+        "totalValue": 772555
+      },
+      {
+        "name": "合庫環境及社會 責任多重資產基 金 NB 類型(美元)",
+        "owner": "李佳芬",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 8000,
+        "unitValue": 9.01,
+        "foreignCurrency": "美元",
+        "totalValue": 2278737
+      },
+      {
+        "name": "聯博新興市場債 券基金 EA(穩定 月配)澳幣避險 級別",
+        "owner": "李佳芬",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 4979.381,
+        "unitValue": 9.56,
+        "foreignCurrency": "澳幣",
+        "totalValue": 986569
+      },
+      {
+        "name": "聯博新興市場債 券基金 AA 穩定月 配美元",
+        "owner": "李佳芬",
+        "institution": "玉 山 銀 行 信 託 部",
+        "units": 1520.174,
+        "unitValue": 8.73,
+        "foreignCurrency": "美元",
+        "totalValue": 419553
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山 312 還本終 身保險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "91 年 07 月 02 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽添美福 美元利率變動型 終身壽險（定期 給付型）",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "108 年 02 月 14 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增集利 增額終身壽險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增集利 增額終身壽險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山人壽增集利 增額終身壽險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "104 年 01 月 06 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山金美滿還本 終身保險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山美滿還本終 身保險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "86 年 08 月 07 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "南山康樂限期繳 費終身壽險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 10 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "南 山 人 壽 保 險 股份有限公司",
+        "name": "新二十年限期繳 費特別增值分紅 終身壽險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "82 年 10 月 05 日/終身",
+        "note": ""
+      },
+      {
+        "company": "凱 基 人 壽 保 險 股份有限公司",
+        "name": "中國人壽鑫萬利 終身壽險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "99 年 10 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "臺 灣 人 壽 保 險 股份有限公司",
+        "name": "鑫安保險",
+        "policyNumber": "",
+        "holder": "李佳芬",
+        "contractType": "儲蓄型壽險",
+        "period": "97 年 03 月 17 日/117 年 03 月 17 日",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": [
+      {
+        "type": "賣菜郎 CEO 韓國瑜",
+        "quantity": "1",
+        "owner": "韓國瑜",
+        "value": 0
+      },
+      {
+        "type": "韓國瑜標章",
+        "quantity": "1",
+        "owner": "韓國瑜",
+        "value": 0
+      }
+    ]
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 20364943,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "李佳芬",
+        "creditor": "玉山商業銀行東嘉義分行 嘉義市東區新開里垂楊路",
+        "amount": 7116621,
+        "date": "108年02月18日",
+        "reason": "房貸"
+      },
+      {
+        "type": "授信",
+        "debtor": "李佳芬",
+        "creditor": "玉山商業銀行嘉義分行 嘉義市西區番社里新榮路",
+        "amount": 13248322,
+        "date": "111年05月18日",
+        "reason": "房貸"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

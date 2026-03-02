@@ -1,0 +1,613 @@
+{
+  "name": "江啟臣",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "112年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "劉姿伶"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "江○銘"
+    }
+  ],
+  "land": [
+    {
+      "location": "臺中市豐原區三陽段",
+      "area": 163.5,
+      "share": "10000 分之 502",
+      "owner": "江啟臣",
+      "date": "101年08月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區三陽段",
+      "area": 413.52,
+      "share": "10000 分之 502",
+      "owner": "江啟臣",
+      "date": "101年08月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區三陽段",
+      "area": 129.92,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "101年08月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區向陽段",
+      "area": 406,
+      "share": "406 分之 72",
+      "owner": "江啟臣",
+      "date": "112年03月01日",
+      "reason": "贈與",
+      "price": "5,475,168"
+    },
+    {
+      "location": "臺中市豐原區向陽段",
+      "area": 812,
+      "share": "406 分之 29",
+      "owner": "江啟臣",
+      "date": "110年05月19日",
+      "reason": "贈與",
+      "price": "2,205,276"
+    },
+    {
+      "location": "臺中市豐原區豐南段",
+      "area": 5.77,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "112年03月01日",
+      "reason": "贈與",
+      "price": "225,030"
+    },
+    {
+      "location": "臺中市豐原區豐南段",
+      "area": 134.88,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "112年03月01日",
+      "reason": "贈與",
+      "price": "8,510,928"
+    },
+    {
+      "location": "新北市深坑區埔新段",
+      "area": 106.57,
+      "share": "38400 分之 77",
+      "owner": "劉姿伶",
+      "date": "106年10月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市深坑區埔新段",
+      "area": 285.23,
+      "share": "38400 分之 77",
+      "owner": "劉姿伶",
+      "date": "106年10月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市深坑區埔新段",
+      "area": 607.06,
+      "share": "38400 分之 77",
+      "owner": "劉姿伶",
+      "date": "106年10月06日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "新北市新店區文山段",
+      "area": 102,
+      "share": "10000 分之 1",
+      "owner": "劉姿伶",
+      "date": "100年05月23日",
+      "reason": "塗銷信託",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平段一小段",
+      "area": 119,
+      "share": "360 分之 10",
+      "owner": "劉姿伶",
+      "date": "96年05月31日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平段一小段",
+      "area": 86,
+      "share": "192 分之 7",
+      "owner": "劉姿伶",
+      "date": "96年03月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺中市豐原區三陽段",
+      "area": 397.5,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "101年08月30日",
+      "reason": "買賣",
+      "price": "含陽台28.8平 方公尺,雨遮 8.19 平方公尺 (超過五年)"
+    },
+    {
+      "location": "臺中市豐原區三陽段",
+      "area": 29.81,
+      "share": "21 分之 1",
+      "owner": "江啟臣",
+      "date": "101年08月30日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區三陽段",
+      "area": 862.78,
+      "share": "21 分之 1",
+      "owner": "江啟臣",
+      "date": "101年08月30日",
+      "reason": "買賣",
+      "price": "共同使用部分 (超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平段一小段",
+      "area": 135.54,
+      "share": "192 分之 7",
+      "owner": "劉姿伶",
+      "date": "96年03月28日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區南村里北陽路",
+      "area": 745,
+      "share": "21 分之 1",
+      "owner": "江啟臣",
+      "date": "101年07月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺中市豐原區南村里北陽路",
+      "area": 404.3,
+      "share": "全部",
+      "owner": "江啟臣",
+      "date": "101年07月20日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平里甘州街",
+      "area": 2995.2,
+      "share": "192 分之 7",
+      "owner": "劉姿伶",
+      "date": "96年03月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "臺北市大同區延平里甘州街",
+      "area": 8.4,
+      "share": "192 分之 7",
+      "owner": "劉姿伶",
+      "date": "96年03月14日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "LEXUS",
+      "cc": 1998,
+      "owner": "劉姿伶",
+      "date": "109年06月15日",
+      "reason": "買賣",
+      "price": 680000
+    }
+  ],
+  "cash": {
+    "total": 1300000
+  },
+  "deposits": {
+    "total": 12809798,
+    "items": [
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 1727907
+      },
+      {
+        "institution": "台北富邦銀行豐原分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 244551
+      },
+      {
+        "institution": "國泰世華銀行光復分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 1031998
+      },
+      {
+        "institution": "三信銀行豐信分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 59113
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 1695935
+      },
+      {
+        "institution": "中信銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 5058500
+      },
+      {
+        "institution": "中信銀行豐原分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 10000
+      },
+      {
+        "institution": "中信銀行豐原分行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "江啟臣",
+        "foreignAmount": 28821,
+        "amount": 936252
+      },
+      {
+        "institution": "中信銀行豐原分行",
+        "type": "活期存款",
+        "currency": "港幣",
+        "owner": "江啟臣",
+        "foreignAmount": 0,
+        "amount": 2
+      },
+      {
+        "institution": "中信銀行市政分行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "江啟臣",
+        "foreignAmount": 1000000,
+        "amount": 214600
+      },
+      {
+        "institution": "臺灣銀行群賢分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 309930
+      },
+      {
+        "institution": "土地銀行新店分行",
+        "type": "支票存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 10000
+      },
+      {
+        "institution": "土地銀行新店分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 31120
+      },
+      {
+        "institution": "合庫商業銀行新店分行",
+        "type": "活期存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 467144
+      },
+      {
+        "institution": "合庫商業銀行新店分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 200672
+      },
+      {
+        "institution": "彰化銀行敦化分行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 3775
+      },
+      {
+        "institution": "台北富邦銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 406
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "劉姿伶",
+        "foreignAmount": 18860,
+        "amount": 612669
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活期存款",
+        "currency": "澳幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 6,
+        "amount": 133
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 96045
+      },
+      {
+        "institution": "兆豐國際商業銀行豐原分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 53965
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 244
+      },
+      {
+        "institution": "台新國際銀行南京東路分 行",
+        "type": "活儲證券戶",
+        "currency": "新臺幣",
+        "owner": "劉姿伶",
+        "foreignAmount": 0,
+        "amount": 44837
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": [
+      {
+        "name": "摩根基金-亞太 入息基金（月配 現）（美元）",
+        "owner": "江啟臣",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 82.816,
+        "unitValue": 92.36,
+        "foreignCurrency": "美元",
+        "totalValue": 248175
+      },
+      {
+        "name": "施羅德（環）環 球 股 息 基 金 AX （月配現）（美 元）",
+        "owner": "江啟臣",
+        "institution": "中 信 銀 行 信 託 部",
+        "units": 1818.18,
+        "unitValue": 3.7045,
+        "foreignCurrency": "美元",
+        "totalValue": 218538
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "中國人壽保險 股份有限公司",
+        "name": "保誠人壽幸福終 身壽險(93)",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "江啟臣",
+        "contractType": "儲蓄型壽險",
+        "period": "93 年 03 月 08 日/終身",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽常 春增額還本保險 〈10 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "江啟臣",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 15 日/139 年 05 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽常 春增額還本保險 〈6 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "江啟臣",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 05 月 06 日/139 年 05 月 05 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽常 春增額還本保險 〈8 年付費〉",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "江啟臣",
+        "contractType": "儲蓄型壽險",
+        "period": "105 年 05 月 09 日/142 年 05 月 08 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽富 麗人生增額保險 （10 年付費）",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "江啟臣",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 15 日/128 年 05 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "中華郵政股份 有限公司",
+        "name": "郵政簡易人壽富 麗人生增額保險 （10 年付費）",
+        "policyNumber": "○○○○○○○ ○",
+        "holder": "江啟臣",
+        "contractType": "儲蓄型壽險",
+        "period": "109 年 05 月 15 日/130 年 05 月 14 日",
+        "note": ""
+      },
+      {
+        "company": "安達人壽",
+        "name": "安 達 人 壽 得 利 100 外幣變額年 金保險",
+        "policyNumber": "○○○○○○○ ○○378318",
+        "holder": "江啟臣",
+        "contractType": "年金型保險",
+        "period": "111 年 03 月 01 日/172 年 02 月 28 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "添美利美元",
+        "policyNumber": "○○○○○○○ ○○5",
+        "holder": "劉姿伶",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 02 月 23 日/203 年 02 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "國泰人壽保險 股份有限公司",
+        "name": "添美利美元",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "劉姿伶",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 02 月 23 日/205 年 02 月 22 日",
+        "note": ""
+      },
+      {
+        "company": "新光人壽保險 股份有限公司",
+        "name": "新光人壽吉祥如 意終身壽險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "劉姿伶",
+        "contractType": "儲蓄型壽險",
+        "period": "81 年 11 月 11 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 2565922,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "江啟臣",
+        "creditor": "三信商業銀行豐信分行 臺中市豐原區中山路",
+        "amount": 2565922,
+        "date": "101年09月05日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 29590000,
+    "items": [
+      {
+        "investor": "劉姿伶",
+        "company": "兆崇建設股份有限公司",
+        "address": "新北市新店區光明街 156 號",
+        "amount": 1500000,
+        "date": "95年01月23日",
+        "reason": "投資"
+      },
+      {
+        "investor": "劉姿伶",
+        "company": "兆祥建設股份有限公司",
+        "address": "新北市新店區北新路一段 351 號 6 樓",
+        "amount": 750000,
+        "date": "95年10月19日",
+        "reason": "投資"
+      },
+      {
+        "investor": "劉姿伶",
+        "company": "長榮久盟開發建設股份有限 公司",
+        "address": "新北市新店區光明街 156 號",
+        "amount": 15000000,
+        "date": "108年10月08日",
+        "reason": "投資"
+      },
+      {
+        "investor": "劉姿伶",
+        "company": "萬雄建設股份有限公司",
+        "address": "新北市新店區光明街 156 號",
+        "amount": 4500000,
+        "date": "104年12月10日",
+        "reason": "投資"
+      },
+      {
+        "investor": "劉姿伶",
+        "company": "萬盟開發股份有限公司",
+        "address": "新北市新店區北新路一段 351 號 5 樓",
+        "amount": 6000000,
+        "date": "100年03月10日",
+        "reason": "投資"
+      },
+      {
+        "investor": "劉姿伶",
+        "company": "萬層建設股份有限公司",
+        "address": "新北市新店區光明街 156 號",
+        "amount": 1500000,
+        "date": "104年05月08日",
+        "reason": "投資"
+      },
+      {
+        "investor": "劉姿伶",
+        "company": "鉅達建設股份有限公司",
+        "address": "新北市新店區北新路一段 351 號 6 樓",
+        "amount": 340000,
+        "date": "110年08月10日",
+        "reason": "投資"
+      }
+    ]
+  }
+}

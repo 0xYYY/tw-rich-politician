@@ -1,0 +1,196 @@
+{
+  "name": "丁學忠",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "未成年子女",
+      "name": "丁○容"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "丁○甯"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "丁○偉"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "李○煾"
+    }
+  ],
+  "land": [
+    {
+      "location": "雲林縣虎尾鎮過溪段",
+      "area": 168.23,
+      "share": "全部",
+      "owner": "丁學忠",
+      "date": "106年12月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    },
+    {
+      "location": "雲林縣虎尾鎮過溪段",
+      "area": 412.71,
+      "share": "15 分之 1",
+      "owner": "丁學忠",
+      "date": "106年12月01日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "雲林縣虎尾鎮過溪段",
+      "area": 195.76,
+      "share": "全部",
+      "owner": "丁學忠",
+      "date": "106年12月01日",
+      "reason": "買賣",
+      "price": "含陽台 9.5 平 方公尺(超過 五年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "TOYOTA",
+      "cc": 2487,
+      "owner": "丁學忠",
+      "date": "113年02月27日",
+      "reason": "買賣",
+      "price": 2430000
+    }
+  ],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 773864,
+    "items": [
+      {
+        "institution": "土地銀行虎尾分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "丁學忠",
+        "foreignAmount": 0,
+        "amount": 35733
+      },
+      {
+        "institution": "臺灣新光銀行台中分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁學忠",
+        "foreignAmount": 0,
+        "amount": 40
+      },
+      {
+        "institution": "雲林縣虎尾鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁學忠",
+        "foreignAmount": 0,
+        "amount": 187964
+      },
+      {
+        "institution": "雲林縣土庫鎮農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁學忠",
+        "foreignAmount": 0,
+        "amount": 6635
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁學忠",
+        "foreignAmount": 0,
+        "amount": 8650
+      },
+      {
+        "institution": "元大銀行斗信分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "丁學忠",
+        "foreignAmount": 0,
+        "amount": 144
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁○容",
+        "foreignAmount": 0,
+        "amount": 19641
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁○甯",
+        "foreignAmount": 0,
+        "amount": 44789
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "丁○偉",
+        "foreignAmount": 0,
+        "amount": 303859
+      },
+      {
+        "institution": "元大銀行太平分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "丁○偉",
+        "foreignAmount": 0,
+        "amount": 6600
+      },
+      {
+        "institution": "中華郵政公司土庫郵局(雲 林 23 支局)",
+        "type": "中華郵政存簿儲金",
+        "currency": "新臺幣",
+        "owner": "李○煾",
+        "foreignAmount": 0,
+        "amount": 159809
+      }
+    ]
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 2697696,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "丁學忠",
+        "creditor": "雲林縣土庫鎮農會信用部 雲林縣土庫鎮越港里建國路",
+        "amount": 2697696,
+        "date": "106年12月04日",
+        "reason": "購置不動產"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

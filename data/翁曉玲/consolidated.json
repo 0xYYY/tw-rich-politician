@@ -1,0 +1,400 @@
+{
+  "name": "翁曉玲",
+  "date": "2024-03-16",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 175076
+    },
+    {
+      "currency": "日圓",
+      "amount": 418706
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 6026650
+    },
+    {
+      "currency": "澳幣",
+      "amount": 241289
+    },
+    {
+      "currency": "南非幣",
+      "amount": 132774
+    }
+  ],
+  "depositsTotal": 6994499,
+  "insurance": [
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽鑫創世 紀外幣變額年金 保險",
+      "holder": "翁曉玲",
+      "contractType": "年金型保險"
+    },
+    {
+      "company": "凱 基 人 壽 保 險 股份有限公司",
+      "name": "中國人壽富利美 外幣利率變動型 終身壽險(美元)",
+      "holder": "翁曉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "安泰人壽靈活理 財變額保險乙型",
+      "holder": "翁曉玲",
+      "contractType": "投資型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽雙福還 本分紅終身壽險 （繳費十年）",
+      "holder": "翁曉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富邦人壽鑫富利 增額終身壽險",
+      "holder": "翁曉玲",
+      "contractType": "儲蓄型壽險"
+    },
+    {
+      "company": "南 山 人 壽 保 險 股份有限公司",
+      "name": "新二十年限期繳 費增值分紅終身 壽險",
+      "holder": "陳春生",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "台泥",
+      "cleanName": "台泥",
+      "ticker": "1101",
+      "shares": 10000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 31.95,
+      "latestPrice": 26.4
+    },
+    {
+      "name": "大成",
+      "cleanName": "大成",
+      "ticker": "1210",
+      "shares": 2294,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 56.8,
+      "latestPrice": 50.9
+    },
+    {
+      "name": "卜蜂",
+      "cleanName": "卜蜂",
+      "ticker": "1215",
+      "shares": 2200,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 101,
+      "latestPrice": 152.5
+    },
+    {
+      "name": "統一",
+      "cleanName": "統一",
+      "ticker": "1216",
+      "shares": 3000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 77.5,
+      "latestPrice": 72.5
+    },
+    {
+      "name": "台塑",
+      "cleanName": "台塑",
+      "ticker": "1301",
+      "shares": 5000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 68.6,
+      "latestPrice": 51.6
+    },
+    {
+      "name": "臺化",
+      "cleanName": "臺化",
+      "ticker": "1326",
+      "shares": 2000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 55.6,
+      "latestPrice": 51
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 12000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 1463,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "微星",
+      "cleanName": "微星",
+      "ticker": "2377",
+      "shares": 1500,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 169.5,
+      "latestPrice": 94.3
+    },
+    {
+      "name": "廣達",
+      "cleanName": "廣達",
+      "ticker": "2382",
+      "shares": 1000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 257.5,
+      "latestPrice": 291.5
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 2000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 122.5,
+      "latestPrice": 134
+    },
+    {
+      "name": "長榮航",
+      "cleanName": "長榮航",
+      "ticker": "2618",
+      "shares": 3000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 31.35,
+      "latestPrice": 38
+    },
+    {
+      "name": "台灣高鐵",
+      "cleanName": "台灣高鐵",
+      "ticker": "2633",
+      "shares": 12000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 30.35,
+      "latestPrice": 27.05
+    },
+    {
+      "name": "玉山金",
+      "cleanName": "玉山金",
+      "ticker": "2884",
+      "shares": 16529,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 26.2,
+      "latestPrice": 35.1
+    },
+    {
+      "name": "大立光",
+      "cleanName": "大立光",
+      "ticker": "3008",
+      "shares": 160,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 2515,
+      "latestPrice": 2520
+    },
+    {
+      "name": "大聯大",
+      "cleanName": "大聯大",
+      "ticker": "3702",
+      "shares": 8000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 92.1,
+      "latestPrice": 70
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 3000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 78.7,
+      "latestPrice": 92
+    },
+    {
+      "name": "瑞儀",
+      "cleanName": "瑞儀",
+      "ticker": "6176",
+      "shares": 2000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 172.5,
+      "latestPrice": 122
+    },
+    {
+      "name": "關貿",
+      "cleanName": "關貿",
+      "ticker": "6183",
+      "shares": 1000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 71.3,
+      "latestPrice": 95.8
+    },
+    {
+      "name": "精誠",
+      "cleanName": "精誠",
+      "ticker": "6214",
+      "shares": 6000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 116,
+      "latestPrice": 115
+    },
+    {
+      "name": "鴻海",
+      "cleanName": "鴻海",
+      "ticker": "2317",
+      "shares": 20000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 132,
+      "latestPrice": 243
+    },
+    {
+      "name": "台積電",
+      "cleanName": "台積電",
+      "ticker": "2330",
+      "shares": 9753,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 753,
+      "latestPrice": 1995
+    },
+    {
+      "name": "中華電",
+      "cleanName": "中華電",
+      "ticker": "2412",
+      "shares": 10000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 122.5,
+      "latestPrice": 134
+    },
+    {
+      "name": "聯發科",
+      "cleanName": "聯發科",
+      "ticker": "2454",
+      "shares": 3000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 1135,
+      "latestPrice": 1945
+    },
+    {
+      "name": "元大金",
+      "cleanName": "元大金",
+      "ticker": "2885",
+      "shares": 8729,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 30.2,
+      "latestPrice": 49.15
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 15000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 78.7,
+      "latestPrice": 92
+    },
+    {
+      "name": "崇越",
+      "cleanName": "崇越",
+      "ticker": "5434",
+      "shares": 7000,
+      "owner": "翁曉玲",
+      "priceAtDisclosure": 210,
+      "latestPrice": 348.5
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "元大台灣 50",
+      "owner": "翁曉玲",
+      "institution": "凱 基 證 券 三 峽 分公司",
+      "units": 1000,
+      "unitValue": 152.96,
+      "currency": "",
+      "declaredValue": 152960,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "翁曉玲",
+      "institution": "凱 基 證 券 三 峽 分公司",
+      "units": 15000,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 588000,
+      "source": "fund"
+    },
+    {
+      "name": "中信中國高股息",
+      "owner": "翁曉玲",
+      "institution": "凱 基 證 券 三 峽 分公司",
+      "units": 15000,
+      "unitValue": 10.41,
+      "currency": "",
+      "declaredValue": 156150,
+      "source": "fund"
+    },
+    {
+      "name": "凱基優選高股息 30",
+      "owner": "翁曉玲",
+      "institution": "凱 基 證 券 三 峽 分公司",
+      "units": 10000,
+      "unitValue": 25.54,
+      "currency": "",
+      "declaredValue": 255400,
+      "source": "fund"
+    },
+    {
+      "name": "元大高股息",
+      "owner": "翁曉玲",
+      "institution": "凱 基 證 券 三 峽 分公司",
+      "units": 40000,
+      "unitValue": 39.2,
+      "currency": "",
+      "declaredValue": 1568000,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市板橋區江子翠段第三崁 小段",
+      "owner": "翁曉玲",
+      "date": "2020-08-21",
+      "effectiveAreaPing": 12.51,
+      "entryCount": 3,
+      "price": "7,000,000"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "owner": "翁曉玲",
+      "date": "2016-12-02",
+      "effectiveAreaPing": 12.12,
+      "entryCount": 3,
+      "price": "含雨遮 1.3 平 方公尺(超過 五年)"
+    },
+    {
+      "location": "臺北市萬華區莒光段三小段",
+      "owner": "翁曉玲",
+      "date": "2012-06-20",
+      "effectiveAreaPing": 91.21,
+      "entryCount": 3,
+      "price": "含陽台9.31平 方公尺,雨遮 12.61 平方公 尺(超過五年)"
+    },
+    {
+      "location": "臺北市中正區南海段二小段",
+      "owner": "陳春生",
+      "date": "2016-12-02",
+      "effectiveAreaPing": 12.18,
+      "entryCount": 3,
+      "price": "含雨遮 1.5 平 方公尺(超過 五年)"
+    }
+  ]
+}

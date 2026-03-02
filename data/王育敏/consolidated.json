@@ -1,0 +1,245 @@
+{
+  "name": "王育敏",
+  "date": "2024-11-01",
+  "type": "legislator",
+  "area": "不分區",
+  "party": "中國國民黨",
+  "deposits": [
+    {
+      "currency": "美元",
+      "amount": 11578452
+    },
+    {
+      "currency": "新臺幣",
+      "amount": 6328351
+    },
+    {
+      "currency": "人民幣",
+      "amount": 2688238
+    },
+    {
+      "currency": "澳幣",
+      "amount": 402070
+    },
+    {
+      "currency": "日圓",
+      "amount": 14206
+    },
+    {
+      "currency": "南非幣",
+      "amount": 19
+    }
+  ],
+  "depositsTotal": 21011343,
+  "insurance": [
+    {
+      "company": "富 邦 人 壽 保 險 股份有限公司",
+      "name": "富 邦 人 壽 真 安 心 醫 療 養 老 保 險",
+      "holder": "楊明哲",
+      "contractType": "儲蓄型壽險"
+    }
+  ],
+  "stocks": [
+    {
+      "name": "中石化",
+      "cleanName": "中石化",
+      "ticker": "1314",
+      "shares": 160,
+      "owner": "王育敏",
+      "priceAtDisclosure": 8.19,
+      "latestPrice": 8.31
+    },
+    {
+      "name": "東元",
+      "cleanName": "東元",
+      "ticker": "1504",
+      "shares": 1243,
+      "owner": "王育敏",
+      "priceAtDisclosure": 49.7,
+      "latestPrice": 82.9
+    },
+    {
+      "name": "太電",
+      "cleanName": "太電",
+      "ticker": "1602",
+      "shares": 247,
+      "owner": "王育敏",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "中鋼",
+      "cleanName": "中鋼",
+      "ticker": "2002",
+      "shares": 1000,
+      "owner": "王育敏",
+      "priceAtDisclosure": 22.7,
+      "latestPrice": 20.75
+    },
+    {
+      "name": "宏碁",
+      "cleanName": "宏碁",
+      "ticker": "2353",
+      "shares": 783,
+      "owner": "王育敏",
+      "priceAtDisclosure": 40.05,
+      "latestPrice": 27.4
+    },
+    {
+      "name": "英業達",
+      "cleanName": "英業達",
+      "ticker": "2356",
+      "shares": 1480,
+      "owner": "王育敏",
+      "priceAtDisclosure": 45.7,
+      "latestPrice": 46.25
+    },
+    {
+      "name": "友達",
+      "cleanName": "友達",
+      "ticker": "2409",
+      "shares": 13600,
+      "owner": "王育敏",
+      "priceAtDisclosure": 16.35,
+      "latestPrice": 16.6
+    },
+    {
+      "name": "宏達電",
+      "cleanName": "宏達電",
+      "ticker": "2498",
+      "shares": 5000,
+      "owner": "王育敏",
+      "priceAtDisclosure": 43.1,
+      "latestPrice": 45.4
+    },
+    {
+      "name": "陽明",
+      "cleanName": "陽明",
+      "ticker": "2609",
+      "shares": 3000,
+      "owner": "王育敏",
+      "priceAtDisclosure": 70,
+      "latestPrice": 57.4
+    },
+    {
+      "name": "華航",
+      "cleanName": "華航",
+      "ticker": "2610",
+      "shares": 5000,
+      "owner": "王育敏",
+      "priceAtDisclosure": 22.5,
+      "latestPrice": 21
+    },
+    {
+      "name": "中信金",
+      "cleanName": "中信金",
+      "ticker": "2891",
+      "shares": 10612,
+      "owner": "王育敏",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "第一金",
+      "cleanName": "第一金",
+      "ticker": "2892",
+      "shares": 1081,
+      "owner": "王育敏",
+      "priceAtDisclosure": 27,
+      "latestPrice": 29.9
+    },
+    {
+      "name": "中信",
+      "cleanName": "中信",
+      "ticker": "2891",
+      "shares": 1120,
+      "owner": "王育敏",
+      "priceAtDisclosure": 35.7,
+      "latestPrice": 55.9
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 796,
+      "owner": "王育敏",
+      "priceAtDisclosure": 89,
+      "latestPrice": 92
+    },
+    {
+      "name": "彩晶",
+      "cleanName": "彩晶",
+      "ticker": "6116",
+      "shares": 2000,
+      "owner": "王育敏",
+      "priceAtDisclosure": 9.32,
+      "latestPrice": 9.27
+    },
+    {
+      "name": "長億實業",
+      "cleanName": "長億實業",
+      "ticker": null,
+      "shares": 1170,
+      "owner": "王育敏",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "台光",
+      "cleanName": "台光",
+      "ticker": "2383",
+      "shares": 16000,
+      "owner": "王育敏",
+      "priceAtDisclosure": 427,
+      "latestPrice": 2440
+    },
+    {
+      "name": "齊民",
+      "cleanName": "齊民",
+      "ticker": null,
+      "shares": 2245,
+      "owner": "王育敏",
+      "priceAtDisclosure": null,
+      "latestPrice": null
+    },
+    {
+      "name": "遠傳",
+      "cleanName": "遠傳",
+      "ticker": "4904",
+      "shares": 306,
+      "owner": "王育敏",
+      "priceAtDisclosure": 89,
+      "latestPrice": 92
+    }
+  ],
+  "bonds": [],
+  "fundCertificates": [
+    {
+      "name": "凱基金",
+      "owner": "王育敏",
+      "shares": 2256,
+      "declaredValue": 22560,
+      "source": "stock"
+    },
+    {
+      "name": "景順環球關鍵聚 焦基金（再投資） （美元）（在台未 提供銷售）",
+      "owner": "王育敏",
+      "institution": "中 信 銀 行 信 託 部",
+      "units": 199.93,
+      "unitValue": 9.64,
+      "currency": "美元",
+      "declaredValue": 61595,
+      "source": "fund"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "臺北市大同區市府段一小段",
+      "owner": "王育敏",
+      "date": "2009-09-02",
+      "effectiveAreaPing": 0,
+      "entryCount": 1,
+      "price": "5,000,000 (為地上權房 屋，僅有使用 權 45 年，無土 地所有權，超 過五年)"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "name": "廖先翔",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "陳婉倩"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "廖○橙"
+    }
+  ],
+  "land": [
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 296,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "49,728"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 2968,
+      "share": "40 分之 2",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "124,656"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 1741,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "292,488"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 381,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "64,008"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 48,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "8,064"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 854,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "143,472"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 223,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "37,464"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 868,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "145,824"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 306,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "51,408"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 1043,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "175,224"
+    },
+    {
+      "location": "新北市汐止區石硿子段石硿子 小段",
+      "area": 97,
+      "share": "20 分之 4",
+      "owner": "廖先翔",
+      "date": "109年07月22日",
+      "reason": "買賣",
+      "price": "16,296"
+    },
+    {
+      "location": "新北市汐止區智興段",
+      "area": 1090,
+      "share": "10000 分之 218",
+      "owner": "廖先翔",
+      "date": "104年08月13日",
+      "reason": "買賣",
+      "price": "(超過五年)"
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新北市汐止區智興段",
+      "area": 92.93,
+      "share": "全部",
+      "owner": "廖先翔",
+      "date": "104年08月13日",
+      "reason": "買賣",
+      "price": "含陽台6.82平 方公尺，雨遮 7.67 平 方 公 尺，與第 2 筆 建物是同一間 房子(超過五 年)"
+    },
+    {
+      "location": "新北市汐止區智興段",
+      "area": 3768.08,
+      "share": "10000 分之 318",
+      "owner": "廖先翔",
+      "date": "104年08月13日",
+      "reason": "買賣",
+      "price": "共 同 使 用 部 分，與第 1 筆 建物是同一間 房子(超過五 年)"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "Tesla",
+      "cc": 3460,
+      "owner": "廖先翔",
+      "date": "111年02月24日",
+      "reason": "買賣",
+      "price": 2013400
+    }
+  ],
+  "cash": {
+    "total": 900000
+  },
+  "deposits": {
+    "total": 3930315,
+    "items": [
+      {
+        "institution": "土地銀行忠孝分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 4891
+      },
+      {
+        "institution": "台北富邦銀行北中壢分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 11
+      },
+      {
+        "institution": "華泰銀行總部分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 1501255
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 78009
+      },
+      {
+        "institution": "聯邦銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 122
+      },
+      {
+        "institution": "永豐銀行營業部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 259141
+      },
+      {
+        "institution": "永豐銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 17619
+      },
+      {
+        "institution": "玉山銀行內湖分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 23450
+      },
+      {
+        "institution": "台新國際銀行江翠分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 823
+      },
+      {
+        "institution": "中信銀行汐止分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 682
+      },
+      {
+        "institution": "新北市汐止區農會信用部",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "廖先翔",
+        "foreignAmount": 0,
+        "amount": 4213
+      },
+      {
+        "institution": "台北富邦商業銀行行善分 行",
+        "type": "活期存款",
+        "currency": "日圓",
+        "owner": "陳婉倩",
+        "foreignAmount": 50009,
+        "amount": 10469
+      },
+      {
+        "institution": "台北富邦商業銀行行善分 行",
+        "type": "活期存款",
+        "currency": "英鎊",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 4
+      },
+      {
+        "institution": "台北富邦商業銀行行善分 行",
+        "type": "活期存款",
+        "currency": "美元",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 0
+      },
+      {
+        "institution": "台北富邦商業銀行行善分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 411175
+      },
+      {
+        "institution": "台北富邦商業銀行行善分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 59453
+      },
+      {
+        "institution": "台北富邦商業銀行行善分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 1004
+      },
+      {
+        "institution": "國泰世華銀行南京東路分 行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 795926
+      },
+      {
+        "institution": "臺灣新光銀行中和分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 271
+      },
+      {
+        "institution": "中華郵政",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 51233
+      },
+      {
+        "institution": "玉山銀行城東分行",
+        "type": "綜合存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 574
+      },
+      {
+        "institution": "中信銀行新莊分行",
+        "type": "活期儲蓄存款",
+        "currency": "新臺幣",
+        "owner": "陳婉倩",
+        "foreignAmount": 0,
+        "amount": 709989
+      }
+    ]
+  },
+  "stocks": {
+    "total": 223850,
+    "items": [
+      {
+        "name": "台積電",
+        "owner": "陳婉倩",
+        "shares": 120,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1200
+      },
+      {
+        "name": "台亞",
+        "owner": "陳婉倩",
+        "shares": 2000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 20000
+      },
+      {
+        "name": "聯發科",
+        "owner": "陳婉倩",
+        "shares": 5,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 50
+      },
+      {
+        "name": "王品",
+        "owner": "陳婉倩",
+        "shares": 1,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 10
+      },
+      {
+        "name": "世芯-KY",
+        "owner": "陳婉倩",
+        "shares": 10,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 100
+      },
+      {
+        "name": "元晶",
+        "owner": "陳婉倩",
+        "shares": 20000,
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 200000
+      },
+      {
+        "name": "訊智海國際",
+        "owner": "陳婉倩",
+        "shares": 200,
+        "faceValue": 3,
+        "foreignCurrency": "港幣",
+        "totalValue": 2490
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": [
+      {
+        "company": "新 光 人 壽 保 險 股份有限公司",
+        "name": "新光人壽傳家樂 (253)終身還本壽 險",
+        "policyNumber": "○○○○○○○ ○○0",
+        "holder": "廖先翔",
+        "contractType": "儲蓄型壽險",
+        "period": "87 年 11 月 17 日/終身",
+        "note": ""
+      },
+      {
+        "company": "三 商 美 邦 人 壽 保 險 股 份 有 限 公司",
+        "name": "二十年繳費祥安 終身壽險",
+        "policyNumber": "○○○○○○○ ○○950",
+        "holder": "陳婉倩",
+        "contractType": "儲蓄型壽險",
+        "period": "100 年 07 月 25 日/終身",
+        "note": ""
+      }
+    ]
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 43403796,
+    "items": [
+      {
+        "type": "借貸",
+        "creditor": "廖先翔",
+        "debtor": "郭○英 新北市汐止區茄苳路",
+        "amount": 35900000,
+        "date": "112年09月01日",
+        "reason": "家人借貸"
+      },
+      {
+        "type": "借貸",
+        "creditor": "廖先翔",
+        "debtor": "廖○良 新北市汐止區茄苳路",
+        "amount": 7500000,
+        "date": "111年05月16日",
+        "reason": "家人借貸"
+      },
+      {
+        "type": "員工持股信託",
+        "creditor": "陳婉倩",
+        "debtor": "台北富邦商業銀行信託業務 處 台北市民生東路",
+        "amount": 3796,
+        "date": "113年11月01日",
+        "reason": "持股信託"
+      }
+    ]
+  },
+  "debts": {
+    "total": 55828256,
+    "items": [
+      {
+        "type": "授信",
+        "debtor": "廖先翔",
+        "creditor": "元大商業銀行士林分行 台北市士林區中正路",
+        "amount": 1000784,
+        "date": "111年02月11日",
+        "reason": "購置動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "廖先翔",
+        "creditor": "元大商業銀行士林分行 台北市士林區中正路",
+        "amount": 127472,
+        "date": "111年02月11日",
+        "reason": "購置動產"
+      },
+      {
+        "type": "授信",
+        "debtor": "廖先翔",
+        "creditor": "台新國際商業銀行忠孝分行 台北市大安區忠孝東路",
+        "amount": 9960000,
+        "date": "111年04月27日",
+        "reason": "無自用住宅 購屋貸款"
+      },
+      {
+        "type": "授信",
+        "debtor": "廖先翔",
+        "creditor": "台新國際商業銀行忠孝分行 台北市大安區忠孝東路",
+        "amount": 8840000,
+        "date": "111年04月27日",
+        "reason": "協助家人借 貸"
+      },
+      {
+        "type": "授信",
+        "debtor": "廖先翔",
+        "creditor": "華泰商業銀行總部分行 臺北市中山區敬業四路",
+        "amount": 35900000,
+        "date": "113年09月18日",
+        "reason": "協助家人借 貸"
+      }
+    ]
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

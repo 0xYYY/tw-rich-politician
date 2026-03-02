@@ -1,0 +1,155 @@
+{
+  "name": "楊文科",
+  "org": "新竹縣政府",
+  "title": "縣長",
+  "date": "113年11月01日",
+  "type": "定期申報",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "甘秀美"
+    }
+  ],
+  "land": [
+    {
+      "location": "新竹市光復段",
+      "area": 2711,
+      "share": "13560 分 之 223",
+      "owner": "楊文科",
+      "date": "108年02月21日",
+      "reason": "受託人:兆豐國際商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "新竹市光復段",
+      "area": 1,
+      "share": "13560 分 之 223",
+      "owner": "楊文科",
+      "date": "108年02月21日",
+      "reason": "受託人:兆豐國際商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "新竹縣峨眉鄉三峰段",
+      "area": 2878.2,
+      "share": "24 分之 1",
+      "owner": "楊文科",
+      "date": "108年02月22日",
+      "reason": "受託人:兆豐國際商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "新竹市科學段一小段",
+      "area": 198.97,
+      "share": "全部",
+      "owner": "甘秀美",
+      "date": "108年02月22日",
+      "reason": "受託人:兆豐國際商 業銀行",
+      "price": ""
+    }
+  ],
+  "buildings": [
+    {
+      "location": "新竹市光復段",
+      "area": 77.14,
+      "share": "全部",
+      "owner": "楊文科",
+      "date": "108年02月21日",
+      "reason": "受託人:兆豐國際商 業銀行",
+      "price": ""
+    },
+    {
+      "location": "新竹市科學段一小段",
+      "area": 350.73,
+      "share": "全部",
+      "owner": "甘秀美",
+      "date": "108年02月22日",
+      "reason": "受託人:兆豐國際商 業銀行",
+      "price": ""
+    }
+  ],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台塑化",
+        "owner": "楊文科",
+        "shares": 200000,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "113年03月15日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 2000000
+      },
+      {
+        "name": "台聚",
+        "owner": "甘秀美",
+        "shares": 13758,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "108年03月07日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 137580
+      },
+      {
+        "name": "台化",
+        "owner": "甘秀美",
+        "shares": 100315,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "113年03月15日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1003150
+      },
+      {
+        "name": "聯發科",
+        "owner": "甘秀美",
+        "shares": 1181,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "111年07月14日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 11810
+      },
+      {
+        "name": "華南金控",
+        "owner": "甘秀美",
+        "shares": 101126,
+        "trustee": "兆豐國際商業銀 行",
+        "transferDate": "113年03月15日",
+        "faceValue": 10,
+        "foreignCurrency": "",
+        "totalValue": 1011260
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,5227 @@
+{
+  "name": "何欣純",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年11月01日",
+  "type": "前次申報日期民國112年11月01日起，本次定期申報日113年11月01日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "謝俊雄"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "謝○恩"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "謝○均"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": [
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "30.05",
+        "changeDate": "112年11月30日",
+        "changeReason": "買",
+        "totalValue": 30050
+      },
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "28.95",
+        "changeDate": "112年12月15日",
+        "changeReason": "賣",
+        "totalValue": 28950
+      },
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "28.90",
+        "changeDate": "113年01月09日",
+        "changeReason": "買",
+        "totalValue": 28900
+      },
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "28.55",
+        "changeDate": "113年01月11日",
+        "changeReason": "賣",
+        "totalValue": 28550
+      },
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "29.25",
+        "changeDate": "113年01月16日",
+        "changeReason": "買",
+        "totalValue": 87750
+      },
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "29.15",
+        "changeDate": "113年01月16日",
+        "changeReason": "買",
+        "totalValue": 29150
+      },
+      {
+        "name": "台南",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "28.25",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 113000
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "53.70",
+        "changeDate": "113年01月08日",
+        "changeReason": "買",
+        "totalValue": 268500
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "47.30",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 94600
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "47.30",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 94600
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "47.30",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 47300
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "46.10",
+        "changeDate": "113年01月18日",
+        "changeReason": "買",
+        "totalValue": 92200
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "46.10",
+        "changeDate": "113年01月18日",
+        "changeReason": "買",
+        "totalValue": 92200
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "46.10",
+        "changeDate": "113年01月18日",
+        "changeReason": "買",
+        "totalValue": 46100
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "45.75",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 91500
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "45.75",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 45750
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "45.75",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 45750
+      },
+      {
+        "name": "力山",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "45.75",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 45750
+      },
+      {
+        "name": "新光鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "55.90",
+        "changeDate": "113年01月24日",
+        "changeReason": "買",
+        "totalValue": 335400
+      },
+      {
+        "name": "新光鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "55.90",
+        "changeDate": "113年01月24日",
+        "changeReason": "買",
+        "totalValue": 223600
+      },
+      {
+        "name": "新光鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "59.30",
+        "changeDate": "113年02月21日",
+        "changeReason": "賣",
+        "totalValue": 237200
+      },
+      {
+        "name": "新光鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "59.30",
+        "changeDate": "113年02月21日",
+        "changeReason": "賣",
+        "totalValue": 59300
+      },
+      {
+        "name": "新光鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "63.20",
+        "changeDate": "113年02月23日",
+        "changeReason": "賣",
+        "totalValue": 252800
+      },
+      {
+        "name": "新光鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "63.20",
+        "changeDate": "113年02月23日",
+        "changeReason": "賣",
+        "totalValue": 63200
+      },
+      {
+        "name": "南港",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "52.70",
+        "changeDate": "113年07月31日",
+        "changeReason": "買",
+        "totalValue": 158100
+      },
+      {
+        "name": "南港",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "52.70",
+        "changeDate": "113年07月31日",
+        "changeReason": "買",
+        "totalValue": 52700
+      },
+      {
+        "name": "南港",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "52.70",
+        "changeDate": "113年07月31日",
+        "changeReason": "買",
+        "totalValue": 52700
+      },
+      {
+        "name": "南港",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "52.50",
+        "changeDate": "113年08月02日",
+        "changeReason": "賣",
+        "totalValue": 157500
+      },
+      {
+        "name": "南港",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "52.50",
+        "changeDate": "113年08月02日",
+        "changeReason": "賣",
+        "totalValue": 52500
+      },
+      {
+        "name": "南港",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "52.50",
+        "changeDate": "113年08月02日",
+        "changeReason": "賣",
+        "totalValue": 52500
+      },
+      {
+        "name": "華通",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "71.20",
+        "changeDate": "113年01月24日",
+        "changeReason": "買",
+        "totalValue": 569600
+      },
+      {
+        "name": "華通",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "71.20",
+        "changeDate": "113年01月24日",
+        "changeReason": "買",
+        "totalValue": 213600
+      },
+      {
+        "name": "華通",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "71.20",
+        "changeDate": "113年01月24日",
+        "changeReason": "買",
+        "totalValue": 213600
+      },
+      {
+        "name": "華通",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "71.20",
+        "changeDate": "113年01月24日",
+        "changeReason": "買",
+        "totalValue": 71200
+      },
+      {
+        "name": "華通",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 15000,
+        "pricePerShare": "72.80",
+        "changeDate": "113年02月21日",
+        "changeReason": "賣",
+        "totalValue": 1092000
+      },
+      {
+        "name": "國巨",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "614",
+        "changeDate": "113年10月17日",
+        "changeReason": "買",
+        "totalValue": 614000
+      },
+      {
+        "name": "國巨",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "622",
+        "changeDate": "113年10月22日",
+        "changeReason": "賣",
+        "totalValue": 622000
+      },
+      {
+        "name": "旺宏",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "26.25",
+        "changeDate": "113年10月22日",
+        "changeReason": "賣",
+        "totalValue": 26250
+      },
+      {
+        "name": "旺宏",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "26.25",
+        "changeDate": "113年10月22日",
+        "changeReason": "賣",
+        "totalValue": 26250
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "48.30",
+        "changeDate": "112年12月20日",
+        "changeReason": "買",
+        "totalValue": 96600
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "51.20",
+        "changeDate": "112年12月22日",
+        "changeReason": "買",
+        "totalValue": 409600
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 154200
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 102800
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 102800
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 51400
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 51400
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "51.40",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 51400
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "51",
+        "changeDate": "113年01月15日",
+        "changeReason": "買",
+        "totalValue": 153000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "51",
+        "changeDate": "113年01月15日",
+        "changeReason": "買",
+        "totalValue": 153000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "51",
+        "changeDate": "113年01月15日",
+        "changeReason": "買",
+        "totalValue": 102000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "51",
+        "changeDate": "113年01月15日",
+        "changeReason": "買",
+        "totalValue": 51000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "51",
+        "changeDate": "113年01月15日",
+        "changeReason": "買",
+        "totalValue": 51000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 7000,
+        "pricePerShare": "54.40",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 380800
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "54.40",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 163200
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "57.90",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 579000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "58",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 174000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "58",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 174000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "58",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 58000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "58",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 58000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "58",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 58000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "58",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 58000
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 283500
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 170100
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 113400
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 113400
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "英業達",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "56.70",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 56700
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "167.50",
+        "changeDate": "113年06月18日",
+        "changeReason": "買",
+        "totalValue": 670000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "167.50",
+        "changeDate": "113年06月18日",
+        "changeReason": "買",
+        "totalValue": 167500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "172",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 1032000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "172",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 860000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "172",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 344000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "172",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 172000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "172",
+        "changeDate": "113年07月03日",
+        "changeReason": "買",
+        "totalValue": 172000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "161",
+        "changeDate": "113年07月18日",
+        "changeReason": "賣",
+        "totalValue": 1610000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 313000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 313000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 156500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 156500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 156500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 156500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 156500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "156.50",
+        "changeDate": "113年07月22日",
+        "changeReason": "賣",
+        "totalValue": 156500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "164",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 1640000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "163.50",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 1635000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "164",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 820000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月13日",
+        "changeReason": "買",
+        "totalValue": 642000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月13日",
+        "changeReason": "買",
+        "totalValue": 160500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 1276000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 797500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "159",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 795000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159000
+      },
+      {
+        "name": "所羅門",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "159.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 159500
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 241800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 241800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 161200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "80.60",
+        "changeDate": "113年06月05日",
+        "changeReason": "買",
+        "totalValue": 80600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 14000,
+        "pricePerShare": "69.10",
+        "changeDate": "113年06月12日",
+        "changeReason": "賣",
+        "totalValue": 967400
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "69.10",
+        "changeDate": "113年06月12日",
+        "changeReason": "賣",
+        "totalValue": 691000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "69.10",
+        "changeDate": "113年06月12日",
+        "changeReason": "賣",
+        "totalValue": 552800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "69",
+        "changeDate": "113年06月12日",
+        "changeReason": "賣",
+        "totalValue": 552000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "69",
+        "changeDate": "113年06月12日",
+        "changeReason": "賣",
+        "totalValue": 552000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "69.10",
+        "changeDate": "113年06月12日",
+        "changeReason": "賣",
+        "totalValue": 138200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 30000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 2301000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 9000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 690300
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "76.60",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 306400
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 153400
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.60",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "76.70",
+        "changeDate": "113年06月20日",
+        "changeReason": "買",
+        "totalValue": 76700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 13000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 817700
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 503200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 125800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 125800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 125800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 125800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 125800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 125800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.90",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 62900
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "61",
+        "changeDate": "113年08月05日",
+        "changeReason": "買",
+        "totalValue": 183000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "61",
+        "changeDate": "113年08月05日",
+        "changeReason": "買",
+        "totalValue": 61000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "61",
+        "changeDate": "113年08月05日",
+        "changeReason": "買",
+        "totalValue": 61000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 33000,
+        "pricePerShare": "61.60",
+        "changeDate": "113年08月08日",
+        "changeReason": "買",
+        "totalValue": 2032800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "61.60",
+        "changeDate": "113年08月08日",
+        "changeReason": "買",
+        "totalValue": 246400
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "61.60",
+        "changeDate": "113年08月08日",
+        "changeReason": "買",
+        "totalValue": 246400
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "61.60",
+        "changeDate": "113年08月08日",
+        "changeReason": "買",
+        "totalValue": 123200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "61.60",
+        "changeDate": "113年08月08日",
+        "changeReason": "買",
+        "totalValue": 123200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 15000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 933000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 14000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 870800
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 311000
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 186600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 186600
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 124400
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "陽明",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "62.20",
+        "changeDate": "113年08月12日",
+        "changeReason": "賣",
+        "totalValue": 62200
+      },
+      {
+        "name": "長榮航",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "32",
+        "changeDate": "112年12月26日",
+        "changeReason": "買",
+        "totalValue": 64000
+      },
+      {
+        "name": "長榮航",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "32.70",
+        "changeDate": "113年01月08日",
+        "changeReason": "賣",
+        "totalValue": 65400
+      },
+      {
+        "name": "長榮航",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "31.85",
+        "changeDate": "113年03月11日",
+        "changeReason": "買",
+        "totalValue": 191100
+      },
+      {
+        "name": "長榮航",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "32.40",
+        "changeDate": "113年04月11日",
+        "changeReason": "賣",
+        "totalValue": 194400
+      },
+      {
+        "name": "夏都",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "58.40",
+        "changeDate": "112年12月26日",
+        "changeReason": "買",
+        "totalValue": 116800
+      },
+      {
+        "name": "夏都",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "62.30",
+        "changeDate": "113年01月11日",
+        "changeReason": "賣",
+        "totalValue": 124600
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "103",
+        "changeDate": "112年12月29日",
+        "changeReason": "買",
+        "totalValue": 103000
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "103",
+        "changeDate": "112年12月29日",
+        "changeReason": "買",
+        "totalValue": 103000
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "103",
+        "changeDate": "112年12月29日",
+        "changeReason": "買",
+        "totalValue": 103000
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "103",
+        "changeDate": "112年12月29日",
+        "changeReason": "買",
+        "totalValue": 103000
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "103",
+        "changeDate": "112年12月29日",
+        "changeReason": "買",
+        "totalValue": 103000
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "104.50",
+        "changeDate": "113年01月08日",
+        "changeReason": "賣",
+        "totalValue": 104500
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "104.50",
+        "changeDate": "113年01月08日",
+        "changeReason": "賣",
+        "totalValue": 104500
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "104.50",
+        "changeDate": "113年01月08日",
+        "changeReason": "賣",
+        "totalValue": 104500
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "104.50",
+        "changeDate": "113年01月08日",
+        "changeReason": "賣",
+        "totalValue": 104500
+      },
+      {
+        "name": "公準",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "104.50",
+        "changeDate": "113年01月08日",
+        "changeReason": "賣",
+        "totalValue": 104500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "94.10",
+        "changeDate": "112年12月20日",
+        "changeReason": "買",
+        "totalValue": 94100
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "94.10",
+        "changeDate": "112年12月20日",
+        "changeReason": "買",
+        "totalValue": 94100
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "97.10",
+        "changeDate": "112年12月29日",
+        "changeReason": "賣",
+        "totalValue": 194200
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "96.50",
+        "changeDate": "113年01月18日",
+        "changeReason": "買",
+        "totalValue": 482500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "114.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 572500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 1195000
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 717000
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 119500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 119500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 119500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月25日",
+        "changeReason": "買",
+        "totalValue": 119500
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 18000,
+        "pricePerShare": "121",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 2178000
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "121",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 121000
+      },
+      {
+        "name": "緯創",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "121",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 121000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 12000,
+        "pricePerShare": "43",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 516000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 9000,
+        "pricePerShare": "43",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 387000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 85900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 85900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 85900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 85900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 42950
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "43",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 43000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 42950
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "43",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 43000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "43",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 43000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "42.95",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 42950
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "43",
+        "changeDate": "113年03月25日",
+        "changeReason": "買",
+        "totalValue": 43000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 132750
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 88500
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 88500
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 44250
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 44250
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 44250
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 44250
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "44.25",
+        "changeDate": "113年03月27日",
+        "changeReason": "買",
+        "totalValue": 44250
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "43.45",
+        "changeDate": "113年04月02日",
+        "changeReason": "買",
+        "totalValue": 173800
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "43.45",
+        "changeDate": "113年04月02日",
+        "changeReason": "買",
+        "totalValue": 86900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "43.45",
+        "changeDate": "113年04月02日",
+        "changeReason": "買",
+        "totalValue": 86900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "43.45",
+        "changeDate": "113年04月02日",
+        "changeReason": "買",
+        "totalValue": 86900
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "43.45",
+        "changeDate": "113年04月02日",
+        "changeReason": "買",
+        "totalValue": 43450
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "43.45",
+        "changeDate": "113年04月02日",
+        "changeReason": "買",
+        "totalValue": 43450
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 13000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 533000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 411000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 246000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 164000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 123300
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.20",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41200
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.30",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41300
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41100
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.05",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41050
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.05",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41050
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41100
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41100
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.05",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41050
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41000
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41100
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41100
+      },
+      {
+        "name": "英濟",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.15",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41150
+      },
+      {
+        "name": "英濟",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.15",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41150
+      },
+      {
+        "name": "英濟",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.20",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41200
+      },
+      {
+        "name": "英濟",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "41.10",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 41100
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "124",
+        "changeDate": "113年01月11日",
+        "changeReason": "買",
+        "totalValue": 124000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "121.50",
+        "changeDate": "113年01月12日",
+        "changeReason": "賣",
+        "totalValue": 121500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "127.50",
+        "changeDate": "113年01月16日",
+        "changeReason": "買",
+        "totalValue": 255000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "127.50",
+        "changeDate": "113年01月16日",
+        "changeReason": "買",
+        "totalValue": 255000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "127.50",
+        "changeDate": "113年01月16日",
+        "changeReason": "買",
+        "totalValue": 127500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "122.50",
+        "changeDate": "113年01月18日",
+        "changeReason": "買",
+        "totalValue": 367500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "122.50",
+        "changeDate": "113年01月18日",
+        "changeReason": "買",
+        "totalValue": 245000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "121.50",
+        "changeDate": "113年01月19日",
+        "changeReason": "買",
+        "totalValue": 364500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "121.50",
+        "changeDate": "113年01月19日",
+        "changeReason": "買",
+        "totalValue": 121500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "121.50",
+        "changeDate": "113年01月19日",
+        "changeReason": "買",
+        "totalValue": 121500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "119",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 357000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 239000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 239000
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "新日興",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "119.50",
+        "changeDate": "113年01月22日",
+        "changeReason": "賣",
+        "totalValue": 119500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 7000,
+        "pricePerShare": "140",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 980000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "140.50",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 140500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "140",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 140000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "140",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 140000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "133.50",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 1068000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "133.50",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 133500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "133.50",
+        "changeDate": "113年08月12日",
+        "changeReason": "買",
+        "totalValue": 133500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 1605000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 642000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 481500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 321000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "160.50",
+        "changeDate": "113年08月19日",
+        "changeReason": "買",
+        "totalValue": 160500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 20000,
+        "pricePerShare": "167",
+        "changeDate": "113年08月28日",
+        "changeReason": "賣",
+        "totalValue": 3340000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 855000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 342000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 342000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 342000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171.50",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171500
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171000
+      },
+      {
+        "name": "桓達",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "171",
+        "changeDate": "113年08月29日",
+        "changeReason": "賣",
+        "totalValue": 171000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "147",
+        "changeDate": "113年09月13日",
+        "changeReason": "買",
+        "totalValue": 1470000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "149.50",
+        "changeDate": "113年09月16日",
+        "changeReason": "買",
+        "totalValue": 1196000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "149.50",
+        "changeDate": "113年09月16日",
+        "changeReason": "買",
+        "totalValue": 598000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "149.50",
+        "changeDate": "113年09月16日",
+        "changeReason": "買",
+        "totalValue": 448500
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "149.50",
+        "changeDate": "113年09月16日",
+        "changeReason": "買",
+        "totalValue": 448500
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "149.50",
+        "changeDate": "113年09月16日",
+        "changeReason": "買",
+        "totalValue": 299000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 10000,
+        "pricePerShare": "144",
+        "changeDate": "113年09月27日",
+        "changeReason": "賣",
+        "totalValue": 1440000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 429000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 286000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 286000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "145",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 290000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 286000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 286000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "均豪",
+        "broker": "國票南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "143",
+        "changeDate": "113年10月04日",
+        "changeReason": "賣",
+        "totalValue": 143000
+      },
+      {
+        "name": "興能高",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "30.70",
+        "changeDate": "112年12月08日",
+        "changeReason": "買",
+        "totalValue": 61400
+      },
+      {
+        "name": "興能高",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "27.20",
+        "changeDate": "112年12月12日",
+        "changeReason": "賣",
+        "totalValue": 27200
+      },
+      {
+        "name": "興能高",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "27.20",
+        "changeDate": "112年12月12日",
+        "changeReason": "賣",
+        "totalValue": 27200
+      },
+      {
+        "name": "興能高",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 4000,
+        "pricePerShare": "27.75",
+        "changeDate": "112年12月28日",
+        "changeReason": "買",
+        "totalValue": 111000
+      },
+      {
+        "name": "興能高",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "26.65",
+        "changeDate": "113年01月03日",
+        "changeReason": "賣",
+        "totalValue": 79950
+      },
+      {
+        "name": "興能高",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "26.70",
+        "changeDate": "113年01月03日",
+        "changeReason": "賣",
+        "totalValue": 26700
+      },
+      {
+        "name": "南俊國際",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "220",
+        "changeDate": "113年03月19日",
+        "changeReason": "買",
+        "totalValue": 220000
+      },
+      {
+        "name": "南俊國際",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "211",
+        "changeDate": "113年03月20日",
+        "changeReason": "買",
+        "totalValue": 211000
+      },
+      {
+        "name": "南俊國際",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "196.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 196500
+      },
+      {
+        "name": "南俊國際",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "196.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 196500
+      },
+      {
+        "name": "雷虎",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "69.50",
+        "changeDate": "113年07月26日",
+        "changeReason": "買",
+        "totalValue": 69500
+      },
+      {
+        "name": "雷虎",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "69.50",
+        "changeDate": "113年08月01日",
+        "changeReason": "賣",
+        "totalValue": 69500
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "103.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "賣",
+        "totalValue": 621000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "103.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "賣",
+        "totalValue": 310500
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "103.50",
+        "changeDate": "113年09月04日",
+        "changeReason": "賣",
+        "totalValue": 103500
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 200000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "100",
+        "changeDate": "113年09月05日",
+        "changeReason": "賣",
+        "totalValue": 100000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 792000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 6000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 594000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 495000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 297000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 198000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "98.90",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 98900
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "98.90",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 98900
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "98.90",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 98900
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "98.90",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 98900
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "99",
+        "changeDate": "113年09月11日",
+        "changeReason": "買",
+        "totalValue": 99000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "107",
+        "changeDate": "113年10月15日",
+        "changeReason": "賣",
+        "totalValue": 107000
+      },
+      {
+        "name": "宏捷科",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "106",
+        "changeDate": "113年10月16日",
+        "changeReason": "買",
+        "totalValue": 106000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "269",
+        "changeDate": "113年02月20日",
+        "changeReason": "買",
+        "totalValue": 807000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "269",
+        "changeDate": "113年02月20日",
+        "changeReason": "買",
+        "totalValue": 269000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "269",
+        "changeDate": "113年02月20日",
+        "changeReason": "買",
+        "totalValue": 269000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "277",
+        "changeDate": "113年02月22日",
+        "changeReason": "買",
+        "totalValue": 1385000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "356",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 712000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356.50",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "356",
+        "changeDate": "113年04月15日",
+        "changeReason": "賣",
+        "totalValue": 356000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 7000,
+        "pricePerShare": "334",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 2338000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "343",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 686000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "343",
+        "changeDate": "113年04月22日",
+        "changeReason": "買",
+        "totalValue": 343000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "344",
+        "changeDate": "113年04月23日",
+        "changeReason": "買",
+        "totalValue": 1720000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "344",
+        "changeDate": "113年04月23日",
+        "changeReason": "買",
+        "totalValue": 344000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "344",
+        "changeDate": "113年04月23日",
+        "changeReason": "買",
+        "totalValue": 344000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "344",
+        "changeDate": "113年04月23日",
+        "changeReason": "買",
+        "totalValue": 344000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "343",
+        "changeDate": "113年04月23日",
+        "changeReason": "買",
+        "totalValue": 343000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "344",
+        "changeDate": "113年04月23日",
+        "changeReason": "買",
+        "totalValue": 344000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 9000,
+        "pricePerShare": "429",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 3861000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "429",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 1287000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "429.50",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 859000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "429",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 858000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "429",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 429000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "429",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 429000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "429.50",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 429500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "429.50",
+        "changeDate": "113年05月02日",
+        "changeReason": "賣",
+        "totalValue": 429500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "430.50",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 861000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "430",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 430000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "431",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 431000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "430.50",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 430500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "430.50",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 430500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "430",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 430000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "430.50",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 430500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "431",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 431000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "430.50",
+        "changeDate": "113年05月03日",
+        "changeReason": "買",
+        "totalValue": 430500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 832000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 832000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 832000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 416000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 416000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 416000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "416",
+        "changeDate": "113年05月10日",
+        "changeReason": "賣",
+        "totalValue": 416000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 8000,
+        "pricePerShare": "479",
+        "changeDate": "113年06月27日",
+        "changeReason": "買",
+        "totalValue": 3832000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "479",
+        "changeDate": "113年06月27日",
+        "changeReason": "買",
+        "totalValue": 479000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "479",
+        "changeDate": "113年06月27日",
+        "changeReason": "買",
+        "totalValue": 479000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 836000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "418",
+        "changeDate": "113年07月15日",
+        "changeReason": "賣",
+        "totalValue": 418000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "369",
+        "changeDate": "113年07月29日",
+        "changeReason": "買",
+        "totalValue": 1107000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "367.50",
+        "changeDate": "113年07月29日",
+        "changeReason": "買",
+        "totalValue": 1102500
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 2000,
+        "pricePerShare": "315.50",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 631000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "316",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 316000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "316",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 316000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "316",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 316000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "316",
+        "changeDate": "113年08月09日",
+        "changeReason": "買",
+        "totalValue": 316000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 9000,
+        "pricePerShare": "344",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 3096000
+      },
+      {
+        "name": "高力",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 3000,
+        "pricePerShare": "344",
+        "changeDate": "113年08月16日",
+        "changeReason": "賣",
+        "totalValue": 1032000
+      },
+      {
+        "name": "世紀鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 5000,
+        "pricePerShare": "138",
+        "changeDate": "112年11月03日",
+        "changeReason": "賣",
+        "totalValue": 690000
+      },
+      {
+        "name": "世紀鋼",
+        "broker": "國票-南科",
+        "owner": "謝俊雄",
+        "shares": 1000,
+        "pricePerShare": "138",
+        "changeDate": "112年11月03日",
+        "changeReason": "賣",
+        "totalValue": 138000
+      }
+    ]
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}

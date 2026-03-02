@@ -1,0 +1,56 @@
+{
+  "name": "洪孟楷",
+  "org": "立法院",
+  "title": "立法委員",
+  "date": "113年12月29日",
+  "type": "前次申報日期民國112年11月21日起，本次定期申報日113年12月29日止",
+  "family": [
+    {
+      "relation": "配偶",
+      "name": "蘇怡文"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "洪○庭"
+    },
+    {
+      "relation": "未成年子女",
+      "name": "洪○慈"
+    }
+  ],
+  "land": [],
+  "buildings": [],
+  "vehicles": [],
+  "cash": {
+    "total": 0
+  },
+  "deposits": {
+    "total": 0,
+    "items": []
+  },
+  "stocks": {
+    "total": 0,
+    "items": []
+  },
+  "funds": {
+    "items": []
+  },
+  "insurance": {
+    "items": []
+  },
+  "valuables": {
+    "items": []
+  },
+  "credits": {
+    "total": 0,
+    "items": []
+  },
+  "debts": {
+    "total": 0,
+    "items": []
+  },
+  "investments": {
+    "total": 0,
+    "items": []
+  }
+}
